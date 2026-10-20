@@ -1,0 +1,59 @@
+# Pubblica il sito su GitHub Pages e aggiorna le notizie su Gaza e la Palestina ogni ora.
+name: Sito e notizie
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 * * * *"   # ogni ora, al minuto 17
+  workflow_dispatch:        # pulsante "Run workflow" per farlo partire a mano
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  pubblica:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Prendi i file del sito
+        uses: actions/checkout@v4
+
+      - name: Prepara Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Cerca le notizie nuove
+        run: node scripts/aggiorna-notizie.mjs
+
+      - name: Salva le notizie nell'archivio
+        run: |
+          if ! git diff --quiet -- notizie.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add notizie.json
+            git commit -m "Notizie aggiornate"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Prepara GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Carica il sito
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Pubblica il sito
+        id: deploy
+        uses: actions/deploy-pages@v4
