@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-21T10:45:53.331Z",
+ "aggiornato": "2026-10-21T11:45:38.638Z",
  "notizie": [
   {
    "titolo": "Stop al commercio con gli insediamenti illegali di coloni",
@@ -81,6 +81,12 @@
   }
  ],
  "mobilitazioni": [
+  {
+   "titolo": "Manifestazione a Firenze il 24 ottobre, si temono scontri come a Torino e a Milano: “Città pacifica, non tollereremo violenza”",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRVlZdWh2bE5vREU0ZUpJNVlVTE1nbFo5dWZfV0tEYlNQRUtkelF3NU02azlXLWRCdFowYVlKVFg2NVJ4TldBYmExRWhpX0I3SUVTQlZ2NlhzdERwc28wQlBmV1NXZ2pPQmhOdU9qRWtUaDVmYlVMSjlJdkgyeVZKdVdHZG8zY2plVkxj?oc=5",
+   "fonte": "La Nazione",
+   "data": "2026-10-21T10:23:51.000Z"
+  },
   {
    "titolo": "Un ombrello bucato non protegge nessuno. A Roma la manifestazione per correggere la legge contro le querele bavaglio",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRGRQcDdpclpqQXo1c2lkWHExU05JUDAzZFBsQmRyUDhXODF0czhsTVN2ZDhiUHpuZmczQVJ1YXotdDZZZGwyb3lyR1E1aC04bEptX2YzYld0eldCb2FFMU9UeUxmcXhRc2p0U0FmNTNUYTh6WHFoOWg1OGZPRUpVMUluOHl6QjRSTTZERWFmS3JzbE1XcUNDZEpsRk9pQjctcHp2cElsT3NjeWZjcUNldGhram14RUlRQ1hUUFRYM2ZVQkFXeFNURE9VR21fZVgxUGV0OWYxYw?oc=5",
@@ -554,12 +560,6 @@
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSnBybkRKNlRydEhKMk9KNjZtSnhvazg1ckVseE0tbjllQnZ2c1UyRy1tQmp0bDJIZGhoaFotNXNaNlNzRTNEX2dkdURwb042b1YzSUk1VHpBakJzVWNyTFNmTkFFVXREZU1Cb2h1QWhOQkF4VFM1QldKdk9RM25TYld2a1V3NmxQczRvLW1EUlBkTEpzeG5JM1ltUldsNGNKenBzeDRkM2hsNHZjUEdDYUVWN3NzcVNDLVgyNFNJS29fMmJvLUVwMURCaXoybDU5UlFJME9vdmFsN1FRWkNNUVMyZU56ZVBNcEZSYQ?oc=5",
    "fonte": "Giornale La Voce",
    "data": "2026-10-19T11:17:29.000Z"
-  },
-  {
-   "titolo": "Cgil Novara e Vco, oltre 300 persone a Roma per la manifestazione «La Via Maestra»",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNk5CYmo2NWloZXU0ZVRXRTdrWjFmOW9UZWZwalNSS1VHcGNhNkdSZTZmWFNwYXlRd3I3OWVBSVdpSElHS3BSQnlyRThaUFo0THZ1Z2VZcVI3eEtpeGRrV0lOZzQzVm9aN3hBdWpyaFl5VXR0LWVwMFNBbS1UVF81S29YMXpwVXVEVl96RTZqQTczUExGZ3QwaFV3cndnTUNjZURxN1AwVlpUX3VUTGtvZzNDZmV4X2c2T2c?oc=5",
-   "fonte": "Corriere di Novara",
-   "data": "2026-10-19T09:47:00.000Z"
   }
  ],
  "eventi": [
@@ -615,7 +615,7 @@
     12.48293
    ],
    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQRmgwR3pVLTdBRERKVzJQRFFYZFU4Y2JiZXNuNkxjanZrZGZoY0txbDFnU2c2akVUdmpMZDdnVkFwSjdnbkdnMmRhR2ZJY29abnN3WlgwU0JxUDEwMktmY0h4a05UWlNZMXVUZkJpZWFUUlAzRmdFMXZ2Wk9RUEh4Q0VxQmczQS1jU2Z0d3NzdFZ2X2hmcGtGdkZFTFpVLURqNVphSmZlVExSUDBJa1VRQ0ItMTlhT3N0bHlROFp2OXM0MkhsQ3Y2b2ZfRmdVX3J5bFJLY2F0cl9EbmJ5VFBhWXlGM3FHelpLbU93V0otdnJlamFYZEdITEt0NElpV2hiSlHSAYcCQVVfeXFMTkw4UmppQ01Cc095MG8yT0xVUmgydG9kTFhIbVR3STI4dUtJMllLNzg5TUg3NWd0UWs3bTRUOEZabEdRRjByVDVhX2RaVVZoemJCeUZlOFZyZWFsMmdJOU1fcm40QTdqdV9LcWZJSmR3OUwya2M4QVVBWndyM193dVFab0pRV1ZnRnpwakFPczRSUGRsQUlYd2J1V28wMXRtSGxnWmQ4cUZNTGZEODVUcGYwNEthNGdudEJHNWh0Rzhob0pXMjYtekUwdTVxVXd4VmxaM3VPWlJON0liZ2hQVWFqN3c1M3pzcmh4NF9FOHAtdm1SSHp6czJBNkZfeU90bmlFSkptYXc?oc=5",
-   "altriArticoli": 3
+   "altriArticoli": 4
   },
   {
    "id": "gn-MlowcFpXQT9vYz01",
@@ -636,41 +636,6 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-d1pFMUIb2M9NQ",
-   "fonte": "Giornali · Tribuna di Treviso",
-   "titolo": "Studenti in corteo a Treviso: \"Non staremo più zitti sull'esempio della Francia\"",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-16",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-16T10:29:29.000Z",
-   "luogo": "Treviso",
-   "citta": "Treviso",
-   "regione": "Veneto",
-   "coord": [
-    45.80669,
-    12.20632
-   ],
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaE9hUXE5WjlBX3l4czBadWxJTUlmY2F2cC1CSGpVUTl3U1RIWmxyWkpLU3BFaDZrYnF6YTJwaHJjbTY3eUtYMG9Udml4Q1VVaW42N0l6bDFGZUNTemtfZWNxSjY5R0JNOUwyWjh0VEJBN0lQR1JBbENVVWRreVZsRFN1NU5VM3BuQjUwZE1B?oc=5"
-  },
-  {
-   "id": "gn-RU0zTnYb2M9NQ",
-   "fonte": "Giornali · la Repubblica",
-   "titolo": "Firenze, la polizia devia il corteo degli studenti per evitare l’avvicinamento al consolato francese",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-16",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-16T09:13:03.000Z",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS0tENUg3aGhHc0RFQjY5V2VmSHkxaUw3UEVRcm1reUdneGtINVFSRnlYUGg5dVpYLW9neFc2cW9NeWJQWWZDQ0Q3NzhmVThrV2FFNkEteTJZbDNlNjVldTFvNjdzd3B4YW9XUUJqTmk4dFpFOHpiXzNjODFpb09wS0FLZW5kTFVheHBEZFAwY0R3VDhITHkyTlhHRlJFQ1M1VGx5WEd3OExtV2U3TnYyZ2hKaUFrZ0ExYWVsYlpGN3dsQ3FXWDJKazRmTWd5d9IB0wFBVV95cUxQUnVGZE1oV0hQWk1RQ0tRODEzVG9vVXcyTFgxaXNkX0p6SGR2QU8zUDhaa2lJNkhfeDhtN2NUeVpwOTE1eWptQlgwNXFGMzRyQ01yckJUUkhiU3dYY054V2RDRkRFN1Q1YlJxTFZONEp1bG53VjlmdDQxT0RGZUFSTEFJMXNRYXdIbWlkanpUNkdOcnJmOURGSVdaTWpMUlo5R0RFRzdKTTNXX25JS0phSk84TTRXcW9BWTNBODdteUJEWkh0dTRFdUpJaFphR0dEM3Nv?oc=5",
-   "altriArticoli": 1
-  },
-  {
    "id": "gn-QnBhazlSP29jPTU",
    "fonte": "Giornali · la Repubblica",
    "titolo": "Milano, migliaia di studenti in corteo: “Per una scuola antirazzista”. Occupato l’ex obitorio",
@@ -686,7 +651,7 @@
     9.18963
    ],
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd0YyTDU2ckFFRmJ2b29wLVRBTjVQZEdxOTFjQWpUX21LUGxIRjhtVlBmSTRab2VQUXFVaFV5WVNXaExGblRPdVNxci1tWTZ3WTFnbFdQdEwyQ1dRWE1CR2pwOWZMa3I2V1c3T2JodF82aVowd25NNmFlbFoxLTVwVkM4RUVJZFdpS1dJTDAzclFSQ25lUzZZR01LZkxEdHptdC1PWmJVRElta253Z3Z4bmZYb2NyTGdJY3R1dnp1U2xyeXRrdG9IdlhROWdXcUp3eGtmdWRLZEfSAd4BQVVfeXFMTi1FLXJNWm5YclItajVodUFuVlVPcUNoelNRODR4VEVnWmJ5cjU3X1c3bkt5aHBoMGdGVUZ5SW82TXJ0WDRoVnlSYnVVNDV1Q0hLRnJLcWxjUGFMT09wcEV2VmVCN0N1Z1BqX29jcW85TUI0TkNTekNTTEJJb2g2dDhVa0NFLUlHTkdockk1QU16Q3ZtYXdmWGJaaHhVTG45ODVwZnVmdVRkTjAxVVluY0tjS09SUGY1a01icDBKeGlObGZ1clBiR2Vqb2lnLVBGWnMxSXB1djE1dTBpak9R?oc=5",
-   "altriArticoli": 12
+   "altriArticoli": 13
   },
   {
    "id": "gn-ek5XVFEb2M9NQ",
@@ -741,6 +706,23 @@
    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdFRZZUYzOERyN2t0TzBuTWRVdlM0SmtEaUJJbnpXempCdzhyekV0R1ZYc2xWd25lbFoxeTFoc1FvT3VzdnRleWc1RTJ6Qm5aQl8tRWVrT09uSlpEb0pBbWJFVzNKaVM4MEVadnY2SE92eDFyVDM4Tk4tOEg1MWZCcE5NT3dTdlZuVC1ZUVFLcENPdnpzYjFpSTRHQ0U1M0hpSWkyTy1pWEI0YXh1cjFubVJTQ0dsVFVlMER0X1NVYkFRYUxNRVFUMS1SbVowbmFZemRpWjNHLXB6VVl4OUdRU3NXSEJISjhNOUowdFV4T0pISnVTRFRhSllKcmRuTF9aMzZSUVpVc2NxT18w?oc=5"
   },
   {
+   "id": "gn-SkxYMWRUP29jPTU",
+   "fonte": "Giornali · Toscana Notizie",
+   "titolo": "Carburanti, Giani: “12 milioni dalla Regione”. Coldiretti scioglie il presidio",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T17:24:00.000Z",
+   "luogo": "Toscana, Italia",
+   "citta": "",
+   "regione": "Toscana",
+   "coord": [
+    43.45865,
+    11.13892
+   ],
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMGtrX1AyWnlLZDFid2dBYUZkT2VaZUdEbk5KX0RUSFNIem1Rd3NmcFlMUnZ0S1FLZ1UxYk96NEx2WjNndFlfaXY1NzU5MXpoQ2ZKRGVmeHZPaW8tRHdYNWJxZmY2TEM1RV81NWU1U2JiSDZaZnBrS3N4N0hIYnJhZjA3NFBuZmVibU5xNFJjSjBPenExYWl5cWVWc0RFUEVoSm11ZXpnSEJLX1dT?oc=5"
+  },
+  {
    "id": "gn-MjFVZFZFP29jPTU",
    "fonte": "Giornali · RaiNews",
    "titolo": "Ex Ilva, terminata l'occupazione dell'aeroporto di Genova",
@@ -759,6 +741,23 @@
    "altriArticoli": 2
   },
   {
+   "id": "gn-VVhOM1VRP29jPTU",
+   "fonte": "Giornali · Toscana Notizie",
+   "titolo": "Operaio morto Cantiere Av Firenze, Giani al presidio dei sindacati",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T14:12:00.000Z",
+   "luogo": "Firenze",
+   "citta": "Firenze",
+   "regione": "Toscana",
+   "coord": [
+    43.7698,
+    11.25564
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY1hkendXR0I0eWs1cGJ2OGVjdnU2RW1HNTBLZW8wYnFZYzRIOC1XSUxTYU9TSjRpQW5WWnVzbWhPSUV5QWxnU0JXc1lzdlQydDR4UUtoYUVwMThfcXZqT19JMWN4REYwZzduZEtaNVZEZF96RFAwZXh6WjhnRVdhNXo4YWtETEliYnJCSXpZSEtYbEFzWUZPci1IbkFYTU40d2VhSUQ3T1hGWU50SjFiVG1DVEIzc2ZIV252OXVwUXN3UQ?oc=5"
+  },
+  {
    "id": "gn-bGRGWm4b2M9NQ",
    "fonte": "Giornali · Regione Campania",
    "titolo": "Ricognizione percorsi cicloturistici: al via la manifestazione d’interesse per le ciclovie campane",
@@ -774,23 +773,6 @@
     14.84398
    ],
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVUJFWGJHZVdaUWpfQVEyeDhLZF9yZElpNlNVZUVrSjVlaXJCRWFUVGNrYW5SdEQyRmpReFo4YnZpZXRjaHU4M1ZyNjEwY0V6UVdFZXBQdG04WU9yNF9oQmpiOUlrSlF5R3lidThvcEZuVlFpbjFqZ0NRcmxLY3ZSRDdHZ2s3cGxmNG9tcHpHYVdsLWluVmFoYmxnQlc5NGx2aTBFZ2x4S1B3cGl5SUtxMUhiLUk0TUpuRERsdEhYZFEzT2plbmhNZDExTFh6WlFfTWZldFZn?oc=5"
-  },
-  {
-   "id": "gn-M2xOVkc0P29jPTU",
-   "fonte": "Giornali · Il Fatto Quotidiano",
-   "titolo": "Matera, la protesta degli studenti da anni senza una sede per il loro liceo: in corteo fino alla Provincia",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-20",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-20T17:37:08.000Z",
-   "luogo": "Matera",
-   "citta": "Matera",
-   "regione": "Basilicata",
-   "coord": [
-    40.44764,
-    16.47357
-   ],
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOUxNdXlLRWJSNlJ3SHE4V3Y4aUlqVzZ0YlBCN3d3Q0ZpT09ZZDhPZEQxUWFxZ211TkJ1eXVWb1pESDQ5X0xPRTR4ZFMybVVQMDYwQ3AyLVZrcko4dkZWNTRzdU1HUk1ST1RLdTladUh0emxubnRFNWltb3JLR1pvN1BWU2h0YkIxSFVZWW5pOGlCeW1UcmtRT3lNVG4?oc=5"
   },
   {
    "id": "gn-bkpYTUhWWD9vYz01",
@@ -923,6 +905,21 @@
     10.34022
    ],
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744356/-/livorno-assemblea-cittadina-verso-lo-sciopero-internazionale-dei-porti-del-30-ottobre"
+  },
+  {
+   "id": "aip-1744479",
+   "fonte": "Amicizia Italo-Palestinese",
+   "titolo": "Firenze: assemblea cittadina verso lo sciopero del 30 ottobre",
+   "tipo": "",
+   "inizio": "2026-10-21T21:00",
+   "luogo": "Firenze",
+   "citta": "Firenze",
+   "regione": "Toscana",
+   "coord": [
+    43.7698,
+    11.25564
+   ],
+   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744479/-/firenze-assemblea-cittadina-verso-lo-sciopero-del-30-ottobre"
   },
   {
    "id": "inv-pordenone2310",
@@ -1353,7 +1350,7 @@
    "fonte": "Amicizia Italo-Palestinese",
    "titolo": "Tutta Italia: Sciopero generale contro guerra, carovita e genocidio",
    "tipo": "",
-   "inizio": "2026-10-30T12:45",
+   "inizio": "2026-10-30T13:45",
    "luogo": "Tutta Italia",
    "citta": "Tutta Italia",
    "regione": "Puglia",
@@ -1409,6 +1406,21 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13487",
    "online": false
+  },
+  {
+   "id": "aip-1744478",
+   "fonte": "Amicizia Italo-Palestinese",
+   "titolo": "Firenze: \"Contro la repressione e la censura - no al DDL 1004\" - presidio",
+   "tipo": "",
+   "inizio": "2026-10-31T16:00",
+   "luogo": "Firenze",
+   "citta": "Firenze",
+   "regione": "Toscana",
+   "coord": [
+    43.7698,
+    11.25564
+   ],
+   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744478/-/firenze-contro-la-repressione-e-la-censura-no-al-ddl-1004-presidio"
   },
   {
    "id": "pl-13473",
