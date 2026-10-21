@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-21T06:56:26.987Z",
+ "aggiornato": "2026-10-21T07:53:35.953Z",
  "notizie": [
   {
    "titolo": "Stop al commercio con gli insediamenti illegali di coloni",
@@ -534,21 +534,6 @@
    "online": false
   },
   {
-   "id": "aip-1744287",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Tutta Italia: Sciopero generale contro guerra, carovita e genocidio",
-   "tipo": "",
-   "inizio": "2026-10-30T08:56",
-   "luogo": "Tutta Italia",
-   "citta": "Tutta Italia",
-   "regione": "Puglia",
-   "coord": [
-    40.89048,
-    17.29397
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744287/-/tutta-italia-sciopero-generale-contro-guerra-carovita-e-genocidio"
-  },
-  {
    "id": "pl-13464",
    "fonte": "PeaceLink",
    "titolo": "Il Diritto di Uscire. Il Diritto di Tornare.",
@@ -563,6 +548,21 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13464",
    "online": false
+  },
+  {
+   "id": "aip-1744287",
+   "fonte": "Amicizia Italo-Palestinese",
+   "titolo": "Tutta Italia: Sciopero generale contro guerra, carovita e genocidio",
+   "tipo": "",
+   "inizio": "2026-10-30T09:53",
+   "luogo": "Tutta Italia",
+   "citta": "Tutta Italia",
+   "regione": "Puglia",
+   "coord": [
+    40.89048,
+    17.29397
+   ],
+   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744287/-/tutta-italia-sciopero-generale-contro-guerra-carovita-e-genocidio"
   },
   {
    "id": "pl-13469",
