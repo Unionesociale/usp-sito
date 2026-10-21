@@ -275,7 +275,11 @@ body.map-full{overflow:hidden}
 .pin.ext .pin-body{fill:var(--fg)}
 .pin.ext::after{content:"";position:absolute;z-index:1;left:10px;top:9px;width:14px;height:14px;border-radius:50%;background:var(--red);box-shadow:0 0 0 3px var(--bg)}
 .pin.ext.gn .pin-body{fill:#5b5354}
+.pin.ext.past .pin-body{fill:#a39b9c}
+.pin.ext.past::after{background:#d9d3d3;box-shadow:0 0 0 3px #fff}
 .pin.ext.gn::after{background:#fff;box-shadow:0 0 0 3px var(--red)}
+.pin.ext.gn.past .pin-body{fill:#a39b9c}
+.pin.ext.gn.past::after{background:#d9d3d3;box-shadow:0 0 0 3px #fff}
 .map-legend i.gn{background:#5b5354;box-shadow:inset 0 0 0 3px #fff,0 0 0 2px var(--red)}
 .pin-n{position:absolute;z-index:2;top:-6px;right:-8px;min-width:20px;height:20px;padding:0 5px;border-radius:999px;background:var(--fg);color:var(--bg);font:800 11px/20px var(--f-ui);text-align:center;box-shadow:0 0 0 2px var(--bg)}
 .pin.ext .pin-n{top:-7px;right:-10px}
@@ -491,7 +495,7 @@ footer a{color:var(--red);font-weight:700;text-decoration:none}
         <div class="map-hint" id="map-hint" aria-live="polite"></div>
         <div class="map-empty" id="map-empty" hidden>Nessun corteo in programma</div>
       </div>
-      <div class="map-legend"><span><i></i>Dalle news di Unione Sociale</span><span><i class="ext"></i>Dai calendari</span><span><i class="gn"></i>Dai giornali</span><span class="past-l" id="legend-past" hidden><i class="past"></i>Già svolte</span></div>
+      <div class="map-legend"><span><i></i>Dalle news di Unione Sociale</span><span><i class="ext"></i>Dai calendari</span><span><i class="gn"></i>Dai giornali</span><span class="past-l" id="legend-past" hidden><i class="past"></i>Già svolte o senza data (ultime 2 settimane)</span></div>
       <p class="meta map-src">Calendari: <a href="https://www.peacelink.it/calendario/events.php" target="_blank" rel="noopener">PeaceLink</a> · <a href="https://www.amiciziaitalo-palestinese.org/calendario-attivita" target="_blank" rel="noopener">Amicizia Italo-Palestinese</a> · <a href="https://www.invictapalestina.org/archives/55281" target="_blank" rel="noopener">Invictapalestina</a> · notizie di cortei, manifestazioni, presidi e occupazioni da Google News. Si vedono gli eventi dei prossimi 14 giorni; aggiornati in automatico ogni ora.</p>
     </section>
 
@@ -1104,15 +1108,15 @@ creaFeed($("#feed"), "notizie", "Per ora nessuna notizia nuova su Gaza e la Pale
       gruppi.get(key).push(s);
     }
     for(const g of gruppi.values()){
-      const peso=s=>s.esterno?(s.giornale?2:1):(s.passato?3:0);
+      const peso=s=>(s.passato?10:0)+(s.esterno?(s.giornale?2:1):0);
       g.sort((a,b)=>peso(a)-peso(b));
       const s=g[0], n=g.length, badge=n>1?`<span class="pin-n">${n}</span>`:"";
       const icon=s.esterno
-        ? L.divIcon({className:"",iconSize:[34,44],iconAnchor:[17,42],popupAnchor:[0,-38],html:`<div class="pin ext${s.giornale?" gn":""}">${PIN_EXT}${badge}</div>`})
+        ? L.divIcon({className:"",iconSize:[34,44],iconAnchor:[17,42],popupAnchor:[0,-38],html:`<div class="pin ext${s.giornale?" gn":""}${g.every(x=>x.passato)?" past":""}">${PIN_EXT}${badge}</div>`})
         : L.divIcon({className:"",iconSize:[46,60],iconAnchor:[23,58],popupAnchor:[0,-52],
             html:`<div class="pin${s.passato?" past":""}${g.some(x=>x.prossimo)?" next":""}">${PIN}${badge}</div>`});
       const popup = n===1 ? s.popup : `<div class="pop-group"><div class="pop-n">${n} eventi in questo punto</div>${g.map(x=>x.popup).join("")}</div>`;
-      L.marker(s.c,{icon,title:n>1?`${n} eventi: ${s.titolo}`:s.titolo,keyboard:true,riseOnHover:true,zIndexOffset:s.esterno?500:s.passato?0:1000})
+      L.marker(s.c,{icon,title:n>1?`${n} eventi: ${s.titolo}`:s.titolo,keyboard:true,riseOnHover:true,zIndexOffset:s.passato?0:s.esterno?500:1000})
         .bindPopup(popup,{maxWidth:320}).addTo(strato);
       punti.push(s.c);
     }
@@ -1215,13 +1219,14 @@ creaFeed($("#feed"), "notizie", "Per ora nessuna notizia nuova su Gaza e la Pale
     for(const e of d.eventi){
       if(!e.coord || !e.inizio) continue;
       const tuttoGiorno=e.inizio.length===10, dt=new Date(tuttoGiorno?e.inizio+"T00:00":e.inizio);
-      const inizioFinestra = e.dataIncerta ? new Date(oggi.getTime()-7*864e5) : oggi;
-      if(isNaN(dt) || dt<inizioFinestra || dt>=fine) continue;
+      /* passati: data già trascorsa, oppure notizia senza data futura (si conta come già avvenuta) */
+      if(isNaN(dt) || dt<new Date(oggi.getTime()-14*864e5) || dt>=fine) continue;
+      const passato = !!e.dataIncerta || dt<oggi;
       const tit=esc(e.titolo);
       const giornale=/^Giornali/.test(e.fonte||"");
       if(giornale && !e.dataIncerta && segni.some(s=>!s.esterno && s.giorno===e.inizio.slice(0,10) && Math.abs(s.c[0]-e.coord[0])<0.05 && Math.abs(s.c[1]-e.coord[1])<0.07)) continue;
-      segni.push({c:e.coord,esterno:true,giornale,regione:e.regione,titolo:e.titolo,popup:`<div class="pop">
-        <span class="tag est">${esc(e.tipo||"Evento")}</span>
+      segni.push({c:e.coord,esterno:true,giornale,passato,regione:e.regione,titolo:e.titolo,popup:`<div class="pop">
+        <span class="tag est">${passato?"Già svolta":esc(e.tipo||"Evento")}</span>
         <h5>${tit}</h5>
         ${e.descrizione?`<div class="desc">${esc(e.descrizione)}</div>`:""}
         ${e.dataIncerta
