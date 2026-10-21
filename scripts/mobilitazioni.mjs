@@ -19,7 +19,7 @@ const PARTITI = /\b(partit[oi]|pd|partito democratico|dem|m5s|5 stelle|cinque st
 /* ... a meno che non siano "contro" la destra */
 const CONTRO_DESTRA = /\bcontro\s+(il\s+|la\s+|lo\s+|l['’]\s*|i\s+|gli\s+|le\s+)?(governo meloni|governo|destra|estrema destra|centrodestra|lega|fratelli d['’]italia|fdi|forza italia|meloni|salvini|vannacci|casapound|forza nuova|gioventù nazionale|futuro nazionale|fascis\w*|neofascis\w*|neonazis\w*)\b/i;
 /* esclusi: "manifestazioni" che non sono politiche */
-const NON_POLITICO = /\b(sagra|fiera|calcio|partita|campionato|tifos\w*|ultras|motori|auto d'epoca|enogastronom\w*|degustazion\w*|sfilata|moda|maratona|gara|sportiv\w*|concorso|mercatino)\b/i;
+const NON_POLITICO = /\b(presidi[oi] (del territorio|sanitari\w*|ospedalier\w*|medic\w*|di polizia|delle forze|fiss[oi]|di sicurezza|di guardia medica)|presidio territoriale|manifestazion[ei] d['’]interesse|manifestazione fieristica|sagra|fiera|calcio|partita|campionato|tifos\w*|ultras|motori|auto d'epoca|enogastronom\w*|degustazion\w*|sfilata|moda|maratona|gara|sportiv\w*|concorso|mercatino)\b/i;
 
 export function tienilo(testo) {
   if (!DEVE_AVERE.test(testo)) return false;
