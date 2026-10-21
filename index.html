@@ -271,6 +271,9 @@ body.map-full{overflow:hidden}
 .pin.ext svg{width:34px;height:44px}
 .pin.ext .pin-body{fill:var(--fg)}
 .pin.ext::after{content:"";position:absolute;z-index:1;left:10px;top:9px;width:14px;height:14px;border-radius:50%;background:var(--red);box-shadow:0 0 0 3px var(--bg)}
+.pin.ext.gn .pin-body{fill:#5b5354}
+.pin.ext.gn::after{background:#fff;box-shadow:0 0 0 3px var(--red)}
+.map-legend i.gn{background:#5b5354;box-shadow:inset 0 0 0 3px #fff,0 0 0 2px var(--red)}
 .pop .src{font-size:12px;color:var(--muted);margin-top:6px}
 .pop .desc{font-size:13px;color:var(--muted);margin:4px 0 6px}
 .map-legend .past-l[hidden]{display:none}
@@ -456,26 +459,10 @@ footer a{color:var(--red);font-weight:700;text-decoration:none}
           <button class="btn btn-ghost feed-more" type="button" hidden>Mostra altre notizie</button>
         </div>
       </details>
-      <details class="feed" id="feed-mob">
-        <summary class="feed-sum">
-          <span class="feed-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11v2a1 1 0 0 0 1 1h2l5 4V6L6 10H4a1 1 0 0 0-1 1Z"/><path d="M15 9a4 4 0 0 1 0 6M18 6a8 8 0 0 1 0 12"/></svg></span>
-          <span class="feed-txt">
-            <span class="feed-title">Mobilitazioni <span>dai giornali</span> <b class="feed-count"></b></span>
-            <span class="feed-last">Cortei, manifestazioni, presidi e occupazioni nelle notizie</span>
-          </span>
-          <span class="feed-open"><span class="feed-open-l"><span class="l-c">Leggi</span><span class="l-o">Chiudi</span></span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></span>
-        </summary>
-        <div class="feed-body">
-          <p class="meta" style="margin:0 0 6px"><span class="live">Aggiornato in automatico</span> · Articoli che annunciano o raccontano cortei, manifestazioni, presidi e occupazioni. Esclusi gli articoli su destra, partiti e immigrazione. Quando il titolo dice giorno e città, la mobilitazione compare anche sulla mappa.</p>
-          <div class="feed-src" role="group" aria-label="Filtra per giornale" hidden></div>
-          <ul class="feed-list"><li class="feed-empty">Caricamento delle notizie…</li></ul>
-          <button class="btn btn-ghost feed-more" type="button" hidden>Mostra altre notizie</button>
-        </div>
-      </details>
     </div>
 
     <section class="mappa" id="mappa" aria-labelledby="mappa-h">
-      <div class="sec-title"><h3 id="mappa-h">Mappa dei cortei</h3><p>Cortei e iniziative dalle news di USP e dai calendari per la Palestina. Tocca un segnalino per ora, luogo e come arrivare.</p></div>
+      <div class="sec-title"><h3 id="mappa-h">Mappa dei cortei</h3><p>Cortei, presidi e iniziative in tutta Italia: dalle news di USP, dai calendari per la Palestina e dai giornali. Tocca un segnalino per ora, luogo e come arrivare.</p></div>
       <div class="map-wrap" id="map-wrap">
         <div id="map" role="region" aria-label="Mappa delle manifestazioni"></div>
         <form class="map-search" id="map-search" role="search" autocomplete="off">
@@ -485,7 +472,7 @@ footer a{color:var(--red);font-weight:700;text-decoration:none}
         </form>
         <div class="map-tools">
           <div class="chips">
-            <label class="chip" for="map-italia"><input type="checkbox" id="map-italia"><span class="sw" aria-hidden="true"></span>Tutta Italia</label>
+            <label class="chip" for="map-piemonte"><input type="checkbox" id="map-piemonte"><span class="sw" aria-hidden="true"></span>Solo Piemonte</label>
             <label class="chip" for="map-past"><input type="checkbox" id="map-past"><span class="sw" aria-hidden="true"></span>Cortei passati</label>
           </div>
           <button class="map-btn" id="map-full" type="button" aria-pressed="false">
@@ -496,8 +483,8 @@ footer a{color:var(--red);font-weight:700;text-decoration:none}
         <div class="map-hint" id="map-hint" aria-live="polite"></div>
         <div class="map-empty" id="map-empty" hidden>Nessun corteo in programma</div>
       </div>
-      <div class="map-legend"><span><i></i>Dalle news USP</span><span><i class="ext"></i>Dai calendari: <span id="legend-ext">prossimi 14 giorni</span></span><span class="past-l" id="legend-past" hidden><i class="past"></i>Già svolte</span></div>
-      <p class="meta map-src">Calendari: <a href="https://www.peacelink.it/calendario/events.php" target="_blank" rel="noopener">PeaceLink</a> · <a href="https://www.amiciziaitalo-palestinese.org/calendario-attivita" target="_blank" rel="noopener">Amicizia Italo-Palestinese</a> · <a href="https://www.invictapalestina.org/archives/55281" target="_blank" rel="noopener">Invictapalestina</a>. Aggiornati in automatico ogni ora.</p>
+      <div class="map-legend"><span><i></i>Dalle news USP</span><span><i class="ext"></i>Dai calendari</span><span><i class="gn"></i>Dai giornali</span><span class="past-l" id="legend-past" hidden><i class="past"></i>Già svolte</span></div>
+      <p class="meta map-src">Calendari: <a href="https://www.peacelink.it/calendario/events.php" target="_blank" rel="noopener">PeaceLink</a> · <a href="https://www.amiciziaitalo-palestinese.org/calendario-attivita" target="_blank" rel="noopener">Amicizia Italo-Palestinese</a> · <a href="https://www.invictapalestina.org/archives/55281" target="_blank" rel="noopener">Invictapalestina</a> · notizie di cortei, manifestazioni, presidi e occupazioni da Google News. Si vedono gli eventi dei prossimi 14 giorni; aggiornati in automatico ogni ora.</p>
     </section>
 
     <section class="join" id="gruppo" aria-labelledby="join-h">
@@ -966,7 +953,6 @@ function creaFeed(root, chiave, vuoto){
     .catch(()=>{ list.innerHTML='<li class="feed-empty">Queste notizie compaiono quando il sito è online.</li>'; });
 }
 creaFeed($("#feed"), "notizie", "Per ora nessuna notizia nuova su Gaza e la Palestina.");
-creaFeed($("#feed-mob"), "mobilitazioni", "Per ora nessuna mobilitazione trovata nei giornali.");
 
 /* ================= MAPPA DEI CORTEI ================= */
 (function(){
@@ -1024,10 +1010,10 @@ creaFeed($("#feed-mob"), "mobilitazioni", "Per ora nessuna mobilitazione trovata
 
   const PIN='<svg viewBox="0 0 46 60" aria-hidden="true"><path class="pin-body" d="M23 1C11 1 1 10.8 1 23c0 15.2 17.6 31.4 20.6 35.4a1.8 1.8 0 0 0 2.8 0C27.4 54.4 45 38.2 45 23 45 10.8 35 1 23 1Z"/></svg><img src="img/logo.png" alt="">';
   const strato=L.layerGroup().addTo(map), segni=[];
-  const pastBox=$("#map-past"), italiaBox=$("#map-italia");
+  const pastBox=$("#map-past"), piemBox=$("#map-piemonte");
   const PIN_EXT='<svg viewBox="0 0 46 60" aria-hidden="true"><path class="pin-body" d="M23 1C11 1 1 10.8 1 23c0 15.2 17.6 31.4 20.6 35.4a1.8 1.8 0 0 0 2.8 0C27.4 54.4 45 38.2 45 23 45 10.8 35 1 23 1Z"/></svg>';
-  try{ italiaBox.checked=localStorage.getItem("usp-tutta-italia")==="1"; }catch(e){}
-  italiaBox.addEventListener("change",()=>{ try{ localStorage.setItem("usp-tutta-italia",italiaBox.checked?"1":"0"); }catch(e){} disegna(true); });
+  try{ piemBox.checked=localStorage.getItem("usp-solo-piemonte")==="1"; }catch(e){}
+  piemBox.addEventListener("change",()=>{ try{ localStorage.setItem("usp-solo-piemonte",piemBox.checked?"1":"0"); }catch(e){} disegna(true); });
 
   /* ---- ricerca di città e regioni ---- */
   const REGIONI=[["Piemonte",45.05,7.9,8],["Valle d'Aosta",45.73,7.32,9],["Lombardia",45.6,9.8,8],["Trentino-Alto Adige",46.43,11.17,8],
@@ -1045,7 +1031,7 @@ creaFeed($("#feed-mob"), "mobilitazioni", "Per ora nessuna mobilitazione trovata
   function vai(r){
     sugg.hidden=true; qIn.value=r.nome; qIn.blur();
     const inPiemonte=/piemonte/i.test(r.regione||r.nome);
-    if(!inPiemonte && !italiaBox.checked){ italiaBox.checked=true; try{ localStorage.setItem("usp-tutta-italia","1"); }catch(e){} disegna(false); }
+    if(!inPiemonte && piemBox.checked){ piemBox.checked=false; try{ localStorage.setItem("usp-solo-piemonte","0"); }catch(e){} disegna(false); }
     if(r.box) map.fitBounds(r.box,{padding:[30,30],maxZoom:13}); else map.setView(r.c,r.z||12);
   }
   async function cerca(testo){
@@ -1083,14 +1069,14 @@ creaFeed($("#feed-mob"), "mobilitazioni", "Per ora nessuna mobilitazione trovata
   /* disegna i segnalini: di base solo i cortei in programma, i passati (grigi) solo se richiesti */
   function disegna(adatta){
     strato.clearLayers();
-    const mostraPassati=pastBox.checked, italia=italiaBox.checked, usati={}, punti=[];
+    const mostraPassati=pastBox.checked, italia=!piemBox.checked, usati={}, punti=[];
     for(const s of segni){
       if(s.passato && !mostraPassati) continue;
       if(s.esterno && !italia && !/piemonte/i.test(s.regione||"")) continue;
       const key=s.c[0].toFixed(4)+","+s.c[1].toFixed(4), k=usati[key]=(usati[key]||0)+1;
       const dx=(k%2?-1:1)*Math.ceil((k-1)/2)*40; /* stesso posto: segnalini affiancati */
       const icon=s.esterno
-        ? L.divIcon({className:"",iconSize:[34,44],iconAnchor:[17-dx,42],popupAnchor:[dx,-38],html:`<div class="pin ext">${PIN_EXT}</div>`})
+        ? L.divIcon({className:"",iconSize:[34,44],iconAnchor:[17-dx,42],popupAnchor:[dx,-38],html:`<div class="pin ext${s.giornale?" gn":""}">${PIN_EXT}</div>`})
         : L.divIcon({className:"",iconSize:[46,60],iconAnchor:[23-dx,58],popupAnchor:[dx,-52],
             html:`<div class="pin${s.passato?" past":""}${s.prossimo?" next":""}">${PIN}</div>`});
       L.marker(s.c,{icon,title:s.titolo,keyboard:true,riseOnHover:true,zIndexOffset:s.esterno?500:s.passato?0:1000}).bindPopup(s.popup).addTo(strato);
@@ -1099,7 +1085,7 @@ creaFeed($("#feed-mob"), "mobilitazioni", "Per ora nessuna mobilitazione trovata
     $("#legend-past").hidden=!mostraPassati;
     $("#map-empty").hidden=punti.length>0;
     if(!adatta) return;
-    $("#map-empty").textContent = italia ? "Nessun evento nei prossimi 14 giorni" : "Nessun evento in Piemonte nei prossimi 14 giorni: attiva «Tutta Italia»";
+    $("#map-empty").textContent = italia ? "Nessun evento nei prossimi 14 giorni" : "Nessun evento in Piemonte nei prossimi 14 giorni: spegni «Solo Piemonte»";
     if(!punti.length) map.setView(italia?[42.5,12.5]:[45.05,7.75],italia?6:8);
     else if(punti.length===1) map.setView(punti[0],14);
     else map.fitBounds(punti,{padding:[70,70],maxZoom:14});
@@ -1195,19 +1181,23 @@ creaFeed($("#feed-mob"), "mobilitazioni", "Per ora nessuna mobilitazione trovata
     for(const e of d.eventi){
       if(!e.coord || !e.inizio) continue;
       const tuttoGiorno=e.inizio.length===10, dt=new Date(tuttoGiorno?e.inizio+"T00:00":e.inizio);
-      if(isNaN(dt) || dt<oggi || dt>=fine) continue;
+      const inizioFinestra = e.dataIncerta ? new Date(oggi.getTime()-7*864e5) : oggi;
+      if(isNaN(dt) || dt<inizioFinestra || dt>=fine) continue;
       const tit=esc(e.titolo);
-      segni.push({c:e.coord,esterno:true,regione:e.regione,titolo:e.titolo,popup:`<div class="pop">
+      const giornale=/^Giornali/.test(e.fonte||"");
+      segni.push({c:e.coord,esterno:true,giornale,regione:e.regione,titolo:e.titolo,popup:`<div class="pop">
         <span class="tag est">${esc(e.tipo||"Evento")}</span>
         <h5>${tit}</h5>
         ${e.descrizione?`<div class="desc">${esc(e.descrizione)}</div>`:""}
-        <div class="row"><b>Ora</b><span>${tuttoGiorno?"vedi dettagli":ora(dt)}</span></div>
-        <div class="row"><b>Data</b><span>${dataLunga(dt)}</span></div>
+        ${e.dataIncerta
+          ? `<div class="row"><b>Data</b><span>non indicata nel titolo · notizia del ${dataLunga(new Date(e.pubblicato||dt))}</span></div>`
+          : `<div class="row"><b>Ora</b><span>${tuttoGiorno?"vedi dettagli":ora(dt)}</span></div>
+        <div class="row"><b>Data</b><span>${dataLunga(dt)}</span></div>`}
         <div class="row"><b>Dove</b><span>${esc(e.luogo||e.citta||"")}</span></div>
         <div class="src">Fonte: ${esc(e.fonte)}</div>
         <div class="pop-acts">
           <a class="btn btn-ghost pop-go" href="${comeArrivare({coord:e.coord})}" target="_blank" rel="noopener">${ICONA_STRADA}Come arrivare</a>
-          <a class="btn btn-red" href="${esc(e.link)}" target="_blank" rel="noopener">Dettagli</a>
+          <a class="btn btn-red" href="${esc(e.link)}" target="_blank" rel="noopener">${giornale?"Leggi l'articolo":"Dettagli"}</a>
         </div></div>`});
     }
     disegna(true);

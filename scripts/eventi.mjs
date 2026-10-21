@@ -180,7 +180,8 @@ export async function raccogliEventi(precedenti = [], cache = {}, extra = []) {
   tutti.push(...extra);                       // mobilitazioni trovate sui giornali (Google News)
   await geocodifica(tutti, cache);
   const da = traGiorni(-1), a = traGiorni(GIORNI_AVANTI);
-  const eventi = tutti.filter((e) => e.coord && e.inizio && e.inizio.slice(0, 10) >= da && e.inizio.slice(0, 10) <= a)
+  const daIncerte = traGiorni(-7);           // notizie senza data: si tengono quelle dell'ultima settimana
+  const eventi = tutti.filter((e) => e.coord && e.inizio && e.inizio.slice(0, 10) >= (e.dataIncerta ? daIncerte : da) && e.inizio.slice(0, 10) <= a)
     .sort((x, y) => x.inizio.localeCompare(y.inizio));
   return { eventi, stato, senzaPosizione: tutti.filter((e) => !e.coord).length };
 }

@@ -42,6 +42,9 @@ const CITTA = ["Torino","Pinerolo","Ivrea","Chieri","Moncalieri","Collegno","Riv
  "Agrigento","Trapani","Caltanissetta","Enna","Cagliari","Sassari","Nuoro","Oristano","Udine","Pordenone","Gorizia","Treviso","Vicenza",
  "Rovigo","Belluno","Val di Susa","Valsusa"];
 const RE_CITTA = new RegExp("(?<![\\p{L}])(" + [...CITTA].sort((a, b) => b.length - a.length).map((c) => c.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/'/g, "['’]")).join("|") + ")(?![\\p{L}])", "u");
+const REGIONI = ["Piemonte","Valle d'Aosta","Lombardia","Trentino","Alto Adige","Veneto","Friuli","Liguria","Emilia-Romagna","Emilia Romagna",
+ "Toscana","Umbria","Marche","Lazio","Abruzzo","Molise","Campania","Puglia","Basilicata","Calabria","Sicilia","Sardegna"];
+const RE_REGIONE = new RegExp("(?<![\\p{L}])(" + REGIONI.map((c) => c.replace(/'/g, "['’]")).join("|") + ")(?![\\p{L}])", "u");
 const MESI = ["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre"];
 const GIORNI = ["domenica","lunedì","martedì","mercoledì","giovedì","venerdì","sabato"];
 const due = (n) => String(n).padStart(2, "0");
@@ -90,17 +93,25 @@ export async function cercaMobilitazioni(headers) {
       const chiave = titolo.toLowerCase().replace(/[^a-z0-9àèéìòù]+/g, " ").trim();
       if (!titolo || !link || visti.has(chiave)) continue; visti.add(chiave);
       if (!tienilo(titolo + " " + tag(b, "description"))) continue;
-      trovate.push({ titolo, link, fonte, data });
+      trovate.push({ titolo, link, fonte, data, descrizione: tag(b, "description").replace(/\s+[-–]\s+[^-–]+$/, "") });
     }
   }
   trovate.sort((a, b) => b.data.localeCompare(a.data));
-  /* eventi per la mappa: solo se nel titolo ci sono un giorno e una città */
+  /* eventi per la mappa: ogni articolo di cui si capisce il luogo (città, altrimenti regione).
+     La data è quella scritta nel titolo; se manca, si usa la data dell'articolo e si segna come "data non indicata". */
   const eventi = [];
   for (const n of trovate) {
-    const c = n.titolo.match(RE_CITTA); if (!c) continue;
-    const inizio = dataDalTitolo(n.titolo, n.data); if (!inizio) continue;
+    const testo = n.titolo + " " + (n.descrizione || "");
+    const c = n.titolo.match(RE_CITTA) || testo.match(RE_CITTA);
+    const r = c ? null : (n.titolo.match(RE_REGIONE) || testo.match(RE_REGIONE));
+    if (!c && !r) continue;
+    const luogo = c ? c[1] : r[1];
+    const dataTitolo = dataDalTitolo(n.titolo, n.data);
+    const pub = new Date(n.data).toLocaleDateString("sv-SE", { timeZone: "Europe/Rome" });
     eventi.push({ id: "gn-" + Buffer.from(n.link).toString("base64").slice(-16).replace(/\W/g, ""), fonte: "Giornali · " + n.fonte,
-      titolo: n.titolo, tipo: "Dai giornali", inizio, luogo: c[1], citta: c[1], regione: "", coord: null, link: n.link });
+      titolo: n.titolo, tipo: "Dai giornali", inizio: dataTitolo || pub, dataIncerta: !dataTitolo, pubblicato: n.data,
+      luogo: c ? luogo : luogo + ", Italia", citta: c ? luogo : "", regione: r ? luogo.replace(/Emilia Romagna/, "Emilia-Romagna") : "",
+      coord: null, link: n.link });
   }
   return { segnalazioni: trovate, eventi };
 }

@@ -94,12 +94,12 @@ let mobilitazioni = archivio.mobilitazioni || [], eventiGiornali = [];
 try {
   const m = await cercaMobilitazioni(BROWSER);
   const limite = new Date(Date.now() - 14 * 864e5).toISOString(), viste = new Set();
-  mobilitazioni = [...m.segnalazioni, ...mobilitazioni]
+  mobilitazioni = [...m.segnalazioni.map(({ descrizione, ...n }) => n), ...mobilitazioni]
     .filter((n) => n.data >= limite && !viste.has(n.link) && viste.add(n.link))
     .sort((a, b) => b.data.localeCompare(a.data)).slice(0, 80);
   eventiGiornali = m.eventi;
-  stato.giornali = { ok: true, segnalazioni: m.segnalazioni.length, conDataELuogo: m.eventi.length };
-  console.log(`Giornali: ${m.segnalazioni.length} mobilitazioni trovate, ${m.eventi.length} con giorno e città`);
+  stato.giornali = { ok: true, articoli: m.segnalazioni.length, sullaMappa: m.eventi.length, conData: m.eventi.filter((e) => !e.dataIncerta).length };
+  console.log(`Giornali: ${m.segnalazioni.length} articoli su mobilitazioni, ${m.eventi.length} con un luogo (vanno sulla mappa)`);
 } catch (e) { stato.giornali = { ok: false, errore: e.message }; console.log("Giornali: non letti (" + e.message + ")"); }
 
 const geo = archivio.geo || {};
