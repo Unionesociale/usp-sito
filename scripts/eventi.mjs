@@ -3,7 +3,7 @@
    Lo usa aggiorna-notizie.mjs (GitHub Actions, ogni ora). */
 
 const GIORNI_AVANTI = 21;          // eventi salvati: da ieri a 3 settimane (il sito ne mostra 2)
-const UA = { "User-Agent": "Mozilla/5.0 (USP Unione Sociale Pinerolo; sito github.com/Unionesociale/usp-sito)",
+const UA = { "User-Agent": "Mozilla/5.0 (Unione Sociale; sito github.com/Unionesociale/usp-sito)",
              "Accept-Language": "it-IT,it;q=0.9" };
 const MESI = ["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre"];
 const pausa = (ms) => new Promise((r) => setTimeout(r, ms));
