@@ -167,6 +167,33 @@ export async function geocodifica(eventi, cache) {
   }
 }
 
+/* ---------- doppioni ----------
+   Più articoli di giornale sulla stessa mobilitazione (stesso giorno, stesso posto, stessa ora o ora non detta)
+   diventano un solo evento. Un articolo che parla di un evento già presente in un calendario
+   (stesso giorno e stessa città) non aggiunge niente. Restano separati eventi in piazze o orari diversi. */
+const vicino = (a, b) => Math.abs(a[0] - b[0]) < 0.05 && Math.abs(a[1] - b[1]) < 0.07;   // stessa città (~5 km)
+const ora = (e) => (e.inizio.length > 10 ? e.inizio.slice(11, 16) : "");
+export function togliDoppioni(eventi) {
+  const calendari = eventi.filter((e) => !/^Giornali/.test(e.fonte));
+  const giornali = eventi.filter((e) => /^Giornali/.test(e.fonte));
+  const tenuti = [];
+  for (const g of giornali) {
+    const giorno = g.dataIncerta ? null : g.inizio.slice(0, 10);
+    /* già in un calendario lo stesso giorno nella stessa città (e non a un'ora diversa)? */
+    if (giorno && calendari.some((c) => c.inizio.slice(0, 10) === giorno && vicino(c.coord, g.coord) && (!ora(g) || !ora(c) || ora(g) === ora(c)))) continue;
+    /* già un altro articolo sulla stessa mobilitazione? */
+    const doppio = tenuti.find((t) => vicino(t.coord, g.coord) && (t.dataIncerta ? null : t.inizio.slice(0, 10)) === giorno &&
+      (!ora(g) || !ora(t) || ora(g) === ora(t)));
+    if (doppio) {
+      doppio.altriArticoli = (doppio.altriArticoli || 0) + 1;
+      if (!doppio.dataIncerta && !ora(doppio) && ora(g)) doppio.inizio = g.inizio;   // si tiene l'ora se un articolo la dice
+      continue;
+    }
+    tenuti.push({ ...g });
+  }
+  return [...calendari, ...tenuti].sort((x, y) => x.inizio.localeCompare(y.inizio));
+}
+
 /* ---------- tutto insieme ---------- */
 export async function raccogliEventi(precedenti = [], cache = {}, extra = []) {
   const stato = [], tutti = [];
@@ -183,5 +210,5 @@ export async function raccogliEventi(precedenti = [], cache = {}, extra = []) {
   const daIncerte = traGiorni(-7);           // notizie senza data: si tengono quelle dell'ultima settimana
   const eventi = tutti.filter((e) => e.coord && e.inizio && e.inizio.slice(0, 10) >= (e.dataIncerta ? daIncerte : da) && e.inizio.slice(0, 10) <= a)
     .sort((x, y) => x.inizio.localeCompare(y.inizio));
-  return { eventi, stato, senzaPosizione: tutti.filter((e) => !e.coord).length };
+  return { eventi: togliDoppioni(eventi), stato, senzaPosizione: tutti.filter((e) => !e.coord).length };
 }

@@ -274,6 +274,11 @@ body.map-full{overflow:hidden}
 .pin.ext.gn .pin-body{fill:#5b5354}
 .pin.ext.gn::after{background:#fff;box-shadow:0 0 0 3px var(--red)}
 .map-legend i.gn{background:#5b5354;box-shadow:inset 0 0 0 3px #fff,0 0 0 2px var(--red)}
+.pin-n{position:absolute;z-index:2;top:-6px;right:-8px;min-width:20px;height:20px;padding:0 5px;border-radius:999px;background:var(--fg);color:var(--bg);font:800 11px/20px var(--f-ui);text-align:center;box-shadow:0 0 0 2px var(--bg)}
+.pin.ext .pin-n{top:-7px;right:-10px}
+.pop-group{max-height:min(60vh,420px);overflow:auto;margin-right:-8px;padding-right:8px}
+.pop-group .pop+.pop{border-top:1px solid var(--line);margin-top:12px;padding-top:12px}
+.pop-n{font-size:12px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:8px}
 .pop .src{font-size:12px;color:var(--muted);margin-top:6px}
 .pop .desc{font-size:13px;color:var(--muted);margin:4px 0 6px}
 .map-legend .past-l[hidden]{display:none}
@@ -1069,17 +1074,26 @@ creaFeed($("#feed"), "notizie", "Per ora nessuna notizia nuova su Gaza e la Pale
   /* disegna i segnalini: di base solo i cortei in programma, i passati (grigi) solo se richiesti */
   function disegna(adatta){
     strato.clearLayers();
-    const mostraPassati=pastBox.checked, italia=!piemBox.checked, usati={}, punti=[];
+    const mostraPassati=pastBox.checked, italia=!piemBox.checked, gruppi=new Map(), punti=[];
     for(const s of segni){
       if(s.passato && !mostraPassati) continue;
       if(s.esterno && !italia && !/piemonte/i.test(s.regione||"")) continue;
-      const key=s.c[0].toFixed(4)+","+s.c[1].toFixed(4), k=usati[key]=(usati[key]||0)+1;
-      const dx=(k%2?-1:1)*Math.ceil((k-1)/2)*40; /* stesso posto: segnalini affiancati */
+      /* eventi nello stesso punto: una sola puntina con il numero, e nel fumetto l'elenco */
+      const key=s.c[0].toFixed(4)+","+s.c[1].toFixed(4);
+      if(!gruppi.has(key)) gruppi.set(key,[]);
+      gruppi.get(key).push(s);
+    }
+    for(const g of gruppi.values()){
+      const peso=s=>s.esterno?(s.giornale?2:1):(s.passato?3:0);
+      g.sort((a,b)=>peso(a)-peso(b));
+      const s=g[0], n=g.length, badge=n>1?`<span class="pin-n">${n}</span>`:"";
       const icon=s.esterno
-        ? L.divIcon({className:"",iconSize:[34,44],iconAnchor:[17-dx,42],popupAnchor:[dx,-38],html:`<div class="pin ext${s.giornale?" gn":""}">${PIN_EXT}</div>`})
-        : L.divIcon({className:"",iconSize:[46,60],iconAnchor:[23-dx,58],popupAnchor:[dx,-52],
-            html:`<div class="pin${s.passato?" past":""}${s.prossimo?" next":""}">${PIN}</div>`});
-      L.marker(s.c,{icon,title:s.titolo,keyboard:true,riseOnHover:true,zIndexOffset:s.esterno?500:s.passato?0:1000}).bindPopup(s.popup).addTo(strato);
+        ? L.divIcon({className:"",iconSize:[34,44],iconAnchor:[17,42],popupAnchor:[0,-38],html:`<div class="pin ext${s.giornale?" gn":""}">${PIN_EXT}${badge}</div>`})
+        : L.divIcon({className:"",iconSize:[46,60],iconAnchor:[23,58],popupAnchor:[0,-52],
+            html:`<div class="pin${s.passato?" past":""}${g.some(x=>x.prossimo)?" next":""}">${PIN}${badge}</div>`});
+      const popup = n===1 ? s.popup : `<div class="pop-group"><div class="pop-n">${n} eventi in questo punto</div>${g.map(x=>x.popup).join("")}</div>`;
+      L.marker(s.c,{icon,title:n>1?`${n} eventi: ${s.titolo}`:s.titolo,keyboard:true,riseOnHover:true,zIndexOffset:s.esterno?500:s.passato?0:1000})
+        .bindPopup(popup,{maxWidth:320}).addTo(strato);
       punti.push(s.c);
     }
     $("#legend-past").hidden=!mostraPassati;
@@ -1153,8 +1167,8 @@ creaFeed($("#feed"), "notizie", "Per ora nessuna notizia nuova su Gaza e la Pale
   addEventListener("hashchange",()=>{ if(wrap.classList.contains("full")) setFull(false); });
   addEventListener("resize",()=>{ if(wrap.classList.contains("full")) setFull(true); });
 
-  map.on("popupopen",e=>{ const b=e.popup.getElement().querySelector("button[data-news]");
-    if(b) b.addEventListener("click",ev=>{ ev.stopPropagation(); map.closePopup(); if(wrap.classList.contains("full")) setFull(false); openNews(b.dataset.news); }); });
+  map.on("popupopen",e=>{ e.popup.getElement().querySelectorAll("button[data-news]").forEach(b=>
+    b.addEventListener("click",ev=>{ ev.stopPropagation(); map.closePopup(); if(wrap.classList.contains("full")) setFull(false); openNews(b.dataset.news); })); });
 
   (async()=>{
     for(const {n,e:ev,d} of eventi){
@@ -1162,7 +1176,7 @@ creaFeed($("#feed"), "notizie", "Per ora nessuna notizia nuova su Gaza e la Pale
       if(!c){ try{ c=await trova(ev.luogo); }catch(err){ console.log("Indirizzo non trovato:",ev.luogo); continue; } }
       const passato=d<oggi;
       const tit=strip(ev.titolo||n.titolo);
-      segni.push({c,passato,regione:"Piemonte",prossimo:!passato&&prossimo&&prossimo.e===ev,titolo:tit,popup:`<div class="pop">
+      segni.push({c,passato,regione:"Piemonte",giorno:ev.inizio.slice(0,10),prossimo:!passato&&prossimo&&prossimo.e===ev,titolo:tit,popup:`<div class="pop">
         <span class="tag ${passato?"est":"int"}">${passato?"Già svolta":"In programma"}</span>
         <h5>${tit}</h5>
         <div class="row"><b>Ora</b><span>${ora(d)}</span></div>
@@ -1185,6 +1199,7 @@ creaFeed($("#feed"), "notizie", "Per ora nessuna notizia nuova su Gaza e la Pale
       if(isNaN(dt) || dt<inizioFinestra || dt>=fine) continue;
       const tit=esc(e.titolo);
       const giornale=/^Giornali/.test(e.fonte||"");
+      if(giornale && !e.dataIncerta && segni.some(s=>!s.esterno && s.giorno===e.inizio.slice(0,10) && Math.abs(s.c[0]-e.coord[0])<0.05 && Math.abs(s.c[1]-e.coord[1])<0.07)) continue;
       segni.push({c:e.coord,esterno:true,giornale,regione:e.regione,titolo:e.titolo,popup:`<div class="pop">
         <span class="tag est">${esc(e.tipo||"Evento")}</span>
         <h5>${tit}</h5>
@@ -1194,7 +1209,7 @@ creaFeed($("#feed"), "notizie", "Per ora nessuna notizia nuova su Gaza e la Pale
           : `<div class="row"><b>Ora</b><span>${tuttoGiorno?"vedi dettagli":ora(dt)}</span></div>
         <div class="row"><b>Data</b><span>${dataLunga(dt)}</span></div>`}
         <div class="row"><b>Dove</b><span>${esc(e.luogo||e.citta||"")}</span></div>
-        <div class="src">Fonte: ${esc(e.fonte)}</div>
+        <div class="src">Fonte: ${esc(e.fonte)}${e.altriArticoli?` · e altri ${e.altriArticoli} articoli`:""}</div>
         <div class="pop-acts">
           <a class="btn btn-ghost pop-go" href="${comeArrivare({coord:e.coord})}" target="_blank" rel="noopener">${ICONA_STRADA}Come arrivare</a>
           <a class="btn btn-red" href="${esc(e.link)}" target="_blank" rel="noopener">${giornale?"Leggi l'articolo":"Dettagli"}</a>
