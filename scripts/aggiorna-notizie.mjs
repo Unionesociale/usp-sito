@@ -2,6 +2,7 @@
    Lo fa partire da solo GitHub Actions ogni ora (file .github/workflows/sito.yml). */
 import { readFile, writeFile } from "node:fs/promises";
 import { raccogliEventi } from "./eventi.mjs";
+import { cercaMobilitazioni } from "./mobilitazioni.mjs";
 
 /* ===== IMPOSTAZIONI =====
    FONTI: per aggiungere un giornale basta una riga con il nome e l'indirizzo del suo feed RSS. */
@@ -88,10 +89,23 @@ for (const { fonte, url, sito } of FONTI) {
   nuove.push(...trovate);
 }
 /* calendari dei cortei e delle iniziative (PeaceLink, Amicizia Italo-Palestinese, Invictapalestina) */
+/* mobilitazioni dai giornali (Google News): lista di segnalazioni + eventi per la mappa */
+let mobilitazioni = archivio.mobilitazioni || [], eventiGiornali = [];
+try {
+  const m = await cercaMobilitazioni(BROWSER);
+  const limite = new Date(Date.now() - 14 * 864e5).toISOString(), viste = new Set();
+  mobilitazioni = [...m.segnalazioni, ...mobilitazioni]
+    .filter((n) => n.data >= limite && !viste.has(n.link) && viste.add(n.link))
+    .sort((a, b) => b.data.localeCompare(a.data)).slice(0, 80);
+  eventiGiornali = m.eventi;
+  stato.giornali = { ok: true, segnalazioni: m.segnalazioni.length, conDataELuogo: m.eventi.length };
+  console.log(`Giornali: ${m.segnalazioni.length} mobilitazioni trovate, ${m.eventi.length} con giorno e città`);
+} catch (e) { stato.giornali = { ok: false, errore: e.message }; console.log("Giornali: non letti (" + e.message + ")"); }
+
 const geo = archivio.geo || {};
 let eventi = archivio.eventi || [];
 try {
-  const r = await raccogliEventi(eventi, geo);
+  const r = await raccogliEventi(eventi, geo, eventiGiornali);
   eventi = r.eventi; stato.calendari = r.stato; stato.eventiSalvati = eventi.length; stato.eventiSenzaPosizione = r.senzaPosizione;
 } catch (e) { console.log("Calendari: errore " + e.message); stato.calendari = [{ ok: false, errore: e.message }]; }
 await writeFile(STATO, JSON.stringify(stato, null, 1) + "\n");
@@ -106,9 +120,9 @@ for (const n of [...(archivio.notizie || []), ...nuove]) {
 }
 const notizie = [...perLink.values()].sort((a, b) => b.data.localeCompare(a.data)).slice(0, MASSIMO);
 
-if (JSON.stringify([notizie, eventi, geo]) === JSON.stringify([archivio.notizie || [], archivio.eventi || [], archivio.geo || {}])) {
+if (JSON.stringify([notizie, eventi, geo, mobilitazioni]) === JSON.stringify([archivio.notizie || [], archivio.eventi || [], archivio.geo || {}, archivio.mobilitazioni || []])) {
   console.log("Nessuna novità (notizie ed eventi uguali a prima).");
 } else {
-  await writeFile(FILE, JSON.stringify({ aggiornato: new Date().toISOString(), notizie, eventi, geo }, null, 1) + "\n");
+  await writeFile(FILE, JSON.stringify({ aggiornato: new Date().toISOString(), notizie, mobilitazioni, eventi, geo }, null, 1) + "\n");
   console.log(`Archivio aggiornato: ${notizie.length} notizie, ${eventi.length} eventi.`);
 }

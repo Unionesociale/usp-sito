@@ -33,7 +33,18 @@ function daISO(iso) {
 const oggi = () => daISO(new Date().toISOString()).slice(0, 10);
 const traGiorni = (n) => daISO(new Date(Date.now() + n * 864e5).toISOString()).slice(0, 10);
 
-/* ---------- 1. PeaceLink: servizio dati JSON ufficiale ---------- */
+/* ---------- 1. PeaceLink: servizio dati JSON ufficiale ----------
+   Si tengono solo gli eventi di mobilitazione e discussione: un evento passa se titolo, tipo
+   o descrizione contengono una di queste parole. */
+export const PL_TIENI = new RegExp("\\b(" + [
+  "corte[oi]", "mobilitazion\\w*", "manifestazion\\w*", "occupazion\\w*", "occupat\\w*", "presidi\\w*", "piazza",
+  "sciopero", "scioperi", "fiaccolat\\w*", "sit-?in", "flash ?mob", "marcia", "marce", "picchett\\w*", "blocc\\w*",
+  "boicott\\w*", "bds", "volantinaggi\\w*", "banchett\\w*", "catena umana", "carovana", "staffetta", "veglia", "digiun\\w*",
+  "camminata", "biciclettata", "raccolta firme", "campagna", "lotta", "lotte", "resistenza", "solidariet\\w*",
+  "dibattit\\w*", "assemble\\w*", "discussion\\w*", "confronto", "incontro pubblico", "incontro", "conferenz\\w*",
+  "tavola rotonda", "presentazion\\w*", "testimonianz\\w*", "seminari\\w*", "convegn\\w*", "forum",
+  "film", "cinema", "cineforum", "documentari\\w*", "proiezion\\w*", "rassegna"
+].join("|") + ")\\b", "i");
 async function peacelink() {
   const ieri = traGiorni(-1).split("-").reverse().join("-");
   const lista = await scarica(`https://www.peacelink.it/js/events.php?start=${ieri}&days=${GIORNI_AVANTI + 1}`, "json");
@@ -57,8 +68,10 @@ async function peacelink() {
       coord: isFinite(lat) && isFinite(lon) && (lat || lon) ? [+lat.toFixed(5), +lon.toFixed(5)] : null,
       link: e.url || `https://www.peacelink.it/calendario/event.php?id=${e.id_event || e.id}`,
       online: !!+e.is_online,
+      _testo: [e.title, e.type, e.description, e.place_details].map((x) => testo(String(x || ""))).join(" "),
     };
-  }).filter((e) => e.titolo && e.inizio && !e.online);
+  }).filter((e) => e.titolo && e.inizio && !e.online && PL_TIENI.test(e._testo))
+    .map(({ _testo, ...e }) => e);
 }
 
 /* ---------- 2. Amicizia Italo-Palestinese: calendario Joomla (JEvents) ---------- */
@@ -131,7 +144,7 @@ async function invicta() {
 }
 
 /* ---------- posizione sulla mappa (OpenStreetMap Nominatim, con memoria) ---------- */
-async function geocodifica(eventi, cache) {
+export async function geocodifica(eventi, cache) {
   let richieste = 0;
   const cerca = async (q) => {
     const k = q.toLowerCase(); if (k in cache) return cache[k];
@@ -155,7 +168,7 @@ async function geocodifica(eventi, cache) {
 }
 
 /* ---------- tutto insieme ---------- */
-export async function raccogliEventi(precedenti = [], cache = {}) {
+export async function raccogliEventi(precedenti = [], cache = {}, extra = []) {
   const stato = [], tutti = [];
   for (const [nome, fn] of [["PeaceLink", peacelink], ["Amicizia Italo-Palestinese", amicizia], ["Invictapalestina", invicta]]) {
     try { const e = await fn(); tutti.push(...e); stato.push({ fonte: nome, ok: true, eventi: e.length }); console.log(`${nome}: ${e.length} eventi`); }
@@ -164,6 +177,7 @@ export async function raccogliEventi(precedenti = [], cache = {}) {
       tutti.push(...precedenti.filter((p) => p.fonte === nome));   // se un sito non risponde si tengono i suoi eventi già salvati
     }
   }
+  tutti.push(...extra);                       // mobilitazioni trovate sui giornali (Google News)
   await geocodifica(tutti, cache);
   const da = traGiorni(-1), a = traGiorni(GIORNI_AVANTI);
   const eventi = tutti.filter((e) => e.coord && e.inizio && e.inizio.slice(0, 10) >= da && e.inizio.slice(0, 10) <= a)
