@@ -93,7 +93,7 @@ for (const { fonte, url, sito } of FONTI) {
 let mobilitazioni = archivio.mobilitazioni || [], eventiGiornali = [];
 try {
   const m = await cercaMobilitazioni(BROWSER);
-  const limite = new Date(Date.now() - 14 * 864e5).toISOString(), viste = new Set();
+  const limite = new Date(Date.now() - 30 * 864e5).toISOString(), viste = new Set();
   mobilitazioni = [...m.segnalazioni.map(({ descrizione, ...n }) => n), ...mobilitazioni]
     .filter((n) => n.data >= limite && !viste.has(n.link) && viste.add(n.link))
     .sort((a, b) => b.data.localeCompare(a.data)).slice(0, 80);

@@ -46,8 +46,8 @@ export const PL_TIENI = new RegExp("\\b(" + [
   "film", "cinema", "cineforum", "documentari\\w*", "proiezion\\w*", "rassegna"
 ].join("|") + ")\\b", "i");
 async function peacelink() {
-  const ieri = traGiorni(-1).split("-").reverse().join("-");
-  const lista = await scarica(`https://www.peacelink.it/js/events.php?start=${ieri}&days=${GIORNI_AVANTI + 1}`, "json");
+  const inizio = traGiorni(-14).split("-").reverse().join("-");
+  const lista = await scarica(`https://www.peacelink.it/js/events.php?start=${inizio}&days=${GIORNI_AVANTI + 15}`, "json");
   return (Array.isArray(lista) ? lista : []).map((e) => {
     let inizio = null;
     const sd = String(e.start_date || ""), st = String(e.start_time || "");
@@ -78,7 +78,7 @@ async function peacelink() {
 const AIP = "https://www.amiciziaitalo-palestinese.org";
 async function amicizia() {
   const trovati = new Map();
-  for (const salto of [0, 7, 14, 21]) {
+  for (const salto of [-14, -7, 0, 7, 14, 21]) {
     const [y, m, d] = traGiorni(salto).split("-");
     let html;
     try { html = await scarica(`${AIP}/calendario-attivita/eventidellasettimana/${y}/${m}/${d}/-`); }
@@ -206,9 +206,9 @@ export async function raccogliEventi(precedenti = [], cache = {}, extra = []) {
   }
   tutti.push(...extra);                       // mobilitazioni trovate sui giornali (Google News)
   await geocodifica(tutti, cache);
-  const da = traGiorni(-1), a = traGiorni(GIORNI_AVANTI);
-  const daIncerte = traGiorni(-7);           // notizie senza data: si tengono quelle dell'ultima settimana
-  const eventi = tutti.filter((e) => e.coord && e.inizio && e.inizio.slice(0, 10) >= (e.dataIncerta ? daIncerte : da) && e.inizio.slice(0, 10) <= a)
+  /* si tengono anche gli eventi delle ultime 2 settimane: sul sito vanno tra i "passati" */
+  const da = traGiorni(-14), a = traGiorni(GIORNI_AVANTI);
+  const eventi = tutti.filter((e) => e.coord && e.inizio && e.inizio.slice(0, 10) >= da && e.inizio.slice(0, 10) <= a)
     .sort((x, y) => x.inizio.localeCompare(y.inizio));
   return { eventi: togliDoppioni(eventi), stato, senzaPosizione: tutti.filter((e) => !e.coord).length };
 }

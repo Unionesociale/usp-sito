@@ -5,9 +5,15 @@
 /* ===== IMPOSTAZIONI ===== */
 const PAROLE = ["corteo", "manifestazione", "presidio", "occupazione"];
 /* zone in cui cercare: una ricerca per l'Italia intera e una concentrata sul Piemonte */
+const ZONA_PIEMONTE = "(Torino OR Pinerolo OR Piemonte OR Cuneo OR Novara OR Alessandria OR Asti OR Biella OR Vercelli)";
+const ANNUNCI = '(indetto OR indetta OR convocato OR convocata OR "scendono in piazza" OR "in piazza" OR appuntamento OR annunciato OR mobilitazione OR "si terrà")';
+/* si cerca nell'ultimo mese: così si trovano anche articoli di giorni fa che annunciano mobilitazioni future.
+   Una ricerca per parola (Google News dà al massimo ~100 risultati per ricerca) + ricerche sugli annunci. */
 const RICERCHE = [
-  `(${PAROLE.join(" OR ")}) when:7d`,
-  `(${PAROLE.join(" OR ")}) (Torino OR Pinerolo OR Piemonte OR Cuneo OR Novara OR Alessandria OR Asti OR Biella OR Vercelli) when:7d`,
+  ...PAROLE.map((p) => `${p} when:30d`),
+  ...PAROLE.map((p) => `${p} ${ZONA_PIEMONTE} when:30d`),
+  `(${PAROLE.join(" OR ")}) ${ANNUNCI} when:30d`,
+  `(${PAROLE.join(" OR ")} OR sciopero) ${ANNUNCI} ${ZONA_PIEMONTE} when:30d`,
 ];
 const DEVE_AVERE = /\b(corte[oi]|manifestazion[ei]|presidi[oi]?|occupazion[ei]|occupat[aoie])\b/i;
 /* sempre esclusi: immigrazione */
@@ -80,12 +86,16 @@ const pulisci = (s = "") => s.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1").repla
 const tag = (b, n) => { const m = b.match(new RegExp(`<${n}(?:\\s[^>]*)?>([\\s\\S]*?)</${n}>`, "i")); return m ? pulisci(m[1]) : ""; };
 
 export async function cercaMobilitazioni(headers) {
-  const trovate = [], visti = new Set();
+  const trovate = [], visti = new Set(), errori = []; let riuscite = 0;
   for (const q of RICERCHE) {
     const url = "https://news.google.com/rss/search?q=" + encodeURIComponent(q) + "&hl=it&gl=IT&ceid=IT:it";
-    const r = await fetch(url, { headers, signal: AbortSignal.timeout(25000) });
-    if (!r.ok) throw new Error("HTTP " + r.status);
-    const xml = await r.text();
+    let xml;
+    try {
+      const r = await fetch(url, { headers, signal: AbortSignal.timeout(25000) });
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      xml = await r.text(); riuscite++;
+    } catch (e) { errori.push(e.message); continue; }
+    await new Promise((r) => setTimeout(r, 700));
     for (const b of xml.match(/<item[\s>][\s\S]*?<\/item>/gi) || []) {
       const fonte = tag(b, "source") || "Giornali";
       const titolo = tag(b, "title").replace(new RegExp("\\s+[-–]\\s+" + fonte.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "$"), "");
@@ -96,6 +106,7 @@ export async function cercaMobilitazioni(headers) {
       trovate.push({ titolo, link, fonte, data, descrizione: tag(b, "description").replace(/\s+[-–]\s+[^-–]+$/, "") });
     }
   }
+  if (!riuscite) throw new Error(errori[0] || "nessuna risposta");
   trovate.sort((a, b) => b.data.localeCompare(a.data));
   /* eventi per la mappa: ogni articolo di cui si capisce il luogo (città, altrimenti regione).
      La data è quella scritta nel titolo; se manca, si usa la data dell'articolo e si segna come "data non indicata". */
