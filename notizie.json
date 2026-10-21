@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-21T09:06:45.053Z",
+ "aggiornato": "2026-10-21T09:15:37.359Z",
  "notizie": [
   {
    "titolo": "Stop al commercio con gli insediamenti illegali di coloni",
@@ -412,6 +412,12 @@
    "data": "2026-10-19T17:32:15.000Z"
   },
   {
+   "titolo": "Carburanti, Giani: “12 milioni dalla Regione”. Coldiretti scioglie il presidio",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMmFhZ0t6ODRmamx6SkUtNGxFVUFFeEEwWm9qSnVtU1d5TmJfdjlBQl9HUDZHR2RRNUtSVEZWYXB3VVRZTDhZd3dGUDNoZzZjOFpVNG1Sd2lDdTdacTVDay1PbXprTS1yNm1FR3FPYTY4dnREMXJtQi1ReVpGdDRJZEM4MC1pbmMzX0NPcHV4RDhGMGFSTkJPTXR5NUlqRGNjbW45OWE3bng?oc=5",
+   "fonte": "Toscana Notizie",
+   "data": "2026-10-19T17:24:00.000Z"
+  },
+  {
    "titolo": "Ex Ilva, raddoppia la cassa integrazione: presidio dei lavoratori a Torino il 21 ottobre",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMnh3bl93a0RBUnIyUmcwMVNRMW1RR2xCbklHdEM0WGxNSm5tLURmR0xVUENhVm5xaEVVMWZiY1o5X0RQeDNKTUVrMkM1NjVIbFN4cmtwQTRBRXZLM0otYVRCZmdIR2RlRjM0WEVxbTVkd1FmNnRWaG5LcVE3MWNkR2lQRzI4c01HOElSUkZ2ZmZUTUxn?oc=5",
    "fonte": "Quotidiano Piemontese",
@@ -554,15 +560,1386 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1RkVTRvS25rUVFKRERlX0s5dEJ0UmduRnVhM1p5QTBJRmo1cWpRSjU3QW9VSlF1NXVZelVjTEdSZXFRcUQ4SERBSFB2cUdCV2FYTzBhWEJveTEtYy1CUUpmVWZPYnpRNGI1Ukxic2lqVElkd29EUVJwMmp3b0M2OTUwSnZhQnZPRFNnbk5ZdlpsZ3MwSXZjeHJYZUUwdUZvajZVeGNpb1VpWmxjTWc?oc=5",
    "fonte": "PalermoToday",
    "data": "2026-10-19T08:00:36.000Z"
-  },
-  {
-   "titolo": "Torino, studenti ancora in agitazione: occupate sei nuove scuole",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLW5manJTbHNSNkNaQXFHS25LMW8wYzB3dlpXZnc5OFVULUVLaHVrRGpSZ2tMNUtzT2ZTRGk4TkJWR1h2b1dkaVlnTTlQQ3oxUGVXaTR1SlJpU3RsOW5wT0J3dng0TE5JbmRYakZXR0JqNnllbzlWamFjT01RM1JDeEwxS3J3Mlo0bFJhTlQwTG5lZEVvODhuNl94TUR4QkhIYXIwalZRNzBUOUlzODdRRmV3Ukp5Mkt2UFZMSDBnSThSNXdKUEZ0bl9SRVhnQXNKaU4tM3h1SGhZRDBJSFJkYUg1VXphSmZLRTZoTC11S0pQY3VNZ29tVFl5UmnSAYICQVVfeXFMTy1vRkpPdTNIbGZVbExwR0NCUXl3bUtodllmNndvdHhPNk5hd1FLMW0yb0Fkd2JtY2NUMEI2VzNVZEx2U0pkWDZEampUVWpaUVJ1bEtQZ0RGd0Z6Z2c2VEVMcTdFbWx0d1BnLWFNMVpFWEJQZDFtZU5Yd2JGQnFNc2lWanVweFFpaENqd0V1SUcwNm1zb1QxeW4yVnF0VldCdmx0MVBTSGo1eU41Y0tnektiR0dqLVIyQmtoaGZmVE1reWlEblMwRVBlMEs3N2ZLUU1CNUptWVYxQWw5RlZjQ1ZBTGl2THNfVV9fQkM1dE8tTkVnbldrSnJ5TFZ5SmZYYzhB?oc=5",
-   "fonte": "RaiNews",
-   "data": "2026-10-19T07:24:00.000Z"
   }
  ],
  "eventi": [
+  {
+   "id": "gn-ZFc5MFIwRT9vYz01",
+   "fonte": "Giornali · ANSA",
+   "titolo": "Docenti del liceo Berti di Torino, 'l'occupazione ha un valore'",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-15",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-15T17:37:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaVFvZE9ZVGJ5Q0xWMDNqdW1EOE1peWVkMm85VDBSMGNfeFk3V01ld3JrREJSSy1mMTQyaDVPTFJ4T3VabjVfOHNWakROa0FOTEN4M2U1MzI4bGdad084Nmp1WXVYMmFLeVJDMnBsYjJwWVVGMVNoUUNUWnlFdU9TOHRvaF9NOU5SRnNtOU56MThuSHAteDROZzM2Z3VlYk1OcEFVYnFxeXZXZDR4R0x0MW1DM2NUdDI1Zi1qU0c0eU03Sl8tQzJhQ1d0MDlhR1piY0JEcVJfWU5HOVM3YXBaQ1hxUXJMMlg00gHuAUFVX3lxTE1ZTVoyZjE3TXFTVFY2eldxeUJvM3dPZkVNWV9rMk82bkNkQjUtX19xNGw3RldKcmtkWW5XanF2YWJhV1diMDRhRGcxcWRxU0FUR1pLeklmV2FlMUljeGR3VWh2OWxEVjVXaUgtY0FrY3NlR2hqOGNyeW5GN2VaWHREMlpDeU54RHhPMjVLNk9mTHplWFJGT241aWk1a0lSWURCWkdJeUh0a2xHakZ5US1NYUxiSExZeTkzWll6YUNQc3hSOFN0OU8xVzMwQ0ZTNlBWX3lUNmx5aEktbDNpTHIzUHc0MjRuWGR4dW90R0E?oc=5"
+  },
+  {
+   "id": "gn-ME5GWXcb2M9NQ",
+   "fonte": "Giornali · La Stampa",
+   "titolo": "Torino, scontri per le occupazioni scolastiche: vetri in frantumi e tafferugli al Bosso-Monti",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-15",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-15T10:20:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc3VJYjlBU2pfQ1JtNUtJdkRrV19Rb0dhdXYxN21kbU8yaFE4NEtSLTlQNHpUekt4T09IQU5GUUVFcE44RndJLVd6V0ZxT0N3WV9Ib2ZZdUxSQkxSMG45ZEFyMHZRWlZCTk90T1hrNWVZOExwU3lPdV84UGpNVTdmRENCT2ZmcWdhV0dpUjZmS19lRDZNRllyMGk5YlppNTktWDhCcWlzVUpWcXdkVEJ2dV9WaEEwZVNqWEQ4V3lNRUNDLXVoLXM5SzM3YTIzeDRkTTktakJMci0xMFRLR1BaM0NFYw?oc=5"
+  },
+  {
+   "id": "gn-c2NERmgb2M9NQ",
+   "fonte": "Giornali · La Stampa",
+   "titolo": "Scuola, scontri e occupazioni a Torino: incappucciati e con le spranghe in una elementare, terrore tra i bamb…",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-15",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-15T10:14:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQczhfQklXb2dmUE0yZlE3UEpZcnhtbGRMc2lCcW52Yi1yaHVSUXhNYkhwTVpPV2lCYWxseXJRdWNVdDd1UkdDRjA2enFyS3JOUU04WUF6MUJLRjJ6eEdDdk51eVNhLVJ0ZFJoMEVKV3FNcnlQN2VMYmUzdUhELXhPSXhoemNSUXdabUctek9SUldjMU1fSWRLYTl5SVZpQlh4NDJScWVoT09HRkM2MndZQXFJSFJhbm1qV2x2QXg4M3FOYmJucF82cHM4RlhtWjY0eHNBUkVBb9IB3AFBVV95cUxPelBsQi1maDEta1UzV3k2QkRpRWhPU1lrMWx6a0stUlRJTkQ4RWtJWFNLc28zWDJfOTlvdzV1YUwtR3AxSHRoZUpXXzUxZjI0TUtwU3dyQlFtdWQxZng4ZjlTZTBVbG5BQ25tdHRveWJKa0syUGNNU0IwNi1xUGRxU2pOamtiMTFQY2Z1TVpHYkFFcGVQQS10dkFMRzJibVNuQjdWbXlRWFBOcmt4REkzLUhUMEwyVlZiQmxMNFdqeWFhbG9GczQwY1J4SGpYdlVUMlRMYng3ZEJscDFh?oc=5"
+  },
+  {
+   "id": "gn-VkVkWFVHTT9vYz01",
+   "fonte": "Giornali · Corriere Torino",
+   "titolo": "Torino e le scuole occupate, al Peano la protesta degenera in distruzione. Un indagato al Boselli, 12 istituti in agitazione fra assemblee e presidi",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-15",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-15T07:16:17.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPMHFhVkZiSkl2b3NKTXQ2cXRtdTNYWUJvLXNvYUUyYXo4UWo5T1p0QlZOeGxZYUFJc2ttY21UUXJtRzZXMUdoRHFuaC11V0ZTdV9GZV9HdGh4SjYxQzhqV1htemJqZ1JmVjc1clJteHJ4WWdwQ0MwYjV4VEFzaWVqOE04LUFnUlBQaTh1OFhhR3NVcWRpeFBTVVNVVVJzMUllYlJJQzJkUmJGdGFQUG1EbjUzWDlnTFlGNnVQVUI5ZnZvZFUwYnp4bWZpcHJudmdUanNDR0NvU2VXQmd1VzhkamxINkRZWmhEdHFGWG5SOHhhQ1NXVWR0WWhpMjJScVNya3lpQUtaNkNIbmcwQ3dOdEVtNE02Zjk4MExwaFNlZEhjMmdpNXFGUmp1XzZjY3NjWF9WZVVQQ0lUTG9ZOHRtSEU2VVJjU2_SAcwCQVVfeXFMTXdUS3laLWM3ZVdmZmdmYXBldXE2b2xTQk1yRHg5WWR5TGlfWi1ZQW9qd0s1TGlpRTVVUWhyOWVuWkhmOWpUdkU1YjltZ1FRaXJ3bGRzR2NSWlhsZng2SWV1OEVKQVZLRWJucXhITjJuME1fcE9BdEFfVEFnZFZOQU1VRW1icS1kSDVkT0lqaUM4VEpxdWVNd3U2Wmx5bXk1SnpJR0tuUUhRZGk0eWZQckhQN2gtNS1zamFnWU43dmdPQ1JWXzhNYXR4RXIyWEFfRjYwX0lXUDF3N196TW1FRGltOGN6Ti1pYjQ2c1BqU0JMWVlma2YzYlhzQTRRTGVubkNzWWJtMEVyV19ncnJBb05uTW9kSFFfVHJIcndyczFSaXc5NjlXYm94SXRsYi1ZRVdxX0RxUTZMdEhlTjY1VTRZOWRzU2NiVEdXUGM?oc=5"
+  },
+  {
+   "id": "gn-dlZrOHcb2M9NQ",
+   "fonte": "Giornali · Corriere di Bologna",
+   "titolo": "Bologna, il corteo degli studenti con tafferugli in stazione: dieci denunciati e altri cinquanta identificati",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-16",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-16T19:30:24.000Z",
+   "luogo": "Bologna",
+   "citta": "Bologna",
+   "regione": "Emilia-Romagna",
+   "coord": [
+    44.49382,
+    11.34263
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOcDBsRXE4V0lnX00wV19qeVh2SFZWZHJjODNBM1NuZkxnQmlDWGtYbVlrRk9JXzRubTJHdDdFbnRVOVJ0Z0ZMandTRFBVVmU3R1U1SlVfTWxWd1JZWEFQRTZuZ3o5UnluNndrbV9OcXlOLW5VZGJZdUsxelItbGRlVnpsek80b0hBWVNBazJxZ2o1TlV5UjBIbUJxOE1jRlRONHpQMHFxOEc4V1gtUjl2MnU1VWw2NHNzdXdxcGhwNy13Q3RjY2lRSjV4eHVFZV9pUG10YmJnSzNNRFRRRkFUd0RZenFHSzB2RWpCRGJEV3FkNl82YVlIYTJEak9nVmF2RkVrLW5uQ1gzU05mZExHZ3c4ZU4zUXR6UTVkTHptVmhxTHM5VXN4Y3VaNFhTaHI2TGdmRUxZV2I3Z9IBvwJBVV95cUxNMy1rUTZDQm95bG1OWHhNejIzSDY4QzNiZm93MDZTdWxuckdQd2RUc0ZlWWRnYTVCRU9sU3EtV3ZaRl9jekQ2cmIwWXJwMFcyQjhxUjhPSEotaFVYeXJQUUx0WHEyeGxUcDdGS21aLTBYOHdubGZmRXBxOU9LSmtLTk42M2Z3THRFZlJZMEtZRzc3aXlFVXd2S1ZPemR0VzB0Q3JZTUwzRThsRmdvS0ZqV2J4VmdfbjJ5Ql9sN0tuZ1RLTWpZZE1fQU5wQUE3bUVha19rNk1qOGJpWEt3ekxldWcxencwOUZ4ZFdvdVRqMVRKTkNUSWk3dVVsNTMtbTZLZlZjS1pJbHRhQ3VRb3JHSWlteUVEeUdPZEFlcmpnR2lReHRmSmJYWTQyNWtVZ05LbDhDMEhGSnB4Z1JvVk8w?oc=5"
+  },
+  {
+   "id": "gn-VGxSTVZVP29jPTU",
+   "fonte": "Giornali · ANSA",
+   "titolo": "Gli studenti in piazza, cortei in tutta Italia. Tre minorenni arrestati a Torino",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-16",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-16T17:44:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQOHRmVEZHUnktU2hTcWRONlNJdTZ5V2NXdXBEMWJ1dlpVTDdfQ2VxdUItXzI4UUVaeS1LeC1FdDVMc1N2dHVXczRzMWVDckxqWlhneU9xWUVYbGtMcjBnZy1ZcFpjUVJKRjlLcUFXNHJyTEJPaF9aSG9SdzZ0V2lpLVJ1aUhVY0piT2Vnbm5lX3FERFZiaUl6NnlHa2k1RExoT0I4NTlIUzFqdFo5OVdUcTNWMnZ0Z0k5MkFEUW9YQmRmUVpiYjYwWlg4RzRkTGdPdk5nVWNmeXlvbGRuaWxjd01YMzdhREZLcHpRVk4yUVp3OXhoUXZCZEMtUkpaRUxrQmfSAYcCQVVfeXFMTmIzMk5kWjQtVjUyazg1MHprOTZhUk8xQWprOEFnV0t2QUJPeVhsX1BTc2xsTGRRbUs1S3BCY0RjMTBiOVFxYjFDWkNGaXNpMkJMazN1M3ZrQVBUQ3hMOXdjekh4RzRacmFHQ3pjMzFzWkVSeDVXbGtZbVpFNlU2Q19kQ05lY2NKVnhlU0lYQ2JFTm5idkpJeDh4TzBsWURnbTBELU5URkpET0xveXY1aDhDdUFKZHZOeThQcUVtOFFkV3IzWno2SmF6WFh1RjRpQUVsaGd4ZE9YT3MxZHE3akVQSXVydnZJSWlZWUFDMlc0ZG8zU0R3VEw3bjE2WW1SOWxvbTlRMVU?oc=5"
+  },
+  {
+   "id": "gn-V2JIWjMb2M9NQ",
+   "fonte": "Giornali · Il Resto del Carlino",
+   "titolo": "Sciopero, tensione in stazione a Bologna: bottiglie e fumogeni contro la polizia. Sfila il corteo degli studenti, traffico bloccato sui viali. Foto e Video",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-16",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-16T17:33:22.000Z",
+   "luogo": "Bologna",
+   "citta": "Bologna",
+   "regione": "Emilia-Romagna",
+   "coord": [
+    44.49382,
+    11.34263
+   ],
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQanQ2SllobTVoaklnTGtpT2RLazBSeEVGMTAtLVpLLXNHRzFqUllsNkFXb2xZMl9VWGJPUjM5RnY0VFlKT20xbmFtQnl0VGZHbUxMRndrRHBEMWpBSTIyWGZHNG1XdWs5MGJuOGxibzJMVlhPckdmV3AxOVlDdlNyV2RwQ3pvcjhrT1FWbHZ3?oc=5"
+  },
+  {
+   "id": "gn-QmFuWlZaUT9vYz01",
+   "fonte": "Giornali · Corriere TV",
+   "titolo": "Torino, al corteo degli studenti lancio di pietre contro la polizia: gli agenti rispondono con gli idranti",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-16",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-16T13:44:55.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNck4wUkQ3THZwNWxkTjBZSGMwZzBCRElHcEVTQVlEOVllWEVXVmEtOW1nNE10Sy0wWEZhWXRRNXRqVzJualdfNjE2UjNHaDFGUGFQYW52SnRmRk1Lcnl6d21kblprN1lrZlJHSmNyRXZmU2NtZS16cVJCanI2MmhxWUs2dDNZNEllOThsdng4YXB3NnhxZ2RCNW5EN2FDMUpvUE8wQUJseEUxV1ZvZkZUcmhYNGplWXNCeThoOWo3QW9FZ0RWV1dRN2NxOGRSN04xX3U4M1lTaUloaExETjRQc2lNMGZfRWZkSW1OOU1VVTVDV3hwY25OZnJhY2hUZWNBanZVZQ?oc=5"
+  },
+  {
+   "id": "gn-a3B0WVhjP29jPTU",
+   "fonte": "Giornali · Corriere Roma",
+   "titolo": "Lanci di petardi e bottiglie al corteo degli studenti a Roma contro il governo: «Soldi alla scuola, non alla guerra»",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-16",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-16T13:39:37.000Z",
+   "luogo": "Roma",
+   "citta": "Roma",
+   "regione": "Lazio",
+   "coord": [
+    41.89332,
+    12.48293
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQRmgwR3pVLTdBRERKVzJQRFFYZFU4Y2JiZXNuNkxjanZrZGZoY0txbDFnU2c2akVUdmpMZDdnVkFwSjdnbkdnMmRhR2ZJY29abnN3WlgwU0JxUDEwMktmY0h4a05UWlNZMXVUZkJpZWFUUlAzRmdFMXZ2Wk9RUEh4Q0VxQmczQS1jU2Z0d3NzdFZ2X2hmcGtGdkZFTFpVLURqNVphSmZlVExSUDBJa1VRQ0ItMTlhT3N0bHlROFp2OXM0MkhsQ3Y2b2ZfRmdVX3J5bFJLY2F0cl9EbmJ5VFBhWXlGM3FHelpLbU93V0otdnJlamFYZEdITEt0NElpV2hiSlHSAYcCQVVfeXFMTkw4UmppQ01Cc095MG8yT0xVUmgydG9kTFhIbVR3STI4dUtJMllLNzg5TUg3NWd0UWs3bTRUOEZabEdRRjByVDVhX2RaVVZoemJCeUZlOFZyZWFsMmdJOU1fcm40QTdqdV9LcWZJSmR3OUwya2M4QVVBWndyM193dVFab0pRV1ZnRnpwakFPczRSUGRsQUlYd2J1V28wMXRtSGxnWmQ4cUZNTGZEODVUcGYwNEthNGdudEJHNWh0Rzhob0pXMjYtekUwdTVxVXd4VmxaM3VPWlJON0liZ2hQVWFqN3c1M3pzcmh4NF9FOHAtdm1SSHp6czJBNkZfeU90bmlFSkptYXc?oc=5"
+  },
+  {
+   "id": "gn-MlowcFpXQT9vYz01",
+   "fonte": "Giornali · RaiNews",
+   "titolo": "Padova, studenti in corteo per chiedere \"più soldi e risorse per le scuole\"",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-16",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-16T12:10:00.000Z",
+   "luogo": "Padova",
+   "citta": "Padova",
+   "regione": "Veneto",
+   "coord": [
+    45.39141,
+    11.80585
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYk9wYTR1blNQVXFfRTVlMHFUeUZIaG5NczlUYlk0dWhQcndHRkwzWThiOGpJWXUxSkZOQktPRnVuWG1kVkFOMXJ4ZElrMkVLWU9rY2tTTm5FTlctQ0p0N01hRWRROXFVQXN6SWxKQUhhR1pabEMzVEFKaFFZRXNGVUk5ZjZRUVVEMnRlTnNQT2J0d1VpclpLU1dRT1NSc0drTWl6UlVLOUtTWlp1c3Z6cUpEWEZfZmhZWTM1Umg2Nmw4ZDFqZkhVOXBsY2FEREl2bFNBSFhyMmpFX2ZneUtHTEVPQWJiNlhQOW4wUVVmSzVkYVdmeU4w0gH8AUFVX3lxTE9OSFhoSTZjRjRlYm50ZGxNUEJTbmx2QW9OZnl5NVpMck16aGs3QW5UdmtIZms5TkQzU1lzVndKOEpXN2E3YmMzam1YbFZDeDJBX0tQeHVnS1NrVUJ3S1ZsVVMwWXlKU1JDSkM1SGFFai1rTEdyVGJtdTlBR2RlLXU3b3I3RU1xbDd4UmZ0WVBnRTRmbi1tTHNIUXNCZUVfSXVZM3JUcGZaMExSai1oM0pKQk5XREpoc2htZDNZNUszbVkzdjd3NVhXazltV0xfTlpzZHFuMVBDWFJiSm1YVjhXdGk4b1p4MHdFY1BxeXFiS0x0dzFTRDZ2Z0pZWA?oc=5"
+  },
+  {
+   "id": "gn-NFpHbGgb2M9NQ",
+   "fonte": "Giornali · La Stampa",
+   "titolo": "Corteo studenti a Torino, la polizia aziona gli idranti davanti alla Prefettura in piazza Castello",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-16",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-16T11:16:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWUpOTDFlc0xUb2VYaW93UUpEUW40Y3dDc2ZoVFk3TjNTOVNWcWZZQ0NDb1dsUHlTQ0ZmMUZLaWRkM2U5NHdVY3Q2b0s3b1RFYV9jdnZEZ3hZb3FsVm9yRUdNaFFrek9lVlg4MDkyUWVoSjdQa0lEblJIQjhLUml6Rnhvb2hBM0FsZ0pScWp5d1dPN0k1X1pveTNnRFRtckZTZTFXdGpIdzN5RmtNenc4WjRWQVJiX0pDWWx4UUNvZW9yMm1lbmRUbTROVUd2VFVaaWNTZ2VEWDhxWG9Cd2kwTEl2UlY4ZGlh?oc=5"
+  },
+  {
+   "id": "gn-V1RZMVZRP29jPTU",
+   "fonte": "Giornali · RomaToday",
+   "titolo": "Cassonetti rovesciati, lancio di bottiglie e bombe carta, caos a Roma per il corteo degli studenti",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-16",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-16T10:52:42.000Z",
+   "luogo": "Roma",
+   "citta": "Roma",
+   "regione": "Lazio",
+   "coord": [
+    41.89332,
+    12.48293
+   ],
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZlh5SjRzUEo5S0g0MDNFc2QzYVJuZ2RJTjhqbTJ3TlJ5SUNDZzRVVmliSGs4NXBPZnZJSktGU0hOd2wyc1ZsR3QzYzFmVmdjUDRfVHBnMjNaSGwzdXZ2OWxVcllqR1huRm5rNk9QYjJXXzZub3BFYktjY04tMHdhWTY1VQ?oc=5"
+  },
+  {
+   "id": "gn-d1pFMUIb2M9NQ",
+   "fonte": "Giornali · Tribuna di Treviso",
+   "titolo": "Studenti in corteo a Treviso: \"Non staremo più zitti sull'esempio della Francia\"",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-16",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-16T10:29:29.000Z",
+   "luogo": "Treviso",
+   "citta": "Treviso",
+   "regione": "Veneto",
+   "coord": [
+    45.80669,
+    12.20632
+   ],
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaE9hUXE5WjlBX3l4czBadWxJTUlmY2F2cC1CSGpVUTl3U1RIWmxyWkpLU3BFaDZrYnF6YTJwaHJjbTY3eUtYMG9Udml4Q1VVaW42N0l6bDFGZUNTemtfZWNxSjY5R0JNOUwyWjh0VEJBN0lQR1JBbENVVWRreVZsRFN1NU5VM3BuQjUwZE1B?oc=5"
+  },
+  {
+   "id": "gn-cFMyRkcb2M9NQ",
+   "fonte": "Giornali · la Repubblica",
+   "titolo": "Torino, idranti e manganellate al corteo. Petardi contro la polizia, genitori e prof fanno scudo",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-16",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-16T08:20:32.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZVNRNnBoVllKSEFKdlRUZ1I1Sng1Q1EtU0d4SmFtdG1tZ0JzcmVlTm0zaHVfVUhtTW5tcFBxS2J2emtlNnRYUDVOM284em5pTXpQMjRKTWNCSjlRNFpPeXVrSXc2dnEzck1NSDNjakFBWVR3NEJGOFFvdWlNbVdiVGhPSWdsamRUbEF4YVg2NNIBlAFBVV95cUxOUWZIQkhaYjJCQWdOQ21xbU5zdm9WVVkwQlhob04wdnBlUE5ISS11QmowRnBKVGxaNXl5YmNuOEhYRUNZdHdNMHozY1owcFFKTmwzc1dqYThJVHFGT3VnSGtFS1lCU2xoSFpBZzhwRURXa01HQU1uT0VDQWpqdkN1RXdQMEtvcGJGOHNLX3BMRjVpS2FG?oc=5"
+  },
+  {
+   "id": "gn-WllrMW5aZz9vYz01",
+   "fonte": "Giornali · RaiNews",
+   "titolo": "Torino, studenti in corteo nel centro città",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-16",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-16T07:58:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSU1kNkEtYkhmWlpxV00tb2tQRFVIRTVlc1RDdm1paG1NVjlua25mWTZGR2RMQ0MtTjJLbVNtN2RnbnZ3aTJWZ3BodVZoNHBVYUFXa3pKTi1PMXg5amtmT3RYbzdMalJEWDhkQXdTLTJhdENHc3N6REh4SFE1Z0JVenozRFl3Z0ZDbTJ5X2JzVkxINmFndGxtZUZOb0Q0NTBlM1NqUG8xUlJXazlSYU9fYlh6MjhUbW9Pc0dwdlg0WEVJcVkxWFNjcExZWm1iVEhtdDZF0gHYAUFVX3lxTE1JenRad0xtbDQzcDB3eW1YT1FrcXFLZzZzVFF2UUN6c3pDN3p1empUQ0d5RWEzUGQxeXJmR0ozVFVuRzNFOFo0RlZ0N0U5a0dPdHE1bVVJZlQxZjNuV1NGdGpDT2NBQzRITEtrOXZDZ0NZc095R2RxSlozVXZHTndmcUVLTkx4UVNoVGh6SU1GNmFrNkI3YWljbDFiQnBNS0NmN3JTdFdRQWNWSEo1c0UycmdJUHhaLWc3MnotbG44QV96M2UyVUhiSjN1bFFvQmpWZjNZYk1nZg?oc=5"
+  },
+  {
+   "id": "gn-QnBhazlSP29jPTU",
+   "fonte": "Giornali · la Repubblica",
+   "titolo": "Milano, migliaia di studenti in corteo: “Per una scuola antirazzista”. Occupato l’ex obitorio",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-16",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-16T07:48:28.000Z",
+   "luogo": "Milano",
+   "citta": "Milano",
+   "regione": "Lombardia",
+   "coord": [
+    45.46419,
+    9.18963
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd0YyTDU2ckFFRmJ2b29wLVRBTjVQZEdxOTFjQWpUX21LUGxIRjhtVlBmSTRab2VQUXFVaFV5WVNXaExGblRPdVNxci1tWTZ3WTFnbFdQdEwyQ1dRWE1CR2pwOWZMa3I2V1c3T2JodF82aVowd25NNmFlbFoxLTVwVkM4RUVJZFdpS1dJTDAzclFSQ25lUzZZR01LZkxEdHptdC1PWmJVRElta253Z3Z4bmZYb2NyTGdJY3R1dnp1U2xyeXRrdG9IdlhROWdXcUp3eGtmdWRLZEfSAd4BQVVfeXFMTi1FLXJNWm5YclItajVodUFuVlVPcUNoelNRODR4VEVnWmJ5cjU3X1c3bkt5aHBoMGdGVUZ5SW82TXJ0WDRoVnlSYnVVNDV1Q0hLRnJLcWxjUGFMT09wcEV2VmVCN0N1Z1BqX29jcW85TUI0TkNTekNTTEJJb2g2dDhVa0NFLUlHTkdockk1QU16Q3ZtYXdmWGJaaHhVTG45ODVwZnVmdVRkTjAxVVluY0tjS09SUGY1a01icDBKeGlObGZ1clBiR2Vqb2lnLVBGWnMxSXB1djE1dTBpak9R?oc=5"
+  },
+  {
+   "id": "gn-TldsbWFRP29jPTU",
+   "fonte": "Giornali · Il Mattino di Padova",
+   "titolo": "A Padova la protesta degli studenti: il corteo sfila per le strade della città",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-16",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-16T06:28:47.000Z",
+   "luogo": "Padova",
+   "citta": "Padova",
+   "regione": "Veneto",
+   "coord": [
+    45.39141,
+    11.80585
+   ],
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVnFQcHhjN19vbFJCZkpURk1FWHU0NGJwMHN2WC02SkhYamp4RXBVREdYYXhuM2tNcVhyeTJKZDlTbTFwVlBTdC10UWJlV2FIbV9zbnN2Y2JMakh0UUE0dzJhNkdGRVNKMi1MSkd5cFBSX0hSVnZYYXFLMDAwOFNPOWtoeF9wQjAyR0laU0Z2bTNMWE9GdVBseGM2bWNadU14aU0wUTVkQTZlSzRuNWlmaQ?oc=5"
+  },
+  {
+   "id": "gn-RkRTM1pIP29jPTU",
+   "fonte": "Giornali · Corriere Torino",
+   "titolo": "Migliaia in corteo contro il carovita: «Non si arriva a fine mese». Gli scontri e gli «Incappucciati» nella Feltrinelli",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T19:54:27.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNZ0FEeUdwVDY5RXZ5SWtzWmFrMW9rUHMyQVZtN3FyV1A1YXFWWUlUQ3E4d0owa0RRT2NBWUJiMFpVS251MTFXTXo5SzF1LVlhZ1lGVkZmY2E3cVdoeWdKRmhmS3loaTRKY3BTMmdDTXIyUi1wNjN1QlpPS3dIUk0zRERMb2R0bWUxS1JmS2syQi1WQ2N4eXFBckhNa1p2cTVqVWFBWlFVWlM3R1hoVnhkZUM4ZWNVZlBEMW14aVM0cGJMT3AybmYyTzk4RGhEbk91Y2JscTRieU1UdktWRDhXazBlMkdLNHJWU1UwbFI4WmpyUGJTTW1sMkV6WWZ3SmFHVV9lZkdYUFFzTDBXV1R1b0Z6NNIBmAJBVV95cUxPZHhSY2hDZmlFX0JiX29fWlA2YnduSEkxX2FpWGlqa1FXY3IwRUJPakJLUHdSSHpsZEpWd2RfeEtHRVpiWDg1U25lMUtuM3pDdndBX0RPMDZnRTl1MDkzT1pOSWQwbUtOSlJwX1h0Q1BJOGtkd2lPSkRLeDFrYXc5MWJjSUtlTmd3MkM0MVlTRzRYa2h4NlMxZWNZZUh0LW1qcDkzNmJVS19BbG9DN1VxTGppbkZFT2tiYnRPdXBKaU1kdGVYbmY0dE90WnlwSl9ORTEzYy0tN29GRmRqQVFpS2NJdTVLTG41cTNPVXU0S1pRX1V2T2JvQlctOGpJT3lPUmotZ3FqRFFBUDRFNjc1a0xUd1FDS3ZH?oc=5"
+  },
+  {
+   "id": "gn-UlFTa2gzP29jPTU",
+   "fonte": "Giornali · Virgilio",
+   "titolo": "Scontri a Milano, Torino e Bologna dove i cortei contro il caro vita si sono trasformati in guerriglia urbana",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T19:49:00.000Z",
+   "luogo": "Milano",
+   "citta": "Milano",
+   "regione": "Lombardia",
+   "coord": [
+    45.46419,
+    9.18963
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS1hvTXY4NTVqVU53d1B5LW9PaTZraGhuMGpMdlJqNzdhd0hhU0J3SVYtV04wODdUTDBsLWdidGE4c283MmxJQW41Y1JGbWdMSXpTalJucWdsZEoyaThzemtFSXNyNzJteVJWYkRvaUhzblllbTViR2RSWmRpeERIQS1DVlNXUlo4SzlCTlNuM3N4dXd4QzZHSzFIbE5ya196MXdSODVHYW83TjRuQTJxVmFLZHg0V0UyZGtLUGFDSHlKLXduOXh5Nmlfc3ZyaFh4OTFjWDIyWFBVZl82ZGRQSkh3?oc=5"
+  },
+  {
+   "id": "gn-VlpObXhFP29jPTU",
+   "fonte": "Giornali · TorinoToday",
+   "titolo": "\"Carovita\", la manifestazione a Torino degenera in guerriglia urbana: centro blindato per ore tra lanci di oggetti, lacrimogeni e idranti | Foto e video",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T19:37:49.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVlMzWXlQYml3SmJ2ZTFOMnNjOXo1Y1ZuTGFaVU9mRjlQV29kVjE1SFVGYWthOWtTWEJwVVRIamIxM3J3SEhZcmFGU1hmVHowMGVpZEphTWpJa2RIeXlGWF95dnN6dlBnb3VrdWZ5TmhIWE9tbTBiT0NIY3Brcjh5QVo3SFl6SnBSTjMzM2UzSXlmWHhrcXhCRzVyYW8tTlhncmhmRjREUU5ERkpDbDV0d2N6elZqUXpycVlsZ19iWHlVNDZYeXpETVhhSVVZNmxE?oc=5"
+  },
+  {
+   "id": "gn-Y1dkbWN3P29jPTU",
+   "fonte": "Giornali · Virgilio",
+   "titolo": "Scontri a Torino, manifestazione contro caro vita si trasforma in guerriglia: assalto a libreria Feltrinelli",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T18:53:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2dyeEplYmVIdzZtZTdKaXRFSEhsMk9SdnNyaTFBbFhQanVOaExqOUZkdEZXZUc2VXRtcE05OExETXhvWjVSdnJsWXNHRk5rRkozWENwWTR1YXF6RlVDUFNPVWFOeTNUeGRfZUFsWDFOOXRITVg4cFBTQTZ3MkNNSmxqclVaZ05aRDFxdTh6LTd1U3ctaTFNenhFQkFra1JzbS1ma2RjMlBLVFVJMUtMU1RINmkzTlhzdDZqb1ExRER0b3pDaDkxVmZxdS0wSUVSblkzYmtzeng0cnRtRVNz0gHkAUFVX3lxTE9ONnFIbElTREZLZmtuRksyUGhVQjdURXY0Ql9ndkNYc0xqcUQwQVpIMDNDcGxHSnRTa3IzZDA5RFZKbk81Y2ZmNmlfRnpxeGM3Q0pNRWRyejBFY19FTWpPTlFmS3NyUDY3OGN1TWl3dEdtUE1JeGJUTWcxRE8tT0EtNmI0M0ZRbGFacE9Td3d6bFpOMGpOYU4teDkwc1VIbUF3WmswZzVobzhaUVZXVjBxWWxFUnloNFZYbFl4LWVyaldCMUpOXzE0Vl8ySk0zTC12NkEzNVRwS3I1TjdQa01UcWdmcw?oc=5"
+  },
+  {
+   "id": "gn-blpDYXcb2M9NQ",
+   "fonte": "Giornali · ANSA",
+   "titolo": "Manifestazione a Torino, le immagini degli incidenti",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T18:42:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSENZcEJTNFpDVExiTVBnUFdHdVlINzlfZUNlM2NQVzkxV1U1M3lxenhUUWFTZnJZVDZLQTJrNEkzN0dSSjZ1Mkl6S0dnX2pVUkhBWU90OVpwM2k1UFg0a1BNYXBxZHU0aW9HeW9SMjE5bG4yd3pHNlp0b1JMSGJBZlFlQmhGb2lpZXhqUmNNWHA1U3djeFhmWmdKSmNPa2lJaFI1ODlNS0FBVlRzMnpyN3BZcUw4LTN5cnpRaGhwaGstOEIxR3ZMYW94dGRUREhCX2tqR2ctWVJtbTdDYktDbnZCaw?oc=5"
+  },
+  {
+   "id": "gn-WjBTekkb2M9NQ",
+   "fonte": "Giornali · Corriere TV",
+   "titolo": "Corteo carovita: le immagini dei disordini diffusi nella città di Torino",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T18:04:52.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaUV1V1dhNUYyeWFPOVNBQlRtQkZpYXA0aGxHMGdKRGNZVWNrVFRKZWlxNGwzUDgyVTVKU3I3ckZleW1qZHRBbjRXNldORnVGaU9qdWRDZUQxTHFUMFh3UTgtM0JrUmpBelhvNWxhZHFrZnpiV2xmTmNIb1hucTd3MVJGMlBHZ1kwWm9VbE9pV29aemxpQ2pOLVFDR2ZIaXlCZ0UtZU8wUU5rdE03SnllSzRFM2lxYkkzQjVic1V3Z204c01IUEtCTGF5a2UwczU2TGJ6eVZ0SzI?oc=5"
+  },
+  {
+   "id": "gn-cFEzVTFadz9vYz01",
+   "fonte": "Giornali · Sky TG24",
+   "titolo": "Cortei contro il carovita, guerriglia in piazza Duomo a Milano. FOTO",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T18:04:29.000Z",
+   "luogo": "Milano",
+   "citta": "Milano",
+   "regione": "Lombardia",
+   "coord": [
+    45.46419,
+    9.18963
+   ],
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XU3VEM1ZfbVpDeFBNaExhajVkZ0VCY21peWFUeHBlMVhuNE15NmhvU3JHVHRkVXdGa2ctNW10blJBeTlzSTBxRXUxa2c1RlAweHdJc3M0VVhSUjd5ZF96MkFwNzdrdlFacWQ5dTB5cTQ0Wks0V3pVNUFpQ3U1Zw?oc=5"
+  },
+  {
+   "id": "gn-ek5XVFEb2M9NQ",
+   "fonte": "Giornali · Corriere Brescia",
+   "titolo": "Corteo «contro il carovita» in centro, scontri alla fine della manifestazione",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T17:58:25.000Z",
+   "luogo": "Brescia",
+   "citta": "Brescia",
+   "regione": "Lombardia",
+   "coord": [
+    45.77958,
+    10.42587
+   ],
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQSGtHNUVDTms1WTYxaHplTzhFYV9EWlhaMk0zQ0tQdFcyekxqNmZDMmlpcUNkWTFXUi1PMXB4aG9JS3hycWVMenV6TmZGalBWU3g0UGRESFhiQ2NQSExRbXM3VXFvNlJSMTRGcjNwZ1hJYkswMDlST3B1WU1VQWYzOU9zUndyLWdlNTMyc0tOVnpsRGtqY29KMVZpTTZKT1FKdFhVT2ZGRWhFTGNCcUhtMDhIbkxvMGlDMXVVVUdIRjQ4YkZhSG5HYjBDTTV4NVFuZWdyY3gyaV94WHJ3UzQ0ZlhGdWp0Nk9vMnJ3OE5Oa2kxQ2xNR3Z6MHZkSUJqa3JOVzV0RE930gGLAkFVX3lxTE1pR0Z3bVEzNFlfVkpscUYwMmJuSGY4cFhET01FTEtSdmtoTzBhWkdlNS1QUzBETEpHa05DV0ZxalM4c1NPSVZEY0xDbmVFd2VZMmtSY3Rsc3ZIbzFrTGY2TWQ5aGo5NUczSU1UVUxWQWd5a21rejV1Mmc3UVZDbHZyZ0dGQm1CdTcwZHY5MU12eWlHUmFWTXhXLVh4a1FSTmk3Z1d4Y3V2SGlIVFNNczk0NGh2WnlPb0JsWXdkNUJHYjU2SV81QVQ2UUo5WXVZaGlUVFViTFBCOEExZlFpSGVYYWZxQ2pMOHlRUzZ2YUM5RzVHX3YwempMbl9uclFwampZcWUtYTBpbzNWTQ?oc=5"
+  },
+  {
+   "id": "gn-Um01VlFRP29jPTU",
+   "fonte": "Giornali · BergamoNews",
+   "titolo": "Disordini durante il corteo studentesco a Bergamo: due arresti e cinque denunce",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T17:44:00.000Z",
+   "luogo": "Bergamo",
+   "citta": "Bergamo",
+   "regione": "Lombardia",
+   "coord": [
+    45.75666,
+    9.75422
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVzBMZUdrb3dOOWppcGZoYlNmN1psWDEwM1lKT0VuV1NHUG9RSmprTldUb0FiejZTcWR0RWt0RjJ1OVBqS0thVU9lN0dXXzRwZm16cno1ZXFDcG4wQmVHZUpCdmltNXhGUElzOFh5cms1VDA4WWFhQTAtbS1tblItNGswMWhFZ0VRSFRRTDR5ejE3bXpJdXc4eThQeXEtYV9wZVR2TmdEMVRTY29jb2VsSWNQMWh1VS0tcXZqR1g5Rm5VQQ?oc=5"
+  },
+  {
+   "id": "gn-TUdoR1pGRT9vYz01",
+   "fonte": "Giornali · Corriere di Bologna",
+   "titolo": "Manifestazione a Bologna, scontri e guerriglia durante il corteo degli studenti. Assalto alla stazione con fumogeni e bombe carta, la polizia risponde con lacrimogeni e idranti",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T17:37:14.000Z",
+   "luogo": "Bologna",
+   "citta": "Bologna",
+   "regione": "Emilia-Romagna",
+   "coord": [
+    44.49382,
+    11.34263
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNFI0dDg5Ri1DbHl0eFNBUzdfZHJEME5RTWViUzhYQ3NiRHVHdU5acE85RHk5YjI2NEtQaDVFZ2k2SlVteC1VZU1LdGhqeGRIQVI2UWRRQTUyU21PVXZjRkg0RmM2Q1AzbmtJR3p0cklxcnNrRmJqX1NCUmY3cjQ0Uk1QZ0tOdVYxOVRCSkkzYW5zNktLRkM0TUpYd2IxbW5GVEpEb09hd1RvLUEtM1BzLVBOWTlHOUpkYXBsdm0tR0RXNkFkUktvaFRkNHhKMGd3VEFsdmpxUjlnd1ExRklBMWNYeENXcy1a0gHuAUFVX3lxTE5naUZSZnZEbmdXWkxYSzhTRkNlakFVY05PWFR2SmtjazRJR1oyMmtQQW9ld3RqVGEyU3lhX21fSWdzbjJ1ek41ZzI2d1pzSWROUUhpT05YcWRqWXU4U2tONDh4THN6U0h3d2o4Yy1mZktYakQyN012a0ZpTkdNZlFrcUU2bzBIUXkzczNaUXNJNl9SaS03SmZoSGMzcU1LYVRpcHdoWWt4cTRzT2dWcVpQMnZya0Rla3JDYlpMX3ZqQ3RqczNGWFZXVGVsLWNDTkNBMlBCS2x2WTctNWVVRmNNMGtJTzlkZTVwMGhGZFE?oc=5"
+  },
+  {
+   "id": "gn-OXFhRWxSP29jPTU",
+   "fonte": "Giornali · Sky TG24",
+   "titolo": "Torino, scontri alle manifestazioni: devastata una libreria",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T17:28:31.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM3ZpbThmUHRFOUpmUXZmdk5oRWF0Zzd6WHhlUUdLeWltb2VJNnRyT1Z1cmw1ZTV6WTd0S0dBTDFmSjFXOVlNWXBzUWh0Rzk3Q1NjbzhDYVNMVHN5eG1MOWl5U0dSUlJtaGQ1SjlrYTVhODJNUzRmMDRQNEozSU13bHRnNmMwQUJhUUNKbHBtOXQyejlEeDhXdlg2UHhoVW9qaElR?oc=5"
+  },
+  {
+   "id": "gn-RzFUVVEb2M9NQ",
+   "fonte": "Giornali · Il Sole 24 ORE",
+   "titolo": "Torino, manifestazione contro il carovita: italiani di seconda generazione cantano Toto Cutugno",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T17:28:27.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbGMtaEhSWHFETE1tR0R2WWowYWFqX2RaYlYtWDJfT2p6WlgtOE5kT0xmMThhWDlZNHZya19xMGN0QmFVQWhkZThlQnl2RktCS2VtUXkxdWZoS0k1d0RFYUZXRFFTay05Y1JPdldhUU40Smx4NkpRd3cwdjNYTUxmSndFMjI3bElvcHVMbnBvcUc0WG0tWmtKZTdrWHdTa19CTHk3dGpxYlltakpqNFFfOHh1OVhhTVNqQXFWQzNBa1RUcThPNDFZc3RST1N0R005ejRhS3ZpWG1TUQ?oc=5"
+  },
+  {
+   "id": "gn-RWMwT0Eb2M9NQ",
+   "fonte": "Giornali · Il Giorno",
+   "titolo": "Corteo a Milano, devastata ed evacuata piazza Duomo: decine di fermi e una ventina di feriti. La furia dei cinquemila, scontri e cariche. Bombe carta e un cantiere incendiato",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T17:14:15.000Z",
+   "luogo": "Milano",
+   "citta": "Milano",
+   "regione": "Lombardia",
+   "coord": [
+    45.46419,
+    9.18963
+   ],
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92QTl3RzBlOEpxdU03SWxzcnlBeTJvWFdLRms4cUZFRkZfLS1VU19vY2lsSllPQnlweTQtaks5N0VCTUNtb0NrMmdNb19mM0d2RlJKcVdjWF8xajQ0WEdVX2Q4Sk5xblZXRWo3TEc0OA?oc=5"
+  },
+  {
+   "id": "gn-UmhTMTlSP29jPTU",
+   "fonte": "Giornali · Il Messaggero",
+   "titolo": "Torino, assalto alla Feltrinelli e sassi contro la polizia: tensione al corteo contro il carovita",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T16:49:20.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOHY0NmRydlRuWFExMlpNbGFMYVNwdGZ1eXg4Y2VhdHIzLWJmZ3g4QmtETTFPTk9WTWJDVm1QZFZCWi1BT3pVN3ZLeldDcU1ybTIyTzZCdVFrWjI3dzFBTEVlSWVfWFNqUWU0RDc1b0RvczBoMElMZ0NXR1ZpQnZ2R3pidExieVFVR05oMzdtUnVSTHNyeWVoQ1B6bVhLUdIBowFBVV95cUxNZXFtYV8zVWphTUMtV1pmTmF3M3NybDNNNDN5WWRwN2xNZ2pneFJlZWlzcGVGWUEtbXJnY3lmUEF6OUxxSm9EUzBINzByWWpaTHNuLWliVkZIdERUNFUzZG1hYWQ4Y2FXQW1zNVFMdE5wUFhCWjYzZXA4SS0zaEpGQ2EwV3RxTlVnQkpSN254ZWJEWlFCZ1hVZGI1Umw2UHRhS19R?oc=5"
+  },
+  {
+   "id": "gn-dVpFcFZVdz9vYz01",
+   "fonte": "Giornali · La Stampa",
+   "titolo": "Torino, petardi e bottiglie contro gli agenti: tensione al corteo contro in Piazza Castello",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T16:47:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRVVKa1l1M0ZDRkc2MW9Sdm1xOHF5MDNic1Q0MkhvTmh2RDh4clVBM2hEcTllVVBBbk83X183V04xdWJUdmh5OUVYYTVQNDhLamdXeERQcVNnWkFrb0pHZ1VUajJXOHdFdkxhNE1oSjVCY3VtYkI4cnRQbXhNWXpIMW9VeHNLZTV4WHRpSDRadFBMdkZ1Q2VzLTg5b0xmY2gzbWY3WldnRUcwYmVKLUlMaG9BTzFSajRFeW1vWFY5Y0d0QWJtcWNVQjhyRnpjNEI3bllReS1HcGkyV0puZEpVUw?oc=5"
+  },
+  {
+   "id": "gn-TGEzbDFRUT9vYz01",
+   "fonte": "Giornali · Giornale di Brescia",
+   "titolo": "Corteo contro il caro vita, tensione e lacrimogeni in piazza Duomo",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T16:17:08.000Z",
+   "luogo": "Brescia",
+   "citta": "Brescia",
+   "regione": "Lombardia",
+   "coord": [
+    45.77958,
+    10.42587
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3JXMm1KdkhUUDl0OFpuNjYzS1BhYnBneUpiRlRkVFJIRzlYVlFSNEhGNlhYNi1XMDIwSWl5dGdYcFdnTTdRWGdtNlZyTFlBQl96N09tX0NnVkRBN1FCa0JMYktRWDRzTTNDaHNnT1IzT2xYd2pMUzlIcXdvZDZXYzl3SHdCeE9XSHBzd0FMS3ZoWjN4QkM3ZVRFb2NhR3RBOGowd3JLa3l1QQ?oc=5"
+  },
+  {
+   "id": "gn-Sk4wdG4b2M9NQ",
+   "fonte": "Giornali · Bresciaoggi",
+   "titolo": "Brescia, disordini durante la manifestazione: trovati manganelli e armi, 10 giovani denunciati/FOTO e VIDEO",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T16:12:46.000Z",
+   "luogo": "Brescia",
+   "citta": "Brescia",
+   "regione": "Lombardia",
+   "coord": [
+    45.77958,
+    10.42587
+   ],
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcDQ2S2N3UHNMRk5jVEhZX2xDT3JWaGhKVWZseE5ZTk9HUnNIRk9zZmVvcW9UeXo1VGFacE5HVTg1SEoycE9YV1daN2l4MFVERy11ODFwYmtaR0RFdzZ3VU90SzRaMV9xUjF3eEdVWmNuUExWUjN0cUtja1VZOGlteEZpdS1maTkyVm45eVNXOVhBaEo3X1AzRmROZ0lNWmxqSFdJVS1PcHB4TVdfVGVLcVdLTWs0eUdXdkZKWkdqb2dtNFBvR0ptVkFfLXNCZ9IB0wFBVV95cUxQMHZqWEZyNkluRjZRS2hXRENsRFZJQ3J2TkZIWXN1Y19iazBNWXQwSnBfcmVjSnpkNllyNlBkSWg2TVVuX1VfVENsbTRZNmRWSUxuSTdQLUhNM2pqVTZzRUpvMlhPWi0wNzFpSXBGTXdLazJJOEFpd2paNlFMOE5PX1V0T19tYi1Fcjk0QTMwSDVZUDRPTEJhWE9UZXFzV1V1ZGFURWFleklwdWd1aWRvbF9zbFdCNHM2eUFYcGpVdmFvQTlDT1FXUDNieEZFSThJN0tn?oc=5"
+  },
+  {
+   "id": "gn-SXpjbEUb2M9NQ",
+   "fonte": "Giornali · Sky TG24",
+   "titolo": "Milano, scontri al corteo e cariche della polizia: feriti e fermati",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T16:12:43.000Z",
+   "luogo": "Milano",
+   "citta": "Milano",
+   "regione": "Lombardia",
+   "coord": [
+    45.46419,
+    9.18963
+   ],
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93amJMaWVIbk5rdUU0NFlOT3pqdHBBaXJNejlXaXpMU0FQTmtOd0ZIajdCUlhiUDhLenN0RXBaUHpNbnhybzZHOFd6T3lISWR4Ml9VdVA5dGVyTEVRcmlFYjVCN284UjVNU3ZJcXlWbzlkNzIzclE?oc=5"
+  },
+  {
+   "id": "gn-OTZkRTkxP29jPTU",
+   "fonte": "Giornali · Corriere TV",
+   "titolo": "Torino, manifestazione contro il caro vita: scontri con la polizia e assalto alla Feltrinelli",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T16:11:07.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQb0VoYkFhUEZFM0Q2bUFLR3dRejJmSWR6ZDJWT2t4X2NXckVVUkhiclI3N25PR2wxV2NDZEtQaE9IdnB6YVRfRVl2ZkFBeDRCanVUSk1tTkNMckZhandzaUFpYzlJN05ObTRYenlxbTFVMXlTeENSTXlOdkN6RV9Kc21tRDlfdmZZZVRac2hpYmJsSTdZSXlrSUdoWUNKeGlFQUZGQXN2WEJpal9aOG5yMmRpZUtsNEhNaUtVU0VtSFgwMUliMk12YUZYV3BpRXhJdFctQ3BnUFdjcUxyMnVFV3o1WGY5VTZaZnVTN05wLV96dE91?oc=5"
+  },
+  {
+   "id": "gn-ZG05d1p3P29jPTU",
+   "fonte": "Giornali · Corriere TV",
+   "titolo": "Il video degli scontri al corteo a Milano: sassi contro la polizia, cariche e danneggiamenti",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T15:57:27.000Z",
+   "luogo": "Milano",
+   "citta": "Milano",
+   "regione": "Lombardia",
+   "coord": [
+    45.46419,
+    9.18963
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPQ1ZVd2Y5THRiRGgwUC1IVlkzTFl6bm1MM1lMSVlCcmdYRDVKOG0tTDdZMFRGcnk1ekVtYTVObXgwcjhrYlNLenFFX3JrZ0tFVTNVR3dsbnowOFRuUXRhSVpmYnVYZU9lVDY1cmNoWF9ybUxPQ2JTNkdUTWJpUlBBVl85UFNab2MzRHJaSU41RGJ5VTZRS29ZdnBLUElUMEpxSnprekFCZkRpelVaV25UWFoza1FhUDRrTWg3Q01IU3ZJU2EtZXRvY3hWWmtDMmZURHcyazlqQ01LNEhNNUxBOVhiRUZjQXpBN1hDb3FlQjVFaWRIWWl4dG50N0F0VmRaalQwR0Vfdm9wZw?oc=5"
+  },
+  {
+   "id": "gn-RGxVVVZFP29jPTU",
+   "fonte": "Giornali · TorinoToday",
+   "titolo": "Proteste e corteo in centro a Torino contro il carovita: tensioni davanti alla stazione di Porta Nuova",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T15:39:27.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYzFpZk5kcGpLTWlfNmVFOUdEc1JOU2FsUWZjWXNERUtSU0VMaVNlank3aEFUZVJwWTFRZ2tCZ2FSVDh2Sk1LNVRlMGNYVzZHbkl0eldjQUd5WmdoTThYUFJBWktPcDZBMU56WXM1QnBhMU5vVEt6NXRnV0poLWZ2R2Vtd3cxNDlUUVE?oc=5"
+  },
+  {
+   "id": "gn-UTFaV2JVVT9vYz01",
+   "fonte": "Giornali · Corriere Milano",
+   "titolo": "Milano, sassi contro la polizia alla manifestazione sul caro benzina. Oltre 5 mila in corteo con «Italia in piazza»: barricate con i monopattini, bombe carta e cariche",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T15:38:13.000Z",
+   "luogo": "Milano",
+   "citta": "Milano",
+   "regione": "Lombardia",
+   "coord": [
+    45.46419,
+    9.18963
+   ],
+   "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOQlhzSUdFNEozMGg4SXRkVlBxdVlWM0ltaUoxTFhNY0FiNWN3VVhIVmVmMWlZMko2NXo5WTYzTlRTNWdMMHcxbDE5ei1VYWZ0YTFHanNDS3haczZieUdiZEdBVlpDclYydlhVOUMxbndST24xUkg3c0k3U01jNzh1WDhud0NPVmRHMWljNDRqM1JvTlVpRUtfS0gzQkJPMXZ6U3czV0dZYWtDMEEtaEVOQ0kwWWJXcW5KU0ExVlM5Uk1INTJCUEFjM2ZFZkU0TDRoMVZhWEtSdUlubEZCejMtYXJiV01JXy1wd05PcjRkRDJobTZocFJTR0J2SS10YmkyMEdPR1ZjR3hpSlR3b3FnZVNNZG5ndmJkeS1rVFp1c2ExRkZSWEtldzllN3RQT0FzSEppSzh2Tnp3aE0ySHfSAcMCQVVfeXFMTUhfaURUdkdWNUdJdElIWFdHMDIwRTJrLUViYVZqd251YnBBNjVlRVIyLXltM0ZDaUR6MVRIWVdSajI5RDdDaUJvLUNleENOR3NFV09WNllwZC13cTBGcWtaZFFTdGhBcWc2UVFMOUV5cWdybjVyclRYd2RMMFM0dzFwY2hlV0JLX3NRdHpLblU0dk96MjBnMEg5dGF1N29oWjE0Vms3ZE5yWFZpTlE4c0RLXzBFUER3SU1GM2h1cEc0Q2xBbUMySW9KQ3RFbzZrazBuNTNGc05vcF9PTjdBUjE5UUtZdU5RS0otQlR3Z0lydldfeVRyaXJ0Z0lrVURGeFY5dzEzcjFRMlo2WVJNREVoVThSUG16VTRMTXd6djcxbTlKaWtYVFV2ZFhIUk5Nc3ItRld4dTlGUzE5VkVQQ1ZWbUU?oc=5"
+  },
+  {
+   "id": "gn-R01FWnEb2M9NQ",
+   "fonte": "Giornali · Il Sole 24 ORE",
+   "titolo": "Torino, manifestazione contro il caro vita: scontri con infiltrati incappucciati",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T15:25:34.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbTR3b04wcDhoRGUzNzB2QUktWEtIZklNUmVSNjZ6M1gxNzJuM19lWmxNY0NCbDJ5Z2p1bmRISHJPQV9ablBfeDNqUGpLVGlfQmZBTzBIT1VvM2lJcjZTblhnNHdudlluay1mUkUxUGtncEZLdmx6UUZSZ1ItZlV0MURyeFJwYjVBWXI3QUZjbklMZmpIZmVfUXBtZ1pIM3ltR0xaTmhhQlNoLWtIbGQ5VHdwcVp6cU01ZVNFNHVPSjBGMEZq?oc=5"
+  },
+  {
+   "id": "gn-NU1XVnYb2M9NQ",
+   "fonte": "Giornali · Il Sole 24 ORE",
+   "titolo": "Torino, manifestazione contro il caro vita: in centinaia in piazza Castello",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T15:15:34.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY0FObV92cms3YnhPNEpnTUpBTDJlTDA5ZDBvMDN6UnU3ZmY4WEVsYnR4VTJJMzdFcmN3dy1zVGNXX1FxZkJEUkhuRUJJbENhajY4al8yYzFNcm4xWEphVThNcjFuTHVrTXRONy1MZElIN09yYkZLLTFjTk1pYTVOZm5kaFh1c05MeVJ1MkI0clh0ZDM4b1JGWTZZZTV1OFlVS1FJaGxBd3dxSXRONWRFRVVIWnhlZUc5MWVv?oc=5"
+  },
+  {
+   "id": "gn-b01IQjMb2M9NQ",
+   "fonte": "Giornali · Adnkronos",
+   "titolo": "'Italia in Piazza', scontri e feriti al corteo di Milano. Disordini anche a Torino e Bologna",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T15:14:00.000Z",
+   "luogo": "Milano",
+   "citta": "Milano",
+   "regione": "Lombardia",
+   "coord": [
+    45.46419,
+    9.18963
+   ],
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXRCd0V5UDRMY3hoQi1SMGpSa0Zjd0llczJzZ3FmaF9XeTFOQ0RhcHhfYnlCQ1paM193QmxiYlhZWl9scWp2VHNQR0hpTkxCTUxITkJzZ1FzSE96aWZxN0VtWFZDSG4xamRCajJyS0lna2dpWHVUbTIydjVuQ1U4NE9TbEhkY2Q4RmlsdENMM0pDUFdoMHB3?oc=5"
+  },
+  {
+   "id": "gn-Ymw5S1ZnP29jPTU",
+   "fonte": "Giornali · ANSA",
+   "titolo": "Corteo a Torino, parapiglia tra i manifestanti stessi",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T15:06:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS0xXdEpJMEhnc1dBWmFHQ21Pc0tWV0NSMGdNbVpRZkJ2OUVGVHlPdXFPRWlrNUtpRTVrQ1JTSHVMaEVsdVZFREZtNERmREprR2ZocnRaRWJvM0QxeUh6NzNJY3dXSWpPb1NCeFB4VW9yOUxWa0xGZnFvWHJ5Nzc1UkFWZzJXeGRSUlhqbS1kWmp6MUdnWDdjYU1CQko0SjFSd1dMR3lXMnZtLUJSdjBraHEzc1pmYmhSclM2c2N6dUF2YXJFeDRCZW1La3pkeEhwR0RyUkp2cThuTERlOXFB0gHkAUFVX3lxTFA5Z0djd3c0azZ1ODNPSUV3ODZqV09sbVhPUnlya2Yta2M4SUxCVlhiVlJZRGtJRWI0TXVKV0tMdXZZQU9yUUhIdnREeGg4cE9HV0Y3ejJwOFlkcmNjZlJTc1VfVm84RDY2SW13ZFNTZElzbjdtUU9GZklGSHFCaVM1VUNfc1BlemRma1lLSExEbV9zVFZqNWVhUFZwR190a0FrQkI1VHNOSXA3SXc4OE5fTWtpNTVWZ1U3NFZxUG1VdU81aWR3MkxfV24wVE91dVdnT3lsa1dac0puOXMwRkJBbl9KVg?oc=5"
+  },
+  {
+   "id": "gn-RkVZM2Mb2M9NQ",
+   "fonte": "Giornali · MilanoToday",
+   "titolo": "Violenti scontri in Duomo a Milano durante la manifestazione contro il carovita",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T14:34:15.000Z",
+   "luogo": "Milano",
+   "citta": "Milano",
+   "regione": "Lombardia",
+   "coord": [
+    45.46419,
+    9.18963
+   ],
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96NHh6d21QVzlUZTBDVnhEMzEwUXNVekZfMkN3MDBFT1c2Z1pSdk52QmhuRkd4MzlMam9iY3lrLXYwM3c5blZ4NGdELWZDdDVCVG1TQ3FObklUR0cyMVdUODZweC0tcWUxUl8tNHZtWVk1bEctUDZsUEE3aVFEY3c?oc=5"
+  },
+  {
+   "id": "gn-Vm9Nemsb2M9NQ",
+   "fonte": "Giornali · Adnkronos",
+   "titolo": "\"Lavoro, pace, Costituzione\": in migliaia alla manifestazione Cgil a Roma",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T12:55:00.000Z",
+   "luogo": "Roma",
+   "citta": "Roma",
+   "regione": "Lazio",
+   "coord": [
+    41.89332,
+    12.48293
+   ],
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT0duV1dxWVFoSWdqRVRtZmpsSFNUb1NiMG9LWUY2cWg1Z0wwc1g0bTFEQ01veVl6R2NjY2pONGFnM2tmS3d3UGtnc0QyNjdTY3hFWEJhLVZmbm9WSHZpRWgzZkM0Ull2MFd4R2gyX04xVGVKenEyLUlCR3NxeHRza2V0YVd2UVJub0tVeTVoMzk?oc=5"
+  },
+  {
+   "id": "gn-Vk5mZFhjP29jPTU",
+   "fonte": "Giornali · Corriere TV",
+   "titolo": "Landini alla manifestazione della Cgil a Roma: «Scendiamo in piazza perché c'è bisogno di aumentare i salari",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T12:24:46.000Z",
+   "luogo": "Roma",
+   "citta": "Roma",
+   "regione": "Lazio",
+   "coord": [
+    41.89332,
+    12.48293
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWXkxM1RyUkhiWUVUdklfVGJuYm53VDkybkRFZ0JMd0lpZkpwTDdkVHh3OXp5SVRsUERFUDFMWnY5MUdUUnpMTFpRclJHV015OW1uc0Y1MmhnTlZlY01zdnpxTHVlNnNfZmgxNzFRM0Z6MXNtVlFwV0JTVXEwTEFUUEN1NUNSQ29qNGc5eWYyNk1KWTMzNG1YcTQ1QWhHV0I1MWZEU2tldWh6a1JQR29lWTBuMHFOWGtzUTd6SVNvNVhuWmFuX2laUHdjWGFtSjVfYXZ1TkpuZENmQUJLcEgtRU1Fdk16NkVuQ0VWRno3RkdqdTZWbmV4ZW5GWFI5dWt4elVOOVNfdXc?oc=5"
+  },
+  {
+   "id": "gn-YlVGTVduYz9vYz01",
+   "fonte": "Giornali · CUB",
+   "titolo": "Venerdì in corteo a Torino i professori in cordone tra studenti e polizia",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T07:00:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVTZEUFd1MXdLdVEySzltWVBPX21rVXZhMHlTblVoMDVPdElYc0FONnlIU3RtcmFaVkJOOXBaRXUwaE1SN1FyZ1Z1c29BYVpXZGtwdEVyVEZOZ2VSTTU3MHNQUGtabXJHWU1KOGN2WVZMUE5QZ09ETE1OTjlUa0pkX1owTFptbkktakgzdEYxckpfbUFMWnc?oc=5"
+  },
+  {
+   "id": "gn-VDNCRmMxRT9vYz01",
+   "fonte": "Giornali · Corriere Torino",
+   "titolo": "Rebecca Sansoè, tra i prof in testa al corteo studentesco a Torino: «Fare il cordone è stato un gesto spontaneo e la tensione è scesa»",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T05:57:34.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRFJ6RlFyT2FlR0x1T3FyX3FOVGRaVkNpWTZXSDdDbmhpakFxdzk5N1ROanJYdFN0YXlFNy02ZU10Q2Nwc2Z1RGRaUzNVd1ZHVExYX2lXMm80UFlXd2ZoaTMzTW52ZXRGd2VzR2hHUG1RWi1IY2JMbGVNM3BpYzJOeGxad284MC1aQ0NwMmxvRnhKTzhBd2hvajZqMGcwZTY0QzJMUFZGdEVab3NZOHVvZ3hORU5xcHlKUXY4ZlhwNjBGVEtjRWFBM1Z2WEFJalBJRFpwU0hoNW9ZVWNEbE5wREdRNDd4c1lB0gHuAUFVX3lxTE5xNmhtYjhDak5mYWFiSXhXdDVDNkJzRjQ4elViWjdrc3BXRi1lZHhRbHRtbnVGcWpOcy15TFFLNjVVRlNFRVdGQTBUU28tN2JpSkFROG03amdGczlkZzM0b0JPb09HMGlnN1hlSDRkSDVMNEpDYUFhUmlueHNVTHVVMUxMcVE0dmNHc2x0NkpzbFVkUFdBM29rbjVDMk5NQWw1anM0dEVQdjRZU2U1TW1RRzYyOExabUVuV21KOHA2YTgyZDVaTElPcXBwMHpMaGNDek52eWJZTEVIczF2N1lfdzlTbmNHbEdJT3BFc1E?oc=5"
+  },
+  {
+   "id": "gn-a05XYTJjP29jPTU",
+   "fonte": "Giornali · ANSA",
+   "titolo": "Fabbricavano bottiglie incendiarie a corteo Torino, arrestati 3 minorenni",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-18",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-18T16:40:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbTFhSHJuRUNLUkgxNU1ITjRGbGZBTUxiUlg1QkNUM0RoeUtZQlFLYXZEQXh4R1RwLS1JQVNRcjhTNlltdllPM2JhLW1iSDJmQm4yMmM2Y2dnRFVqb2xiM2NnVm1ab3lHU29Kd1BrVWJaZlVjOXgtOTNYUFRnMkw1ZUJRZUVuczMzR210dWJ6cUQ3cGYtSEFzZlBXRTNTbndka2FMZFNxMzFCYUR5c29GbmZuWkZzUW54ZUhPWnQyOW9jTkxXYnpOWWpjekxaM3pGeE4zb21pT2RzaDh3WTVxTmlHbGdDMFA4NWlKTGdkUDhZQ0VK0gH6AUFVX3lxTE92cVlpeTE4WFRVaklkSHBLRkhIVUI2N3RGd1NfUzkyUU9UWlE0UVFrcVhrTHBfLVJzN2RBcEowYmdnXzh6Y0VKeDg1a1d5ckJqZ1BDdm4wSmlWbDc3cklVWFFzNkJVeHpheWFUbzJHRjdldFFTMk5Va0VuTmtPZEJPd2t0MHEtT2F4Q1ZRUWJOUW1NS3hIc0RsZF91Sm1TMldsTzQ3cGJqTE5ib2ZwV043RkhERlNwTEJuX2R4NWFzaHMzSHphekxZWmRIUVMxRVA0UXZGOXliVG8zYkxSX1l4WURvb2dJcVc0RlBIN2JJNVRVUDlhRkNWa2c?oc=5"
+  },
+  {
+   "id": "gn-bVJ6WldVUT9vYz01",
+   "fonte": "Giornali · ANSA",
+   "titolo": "Libreria Feltrinelli in stazione Torino riapre dopo assalto durante corteo",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-18",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-18T16:12:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOODBIZ3Z2aDltdlQ1VWlMYTlrcE55NnV0YUxXQm41aUFDVEw5MlNDTDMwQzdDZ3I5WGE2ZTVjRm1ZcFJGOUp5QUdJVXZpOUkxYnpmcGUxaS1ybFROcGx6SGNTNmktY1k2OWVlTmNJV2t2SlpWTHhFSHNOR2xUbFJCOWtDSlJhM1RXWm11akNnS3dWdzgwdU1BQkRsbnFmMWhPMDZPbERYVFE2WktOaHZZVGs3ams2SHlCZUZBMTdqc2Q2NGJjZ3hoRUdBb2ZOZzVEYUZhOTRMZXFjTDBQV0xqS0JPdl8xU1NxbUlRazFjQUhXUHdlMFlv0gH8AUFVX3lxTFBpclJlekJKMzFhYWxGZGZvLUhaV3NNNHVVSWZYVVFJQWtrYlpNR0tBU0l4aTJxRmVGdzI1aEdDQ1Z1Vy1rUGZRUXB0a1hidkZnR2tUTENlNTBMOWFsU3lUdTZOYkNEb1ZtOS1RblJ5dUd4ZnVBaTZoUzJnWlc1dEJod2VHUGJkSEtscG9uVk8xT3VUVUFBbEU2U0N3aXhXV3gyMXZ1bFlhUVZFWFJGb294bEp3bl81MmFRNlZoTVdLejdmLWh0LWNxZ25vSE8xaG54V3dXSnBPaktDc1dlRHJWcXFPUzhQSDFVSDd1dHR6eWV2Tzh5dHVmRzZWUQ?oc=5"
+  },
+  {
+   "id": "gn-clNFUnBidz9vYz01",
+   "fonte": "Giornali · Cremonaoggi",
+   "titolo": "Corteo a Milano, \"Novità a Cremona\": \"Il consiglio comunale sia unanime nella condanna\"",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-18",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-18T16:07:04.000Z",
+   "luogo": "Milano",
+   "citta": "Milano",
+   "regione": "Lombardia",
+   "coord": [
+    45.46419,
+    9.18963
+   ],
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM0ZSVWx0c2pDNWV0MlBYb0JvZzFDOEgzdXhLYXJLbVJVRkJ4bmczTzBvenZsbGlBSGZ4ZUU2V0Q0NEplbGdMb3U5UXVrX1hsWDNmNWhLdFg1VGFLemltcmZJN01ER3VfbXlRMlZmTVB2b1c2eU9hMVNEeVhxRXhYWUt6QUtIZnd3QXd1RHFlTmpjY0I0a095UzhTVmtnRHNUYl8wOHk0bC1CX1pEU3VGTTRheUE0U3FrSERpbw?oc=5"
+  },
+  {
+   "id": "gn-blYxUzFrP29jPTU",
+   "fonte": "Giornali · Corriere Torino",
+   "titolo": "Torino, scontri al corteo contro il carovita: 4 arresti e 60 identificati. Quattro minorenni fotosegnalati dopo l'assalto alla libreria Feltrinelli",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-18",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-18T15:17:05.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOZk11RlVfNVFSUS13bS1DaHliYzdTN2s4VnJBYmFBb3ZxM1dIbmhNOG8yZHB4MkU0YVh1RmdDVlZQazQ5WVNzR3k0V0RDNVhOUUtfRk83ZnRqV2x2ci1GSlpIUjNFckxXanFrZmRVQlo4V2RoMTE4T1pobm5uN0R1S1FTNERaaS1tekFmbUxXYjJqcXQzY09PNjZLeUNrQjVFLUUzSnJjVkk4eDRab0VsRnVON0NhTkcwWEhoYzg0NWlZOUxlMjhvWVJVdmh5VnpfQXhmYUVwN0xDSkZ1bEt1YWpvaFZRVVZmTWZXdjdubno3d291T0d2NGtWbWFYeFNRSy1PMTVOUzBRaDY3UU1NSXE2ekFERkVWZThTc0F6aUJQN2lGOVd4T1VKR0ZTQzY4NEV1LXVUdk56MkNqNng3djNnUExlMEVmLWfSAc8CQVVfeXFMT2hzcUJPcjdTaGdCeXFMbDhnM2lRTlhBTVd5UUwwNjM4Nm02elpfeHdXZk9RLXg0TkdwWGVMeXcycm91bzRnOFhRY20wSXRTWWJuemlDNVVkelZVZXF2bW5iNjNwX2c1bURkMEhtNVRHQVIxdzYzSWdVNmJvX1dpWWVYNE1abTFsN25iWTdKQUpyUktsLS00UmR0UngzWEVNMk9nNnNOSE0wTlVPdnFDVTB4cWZ4enREeFdRYVpDSEdJUHVnN1VMNHZZLTEzcVgxQVprNmVIaXJtck1OWi1JaWw3dmtBZ01oRnhGMlh1LWNnNi12ZHU3dF9qMFpDX1ZxT0R5cjV2VFZ4WjhjTGEycHJiN2JPU3lxeEhVVkJSemx5c3NycU03YVRwbHBNRERlMW5lTTc4U3lBbzBiOG5aZW9wVG9CdGVwcTNtbnV1S1k?oc=5"
+  },
+  {
+   "id": "gn-UlVaMTgb2M9NQ",
+   "fonte": "Giornali · Giornale La Voce",
+   "titolo": "Torino, l'organizzatrice del corteo rompe il silenzio dopo la guerriglia: «Non volevamo distruggere la città. Avevo visto 200 persone sospette",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-18",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-18T11:31:08.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPX25ybi1vMVRSZ1JQNHFiN1pINU0yM21NTk1VU3BrVlRKbFpvWktUeDFxV0c5SDhheVRHNnRaV2JIYTZNajJ6UWRxeVNKcVkwN3JnWnlPTDVfSEgxOXFBajU3b2kwaElXcXN2dXBUOTAwdlNyWGJhM05UVVdNMzE2SkptNFZQRGd4UGhoMTkzLVh3WnVyaGNqdUJwWFNSUDBYVVhuZ2EwRk5XOVhROFVFaENCZ0Rpc3AwVEZXR3U4RHZTeXN4eC1qNGU2UGN6Z0ZzZ2RVRnVhdzE0d0RHMnFTVmhrV01iY0F2YTdta1c4N3dYaC1DV2hVOFVNMzhfZndhTjhWUEZnbzN1MGVyc3FGRzdpeG1odU9uTG1Ua0RUZ18?oc=5"
+  },
+  {
+   "id": "gn-akpuYzI4P29jPTU",
+   "fonte": "Giornali · RaiNews",
+   "titolo": "Torino, scene da guerriglia: degenera il corteo contro il carovita, assaltata libreria in centro",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-18",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-18T07:53:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYmtXYzRocnJBbGZLOG5ZSE93ajdjWWxTZDRoMjJjNXExNXVhdEktbm9RZTEwamdDNmtXUTNkUDBoMUM0VE9UUDZENVg2R3ROR3pZT1NSRjBTM1U1YXAyNWZSMzhDaEVPbEJqWTItYXpZZjZremd5Zzc5c3Z5b1FDUlNGQUVxX01mU2ZKb0RsWWNjeWZWT0M0eUNOcGVZY01wWjlfNzFYUnB1VTlmVy1FaDFwY0xrenhLQmfSAb8BQVVfeXFMT2ktSF9CamV6ckVHYVRoZFptdnVqeWl2cTFBMlJBMnNqeHJzbHA3UFBKOG9CeW55UmVWNXFmS3M5MzZIYUtYbl9Yd2otUWh2S292Z04yYU9TSDRId3FvRjVGRVVuQ3dBVE04T01pRnhNNDdXZndKTjh0SHUtWTJGQmV6VmZaenJNVWg2RE5XdFkwclBHUFdOSEhVVVJwbW9GTEVTWVBTNnBpanNLVEE5Q05La3NtaDVVd3BmejJnc28?oc=5"
+  },
+  {
+   "id": "gn-eFQxOHcb2M9NQ",
+   "fonte": "Giornali · Comune di Pistoia",
+   "titolo": "Sicurezza e presidio del territorio: il Sindaco Capecchi riferisce al Consiglio Comunale sulla riunione del Comitato per l’ordine e la sicurezza",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T17:32:15.000Z",
+   "luogo": "Pistoia",
+   "citta": "Pistoia",
+   "regione": "Toscana",
+   "coord": [
+    43.9741,
+    10.86871
+   ],
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdFRZZUYzOERyN2t0TzBuTWRVdlM0SmtEaUJJbnpXempCdzhyekV0R1ZYc2xWd25lbFoxeTFoc1FvT3VzdnRleWc1RTJ6Qm5aQl8tRWVrT09uSlpEb0pBbWJFVzNKaVM4MEVadnY2SE92eDFyVDM4Tk4tOEg1MWZCcE5NT3dTdlZuVC1ZUVFLcENPdnpzYjFpSTRHQ0U1M0hpSWkyTy1pWEI0YXh1cjFubVJTQ0dsVFVlMER0X1NVYkFRYUxNRVFUMS1SbVowbmFZemRpWjNHLXB6VVl4OUdRU3NXSEJISjhNOUowdFV4T0pISnVTRFRhSllKcmRuTF9aMzZSUVpVc2NxT18w?oc=5"
+  },
+  {
+   "id": "gn-T1dFM2JuZz9vYz01",
+   "fonte": "Giornali · Toscana Notizie",
+   "titolo": "Carburanti, Giani: “12 milioni dalla Regione”. Coldiretti scioglie il presidio",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T17:24:00.000Z",
+   "luogo": "Toscana, Italia",
+   "citta": "",
+   "regione": "Toscana",
+   "coord": [
+    43.45865,
+    11.13892
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMmFhZ0t6ODRmamx6SkUtNGxFVUFFeEEwWm9qSnVtU1d5TmJfdjlBQl9HUDZHR2RRNUtSVEZWYXB3VVRZTDhZd3dGUDNoZzZjOFpVNG1Sd2lDdTdacTVDay1PbXprTS1yNm1FR3FPYTY4dnREMXJtQi1ReVpGdDRJZEM4MC1pbmMzX0NPcHV4RDhGMGFSTkJPTXR5NUlqRGNjbW45OWE3bng?oc=5"
+  },
+  {
+   "id": "gn-MjFVZFZFP29jPTU",
+   "fonte": "Giornali · RaiNews",
+   "titolo": "Ex Ilva, terminata l'occupazione dell'aeroporto di Genova",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T17:04:00.000Z",
+   "luogo": "Genova",
+   "citta": "Genova",
+   "regione": "Liguria",
+   "coord": [
+    44.40726,
+    8.93386
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTG9haVc2V3JGRHJsWVJiNjR3Wm1kdTl5Ti1kb0haTzVtQ0twQnN6QWlYMUZzWHpTMGZVQ1J4cnEzUWdid1lrZGktd1J3dlJXMmpZS3F6NFNkeGVLdmFzZWR2bUw0cjljUVVSLUR0VjZBV3M4T1NtU0FSVXpGQzJXRkxYWUlKS05SOVhuWnl6WmZEZkNyWmM3R1BuQmJpN0ZqX2RnQ2U3Tk04R0ZRbGF6aXlxbjN6VkdQZk40TVBoUTVKYlpPU1dCRU83VWVQRHc2QVhZSHMxa0NYdGpLdnfSAeMBQVVfeXFMUGNMdm50cmZMMXdOT0NQaERQQUVfQ1F4Y1lMVFhULW5aUkhacDVkT3VKaXdRYWw1UWx5YTBLVjFQd1lzZmRNYS1RQ3phQjBscHltWmdlNkpWeUhJb2FmcU5kTHdkNVp5RTRDa19SSVlWNVhURHpUaEk2aGxWWHJjWTRRTmVfMWt1SXl6THFiSnRKZ2M0WVlqQnJmWVV5bHlWTWRlak5PQThGeGZ6Wm5UUnhMYTJJdERPM2RnbkhoR1ZvcXRHSTRDZEd4N2VMZmNYeE1jaFpTLURpX2xManJna21UdVE?oc=5"
+  },
+  {
+   "id": "gn-U1VOeWR3P29jPTU",
+   "fonte": "Giornali · Il Sole 24 ORE",
+   "titolo": "Ex Ilva, i lavoratori di Cornigliano tolgono il presidio all’aeroporto di Genova: incontro il 27 a Palazzo Chigi",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T16:33:46.000Z",
+   "luogo": "Genova",
+   "citta": "Genova",
+   "regione": "Liguria",
+   "coord": [
+    44.40726,
+    8.93386
+   ],
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQW1aOVk1MVhpSURkbGJpdjVsUDFnR1ZqajVBMFhGMXc0eC1oazF4S0s4MURTOXBWNjVZQmV6Tml6UUJHTmhGVUZtd0FidzlFWXE3Z2JPS25tbXo1N2hDelI1bUJzaE13V3VKeE10a2ZOYjQtOGpMZk1vaFBGY0d5UG9aemNWVWxiX3kzY0czcTlTTlRLcnpRQTlpSUNydw?oc=5"
+  },
+  {
+   "id": "gn-VVhOM1VRP29jPTU",
+   "fonte": "Giornali · Toscana Notizie",
+   "titolo": "Operaio morto Cantiere Av Firenze, Giani al presidio dei sindacati",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T14:12:00.000Z",
+   "luogo": "Firenze",
+   "citta": "Firenze",
+   "regione": "Toscana",
+   "coord": [
+    43.7698,
+    11.25564
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY1hkendXR0I0eWs1cGJ2OGVjdnU2RW1HNTBLZW8wYnFZYzRIOC1XSUxTYU9TSjRpQW5WWnVzbWhPSUV5QWxnU0JXc1lzdlQydDR4UUtoYUVwMThfcXZqT19JMWN4REYwZzduZEtaNVZEZF96RFAwZXh6WjhnRVdhNXo4YWtETEliYnJCSXpZSEtYbEFzWUZPci1IbkFYTU40d2VhSUQ3T1hGWU50SjFiVG1DVEIzc2ZIV252OXVwUXN3UQ?oc=5"
+  },
+  {
+   "id": "gn-MWx1Um1jP29jPTU",
+   "fonte": "Giornali · Corriere Torino",
+   "titolo": "Torino, ancora scuole occupate. Blocco delle lezioni in sei istituti dal centro all'hinterland",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T13:20:46.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOaUZIZnNrV1FqMTAzdm1WUzBBLTBCSS1TTzdhWE53bi1fTzZyQUxIRWNTTEFGVk9XNEhfT2htSmUxOUdXaGtMekxpMFpCZVZMVXYwdW00X3JKa1g0cXVnNkdZUFRFMUtkdkJ1dEs1NjZlQmE1RGNLQzQzNDZGTXU4V25iMzFWamRuMkcwYTNoUUhBRE9NaEdlVzVrU3hlaW5SQkpfYmZuUmlKSHNNUVZPT1RZUmNEeTZSdW90d2FSV3VpRGJTSmNhMUVydzF1ckJKaGc3cDlyV25zTlpjM2dSS2FFR0RrVXhXVGZQRlM4ZlZVb2FJb3o1Yy0xTGJaY2g3YS1aUktITWM2bnJPYkd0VXdQamh6eGxFTDhzalJoMUxVcWlKWWw4NGdGN2k4a1ZWU1AtRFJFRnQzeXhUYUc0aWNHY2kxM1FiZUHSAc8CQVVfeXFMTTNDMGwwcU00UVpyaVdjbjMzRjBHd2o1RVgtNGJ3VXVwYjFWdmtTMjZTRUE5RTFNTkF5SW4wZTdVQXRUdWpGUjJwcWdya2d5aU5oUmVHcTMzMGNCTUpwTmk4VlVZS1VfOHZIVWZTZDlLT1JkOTlUUVpGOWhBSlBKNUhmbV9uNkFRQkZuYkVfVGFiOFFqZVBQTUtabXN2WUtDcnZ6Y2FfZTBzYnRUTGFheHhGdXZqR3loYkpYaGRrRmdtTXctOU1Ddy1qSTdPZy04b0N5Tm9WZnVuNDA4Nm1EblAtdVUxUmJqODBUUWVWTGFGVllEeHhIclc5Ul83SFJ2YmY0WWpCSmlGcjZfSEsxdThhblQ1THIzY2ktQmxNVjJ1ODM4Tk9DNFplY3g1TVpnRWctSHhYeFRpdDNyYkphUzBtM3hrbFhPNVEya1luRmc?oc=5"
+  },
+  {
+   "id": "gn-bGRGWm4b2M9NQ",
+   "fonte": "Giornali · Regione Campania",
+   "titolo": "Ricognizione percorsi cicloturistici: al via la manifestazione d’interesse per le ciclovie campane",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T13:03:46.000Z",
+   "luogo": "Campania, Italia",
+   "citta": "",
+   "regione": "Campania",
+   "coord": [
+    40.86067,
+    14.84398
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVUJFWGJHZVdaUWpfQVEyeDhLZF9yZElpNlNVZUVrSjVlaXJCRWFUVGNrYW5SdEQyRmpReFo4YnZpZXRjaHU4M1ZyNjEwY0V6UVdFZXBQdG04WU9yNF9oQmpiOUlrSlF5R3lidThvcEZuVlFpbjFqZ0NRcmxLY3ZSRDdHZ2s3cGxmNG9tcHpHYVdsLWluVmFoYmxnQlc5NGx2aTBFZ2x4S1B3cGl5SUtxMUhiLUk0TUpuRERsdEhYZFEzT2plbmhNZDExTFh6WlFfTWZldFZn?oc=5"
+  },
+  {
+   "id": "gn-VXBDWTJNP29jPTU",
+   "fonte": "Giornali · Il Fatto Quotidiano",
+   "titolo": "Torino, i tre studenti arrestati al corteo tornano a casa",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T12:07:45.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUh5M3RxdmpuZjZYSndENXlkeWdnQ1BiV1BVdk1lSHdFVVc2aVdBdTdaeXR1czFCZERrUGZCX2dUUEtEWVFGSEtnbGVabXZqQ2NTS1lYNXp1THRYSDJvM21xSTNiY0RPLWVuaEg2N2p3dS1JWHpTNENkSFhVOFNNaDBkcGJMRGIwWTBWMUd4cjZweHoteW85TUpCY2M?oc=5"
+  },
+  {
+   "id": "gn-TnpkRGR3P29jPTU",
+   "fonte": "Giornali · Orizzonte Scuola Notizie",
+   "titolo": "Niente carcere per i 3 studenti minorenni arrestati al corteo di Torino: il giudice stabilisce la permanenza domiciliare",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T11:56:23.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdVdoTlJOaUhYWExHeHRRYVo3ZEZoelhWTk1XN0o3TTBubGkzTDJoTWJmaElXcDRhVXlIZ2c0QzRRdzJwZFFDUW4yZGdzZDQtbHBYb3ppUnhvV1Q4RU5fZ291eFNuOEVmOVZZX3JobTlNbGRwNnRzY1NyMndyMlhESThrV3RYQlNYQk5lQ21KNzRlNnlWbHJGMFNLek81UFltZ0t3SlRoYjR4cVFvR21KaGJpUFdyV1lyZ0ZjWktlX2xFMVVUVXd6T0ZSY3NHWW9fVFV5NVBFb1BnWVJaYVJlUUpWNzdDdw?oc=5"
+  },
+  {
+   "id": "gn-TTFJNVFnP29jPTU",
+   "fonte": "Giornali · la Repubblica",
+   "titolo": "Dopo gli scontri manifestazione unitaria a Milano: “Serve dialogo e coesione sociale”",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T09:41:19.000Z",
+   "luogo": "Milano",
+   "citta": "Milano",
+   "regione": "Lombardia",
+   "coord": [
+    45.46419,
+    9.18963
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb3c1eGJnUFFmZ093bUphYzc4cDVJSXA3VXJ6bzdsemppOS1LN1FCLVNQSjQ5ajNBeWFJaUMtVHJOSnkwdW00M2hZbTdSNkU2ZjRkQ0l0MkJfZlI3enY0Mk1fQUNtamljTDZoZ09FcTVLZVZzUU9jTjR6M19pXy1POV9GNWVwc1BjREJTRi1qZjh0X3ZsTU5FcjZYNjdMT2xEcGtQdEQ1M01SaDhTS3dtRm9Gb2hzUFBaMXpB0gHAAUFVX3lxTE12MHJKM1pLWWJKc2cyVmhwYTh0NHE4Y3VVemhEV01Pb2ROWkxBWmNhbk52b0VXTV9LN0lkM3FMNi1sajlXQ0Q1REtoYVNQNDR3a1o0bHlkZnY3RjFPYVYtRVVwdTlJOUZIcnB3X1JIUjFiR2dQbFpDNmoyVnRUQ1lmVU1LRWFPclBOQklVeXpfUmNGLXJzX19PNVVVZ1FFTkZLbXEzSW1saVZZUW5fXzNCWHdmMkZXbFRqREFmM1I5Qg?oc=5"
+  },
+  {
+   "id": "gn-ZFhSVFRXYz9vYz01",
+   "fonte": "Giornali · MilanoToday",
+   "titolo": "Devastazioni in centro: un presidio per i commercianti: \"Milano non si piega alla violenza\"",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T08:36:08.000Z",
+   "luogo": "Milano",
+   "citta": "Milano",
+   "regione": "Lombardia",
+   "coord": [
+    45.46419,
+    9.18963
+   ],
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeTRLVW9BbEx5Mmp6aDRva2Zncm1ady0xYVo2cE83dHRzamhJUkcxdmVsOXdNU1RXMkhkZGRBcjI1V2JQTnY4aC1yLWJpWEZmMEM1UjN5MlU0UjhMX3BOMnZLUjlVQ0dIZzVfMkpWXzJ3OXI0bWdlS3JPVWt3dzROTngxSGpNcU5HTTBqVEd2Zm5zdXRTTWc?oc=5"
+  },
+  {
+   "id": "gn-bmFIaFYb2M9NQ",
+   "fonte": "Giornali · ANSA",
+   "titolo": "A Torino continua mobilitazione degli studenti, occupate due scuole",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T08:21:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMnZYMk5DQXZYemcyd2JVSTJBX0ZrSEwtZ3gxek5vOWdTTEU5UFZzcW55MmRBU2FiVUtUWFBnVTZTdDFxV1I4Zk0xekdEdW5ocG9YbE1jQndrdkJ3ckRUblBzdk5SSXVCMld6RE1BbkxIUFd6WG9peEIyeE9pRUVFbVVwRExoS0FFWHlzMXFyNTBHRTB6YzJUZlhaWHZ6ejNCcVdvT0lCVkkxc0xVU2xHMENrdzhJTTFqQTFfY01JZENrY1Q3UXVIWkFuT0JOemIzUkVSR0JaS1dGMDFEbmpQdnZEQktITUctOUZNNEhPT1Awd9IB9wFBVV95cUxPWkFZUHZPSGdZV1JJQkhURk1yT2VZYk1tekRBaVdIdGVuNUlCSXh5X1QzekJoUU1kT01ETGtwczNic3M1bjk0OTFyMW1aRnBlQ0FBX0R1aGYwTWxieFppLXFtQm9aejl6czRvRGVFODNwMWFEN0RwM1Q4U3hWVjk3MmNQbEFidWhLYkxFSUZKUmpXaVFNdEd6dGlIQWFkNHMzNUZZWGJtX3E0UzBrc3ZUQ3JKbDFxa2U3VHUycExBUmpsNFl4ODhJV1ZzY2lWU0FCcTczSEpGSlhoaldpajd6WjMydWpGbHFHZk96ZVlXZTB1c1VnaHhV?oc=5"
+  },
+  {
+   "id": "gn-SjFkM2hTP29jPTU",
+   "fonte": "Giornali · Sky TG24",
+   "titolo": "Crisi ex Ilva, stop lavoratori a occupazione aeroporto di Genova",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T08:01:42.000Z",
+   "luogo": "Genova",
+   "citta": "Genova",
+   "regione": "Liguria",
+   "coord": [
+    44.40726,
+    8.93386
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdlV0VTk0Z2dvRUoyNlJ3d0psUjluNHRnckNVN2ZiSTBVVWhiaVZsYThSM200VGhneV83bFBHY3dLeWFFcEgzaG1yMHlLeGg3Y2hoZmRkM0JSdDU2Ti1jX0ttTFhwNXg1Vm9HM2FBa251b0E1YWZpR2xIbHBEOUZfQmV5cUJ1d3hS?oc=5"
+  },
+  {
+   "id": "gn-WllZemhCP29jPTU",
+   "fonte": "Giornali · RaiNews",
+   "titolo": "Torino, studenti ancora in agitazione: occupate sei nuove scuole",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T07:24:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLW5manJTbHNSNkNaQXFHS25LMW8wYzB3dlpXZnc5OFVULUVLaHVrRGpSZ2tMNUtzT2ZTRGk4TkJWR1h2b1dkaVlnTTlQQ3oxUGVXaTR1SlJpU3RsOW5wT0J3dng0TE5JbmRYakZXR0JqNnllbzlWamFjT01RM1JDeEwxS3J3Mlo0bFJhTlQwTG5lZEVvODhuNl94TUR4QkhIYXIwalZRNzBUOUlzODdRRmV3Ukp5Mkt2UFZMSDBnSThSNXdKUEZ0bl9SRVhnQXNKaU4tM3h1SGhZRDBJSFJkYUg1VXphSmZLRTZoTC11S0pQY3VNZ29tVFl5UmnSAYICQVVfeXFMTy1vRkpPdTNIbGZVbExwR0NCUXl3bUtodllmNndvdHhPNk5hd1FLMW0yb0Fkd2JtY2NUMEI2VzNVZEx2U0pkWDZEampUVWpaUVJ1bEtQZ0RGd0Z6Z2c2VEVMcTdFbWx0d1BnLWFNMVpFWEJQZDFtZU5Yd2JGQnFNc2lWanVweFFpaENqd0V1SUcwNm1zb1QxeW4yVnF0VldCdmx0MVBTSGo1eU41Y0tnektiR0dqLVIyQmtoaGZmVE1reWlEblMwRVBlMEs3N2ZLUU1CNUptWVYxQWw5RlZjQ1ZBTGl2THNfVV9fQkM1dE8tTkVnbldrSnJ5TFZ5SmZYYzhB?oc=5"
+  },
+  {
+   "id": "gn-aGpkbXMb2M9NQ",
+   "fonte": "Giornali · la Repubblica",
+   "titolo": "Scuola, ripartono le occupazioni a Torino: lezioni bloccate in diversi istituti",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T06:36:46.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTXc1R1VGcGs0VFRoSkVmYy1WVTcwcFFmV2RBWUZVa3JtQzdTNW12Vnlja3BlWTJoelBNWS1wQkQzUDh0d0cyMXU0bkN4OWozSGxnb29qbkl3TnBmYzR4UlNrc1I2VzdDWXhCRTBzM1FqcndYOWdRaWxhOVhfd0dtQUpqZFVXX0NmU0x1ZHBTOEdId2I3a1RHMjNaMldPOGk5ZHfSAacBQVVfeXFMUERnOUVrUjhPOWNKd2R4bTZsREVRQURFbHhreXYwMlhHcWI4a1dKZEk0eHJoOVF4X3U5eGpONkZ6S2lITzJ0cURJMlNDcHRtYkRiNTdDbE5RMXMtRzZZb2dvaG5mSkpfTVRPRXhtUHZPY3kwdGdPSE5JczV6a2FrLS16bHhQbTNkNE5wZlJRUjJ5VTZ2WGpWdlV6SklvYzNGcXlrRUhjdms?oc=5"
+  },
+  {
+   "id": "gn-WlZXbWMb2M9NQ",
+   "fonte": "Giornali · La Stampa",
+   "titolo": "“Mio figlio non doveva andare al corteo”: gli occhi lucidi di un padre dopo gli scontri a Torino",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T06:20:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGZPRF9LUDgzR3RTckxIY2Z2d29GTmRSZk9qekxQV3FhMlQ1RW5zYm54eUhraXhoQlpsbDRUck5sRjhsUm9vUUk0cDRBaFF5SW9GN3J6V2JWZ2MwOXRWbldGMzROdlRDVWI2S3NiYkhBYWhQMmtmZjFMUjlRczNkRnFudUZOZDdPOGoySGlsUUE5dFhKWm5PNEJta2ZBT2Q4dUp2Nm1UdGpKUGJBWDhuZGVBWG80STBy0gG-AUFVX3lxTE93cVQ3c2xOTWk3ZHU5SlRxLTY3QnFlTTRHTGVvRkU1RWxwZ1BaNG5SbGhCX0RJekVET3RTdklwYXFWTHVVRFpYQ01uSExFbDZLYWNsNkR4cTVyNVhYRnRUM29CU2NqZk9BYnp2MzRZSVE0cnQ1Z0NMMFNWYTRvZVhPbTZnaFVxUU10dnRkVlBTUkNjR0w3VUp3X19oVXJVUUw3ZWEzLWYzSzFENnJyQzNVRjNnWlBaTjNZWEZVWmc?oc=5"
+  },
+  {
+   "id": "gn-bTB5Y1hObz9vYz01",
+   "fonte": "Giornali · la Repubblica",
+   "titolo": "Torino, schiaffo del professore a uno studente durante l'occupazione del Giolitti",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-20",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-20T16:09:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQzN6enpjQklJUXExWm84a1l4b1FMQUFhNVI4SV94YXY2UXVWZmVaTy1jVDdpTGUzRDBrcjNsU3d3VHdSOGpweVh1TjlhdTJvWGFiUFR0WncwakV6bXkyNEUzNjF5YjluY3NXVWdObGtnV1NrQXQ4dlJRcGFmU2EzSEgtR04xRWwzYllmczk3a0ZpRTgxRDlFaEtWQTZtdzMtOUp6QXpzcTZGMUFrTEZramlJODhtaXo2NEFHRFlvYjU0dTlvOVlSWEtQY3dCM2xQd3Y1MG9fNm0ycXNo?oc=5"
+  },
+  {
+   "id": "gn-bkpYTUhWWD9vYz01",
+   "fonte": "Giornali · Polizia",
+   "titolo": "Occupazione scuole a Cremona, due minori denunciati",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-20",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-20T15:01:46.000Z",
+   "luogo": "Cremona",
+   "citta": "Cremona",
+   "regione": "Lombardia",
+   "coord": [
+    45.22086,
+    10.03704
+   ],
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX3h1OTFNZHVoQVg3c0MxMjk4U1FzVWFUNEVJZmhOSmthQjF5VExmUVV0dXJscEVuRmNJaG10MzBydjlYYTQ2eFFpNWtqTFY0anJrdFZwWXBHV21PSkRaS3dSMDZpSkpjdUFDeXI5eEFPT2pEeG5BektubzNjLVRJM2VKbmJWYlo5R3NrN0R5YnJXMHVX?oc=5"
+  },
+  {
+   "id": "gn-bG9Wa2RFP29jPTU",
+   "fonte": "Giornali · Ufficio Stampa della Provincia autonoma di Trento",
+   "titolo": "Gerosa: “La violenza non può soffocare la voce degli studenti. Ferma condanna per quanto accaduto alla manifestazione pacifica del Tambosi”",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-20",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-20T14:09:00.000Z",
+   "luogo": "Trento",
+   "citta": "Trento",
+   "regione": "Trentino-Alto Adige",
+   "coord": [
+    46.10295,
+    11.12974
+   ],
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQdy1CSW1vSFR5Y0xYODQta1djanBmNk1vVDlGTU1HRnlrZU5COG9QWEpzZThaQWxlOXpQdEpTblU2Ukxid1RLWWdsRFh2Z2VFUTh6b2ZGbDhXZ1JZbV9PdUlzLXNmNlFTUjVqXzRwMi1uX1B6UlJfVTFaN1h5eVpZZ2ludW5SVHFGYUFnaFZJZ2FjSFdraHBJNDlwajUyQnNvdGhOMnRUR0NDUHRUNmkzay1yX1FOSkdrdmw3eGxidDR4a0g5bUpzY2ZRSnlwcXhIQ2dQSkpsQXZXT3VRZ1cwUXRCNGxFOUpSdjZacjVoVDJDWkJYblFJLWhFaExQWWgwdVU3a2hKWlBkWmJvMTZRY3JhYWloVkdE?oc=5"
+  },
+  {
+   "id": "gn-Y0hoNlZBP29jPTU",
+   "fonte": "Giornali · LA7",
+   "titolo": "Autotrasportatori in protesta in Calabria, a Gioia Tauro un corteo funebre contro il carovita: “Il nostro Sud vuole lavorare”",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-20",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-20T13:01:40.000Z",
+   "luogo": "Calabria, Italia",
+   "citta": "",
+   "regione": "Calabria",
+   "coord": [
+    39.0566,
+    16.52499
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZWk3bTJjRGlEWml5MThRZUhQWE1YRERBalgxQkJhRmJiVGlSV0hBVFFzY2hHb2gydGh0WG1uZ2VEZ3JSNUtoc3JHc2ZNU2pDVGtfYUExVHNXOGpHUHVSX0FEQmZva19MbS1uODhfRkF3RXc4YXliVFFIU0tUZ2pISXBUTXdhaWZDb19IaS1SUUFVSUJKZ25LeXo2NmdXdUtBZUNURGk0eGZoR0tKOWQ5VnZFQlBxNUpDdUdTWV93d2lKcHhXOFBtS3ZtTGZ4ckNSWmEwSVBlRDZjV0hsY2o40gHkAUFVX3lxTE9ncHlVeWpMdG1tMGtHSFJFa2ZYVTBxRGlPRTVUM3pIcW5OOFFvU2diV3AtYmlYTFZJcC1wVU9SOVREWVdLSVVvU01BNXVsRDVROG9na0stMWlRdllUVG1JNmxDaDNwYTRiTHc2ODlTVEMyMDdqLU5mNjRLUTZBOVFBVGd5SEJGYTByb0NDV0Y1cjZLSjB2TkJwbXpyWUJELWd4aDYzVGJuaXZhb09vMkVHWF9tX1VwNXEteEs1MzRhS1FybkhnLWd1SUtwUGNGYjF6aG5UclNYaXplbHg5VDVwcHh6VA?oc=5"
+  },
+  {
+   "id": "gn-WWNrb3dTUT9vYz01",
+   "fonte": "Giornali · TorinoToday",
+   "titolo": "Scuole occupate a Torino, la preside del Volta scrive ai genitori: “Risponderete dei danni arrecati dai vostri figli”",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-20",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-20T12:50:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb3BZYW9reEhpNjZjcjVycGVfQXRFMFJJQlR6M0RfalBRVUZ5ZEpyNmc0SktTblZ1WXJKT2VibUhPMi1IdUljSERPVUoycHdzRkYxQWUzTXc2czF4akRyLW5Ra25TWVc1S1g3MzFEYTl6RWRmaEtyY3NpNUw0RWx1dWUwMmZSdnF2el9YckowSQ?oc=5"
+  },
+  {
+   "id": "gn-cWVuWmlhdz9vYz01",
+   "fonte": "Giornali · RaiNews",
+   "titolo": "Torino, presidi pro e contro la nuova Moschea in corso Novara",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-20",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-20T11:47:15.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSWlualdxV2daQ093YU55UGlvTlI1Tk1YQ3d3RGQtVkVsVjRtWnREaWVGOXo3NzI3cDFQLUs1MG5RbXJTeWZzYUczaEtPbjBTdC1McDBrY0NtSE1xVk5WX0wwWm93OEdiUzRhRm44NzlxVk13emdxSTFFdzZsaGpEM094UWdQd3FrMHMwZEIzR1NFLTRIU1RQUUgzWFloa2JpZGZ6YkptVmloSnE4NWFfZjIwaUZYOXYtRlJoY2VyMFNHXzV6V0ZSOFdxSkt1NG1UbVVLLXVGN0o1VUZRblZhQXdJeUlzNXZqenZia9IB7AFBVV95cUxPSWlualdxV2daQ093YU55UGlvTlI1Tk1YQ3d3RGQtVkVsVjRtWnREaWVGOXo3NzI3cDFQLUs1MG5RbXJTeWZzYUczaEtPbjBTdC1McDBrY0NtSE1xVk5WX0wwWm93OEdiUzRhRm44NzlxVk13emdxSTFFdzZsaGpEM094UWdQd3FrMHMwZEIzR1NFLTRIU1RQUUgzWFloa2JpZGZ6YkptVmloSnE4NWFfZjIwaUZYOXYtRlJoY2VyMFNHXzV6V0ZSOFdxSkt1NG1UbVVLLXVGN0o1VUZRblZhQXdJeUlzNXZqenZiaw?oc=5"
+  },
+  {
+   "id": "gn-M1J4WWswP29jPTU",
+   "fonte": "Giornali · Corriere Milano",
+   "titolo": "Cremona, chat violente scatenano l'ansia: annunciato un corteo martedì, città blindata. Le scuole costrette a specificare che «l'attività per ora prosegue regolare»",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-20",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-20T08:37:00.000Z",
+   "luogo": "Cremona",
+   "citta": "Cremona",
+   "regione": "Lombardia",
+   "coord": [
+    45.22086,
+    10.03704
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPbkR2MG1mb2UtVndEYmxxZDZ4bFBNZE9GX1pVRGpuOVlVRm1qdk13R0FJNDQtQ0p6MmFaajYtQ3NMSkxuZXdvQzZfT3JTOUppbUsxcTI0UHVMb2UzSXg4Q2ZvczcxRGNTelRxRloyNlJ4RGsyeUlVelFRa1c5cEdGSVdoZWVfTGEtZzdER095MGFmalZVdTVRblFWWW5kOWk4UlNvOHNLbERHWms2VU1Fd01vMGRMZzdMd2JDQ1BPcWM1TW9TRVFPX0xCelMwMnVpc1N2OUtORmdJcERSazJYbldGWHRVTXNrMDF1bGRtcVlGQzhmcThGbE00SHg4YlFuN1lWVmpVNHR3MXNpQWxMb3htLTZNc3p5VDhDM2l3MVhtdkIyNDR3bDhSYWk0NUhTV1hKQk1mLXkyeElIV2JzdWtaaVlMY3Q5amfSAc8CQVVfeXFMUGRhYmRBN3JPaEhkcjdHU1UyOE1EQWlKcWhkS1NPMzdMQ3dqXzlNR193Z1h2WjBGc3lhWEZXN3lGcWd6Qk4xVU5SZVFvUGFPNG12RXp0MWo1LVE1UkFZYVdYQW9ILVNVeFhmLThOSEpkekpETUUwRV8xV2tIQTl5TnRNUXh1cWtHWTZfcURfSjRRa2NNRGViMnlRUzdsbV9TMUhFOV9kZlpjNGtLVUVYc2pNeS1kWWdMTjRnQnhBMW1EeTItdE1RV21pdlZXTXVzcFZVcW1pSWdXMFVEUGxzTTNkek1Jb3hoak1yQ09XLV9ONmxLakpSOGlzU1VXcXdfUzRqQ0hrU0cwcjllOEV6b1o3aUlXam4xYlo3bFphZlF1V0VCWHYxWXlCS0hTNGpQZDM0R2dXWDNaVFY1d0RfMWVRTjhhOHkxRmlsY3RxYk0?oc=5"
+  },
+  {
+   "id": "gn-b3lVWGcb2M9NQ",
+   "fonte": "Giornali · Comune di Napoli",
+   "titolo": "Avviso Pubblico per la concessione temporanea di n. 30 posteggi, nell’ambito della manifestazione “Natale 2026” che si svolgerà sul territorio della Municipalità 1",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-20",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-20T08:32:15.000Z",
+   "luogo": "Napoli",
+   "citta": "Napoli",
+   "regione": "Campania",
+   "coord": [
+    40.83588,
+    14.24877
+   ],
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQa3YzNDVZOGR3dU00aDRCT1gwNlVZdzE2X0lsQkJZcTRHS0cxVzJZa3dfUERhY013al9hekktYy0zTW5ITHNUcmNHQ2tEaUhaUkp3Sk1BbDlPMlRuUklzN2owNTk2V1N1SE1waU81Z09fVU0yMlpNX085WS1JaF9CNTFyTWxiZDlZOUJ1Nk42Q3I3R0RzSDF5Z0l5eGlSNkZqUkRDUjg4Qm5GMU5hbm54MmxIeHM1VDYwV1JxZDA5NzJ0bVhBc1dnNjU2VjIzS3lPcFVjdHV2czdrR0NEVERYMWRybk5XUU9sbFdJbzdpb3kxYUdIVjFHRGNJS3RlYnhTOFdIS3FleTFWVmRqd2pDY3pxQVZsM2g5eU5wU1oyUXg?oc=5"
+  },
+  {
+   "id": "gn-ek16SnYb2M9NQ",
+   "fonte": "Giornali · ANSA",
+   "titolo": "Cremona deserta e blindata dalle forze dell'ordine, ma il corteo non c'è",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-20",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-20T08:29:00.000Z",
+   "luogo": "Cremona",
+   "citta": "Cremona",
+   "regione": "Lombardia",
+   "coord": [
+    45.22086,
+    10.03704
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOb2lJeE1vTE5sZGE1VmFSaURYbm1MRmptZ2YwY1h6NTg3bWJxMG9mNXYwSFE3Q0lfcHVid0Jfb0Nnd1BlQ1RjREFNZFl5M3dya1pfamRPRWxKb25OUzlaQTVHZUJIMFRrM2FvYWc3U2lBRWpsWEVNWUhmUFVZVV82NWpCSEpXRHNGYkVnajlCaEFhZGZwQW1wN3N6bjFWc1RKMXA3UW14aHhFNllheGx6YTBLWVFEd1h3OGpDR2sxZXYtLUt3UkdjWUdLanNfQ1NHV1lGLWlVM0ppdVhZaGZEcXQxOUF1b2Y1MmphWTAySDhHUdIB9wFBVV95cUxNZGpSUUpXX0FQal93amtlR2hqOVVscXl2S1p1ME40WFNkX1I5OVJ3Q3RfcTVaVHZ4NnBfeXdaSzZiRjg1WF9JVzlrRXBqdlN3UmZVelplZnQ5TUFaa3NjQ1JYcUJMN0I1aUFpYWdPQmZTeGI1UDU3X3B4WFZLWFFUbl94Q0tqNVV4R2ViYkRrWEJsdVUyTXQ4bFdGVXNDb3BsZDR4UjZvYk1GVjh6ZXpES3lQV211UUhrc0VqOGlpT3F6ZHF0WjIyVlY3UWp2UHkyOVJ5em5Yd1Bud1JfV0lPOThHWVhnYXMzdGlqLWRRWFEzVXhzMzJv?oc=5"
+  },
+  {
+   "id": "gn-bHJSREZWP29jPTU",
+   "fonte": "Giornali · Torino Cronaca",
+   "titolo": "Torino, la protesta degli studenti non si ferma: il Grassi tenta l’occupazione",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-20",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-20T07:55:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONHJFakZ0SUZleTJFam1hQzY0ZjZnUlhVNDZJangwMk1tbXdhMnBNQXkwSUUwdzFsR1VXVHVjNkU3V01Sekwta1FWWE1UUkQ4QTVna08tLVZZUjNiTWlKczVfTXRqUDVIUm43eWtVckloVG90OXllN2U4NlpORndFN3RfOU83VXFVYjY3V2FfMFE2azg5Q3FvZmFZOEhYR08xaFFvVms1aE5hMUVGdzVTWjM0RWJOc2VPZFJWc1BSUXVySHlrRDFV?oc=5"
+  },
+  {
+   "id": "gn-VGpWT05BP29jPTU",
+   "fonte": "Giornali · Torino Cronaca",
+   "titolo": "Giolitti, schiaffo durante l’occupazione «Il professore voleva liberare le porte»",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-20",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-20T06:55:01.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZXZJaFdtUXFUZU1wNkI1YmtyVWo5OWt0elN6M2tfQTlqSFlJMTlldTFrUWJuTXpmN0tPUHo0MGliZXhTNTVIbEJZcXVoUVZoME1GR3dTSENFMmN1QjA0RTFGS1hLMzhYVXR2dWQzTHdMWUNPN25vRFhXRm1SX0J5TE5oNkJTVmNzRHlOaGpKZWFCMG8tSEpKRTVVTFBidk9ZQ0JqQXFqZndETFdMZ1VvN3FmaGo2WDlVQ093V0VEQzd5d3lWZ28xTjVONA?oc=5"
+  },
   {
    "id": "pl-13476",
    "fonte": "PeaceLink",
@@ -624,6 +2001,23 @@
     10.34022
    ],
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744356/-/livorno-assemblea-cittadina-verso-lo-sciopero-internazionale-dei-porti-del-30-ottobre"
+  },
+  {
+   "id": "gn-d2NHeGgb2M9NQ",
+   "fonte": "Giornali · RaiNews",
+   "titolo": "Ex Ilva, attesa per il verdetto della Cassazione. Operai in presidio a Torino",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-21",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-21T06:04:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZkJKcXdqUmpuRFk2SkpxSkhiTXFDQnFka2FKNThaY1N6MTczZVYwT19Fa0FMcHB0N0IwT2M4VTE4LTBQVGJkX2FKVGhNT1J0V2VKN3ZEWlFGbW9MWjBUV01sWWM0VkhETFpSUUJxYklYOGN1OG9xYnozUk1xeEV4TFRhdHNkUV9uVFZJdUJaRmhRbnp1R1pROFRXTEkwMU41SkZ6VHlrcVN2RS0zdDBIRm5jTFhYdUFaTjNrQVpNVlBoMTRBWkVSS1pLUjg5N21PM3ItRldfTnhMWFFkc1FCZWpHckpvSURBYUg2WWhXTjNDUW8zNDdvUm44TdIBgAJBVV95cUxQSHJ5NDBzQ2xwWlhpU2EydGFnU2FXNkFGenNuMzFkNFhXTk9WNUFxODItRzdXYTc2QWxUeHlCU0hGb3A0MkFTT1BtSEJSMjF4aldtY1RydHVIRnR1cU51T1duUnpUVExuQjk2RC1ZR09MRlp4VkgxVm14RmtqU1dxeWc4V3l5Qko4Q3p2NFlHRnpvT3dfSjJKeklJTnFrQVdJZWE2RHd6M0Y1d2RoRHFmc1NMVWRpcEpiSWNnbi1TRVI0ZlJfYjRwRXFMWE94S1FGc2ZUamJvNlBicUFkN1k0TEFsOFZXM0l3NmJ5UHkzcFNkOEtScVplS3poenJwcGxh?oc=5"
   },
   {
    "id": "inv-pordenone2310",
@@ -740,6 +2134,8 @@
    "titolo": "I disordini nelle manifestazioni di sabato a Bologna, messi in ordine",
    "tipo": "Dai giornali",
    "inizio": "2026-10-24",
+   "dataIncerta": false,
+   "pubblicato": "2026-10-19T16:22:15.000Z",
    "luogo": "Bologna",
    "citta": "Bologna",
    "regione": "Emilia-Romagna",
@@ -937,6 +2333,23 @@
    "link": "https://www.invictapalestina.org/archives/55281"
   },
   {
+   "id": "gn-bGhDZERneD9vYz01",
+   "fonte": "Giornali · Comune di Napoli",
+   "titolo": "Naples Shipping Week 2026: dal 26 ottobre la manifestazione promossa dal Comune e dall’Autorità di Sistema Portuale",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-26",
+   "dataIncerta": false,
+   "pubblicato": "2026-10-20T13:26:57.000Z",
+   "luogo": "Napoli",
+   "citta": "Napoli",
+   "regione": "Campania",
+   "coord": [
+    40.83588,
+    14.24877
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QS0VmYkFtWFJxLU5zTWREcGRLNE5NbG9scHBuVHQ2MjJCc0hfSFlubk01Vi1FWkpkbFRlU01keVVaX01HaDNtZTlkekRLYUlIVlJvTzROTGdmV3AzLUJEYUEyUlhCdDgx?oc=5"
+  },
+  {
    "id": "pl-13483",
    "fonte": "PeaceLink",
    "titolo": "I luoghi della cultura, dentro e fuori gli spazi di produzione culturale: partecipazione, contraddizioni, comunità di riferimento",
@@ -1020,6 +2433,8 @@
    "titolo": "Manifestazioni studentesche, a Torino: \"Il 30 ottobre bloccheremo tutto\", Valditara: \"Non è difesa della scuola, ma teppismo politico\" [Aggiornato]",
    "tipo": "Dai giornali",
    "inizio": "2026-10-30",
+   "dataIncerta": false,
+   "pubblicato": "2026-10-16T14:30:13.000Z",
    "luogo": "Torino",
    "citta": "Torino",
    "regione": "Piemonte",
@@ -1050,7 +2465,7 @@
    "fonte": "Amicizia Italo-Palestinese",
    "titolo": "Tutta Italia: Sciopero generale contro guerra, carovita e genocidio",
    "tipo": "",
-   "inizio": "2026-10-30T11:06",
+   "inizio": "2026-10-30T11:15",
    "luogo": "Tutta Italia",
    "citta": "Tutta Italia",
    "regione": "Puglia",
@@ -1410,6 +2825,83 @@
     9.27491
    ],
    "regione": "Lombardia"
+  },
+  "cremona": {
+   "coord": [
+    45.22086,
+    10.03704
+   ],
+   "regione": "Lombardia"
+  },
+  "trento": {
+   "coord": [
+    46.10295,
+    11.12974
+   ],
+   "regione": "Trentino-Alto Adige"
+  },
+  "napoli": {
+   "coord": [
+    40.83588,
+    14.24877
+   ],
+   "regione": "Campania"
+  },
+  "calabria, italia": {
+   "coord": [
+    39.0566,
+    16.52499
+   ],
+   "regione": "Calabria"
+  },
+  "pistoia": {
+   "coord": [
+    43.9741,
+    10.86871
+   ],
+   "regione": "Toscana"
+  },
+  "toscana, italia": {
+   "coord": [
+    43.45865,
+    11.13892
+   ],
+   "regione": "Toscana"
+  },
+  "genova": {
+   "coord": [
+    44.40726,
+    8.93386
+   ],
+   "regione": "Liguria"
+  },
+  "campania, italia": {
+   "coord": [
+    40.86067,
+    14.84398
+   ],
+   "regione": "Campania"
+  },
+  "brescia": {
+   "coord": [
+    45.77958,
+    10.42587
+   ],
+   "regione": "Lombardia"
+  },
+  "bergamo": {
+   "coord": [
+    45.75666,
+    9.75422
+   ],
+   "regione": "Lombardia"
+  },
+  "treviso": {
+   "coord": [
+    45.80669,
+    12.20632
+   ],
+   "regione": "Veneto"
   }
  }
 }
