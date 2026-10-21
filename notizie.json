@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-21T15:01:38.934Z",
+ "aggiornato": "2026-10-21T15:19:21.563Z",
  "notizie": [
   {
    "titolo": "Stop al commercio con gli insediamenti illegali di coloni",
@@ -508,6 +508,12 @@
    "data": "2026-10-20T06:31:19.000Z"
   },
   {
+   "titolo": "Aria di occupazione nelle scuole superiori di Trieste: una chat per organizzare le proteste",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTlNNaUE0emNHOWlaOXFGQ3NMeVF5VWxQeWI3bGpDZzFSb3lJYzdIRjRXYlNaVWVQWERQMXdzTllvblZXMVp0OE92TnJZTktwcks0emNpeHpaNFlocDBPMkZSYkZlUFBUSm5mYy1DTk92VlJqQmJ5OW92aTZNckoyOTlXQ2ZYRkR1WnRNZm9ZcnI3c056Rmd3QVNkVWEwN05OMWtOQWM5SDR1c1UwLWc?oc=5",
+   "fonte": "Il Piccolo",
+   "data": "2026-10-20T06:00:00.000Z"
+  },
+  {
    "titolo": "\"Cosa fare se ti arrestano durante un corteo\": il manuale dell'avvocata bolognese diventa virale",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTnlmWU9VTGNFOWpUaEhyMkF3MTgwak5hekJMQXc3TFN2cGd6cFRsRUhLQjJPX2VsTU90Q0dvMGNHR1ZETlQySE9QV3I3OV9LM2pCSWVMUUhwaXVsaHpMZmpBZjRybXZBYkV4bVlHeVlDNXZzeXZFMjZuNTMwMDNlb185cjNGVURrU1IwNmxfdEU?oc=5",
    "fonte": "BolognaToday",
@@ -560,12 +566,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMmFhZ0t6ODRmamx6SkUtNGxFVUFFeEEwWm9qSnVtU1d5TmJfdjlBQl9HUDZHR2RRNUtSVEZWYXB3VVRZTDhZd3dGUDNoZzZjOFpVNG1Sd2lDdTdacTVDay1PbXprTS1yNm1FR3FPYTY4dnREMXJtQi1ReVpGdDRJZEM4MC1pbmMzX0NPcHV4RDhGMGFSTkJPTXR5NUlqRGNjbW45OWE3bng?oc=5",
    "fonte": "Toscana Notizie",
    "data": "2026-10-19T17:24:00.000Z"
-  },
-  {
-   "titolo": "Ex Ilva, raddoppia la cassa integrazione: presidio dei lavoratori a Torino il 21 ottobre",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMnh3bl93a0RBUnIyUmcwMVNRMW1RR2xCbklHdEM0WGxNSm5tLURmR0xVUENhVm5xaEVVMWZiY1o5X0RQeDNKTUVrMkM1NjVIbFN4cmtwQTRBRXZLM0otYVRCZmdIR2RlRjM0WEVxbTVkd1FmNnRWaG5LcVE3MWNkR2lQRzI4c01HOElSUkZ2ZmZUTUxn?oc=5",
-   "fonte": "Quotidiano Piemontese",
-   "data": "2026-10-19T17:16:58.000Z"
   }
  ],
  "eventi": [
@@ -585,25 +585,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaVFvZE9ZVGJ5Q0xWMDNqdW1EOE1peWVkMm85VDBSMGNfeFk3V01ld3JrREJSSy1mMTQyaDVPTFJ4T3VabjVfOHNWakROa0FOTEN4M2U1MzI4bGdad084Nmp1WXVYMmFLeVJDMnBsYjJwWVVGMVNoUUNUWnlFdU9TOHRvaF9NOU5SRnNtOU56MThuSHAteDROZzM2Z3VlYk1OcEFVYnFxeXZXZDR4R0x0MW1DM2NUdDI1Zi1qU0c0eU03Sl8tQzJhQ1d0MDlhR1piY0JEcVJfWU5HOVM3YXBaQ1hxUXJMMlg00gHuAUFVX3lxTE1ZTVoyZjE3TXFTVFY2eldxeUJvM3dPZkVNWV9rMk82bkNkQjUtX19xNGw3RldKcmtkWW5XanF2YWJhV1diMDRhRGcxcWRxU0FUR1pLeklmV2FlMUljeGR3VWh2OWxEVjVXaUgtY0FrY3NlR2hqOGNyeW5GN2VaWHREMlpDeU54RHhPMjVLNk9mTHplWFJGT241aWk1a0lSWURCWkdJeUh0a2xHakZ5US1NYUxiSExZeTkzWll6YUNQc3hSOFN0OU8xVzMwQ0ZTNlBWX3lUNmx5aEktbDNpTHIzUHc0MjRuWGR4dW90R0E?oc=5",
-   "altriArticoli": 54
-  },
-  {
-   "id": "gn-V01qbEdkdz9vYz01",
-   "fonte": "Giornali · SoldiOnline.it",
-   "titolo": "Ex Ilva, corteo ad Alessandria: perché Novi Ligure teme per 550 posti",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-15",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-15T08:51:00.000Z",
-   "luogo": "Alessandria",
-   "citta": "Alessandria",
-   "regione": "Piemonte",
-   "coord": [
-    44.83495,
-    8.74503
-   ],
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMVdURmtfOXBoWVhSci1OWWRBNmFyUTdGanhiLWpjMmRpaG14S3BNT19adlN3SGNYelNwTlNoeUJUQ1BZMVhKSmhzOGFsNnVMT3dIUkpNYWNFMzdxRDlWLTFsZEVrTUtmQUJCTGh5ZUZZeTRRZVp1NG0wS2t1VmduWWNyV2w5eTRjaFh1WV9mTm8zdjNtV0xFMy1xWVFIRkdsMHBOMDdfckJqV2JfUzY3XzBBbHRvM2RWMjlGdw?oc=5",
-   "altriArticoli": 2
+   "altriArticoli": 42
   },
   {
    "id": "gn-dlZrOHcb2M9NQ",
@@ -693,7 +675,7 @@
     9.18963
    ],
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd0YyTDU2ckFFRmJ2b29wLVRBTjVQZEdxOTFjQWpUX21LUGxIRjhtVlBmSTRab2VQUXFVaFV5WVNXaExGblRPdVNxci1tWTZ3WTFnbFdQdEwyQ1dRWE1CR2pwOWZMa3I2V1c3T2JodF82aVowd25NNmFlbFoxLTVwVkM4RUVJZFdpS1dJTDAzclFSQ25lUzZZR01LZkxEdHptdC1PWmJVRElta253Z3Z4bmZYb2NyTGdJY3R1dnp1U2xyeXRrdG9IdlhROWdXcUp3eGtmdWRLZEfSAd4BQVVfeXFMTi1FLXJNWm5YclItajVodUFuVlVPcUNoelNRODR4VEVnWmJ5cjU3X1c3bkt5aHBoMGdGVUZ5SW82TXJ0WDRoVnlSYnVVNDV1Q0hLRnJLcWxjUGFMT09wcEV2VmVCN0N1Z1BqX29jcW85TUI0TkNTekNTTEJJb2g2dDhVa0NFLUlHTkdockk1QU16Q3ZtYXdmWGJaaHhVTG45ODVwZnVmdVRkTjAxVVluY0tjS09SUGY1a01icDBKeGlObGZ1clBiR2Vqb2lnLVBGWnMxSXB1djE1dTBpak9R?oc=5",
-   "altriArticoli": 10
+   "altriArticoli": 12
   },
   {
    "id": "gn-ek5XVFEb2M9NQ",
@@ -800,24 +782,6 @@
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVUJFWGJHZVdaUWpfQVEyeDhLZF9yZElpNlNVZUVrSjVlaXJCRWFUVGNrYW5SdEQyRmpReFo4YnZpZXRjaHU4M1ZyNjEwY0V6UVdFZXBQdG04WU9yNF9oQmpiOUlrSlF5R3lidThvcEZuVlFpbjFqZ0NRcmxLY3ZSRDdHZ2s3cGxmNG9tcHpHYVdsLWluVmFoYmxnQlc5NGx2aTBFZ2x4S1B3cGl5SUtxMUhiLUk0TUpuRERsdEhYZFEzT2plbmhNZDExTFh6WlFfTWZldFZn?oc=5"
   },
   {
-   "id": "gn-WDJjMlQyYz9vYz01",
-   "fonte": "Giornali · Corriere di Novara",
-   "titolo": "Cgil Novara e Vco, oltre 300 persone a Roma per la manifestazione «La Via Maestra»",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-19",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-19T09:47:00.000Z",
-   "luogo": "Novara",
-   "citta": "Novara",
-   "regione": "Piemonte",
-   "coord": [
-    45.58425,
-    8.546
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNk5CYmo2NWloZXU0ZVRXRTdrWjFmOW9UZWZwalNSS1VHcGNhNkdSZTZmWFNwYXlRd3I3OWVBSVdpSElHS3BSQnlyRThaUFo0THZ1Z2VZcVI3eEtpeGRrV0lOZzQzVm9aN3hBdWpyaFl5VXR0LWVwMFNBbS1UVF81S29YMXpwVXVEVl96RTZqQTczUExGZ3QwaFV3cndnTUNjZURxN1AwVlpUX3VUTGtvZzNDZmV4X2c2T2c?oc=5",
-   "altriArticoli": 2
-  },
-  {
    "id": "gn-bkpYTUhWWD9vYz01",
    "fonte": "Giornali · Polizia",
    "titolo": "Occupazione scuole a Cremona, due minori denunciati",
@@ -854,23 +818,6 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-Y0hoNlZBP29jPTU",
-   "fonte": "Giornali · LA7",
-   "titolo": "Autotrasportatori in protesta in Calabria, a Gioia Tauro un corteo funebre contro il carovita: “Il nostro Sud vuole lavorare”",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-20",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-20T13:01:40.000Z",
-   "luogo": "Calabria, Italia",
-   "citta": "",
-   "regione": "Calabria",
-   "coord": [
-    39.0566,
-    16.52499
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZWk3bTJjRGlEWml5MThRZUhQWE1YRERBalgxQkJhRmJiVGlSV0hBVFFzY2hHb2gydGh0WG1uZ2VEZ3JSNUtoc3JHc2ZNU2pDVGtfYUExVHNXOGpHUHVSX0FEQmZva19MbS1uODhfRkF3RXc4YXliVFFIU0tUZ2pISXBUTXdhaWZDb19IaS1SUUFVSUJKZ25LeXo2NmdXdUtBZUNURGk0eGZoR0tKOWQ5VnZFQlBxNUpDdUdTWV93d2lKcHhXOFBtS3ZtTGZ4ckNSWmEwSVBlRDZjV0hsY2o40gHkAUFVX3lxTE9ncHlVeWpMdG1tMGtHSFJFa2ZYVTBxRGlPRTVUM3pIcW5OOFFvU2diV3AtYmlYTFZJcC1wVU9SOVREWVdLSVVvU01BNXVsRDVROG9na0stMWlRdllUVG1JNmxDaDNwYTRiTHc2ODlTVEMyMDdqLU5mNjRLUTZBOVFBVGd5SEJGYTByb0NDV0Y1cjZLSjB2TkJwbXpyWUJELWd4aDYzVGJuaXZhb09vMkVHWF9tX1VwNXEteEs1MzRhS1FybkhnLWd1SUtwUGNGYjF6aG5UclNYaXplbHg5VDVwcHh6VA?oc=5"
-  },
-  {
    "id": "gn-b3lVWGcb2M9NQ",
    "fonte": "Giornali · Comune di Napoli",
    "titolo": "Avviso Pubblico per la concessione temporanea di n. 30 posteggi, nell’ambito della manifestazione “Natale 2026” che si svolgerà sul territorio della Municipalità 1",
@@ -886,6 +833,23 @@
     14.24877
    ],
    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQa3YzNDVZOGR3dU00aDRCT1gwNlVZdzE2X0lsQkJZcTRHS0cxVzJZa3dfUERhY013al9hekktYy0zTW5ITHNUcmNHQ2tEaUhaUkp3Sk1BbDlPMlRuUklzN2owNTk2V1N1SE1waU81Z09fVU0yMlpNX085WS1JaF9CNTFyTWxiZDlZOUJ1Nk42Q3I3R0RzSDF5Z0l5eGlSNkZqUkRDUjg4Qm5GMU5hbm54MmxIeHM1VDYwV1JxZDA5NzJ0bVhBc1dnNjU2VjIzS3lPcFVjdHV2czdrR0NEVERYMWRybk5XUU9sbFdJbzdpb3kxYUdIVjFHRGNJS3RlYnhTOFdIS3FleTFWVmRqd2pDY3pxQVZsM2g5eU5wU1oyUXg?oc=5"
+  },
+  {
+   "id": "gn-MVV3TFdjP29jPTU",
+   "fonte": "Giornali · Il Piccolo",
+   "titolo": "Aria di occupazione nelle scuole superiori di Trieste: una chat per organizzare le proteste",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-20",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-20T06:00:00.000Z",
+   "luogo": "Trieste",
+   "citta": "Trieste",
+   "regione": "Friuli-Venezia Giulia",
+   "coord": [
+    45.64965,
+    13.77728
+   ],
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTlNNaUE0emNHOWlaOXFGQ3NMeVF5VWxQeWI3bGpDZzFSb3lJYzdIRjRXYlNaVWVQWERQMXdzTllvblZXMVp0OE92TnJZTktwcks0emNpeHpaNFlocDBPMkZSYkZlUFBUSm5mYy1DTk92VlJqQmJ5OW92aTZNckoyOTlXQ2ZYRkR1WnRNZm9ZcnI3c056Rmd3QVNkVWEwN05OMWtOQWM5SDR1c1UwLWc?oc=5"
   },
   {
    "id": "pl-13476",
@@ -965,23 +929,6 @@
     9.03058
    ],
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV1E4RVNlR3BwcW5GZ05aeWI0Q0ZoRHJreUMta0ZqWkt6WVAwSzJFcEtYS3NRWUNLWGdDNXY4Sm1Ec0pJbU9hRzFUNlhHSE9CYzJCRTFEb1c4OXNEay0wbXgwWHB0NXVxZlNwMEY5bVhuRk43R05keDk3REg2TzBzRXR6VTdFN3FjdGl1NDJQZ2hMNWVtQnZqWHItbEJCMVJEUktPOXhrLU91d3FabDFDUDl3ZVE?oc=5"
-  },
-  {
-   "id": "gn-bVpVVFV4bj9vYz01",
-   "fonte": "Giornali · Quotidiano Piemontese",
-   "titolo": "Ex Ilva, raddoppia la cassa integrazione: presidio dei lavoratori a Torino il 21 ottobre",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-21",
-   "dataIncerta": false,
-   "pubblicato": "2026-10-19T17:16:58.000Z",
-   "luogo": "Torino",
-   "citta": "Torino",
-   "regione": "Piemonte",
-   "coord": [
-    45.06776,
-    7.68249
-   ],
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMnh3bl93a0RBUnIyUmcwMVNRMW1RR2xCbklHdEM0WGxNSm5tLURmR0xVUENhVm5xaEVVMWZiY1o5X0RQeDNKTUVrMkM1NjVIbFN4cmtwQTRBRXZLM0otYVRCZmdIR2RlRjM0WEVxbTVkd1FmNnRWaG5LcVE3MWNkR2lQRzI4c01HOElSUkZ2ZmZUTUxn?oc=5"
   },
   {
    "id": "aip-1744479",
@@ -1106,23 +1053,6 @@
     9.18963
    ],
    "link": "https://www.invictapalestina.org/archives/55281"
-  },
-  {
-   "id": "gn-VmRJY0VVP29jPTU",
-   "fonte": "Giornali · Corriere Brescia",
-   "titolo": "Incidenti di sabato a Brescia, i due ragazzi alla guida della manifestazione si smarcano: «Due ore bellissime di corteo pacifico, non c'entriamo nulla con gli scontri»",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-24",
-   "dataIncerta": false,
-   "pubblicato": "2026-10-20T06:31:19.000Z",
-   "luogo": "Brescia",
-   "citta": "Brescia",
-   "regione": "Lombardia",
-   "coord": [
-    45.77958,
-    10.42587
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNQ1h2bkxseUpMYk5aOUR6LXMyX3RmV1JGV251dEhjdWt4YjBzRUo0WTZsVjJTZHQ4WmNBN1ZSZmZNOVEtVl96ZC11ZVVkTTMtS0J0RVZvck40emhGVDd2cFk0bl8zTlRGM2tkVTVzZXlGcDNwNDZOdzBKN0RBMlRGU3IwQk9fcjVOSExvd3hnMXNnaElKeHhCc1cxbTByV3FNcEVjem00c1FxVGdBRndWZ0pVc2pkVmc2eUdMNTl6UVpvY3VmQTVlNkhYeGwxWXVDQ1dhZVpPV0JOSmY2dTQzWnBVM3RtTDUtOTJVOF9XR1RqOGR5Y3BmSUxQNVJXd2ZhbXlDV2RqemswUDJCY0xIdG5HWkhzdTFFdGRmN04zQUVldDhid0FJYlBjWHNiRXpCOENHMDQ1cGw4M1RwbHVFN2E4YWNqM1J1alHSAc8CQVVfeXFMTllLb0RfOEJCa0FrN3N4S0VqY0pDRF9UVlVYbmxiWDA1Wkl0SXV2d1dIbHdqZHlaMnRWVW9YZVc3QlFFZmJEdURvRG1rQV9Eak9PSXFfVzEzWGd0WmV5WG9wcVJmM2ZYNHA2WHRBeVdLUHBEVTR5TEZVOER6UDlPRVlhX1JxSF83bzZBOU9sM05FSi1PY2pJbUVXOTRaWVlLWHJFd0c1b1hTeEJPM0dOa2IzV3VlNnhUc2dlR3BNU2s0dWtGVlRDT1BrbXZjRkluOFlEZjRPcFctbzJwM1hGUmhWSUZYWHhZNG5saDFlR0xGek1DV0pnX0d0WVFjZm51aTZTbXRxSGx3dnpGcUtJZ2JMOWdFZ3hiSWwzTW1PS2puMXF2ZElJQ3ZYVkhGYThieUtxQUt6RUJBYXA3Yl95N0RsQUJSNHduUXFSVVdIcEU?oc=5"
   },
   {
    "id": "gn-RGRtV1Eb2M9NQ",
@@ -1407,6 +1337,23 @@
    "online": false
   },
   {
+   "id": "gn-emNqRksb2M9NQ",
+   "fonte": "Giornali · Orizzonte Scuola Notizie",
+   "titolo": "Manifestazioni studentesche, a Torino: \"Il 30 ottobre bloccheremo tutto\", Valditara: \"Non è difesa della scuola, ma teppismo politico\" [Aggiornato]",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-30",
+   "dataIncerta": false,
+   "pubblicato": "2026-10-16T14:30:13.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOFZodzRlOXBZVW0yTVJTYjFkdzg0eG00YmRvTnVsTmFQLTdtemNqRHhGQjJaNDJZc0dqb0lDbzdMMnp1Zmw0aEpjb3pzdVdmYmhxU2hINXBjUVJxQ3NOU3EyNHJZQUUyYVM3RkMzclA5VWVnYmdaTkxIbTY3NHpJZWdtWld6SlhPZ2lWbGJPLUVsNlRCX1FaVjVHd2xsZ1R2OFgyLWdENGFweTVKNDlPYlJfYkJVRTcwVl9ST1NNRWgzcjFK?oc=5"
+  },
+  {
    "id": "pl-13464",
    "fonte": "PeaceLink",
    "titolo": "Il Diritto di Uscire. Il Diritto di Tornare.",
@@ -1458,7 +1405,7 @@
    "fonte": "Amicizia Italo-Palestinese",
    "titolo": "Tutta Italia: Sciopero generale contro guerra, carovita e genocidio",
    "tipo": "",
-   "inizio": "2026-10-30T17:01",
+   "inizio": "2026-10-30T17:19",
    "luogo": "Tutta Italia",
    "citta": "Tutta Italia",
    "regione": "Puglia",
@@ -1914,6 +1861,13 @@
     8.74503
    ],
    "regione": "Piemonte"
+  },
+  "trieste": {
+   "coord": [
+    45.64965,
+    13.77728
+   ],
+   "regione": "Friuli-Venezia Giulia"
   }
  }
 }
