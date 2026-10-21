@@ -235,7 +235,7 @@ main{padding-block:28px 72px}
 .map-wrap.full{position:fixed;left:0;right:0;bottom:0;top:var(--head-h,70px);z-index:45;border-radius:0;border:0;box-shadow:none}
 .map-wrap.full #map{height:100%}
 body.map-full{overflow:hidden}
-.map-tools{position:absolute;z-index:1001;top:64px;left:12px;right:12px;display:flex;justify-content:space-between;align-items:flex-start;gap:10px;pointer-events:none}
+.map-tools{position:absolute;z-index:1001;top:12px;left:12px;right:12px;display:flex;justify-content:space-between;align-items:flex-start;gap:10px;pointer-events:none}
 .map-tools>*{pointer-events:auto}
 .chip{display:inline-flex;align-items:center;gap:10px;background:var(--surface);color:var(--fg);border:0;border-radius:999px;padding:8px 14px 8px 8px;font:600 14px var(--f-ui);box-shadow:var(--shadow);cursor:pointer;user-select:none}
 .chip input{position:absolute;opacity:0;width:1px;height:1px}
@@ -251,17 +251,34 @@ body.map-full{overflow:hidden}
 .leaflet-touch-drag.leaflet-touch-zoom{touch-action:none}
 .map-hint{position:absolute;z-index:1002;left:50%;top:50%;transform:translate(-50%,-50%);background:rgba(20,12,13,.82);color:#fff;border-radius:12px;padding:12px 18px;font:600 15px var(--f-ui);text-align:center;pointer-events:none;opacity:0;transition:opacity .25s;max-width:80%}
 .map-hint.show{opacity:1}
-.map-search{position:absolute;z-index:1003;top:12px;left:12px;right:12px;max-width:440px;display:flex;align-items:center;gap:8px;background:var(--surface);border-radius:999px;box-shadow:var(--shadow);padding:0 6px 0 14px;height:42px}
-.map-search svg{width:18px;height:18px;color:var(--muted);flex:none}
+.map-ui{position:absolute;z-index:1003;top:12px;left:12px;width:min(360px,calc(100% - 130px));display:flex;flex-direction:column;align-items:flex-start;gap:8px}
+.map-lens{position:relative;width:46px;height:46px;border-radius:50%;border:0;background:var(--surface);color:var(--fg);box-shadow:var(--shadow);display:grid;place-items:center;cursor:pointer}
+.map-lens svg{width:20px;height:20px}
+.map-lens:hover,.map-lens[aria-expanded="true"]{color:var(--red)}
+.map-lens[aria-expanded="true"]{display:none}
+.lens-n{position:absolute;top:-4px;right:-4px;min-width:20px;height:20px;padding:0 5px;border-radius:999px;background:var(--red);color:#fff;font:800 11px/20px var(--f-ui);text-align:center;box-shadow:0 0 0 2px var(--surface)}
+.map-panel{width:100%;background:var(--surface);border-radius:18px;box-shadow:0 14px 34px rgba(0,0,0,.25);padding:8px;animation:pannello .18s ease}
+@keyframes pannello{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:none}}
+.map-search{position:relative;display:flex;align-items:center;gap:8px;background:var(--surface-2);border-radius:999px;padding:0 4px 0 14px;height:42px}
+.map-x{flex:none;width:34px;height:34px;border-radius:50%;border:0;background:transparent;color:var(--muted);cursor:pointer;font-size:15px}
+.map-x:hover{color:var(--red);background:var(--surface)}
+.map-filtri{display:flex;flex-direction:column;align-items:flex-start;gap:8px;padding:10px 6px 4px}
+.f-tit{font-size:11px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-top:2px}
+.f-temi{display:flex;flex-wrap:wrap;gap:6px}
+.f-temi button{border:1px solid var(--line);background:transparent;color:var(--fg);border-radius:999px;padding:7px 12px;font:600 13px var(--f-ui);cursor:pointer}
+.f-temi button:hover{border-color:var(--red)}
+.f-temi button[aria-pressed="true"]{background:var(--red);border-color:var(--red);color:var(--on-red)}
+.map-filtri .chip{box-shadow:none;background:transparent;padding:4px 6px 4px 0}
+.map-search>svg{width:18px;height:18px;color:var(--muted);flex:none}
 .map-search input{flex:1;min-width:0;border:0;background:transparent;color:var(--fg);font:500 15px var(--f-ui);height:100%;outline:none}
-.map-search:focus-within{box-shadow:0 0 0 3px var(--red),var(--shadow)}
+.map-search:focus-within{box-shadow:0 0 0 2px var(--red)}
 .map-sugg{position:absolute;top:48px;left:0;right:0;list-style:none;margin:0;padding:6px;background:var(--surface);border-radius:14px;box-shadow:0 12px 30px rgba(0,0,0,.25);max-height:300px;overflow:auto}
 .map-sugg li{padding:9px 12px;border-radius:10px;cursor:pointer;display:flex;justify-content:space-between;gap:10px;font-size:15px}
 .map-sugg li small{color:var(--muted);font-size:12px;white-space:nowrap}
 .map-sugg li[aria-selected="true"],.map-sugg li:hover{background:var(--surface-2)}
 .map-sugg li.vuoto{cursor:default;color:var(--muted)}
 .map-empty{position:absolute;z-index:1001;left:50%;bottom:20px;transform:translateX(-50%);background:var(--surface);color:var(--fg);border-radius:999px;padding:8px 16px;font-size:14px;box-shadow:var(--shadow);white-space:nowrap;max-width:calc(100% - 24px);overflow:hidden;text-overflow:ellipsis}
-@media (max-width:480px){.chip{font-size:13px;padding-right:12px}.map-btn .lbl{display:none}.map-btn{padding:10px}}
+@media (max-width:480px){.chip{font-size:13px;padding-right:12px}.map-btn .lbl{display:none}.map-btn{padding:10px}.map-ui{width:calc(100% - 76px)}}
 #map{height:clamp(340px,58vh,560px);background:var(--surface-2)}
 .map-legend{display:flex;flex-wrap:wrap;gap:8px 18px;margin-top:12px;font-size:14px;color:var(--muted)}
 .map-legend span{display:inline-flex;align-items:center;gap:8px}
@@ -477,16 +494,31 @@ footer a{color:var(--red);font-weight:700;text-decoration:none}
       <div class="sec-title"><h3 id="mappa-h">Mappa dei cortei</h3><p>Cortei, presidi e iniziative in tutta Italia: dalle news di Unione Sociale, dai calendari per la Palestina e dai giornali. Tocca un segnalino per ora, luogo e come arrivare.</p></div>
       <div class="map-wrap" id="map-wrap">
         <div id="map" role="region" aria-label="Mappa delle manifestazioni"></div>
-        <form class="map-search" id="map-search" role="search" autocomplete="off">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
-          <input id="map-q" type="search" placeholder="Cerca una città o una regione…" aria-label="Cerca una città o una regione sulla mappa" aria-autocomplete="list" aria-controls="map-sugg">
-          <ul class="map-sugg" id="map-sugg" role="listbox" hidden></ul>
-        </form>
-        <div class="map-tools">
-          <div class="chips">
-            <label class="chip" for="map-piemonte"><input type="checkbox" id="map-piemonte"><span class="sw" aria-hidden="true"></span>Solo Piemonte</label>
-            <label class="chip" for="map-past"><input type="checkbox" id="map-past"><span class="sw" aria-hidden="true"></span>Cortei passati</label>
+        <div class="map-ui">
+          <button class="map-lens" id="map-lens" type="button" aria-expanded="false" aria-controls="map-panel" aria-label="Cerca e filtra"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><span class="lens-n" id="lens-n" hidden></span></button>
+          <div class="map-panel" id="map-panel" hidden>
+            <form class="map-search" id="map-search" role="search" autocomplete="off">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+              <input id="map-q" type="search" placeholder="Cerca una città o una regione…" aria-label="Cerca una città o una regione sulla mappa" aria-autocomplete="list" aria-controls="map-sugg">
+              <button class="map-x" id="map-x" type="button" aria-label="Chiudi ricerca e filtri">✕</button>
+              <ul class="map-sugg" id="map-sugg" role="listbox" hidden></ul>
+            </form>
+            <div class="map-filtri">
+              <div class="f-tit">Temi</div>
+              <div class="f-temi" id="f-temi" role="group" aria-label="Filtra per tema">
+                <button type="button" data-cat="palestina" aria-pressed="false">Palestina</button>
+                <button type="button" data-cat="carovita" aria-pressed="false">Carovita</button>
+                <button type="button" data-cat="presidi" aria-pressed="false">Presidi e occupazioni</button>
+                <button type="button" data-cat="studenti" aria-pressed="false">Azioni studentesche</button>
+              </div>
+              <div class="f-tit">Mostra</div>
+              <label class="chip" for="map-piemonte"><input type="checkbox" id="map-piemonte"><span class="sw" aria-hidden="true"></span>Solo Piemonte</label>
+              <label class="chip" for="map-past"><input type="checkbox" id="map-past"><span class="sw" aria-hidden="true"></span>Cortei passati</label>
+            </div>
           </div>
+        </div>
+        <div class="map-tools">
+          <span></span>
           <button class="map-btn" id="map-full" type="button" aria-pressed="false">
             <svg class="i-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
             <svg class="i-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" style="display:none"><path d="M4 14h6v6M20 10h-6V4M14 10l7-7M3 21l7-7"/></svg>
@@ -1029,10 +1061,23 @@ creaFeed($("#feed"), "notizie", "Per ora nessuna notizia nuova su Gaza e la Pale
 
   const PIN='<svg viewBox="0 0 46 60" aria-hidden="true"><path class="pin-body" d="M23 1C11 1 1 10.8 1 23c0 15.2 17.6 31.4 20.6 35.4a1.8 1.8 0 0 0 2.8 0C27.4 54.4 45 38.2 45 23 45 10.8 35 1 23 1Z"/></svg><img src="img/logo.png" alt="">';
   const strato=L.layerGroup().addTo(map), segni=[];
+  /* temi: si riconoscono dalle parole nel titolo e nella descrizione */
+  const TEMI={
+    palestina:/palestin|gaza|cisgiordania|israel|sionis|genocid|flotilla|\bbds\b|nakba|rafah|intifad/i,
+    carovita:/caro.?vita|caro.?affitt|caro.?bollett|caro.?benzin|bollett|affitt|salar|prezz|benzin|povert|sfratt|sciopero|lavorat|\bcasa\b|precari/i,
+    presidi:/presidi|occupaz|occupat|sit.?in|picchett|blocc|acampad|tendopoli/i,
+    studenti:/student|studentesc|scuol|lice[oi]|universit|ateneo|collettiv|\bosa\b|istitut[oi] tecnic|aule/i
+  };
+  const temiDi=t=>new Set(Object.keys(TEMI).filter(k=>TEMI[k].test(t||"")));
+  const temiScelti=new Set();
+  try{ JSON.parse(localStorage.getItem("usp-temi")||"[]").forEach(t=>TEMI[t]&&temiScelti.add(t)); }catch(e){}
   const pastBox=$("#map-past"), piemBox=$("#map-piemonte");
   const PIN_EXT='<svg viewBox="0 0 46 60" aria-hidden="true"><path class="pin-body" d="M23 1C11 1 1 10.8 1 23c0 15.2 17.6 31.4 20.6 35.4a1.8 1.8 0 0 0 2.8 0C27.4 54.4 45 38.2 45 23 45 10.8 35 1 23 1Z"/></svg>';
   try{ piemBox.checked=localStorage.getItem("usp-solo-piemonte")==="1"; }catch(e){}
   piemBox.addEventListener("change",()=>{ try{ localStorage.setItem("usp-solo-piemonte",piemBox.checked?"1":"0"); }catch(e){} disegna(true); });
+
+  /* numero sulla lente: quanti filtri sono attivi */
+  function contaFiltri(){ const n=temiScelti.size+(piemBox.checked?1:0)+(pastBox.checked?1:0), el=$("#lens-n"); el.textContent=n; el.hidden=!n; }
 
   /* ---- ricerca di città e regioni ---- */
   const REGIONI=[["Piemonte",45.05,7.9,8],["Valle d'Aosta",45.73,7.32,9],["Lombardia",45.6,9.8,8],["Trentino-Alto Adige",46.43,11.17,8],
@@ -1092,7 +1137,23 @@ creaFeed($("#feed"), "notizie", "Per ora nessuna notizia nuova su Gaza e la Pale
   $("#map-search").addEventListener("submit",e=>{ e.preventDefault(); if(risultati[scelto]) vai(risultati[scelto]); else cerca(qIn.value); });
   sugg.addEventListener("mousedown",e=>{ const li=e.target.closest("li[data-i]"); if(li){ e.preventDefault(); vai(risultati[+li.dataset.i]); } });
   qIn.addEventListener("blur",()=>setTimeout(()=>sugg.hidden=true,150));
-  ["mousedown","touchstart","dblclick","wheel"].forEach(t=>$("#map-search").addEventListener(t,e=>e.stopPropagation(),{passive:true}));
+  ["mousedown","touchstart","dblclick","wheel"].forEach(t=>$(".map-ui").addEventListener(t,e=>e.stopPropagation(),{passive:true}));
+
+  /* ---- lente: apre ricerca e filtri ---- */
+  const lente=$("#map-lens"), pannello=$("#map-panel");
+  function apri(si){ pannello.hidden=!si; lente.setAttribute("aria-expanded",si); if(si) setTimeout(()=>qIn.focus(),30); else { sugg.hidden=true; lente.focus(); } }
+  lente.addEventListener("click",()=>apri(true));
+  $("#map-x").addEventListener("click",()=>apri(false));
+  pannello.addEventListener("keydown",e=>{ if(e.key==="Escape" && sugg.hidden){ e.stopPropagation(); apri(false); } });
+  map.on("click",()=>{ if(!pannello.hidden) apri(false); });
+  /* temi */
+  const bottoniTemi=[...document.querySelectorAll("#f-temi button")];
+  bottoniTemi.forEach(b=>b.setAttribute("aria-pressed",temiScelti.has(b.dataset.cat)));
+  $("#f-temi").addEventListener("click",e=>{ const b=e.target.closest("button[data-cat]"); if(!b) return;
+    temiScelti.has(b.dataset.cat)?temiScelti.delete(b.dataset.cat):temiScelti.add(b.dataset.cat);
+    b.setAttribute("aria-pressed",temiScelti.has(b.dataset.cat));
+    try{ localStorage.setItem("usp-temi",JSON.stringify([...temiScelti])); }catch(err){}
+    disegna(true); });
   try{ pastBox.checked=localStorage.getItem("usp-cortei-passati")==="1"; }catch(e){}
 
   /* disegna i segnalini: di base solo i cortei in programma, i passati (grigi) solo se richiesti */
@@ -1102,6 +1163,7 @@ creaFeed($("#feed"), "notizie", "Per ora nessuna notizia nuova su Gaza e la Pale
     for(const s of segni){
       if(s.passato && !mostraPassati) continue;
       if(s.esterno && !italia && !/piemonte/i.test(s.regione||"")) continue;
+      if(temiScelti.size && ![...temiScelti].some(t=>s.temi&&s.temi.has(t))) continue;
       /* eventi nello stesso punto: una sola puntina con il numero, e nel fumetto l'elenco */
       const key=s.c[0].toFixed(4)+","+s.c[1].toFixed(4);
       if(!gruppi.has(key)) gruppi.set(key,[]);
@@ -1123,7 +1185,8 @@ creaFeed($("#feed"), "notizie", "Per ora nessuna notizia nuova su Gaza e la Pale
     $("#legend-past").hidden=!mostraPassati;
     $("#map-empty").hidden=punti.length>0;
     if(!adatta) return;
-    $("#map-empty").textContent = italia ? "Nessun evento nei prossimi 14 giorni" : "Nessun evento in Piemonte nei prossimi 14 giorni: spegni «Solo Piemonte»";
+    $("#map-empty").textContent = temiScelti.size ? "Nessun evento con questi temi: cambia i filtri" : italia ? "Nessun evento nei prossimi 14 giorni" : "Nessun evento in Piemonte nei prossimi 14 giorni: spegni «Solo Piemonte»";
+    contaFiltri();
     if(!punti.length) map.setView(italia?[42.5,12.5]:[45.05,7.75],italia?6:8);
     else if(punti.length===1) map.setView(punti[0],14);
     else map.fitBounds(punti,{padding:[70,70],maxZoom:14});
@@ -1200,7 +1263,7 @@ creaFeed($("#feed"), "notizie", "Per ora nessuna notizia nuova su Gaza e la Pale
       if(!c){ try{ c=await trova(ev.luogo); }catch(err){ console.log("Indirizzo non trovato:",ev.luogo); continue; } }
       const passato=d<oggi;
       const tit=strip(ev.titolo||n.titolo);
-      segni.push({c,passato,regione:"Piemonte",giorno:ev.inizio.slice(0,10),prossimo:!passato&&prossimo&&prossimo.e===ev,titolo:tit,popup:`<div class="pop">
+      segni.push({c,passato,regione:"Piemonte",giorno:ev.inizio.slice(0,10),temi:temiDi([n.titolo,n.sommario,ev.titolo,strip(n.corpo||"")].join(" ")),prossimo:!passato&&prossimo&&prossimo.e===ev,titolo:tit,popup:`<div class="pop">
         <span class="tag ${passato?"est":"int"}">${passato?"Già svolta":"In programma"}</span>
         <h5>${tit}</h5>
         <div class="row"><b>Ora</b><span>${ora(d)}</span></div>
@@ -1225,7 +1288,7 @@ creaFeed($("#feed"), "notizie", "Per ora nessuna notizia nuova su Gaza e la Pale
       const tit=esc(e.titolo);
       const giornale=/^Giornali/.test(e.fonte||"");
       if(giornale && !e.dataIncerta && segni.some(s=>!s.esterno && s.giorno===e.inizio.slice(0,10) && Math.abs(s.c[0]-e.coord[0])<0.05 && Math.abs(s.c[1]-e.coord[1])<0.07)) continue;
-      segni.push({c:e.coord,esterno:true,giornale,passato,regione:e.regione,titolo:e.titolo,popup:`<div class="pop">
+      segni.push({c:e.coord,esterno:true,giornale,passato,regione:e.regione,titolo:e.titolo,temi:temiDi([e.titolo,e.tipo,e.descrizione].join(" ")),popup:`<div class="pop">
         <span class="tag est">${passato?"Già svolta":esc(e.tipo||"Evento")}</span>
         <h5>${tit}</h5>
         ${e.descrizione?`<div class="desc">${esc(e.descrizione)}</div>`:""}
