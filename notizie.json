@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-21T15:22:17.424Z",
+ "aggiornato": "2026-10-21T15:25:25.323Z",
  "notizie": [
   {
    "titolo": "Stop al commercio con gli insediamenti illegali di coloni",
@@ -585,7 +585,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaVFvZE9ZVGJ5Q0xWMDNqdW1EOE1peWVkMm85VDBSMGNfeFk3V01ld3JrREJSSy1mMTQyaDVPTFJ4T3VabjVfOHNWakROa0FOTEN4M2U1MzI4bGdad084Nmp1WXVYMmFLeVJDMnBsYjJwWVVGMVNoUUNUWnlFdU9TOHRvaF9NOU5SRnNtOU56MThuSHAteDROZzM2Z3VlYk1OcEFVYnFxeXZXZDR4R0x0MW1DM2NUdDI1Zi1qU0c0eU03Sl8tQzJhQ1d0MDlhR1piY0JEcVJfWU5HOVM3YXBaQ1hxUXJMMlg00gHuAUFVX3lxTE1ZTVoyZjE3TXFTVFY2eldxeUJvM3dPZkVNWV9rMk82bkNkQjUtX19xNGw3RldKcmtkWW5XanF2YWJhV1diMDRhRGcxcWRxU0FUR1pLeklmV2FlMUljeGR3VWh2OWxEVjVXaUgtY0FrY3NlR2hqOGNyeW5GN2VaWHREMlpDeU54RHhPMjVLNk9mTHplWFJGT241aWk1a0lSWURCWkdJeUh0a2xHakZ5US1NYUxiSExZeTkzWll6YUNQc3hSOFN0OU8xVzMwQ0ZTNlBWX3lUNmx5aEktbDNpTHIzUHc0MjRuWGR4dW90R0E?oc=5",
-   "altriArticoli": 41
+   "altriArticoli": 42
   },
   {
    "id": "gn-dlZrOHcb2M9NQ",
@@ -766,21 +766,22 @@
    "altriArticoli": 2
   },
   {
-   "id": "gn-RVptVjBNP29jPTU",
-   "fonte": "Giornali · Siena Comunica",
-   "titolo": "Wine & Siena 2027, il Comune conferma il sostegno alla manifestazione al Santa Maria della Scala",
+   "id": "gn-bG9Wa2RFP29jPTU",
+   "fonte": "Giornali · Ufficio Stampa della Provincia autonoma di Trento",
+   "titolo": "Gerosa: “La violenza non può soffocare la voce degli studenti. Ferma condanna per quanto accaduto alla manifestazione pacifica del Tambosi”",
    "tipo": "Dai giornali",
    "inizio": "2026-10-20",
    "dataIncerta": true,
-   "pubblicato": "2026-10-20T08:32:47.000Z",
-   "luogo": "Siena",
-   "citta": "Siena",
-   "regione": "Toscana",
+   "pubblicato": "2026-10-20T14:09:00.000Z",
+   "luogo": "Trento",
+   "citta": "Trento",
+   "regione": "Trentino-Alto Adige",
    "coord": [
-    43.16721,
-    11.46756
+    46.10295,
+    11.12974
    ],
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYkZFcm1ydG5Rd2luNUxRclhJZXB0cGZ5bkNPVkdaVWRKT0loVFA2LUdxU1E1QlBXNGtCczlKMTk4ZnV4ZWstN0JXcTE5ZklnbWhXTFlDUVZ2cDVIZUd4YVJxdjdXdEl3ZlVEbExQWDB2UW5YMVRFcWIzenU5MEN4TDF0SkIyRmFaWkY4cHcyYlNQS0FrSDJXQTRGdmhaN3o3RWV1SGZkNXdpYm82eGxpSVl5b25hbGpyaE5pSEZmV0M?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQdy1CSW1vSFR5Y0xYODQta1djanBmNk1vVDlGTU1HRnlrZU5COG9QWEpzZThaQWxlOXpQdEpTblU2Ukxid1RLWWdsRFh2Z2VFUTh6b2ZGbDhXZ1JZbV9PdUlzLXNmNlFTUjVqXzRwMi1uX1B6UlJfVTFaN1h5eVpZZ2ludW5SVHFGYUFnaFZJZ2FjSFdraHBJNDlwajUyQnNvdGhOMnRUR0NDUHRUNmkzay1yX1FOSkdrdmw3eGxidDR4a0g5bUpzY2ZRSnlwcXhIQ2dQSkpsQXZXT3VRZ1cwUXRCNGxFOUpSdjZacjVoVDJDWkJYblFJLWhFaExQWWgwdVU3a2hKWlBkWmJvMTZRY3JhYWloVkdE?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "gn-b3lVWGcb2M9NQ",
@@ -798,23 +799,6 @@
     14.24877
    ],
    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQa3YzNDVZOGR3dU00aDRCT1gwNlVZdzE2X0lsQkJZcTRHS0cxVzJZa3dfUERhY013al9hekktYy0zTW5ITHNUcmNHQ2tEaUhaUkp3Sk1BbDlPMlRuUklzN2owNTk2V1N1SE1waU81Z09fVU0yMlpNX085WS1JaF9CNTFyTWxiZDlZOUJ1Nk42Q3I3R0RzSDF5Z0l5eGlSNkZqUkRDUjg4Qm5GMU5hbm54MmxIeHM1VDYwV1JxZDA5NzJ0bVhBc1dnNjU2VjIzS3lPcFVjdHV2czdrR0NEVERYMWRybk5XUU9sbFdJbzdpb3kxYUdIVjFHRGNJS3RlYnhTOFdIS3FleTFWVmRqd2pDY3pxQVZsM2g5eU5wU1oyUXg?oc=5"
-  },
-  {
-   "id": "gn-MVV3TFdjP29jPTU",
-   "fonte": "Giornali · Il Piccolo",
-   "titolo": "Aria di occupazione nelle scuole superiori di Trieste: una chat per organizzare le proteste",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-20",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-20T06:00:00.000Z",
-   "luogo": "Trieste",
-   "citta": "Trieste",
-   "regione": "Friuli-Venezia Giulia",
-   "coord": [
-    45.64965,
-    13.77728
-   ],
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTlNNaUE0emNHOWlaOXFGQ3NMeVF5VWxQeWI3bGpDZzFSb3lJYzdIRjRXYlNaVWVQWERQMXdzTllvblZXMVp0OE92TnJZTktwcks0emNpeHpaNFlocDBPMkZSYkZlUFBUSm5mYy1DTk92VlJqQmJ5OW92aTZNckoyOTlXQ2ZYRkR1WnRNZm9ZcnI3c056Rmd3QVNkVWEwN05OMWtOQWM5SDR1c1UwLWc?oc=5"
   },
   {
    "id": "gn-WGhQU2xSSj9vYz01",
@@ -911,23 +895,6 @@
     9.03058
    ],
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV1E4RVNlR3BwcW5GZ05aeWI0Q0ZoRHJreUMta0ZqWkt6WVAwSzJFcEtYS3NRWUNLWGdDNXY4Sm1Ec0pJbU9hRzFUNlhHSE9CYzJCRTFEb1c4OXNEay0wbXgwWHB0NXVxZlNwMEY5bVhuRk43R05keDk3REg2TzBzRXR6VTdFN3FjdGl1NDJQZ2hMNWVtQnZqWHItbEJCMVJEUktPOXhrLU91d3FabDFDUDl3ZVE?oc=5"
-  },
-  {
-   "id": "gn-SFIzUTI4P29jPTU",
-   "fonte": "Giornali · RaiNews",
-   "titolo": "Studenti in corteo a Trento, richiesta di risorse e appelli a isolare i violenti",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-21",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-21T07:54:00.000Z",
-   "luogo": "Trento",
-   "citta": "Trento",
-   "regione": "Trentino-Alto Adige",
-   "coord": [
-    46.10295,
-    11.12974
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTVJwR2gyZnZJQ0hHUnoxT25PUTZ0dFJLU2VRbXVreUxTUktPYzREeHpLY0hlNXZGUnc2NFh2SG9CTW5jT21FaHlsX1ZqUUEzeVR3dk15d2lGOGpic3NEVGZTWVlBak1vQWxYbmQyVTJoWEowalc0X0ZFdDd0YWpad1pKUDN6Z0tPZGJfZUJXcW1XNVZOWUxGMUdmRTNrM2R3VTQ4b2g5S0htek1YTmlHM2d3VWx5aklRWnFCSlo2enhLbGhXMHV4NDV1OFRRT3FoMWdBN2hwbVlMMDNpM3Izb2d4WWwwNVRmTVd3dUR6Vkw4YXZaNDZrb1o2UUhUSW1FMmfSAYcCQVVfeXFMT0xtd21mZlctallkOUtYVzNWU1FYU21HRF9OWjFPZTVnZHp6TF9TaXlwNVFlcl9fdHlyQlVRakd5bUhRTFA2V2F6V2dpSDFrMHJHOUM1RjRDbGo2ZTN4ZWJnMHhKM3JtSV80T0QxNXl3QVY4ODJHYmdiRUMtMG1mOURlTHZvVk45Wl9mZXFDNVdFdFgyRko5enQxaGRaOHp2NGdMTHg0a29IYXFKckZiNmo3SEJ2V3VNdWNtbGNPOWhZV0pNOUprZVBFcE5PZTJnbVRuN1hWN0lHT2RKRnZnYktYT2VDbmM4NUZMeFpaWWpDdjM1RTFzSG50MEx4SUxLWWZneHR3Q28?oc=5"
   },
   {
    "id": "aip-1744479",
@@ -1404,7 +1371,7 @@
    "fonte": "Amicizia Italo-Palestinese",
    "titolo": "Tutta Italia: Sciopero generale contro guerra, carovita e genocidio",
    "tipo": "",
-   "inizio": "2026-10-30T17:22",
+   "inizio": "2026-10-30T17:25",
    "luogo": "Tutta Italia",
    "citta": "Tutta Italia",
    "regione": "Puglia",
