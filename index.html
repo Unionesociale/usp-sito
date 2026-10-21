@@ -4,12 +4,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <link rel="icon" href="img/logo.png">
-<title>Unione Sociale Pinerolo</title>
+<title>Unione Sociale</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@400;500;600;700;800&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&display=swap">
 <style>
-/* Layout: testata fissa col simbolo, viste a schermo (News / Articoli / Lettore), rosso USP come colore portante */
+/* Layout: testata fissa col simbolo, viste a schermo (News / Articoli / Lettore), rosso Unione Sociale, rosso come colore portante */
 :root{
   --bg:#f6f2f1; --surface:#ffffff; --surface-2:#efe8e6; --fg:#1b1314; --muted:#6b5c5d; --line:#e2d8d6;
   --red:#c41a20; --red-strong:#a3141a; --red-soft:#f7dcdc; --on-red:#ffffff; --hl:#fbe3e3;
@@ -61,13 +61,15 @@ body.entering main,body.entering .site-head{animation:enter .8s cubic-bezier(.2,
 .site-head{position:sticky;top:env(safe-area-inset-top,0px);z-index:50;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:saturate(1.4) blur(12px);-webkit-backdrop-filter:saturate(1.4) blur(12px);border-bottom:1px solid var(--line)}
 .site-head::after{content:"";position:absolute;left:0;right:0;bottom:-1px;height:3px;background:var(--red)}
 .head-row{display:flex;align-items:center;gap:12px;min-height:70px}
-.brand{display:flex;align-items:center;gap:12px;text-decoration:none;min-width:0;margin-right:auto}
-.brand img{width:50px;height:50px;flex:none;transition:transform .4s}
+.brand{display:flex;align-items:center;gap:12px;text-decoration:none;flex:none;margin-right:auto}
+.brand img{width:50px;height:50px;max-width:none;flex:none;object-fit:contain;transition:transform .4s}
 .brand:hover img{transform:rotate(-12deg)}
 .brand .name{display:flex;flex-direction:column;line-height:1}
-.brand .name b{font-family:var(--f-display);font-weight:400;font-size:26px;letter-spacing:.02em;color:var(--red)}
+.brand .name b{font-family:var(--f-display);font-weight:400;font-size:24px;letter-spacing:.03em;text-transform:uppercase;color:var(--red);white-space:nowrap}
 .brand .name span{font-size:11px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin-top:4px}
-nav.main{display:flex;gap:2px}
+nav.main{display:flex;gap:2px;min-width:0;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;scroll-snap-type:x proximity}
+nav.main::-webkit-scrollbar{display:none}
+nav.main a{flex:none;scroll-snap-align:start}
 nav.main a{text-decoration:none;font-weight:700;font-size:14px;letter-spacing:.06em;text-transform:uppercase;padding:9px 12px;border-radius:8px;color:var(--fg)}
 nav.main a:hover{background:var(--surface-2)}
 nav.main a[aria-current="page"]{color:var(--on-red);background:var(--red)}
@@ -80,10 +82,11 @@ nav.main a[aria-current="page"]{color:var(--on-red);background:var(--red)}
 @media (max-width:640px){
   .brand .name span{display:none}
   .brand img{width:42px;height:42px}
-  nav.main a{padding:8px 7px;font-size:12px;letter-spacing:.02em}
+  nav.main a{padding:8px 9px;font-size:12.5px;letter-spacing:.02em}
+  nav.main.scorre{-webkit-mask-image:linear-gradient(90deg,#000 82%,transparent);mask-image:linear-gradient(90deg,#000 82%,transparent)}
   .head-row{gap:6px}
 }
-@media (max-width:480px){.brand .name{display:none}}
+@media (max-width:760px){.brand .name{display:none}}
 
 /* ---------- COMMON ---------- */
 main{padding-block:28px 72px}
@@ -406,9 +409,9 @@ footer a{color:var(--red);font-weight:700;text-decoration:none}
 
 <header class="site-head">
   <div class="wrap head-row">
-    <a class="brand" href="#news" aria-label="Unione Sociale Pinerolo, home">
-      <img src="img/logo.png" alt="Simbolo USP">
-      <span class="name"><b>USP</b><span>Unione Sociale Pinerolo</span></span>
+    <a class="brand" href="#news" aria-label="Unione Sociale, home">
+      <img src="img/logo.png" alt="Simbolo di Unione Sociale">
+      <span class="name"><b>Unione Sociale</b></span>
     </a>
     <nav class="main" aria-label="Sezioni">
       <a href="#news" data-nav="news">News</a>
@@ -429,7 +432,7 @@ footer a{color:var(--red);font-weight:700;text-decoration:none}
     <div class="news-head">
       <div>
         <span class="eyebrow">Aggiornamenti sociali</span>
-        <h1 class="display" id="news-h">News di <em>USP</em></h1>
+        <h1 class="display" id="news-h">Le <em>news</em></h1>
       </div>
       <div class="filters" role="group" aria-label="Filtra le news">
         <button type="button" data-f="tutte" aria-pressed="true">Tutte<span class="n" id="n-tutte"></span></button>
@@ -441,7 +444,7 @@ footer a{color:var(--red);font-weight:700;text-decoration:none}
     <div id="featured"></div>
 
     <div class="news-sec" id="sec-interna">
-      <div class="sec-title"><h3>News interne</h3><p>Dall'Unione Sociale Pinerolo</p></div>
+      <div class="sec-title"><h3>News interne</h3><p>Dall'Unione Sociale</p></div>
       <div class="grid" id="grid-interna"></div>
     </div>
 
@@ -467,7 +470,7 @@ footer a{color:var(--red);font-weight:700;text-decoration:none}
     </div>
 
     <section class="mappa" id="mappa" aria-labelledby="mappa-h">
-      <div class="sec-title"><h3 id="mappa-h">Mappa dei cortei</h3><p>Cortei, presidi e iniziative in tutta Italia: dalle news di USP, dai calendari per la Palestina e dai giornali. Tocca un segnalino per ora, luogo e come arrivare.</p></div>
+      <div class="sec-title"><h3 id="mappa-h">Mappa dei cortei</h3><p>Cortei, presidi e iniziative in tutta Italia: dalle news di Unione Sociale, dai calendari per la Palestina e dai giornali. Tocca un segnalino per ora, luogo e come arrivare.</p></div>
       <div class="map-wrap" id="map-wrap">
         <div id="map" role="region" aria-label="Mappa delle manifestazioni"></div>
         <form class="map-search" id="map-search" role="search" autocomplete="off">
@@ -488,14 +491,14 @@ footer a{color:var(--red);font-weight:700;text-decoration:none}
         <div class="map-hint" id="map-hint" aria-live="polite"></div>
         <div class="map-empty" id="map-empty" hidden>Nessun corteo in programma</div>
       </div>
-      <div class="map-legend"><span><i></i>Dalle news USP</span><span><i class="ext"></i>Dai calendari</span><span><i class="gn"></i>Dai giornali</span><span class="past-l" id="legend-past" hidden><i class="past"></i>Già svolte</span></div>
+      <div class="map-legend"><span><i></i>Dalle news di Unione Sociale</span><span><i class="ext"></i>Dai calendari</span><span><i class="gn"></i>Dai giornali</span><span class="past-l" id="legend-past" hidden><i class="past"></i>Già svolte</span></div>
       <p class="meta map-src">Calendari: <a href="https://www.peacelink.it/calendario/events.php" target="_blank" rel="noopener">PeaceLink</a> · <a href="https://www.amiciziaitalo-palestinese.org/calendario-attivita" target="_blank" rel="noopener">Amicizia Italo-Palestinese</a> · <a href="https://www.invictapalestina.org/archives/55281" target="_blank" rel="noopener">Invictapalestina</a> · notizie di cortei, manifestazioni, presidi e occupazioni da Google News. Si vedono gli eventi dei prossimi 14 giorni; aggiornati in automatico ogni ora.</p>
     </section>
 
     <section class="join" id="gruppo" aria-labelledby="join-h">
       <div>
-        <h3 id="join-h">Entra nel gruppo USP</h3>
-        <p>Assemblee, iniziative, volantinaggi e nuove uscite. Unisciti al gruppo WhatsApp dell'Unione Sociale Pinerolo e partecipa.</p>
+        <h3 id="join-h">Entra nel gruppo</h3>
+        <p>Assemblee, iniziative, volantinaggi e nuove uscite. Unisciti al gruppo WhatsApp dell'Unione Sociale e partecipa.</p>
         <div class="row">
           <a class="btn btn-w" href="https://chat.whatsapp.com/KyXiA3yQABwCV5D3I6Shtd" target="_blank" rel="noopener">
             <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2Zm0 18.2a8.2 8.2 0 0 1-4.2-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2Zm4.5-6.1c-.2-.1-1.5-.7-1.7-.8-.2-.1-.4-.1-.6.1l-.8 1c-.1.2-.3.2-.5.1a6.7 6.7 0 0 1-3.3-2.9c-.3-.4.2-.4.7-1.4.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5a1 1 0 0 0-.7.3 3 3 0 0 0-.9 2.2 5.2 5.2 0 0 0 1.1 2.8 11.9 11.9 0 0 0 4.6 4c1.7.7 2.3.8 3.2.7.5-.1 1.5-.6 1.8-1.2.2-.6.2-1.1.1-1.2l-.4-.2Z"/></svg>
@@ -506,7 +509,7 @@ footer a{color:var(--red);font-weight:700;text-decoration:none}
         <div class="link" id="wa-link">https://chat.whatsapp.com/KyXiA3yQABwCV5D3I6Shtd</div>
       </div>
       <figure>
-        <img src="img/qr-gruppo.png" alt="QR code del gruppo WhatsApp USP">
+        <img src="img/qr-gruppo.png" alt="QR code del gruppo WhatsApp di Unione Sociale">
         <figcaption>Inquadra e unisciti</figcaption>
       </figure>
     </section>
@@ -529,7 +532,7 @@ footer a{color:var(--red);font-weight:700;text-decoration:none}
       <h1 id="r-title"></h1>
       <div class="byline">
         <img src="img/logo.png" alt="">
-        <b>Unione Sociale Pinerolo</b>
+        <b>Unione Sociale</b>
         <span class="meta" id="r-meta"></span>
       </div>
       <div class="tts" id="tts" role="region" aria-label="Lettura vocale">
@@ -555,7 +558,7 @@ footer a{color:var(--red);font-weight:700;text-decoration:none}
 
 <footer>
   <div class="wrap">
-    <div class="f-brand"><img src="img/logo.png" alt=""><span><b>Unione Sociale Pinerolo</b> · USP</span></div>
+    <div class="f-brand"><img src="img/logo.png" alt=""><span><b>Unione Sociale</b></span></div>
     <a href="https://chat.whatsapp.com/KyXiA3yQABwCV5D3I6Shtd" target="_blank" rel="noopener">Gruppo WhatsApp →</a>
   </div>
 </footer>
@@ -578,18 +581,18 @@ footer a{color:var(--red);font-weight:700;text-decoration:none}
 <script>
 /* ================= CONTENUTI =================
    Per pubblicare una news o un articolo basta aggiungere un oggetto qui sotto.
-   tipo: "interna" (USP) oppure "esterna" (mobilitazioni, iniziative di altri). */
+   tipo: "interna" (Unione Sociale) oppure "esterna" (mobilitazioni, iniziative di altri). */
 const WA = "https://chat.whatsapp.com/KyXiA3yQABwCV5D3I6Shtd";
 
 const NEWS = [
   {
     id:"locandina", tipo:"interna", etichetta:"Nuova locandina", data:"2026-10-07",
     titolo:"I filosofi hanno interpretato il mondo. <span>Ora bisogna cambiarlo</span>",
-    sommario:"È uscita la nuova locandina dell'Unione Sociale Pinerolo. La frase è l'undicesima tesi su Feuerbach di Karl Marx: non basta spiegare il mondo, bisogna trasformarlo. Inquadra il QR sulla locandina per entrare nel gruppo.",
+    sommario:"È uscita la nuova locandina dell'Unione Sociale. La frase è l'undicesima tesi su Feuerbach di Karl Marx: non basta spiegare il mondo, bisogna trasformarlo. Inquadra il QR sulla locandina per entrare nel gruppo.",
     immagini:["img/locandina-1.jpg"],
-    corpo:`<p>È uscita la nuova locandina dell'Unione Sociale Pinerolo.</p>
-<p>«I filosofi hanno soltanto interpretato il mondo in modi diversi; si tratta però di mutarlo.» È l'undicesima delle <i>Tesi su Feuerbach</i>, scritte da Karl Marx nel 1845. Per noi è un punto di partenza: capire come funzionano lavoro, salari e diritti serve a organizzarsi e a cambiare le cose, qui a Pinerolo.</p>
-<p>Sulla locandina trovi il QR code del gruppo WhatsApp di USP: inquadralo per unirti a noi.</p>`,
+    corpo:`<p>È uscita la nuova locandina dell'Unione Sociale.</p>
+<p>«I filosofi hanno soltanto interpretato il mondo in modi diversi; si tratta però di mutarlo.» È l'undicesima delle <i>Tesi su Feuerbach</i>, scritte da Karl Marx nel 1845. Per noi è un punto di partenza: capire come funzionano lavoro, salari e diritti serve a organizzarsi e a cambiare le cose, nei nostri territori.</p>
+<p>Sulla locandina trovi il QR code del gruppo WhatsApp di Unione Sociale: inquadralo per unirti a noi.</p>`,
     azioni:[{t:"Entra nel gruppo",href:WA}]
   },
   {
@@ -732,6 +735,13 @@ const fmtData = iso => { const [y,m,d]=iso.split("-").map(Number); return `${d} 
 const strip = h => h.replace(/<[^>]+>/g,"");
 const store = { get(k){try{return localStorage.getItem(k)}catch(e){return null}}, set(k,v){try{localStorage.setItem(k,v)}catch(e){}} };
 
+/* ================= MENU: sfumatura a destra se sul telefono le voci scorrono ================= */
+(function(){
+  const nav=document.querySelector("nav.main");
+  const aggiorna=()=>nav.classList.toggle("scorre", nav.scrollWidth>nav.clientWidth+2 && nav.scrollLeft+nav.clientWidth<nav.scrollWidth-4);
+  nav.addEventListener("scroll",aggiorna,{passive:true}); addEventListener("resize",aggiorna); setTimeout(aggiorna,100);
+})();
+
 /* ================= TEMA ================= */
 (function(){
   const root=document.documentElement;
@@ -764,7 +774,7 @@ function cardHTML(n){
 function renderNews(){
   const first = NEWS[0];
   $("#featured").innerHTML = `<article class="featured" data-tipo="${first.tipo}">
-    <div class="pic" data-news="${first.id}" role="button" tabindex="0" aria-label="Apri la locandina a tutto schermo"><img src="${first.immagini[0]}" alt="Locandina USP: I filosofi hanno interpretato il mondo, ora bisogna cambiarlo"></div>
+    <div class="pic" data-news="${first.id}" role="button" tabindex="0" aria-label="Apri la locandina a tutto schermo"><img src="${first.immagini[0]}" alt="Locandina di Unione Sociale: I filosofi hanno interpretato il mondo, ora bisogna cambiarlo"></div>
     <div class="body">
       <div class="kick">${tagHTML(first)}<span class="meta">${first.etichetta} · ${fmtData(first.data)}</span></div>
       <h2 class="display">${first.titolo}</h2>
@@ -835,7 +845,7 @@ function renderReader(a){
   $("#r-title").textContent=a.titolo;
   $("#r-meta").textContent=`${fmtData(a.data)} · ${minuti(a)} min di lettura`;
   $("#r-body").innerHTML=a.paragrafi.map((p,i)=>`<p data-i="${i}">${p}</p>`).join("");
-  document.title = a.titolo + " · USP";
+  document.title = a.titolo + " · Unione Sociale";
 }
 
 /* ================= SINTESI VOCALE ================= */
@@ -917,7 +927,7 @@ function route(){
     const on = (a.dataset.nav==="news" && view==="news" && h!=="gruppo" && h!=="mappa") || (a.dataset.nav==="articoli" && view!=="news") || (a.dataset.nav===h && view==="news");
     if(on) a.setAttribute("aria-current","page"); else a.removeAttribute("aria-current");
   });
-  if(view!=="lettore"){ TTS.stop(); document.title="Unione Sociale Pinerolo"; }
+  if(view!=="lettore"){ TTS.stop(); document.title="Unione Sociale"; }
   progress.hidden = view!=="lettore";
   if(art){ if(current!==art) { TTS.stop(); renderReader(art); } scrollTo({top:0,behavior:"instant"}); onScroll(); }
   else if(h==="gruppo"||h==="mappa"){ setFilter("tutte"); requestAnimationFrame(()=>$("#"+h).scrollIntoView({behavior:"smooth"})); }
@@ -1025,6 +1035,7 @@ creaFeed($("#feed"), "notizie", "Per ora nessuna notizia nuova su Gaza e la Pale
     ["Veneto",45.65,11.95,8],["Friuli-Venezia Giulia",46.1,13.1,8],["Liguria",44.3,8.7,8],["Emilia-Romagna",44.5,11.0,8],["Toscana",43.45,11.1,8],
     ["Umbria",42.95,12.5,9],["Marche",43.35,13.15,8],["Lazio",41.95,12.75,8],["Abruzzo",42.25,13.85,8],["Molise",41.65,14.6,9],["Campania",40.85,14.85,8],
     ["Puglia",41.0,16.6,8],["Basilicata",40.5,16.05,8],["Calabria",39.0,16.4,8],["Sicilia",37.55,14.15,8],["Sardegna",40.05,9.05,8]];
+  const CITTA=[["Torino","Piemonte",45.0703,7.6869],["Pinerolo","Piemonte",44.8848,7.3309],["Cuneo","Piemonte",44.3845,7.5427],["Alessandria","Piemonte",44.9126,8.6150],["Asti","Piemonte",44.9008,8.2064],["Novara","Piemonte",45.4469,8.6220],["Vercelli","Piemonte",45.3207,8.4185],["Biella","Piemonte",45.5664,8.0533],["Verbania","Piemonte",45.9216,8.5518],["Ivrea","Piemonte",45.4669,7.8759],["Moncalieri","Piemonte",44.9998,7.6827],["Alba","Piemonte",44.7008,8.0353],["Bra","Piemonte",44.6967,7.8559],["Aosta","Valle d'Aosta",45.7370,7.3201],["Milano","Lombardia",45.4642,9.1900],["Bergamo","Lombardia",45.6983,9.6773],["Brescia","Lombardia",45.5416,10.2118],["Como","Lombardia",45.8081,9.0852],["Varese","Lombardia",45.8206,8.8251],["Monza","Lombardia",45.5845,9.2744],["Pavia","Lombardia",45.1847,9.1582],["Cremona","Lombardia",45.1332,10.0227],["Mantova","Lombardia",45.1564,10.7914],["Lecco","Lombardia",45.8566,9.3977],["Lodi","Lombardia",45.3138,9.5034],["Sondrio","Lombardia",46.1699,9.8715],["Trento","Trentino-Alto Adige",46.0748,11.1217],["Bolzano","Trentino-Alto Adige",46.4983,11.3548],["Venezia","Veneto",45.4408,12.3155],["Mestre","Veneto",45.4906,12.2380],["Verona","Veneto",45.4384,10.9916],["Padova","Veneto",45.4064,11.8768],["Vicenza","Veneto",45.5455,11.5354],["Treviso","Veneto",45.6669,12.2430],["Rovigo","Veneto",45.0698,11.7902],["Belluno","Veneto",46.1426,12.2167],["Trieste","Friuli-Venezia Giulia",45.6495,13.7768],["Udine","Friuli-Venezia Giulia",46.0711,13.2346],["Pordenone","Friuli-Venezia Giulia",45.9564,12.6615],["Gorizia","Friuli-Venezia Giulia",45.9411,13.6216],["Genova","Liguria",44.4056,8.9463],["La Spezia","Liguria",44.1025,9.8241],["Savona","Liguria",44.3091,8.4772],["Imperia","Liguria",43.8890,8.0386],["Bologna","Emilia-Romagna",44.4949,11.3426],["Modena","Emilia-Romagna",44.6471,10.9252],["Parma","Emilia-Romagna",44.8015,10.3279],["Reggio Emilia","Emilia-Romagna",44.6989,10.6297],["Ferrara","Emilia-Romagna",44.8381,11.6198],["Ravenna","Emilia-Romagna",44.4184,12.2035],["Rimini","Emilia-Romagna",44.0678,12.5695],["Forlì","Emilia-Romagna",44.2227,12.0407],["Cesena","Emilia-Romagna",44.1391,12.2431],["Piacenza","Emilia-Romagna",45.0526,9.6930],["Firenze","Toscana",43.7696,11.2558],["Pisa","Toscana",43.7228,10.4017],["Livorno","Toscana",43.5485,10.3106],["Siena","Toscana",43.3188,11.3308],["Lucca","Toscana",43.8429,10.5027],["Prato","Toscana",43.8777,11.1022],["Pistoia","Toscana",43.9334,10.9174],["Arezzo","Toscana",43.4633,11.8797],["Grosseto","Toscana",42.7635,11.1124],["Massa","Toscana",44.0354,10.1394],["Carrara","Toscana",44.0793,10.0977],["Perugia","Umbria",43.1107,12.3908],["Terni","Umbria",42.5636,12.6427],["Ancona","Marche",43.6158,13.5189],["Pesaro","Marche",43.9101,12.9132],["Macerata","Marche",43.3007,13.4532],["Ascoli Piceno","Marche",42.8540,13.5759],["Fermo","Marche",43.1606,13.7186],["Urbino","Marche",43.7262,12.6366],["Roma","Lazio",41.9028,12.4964],["Latina","Lazio",41.4676,12.9037],["Frosinone","Lazio",41.6396,13.3426],["Viterbo","Lazio",42.4207,12.1077],["Rieti","Lazio",42.4045,12.8567],["L'Aquila","Abruzzo",42.3498,13.3995],["Pescara","Abruzzo",42.4618,14.2161],["Chieti","Abruzzo",42.3510,14.1675],["Teramo","Abruzzo",42.6589,13.7044],["Campobasso","Molise",41.5603,14.6627],["Isernia","Molise",41.5960,14.2332],["Napoli","Campania",40.8518,14.2681],["Salerno","Campania",40.6824,14.7681],["Caserta","Campania",41.0723,14.3311],["Avellino","Campania",40.9146,14.7906],["Benevento","Campania",41.1298,14.7826],["Bari","Puglia",41.1171,16.8719],["Taranto","Puglia",40.4644,17.2470],["Lecce","Puglia",40.3515,18.1750],["Foggia","Puglia",41.4622,15.5446],["Brindisi","Puglia",40.6327,17.9418],["Barletta","Puglia",41.3196,16.2838],["Andria","Puglia",41.2265,16.2958],["Potenza","Basilicata",40.6404,15.8056],["Matera","Basilicata",40.6664,16.6043],["Catanzaro","Calabria",38.9098,16.5877],["Reggio Calabria","Calabria",38.1113,15.6473],["Cosenza","Calabria",39.2983,16.2537],["Crotone","Calabria",39.0808,17.1271],["Vibo Valentia","Calabria",38.6766,16.1003],["Palermo","Sicilia",38.1157,13.3615],["Catania","Sicilia",37.5079,15.0830],["Messina","Sicilia",38.1938,15.5540],["Siracusa","Sicilia",37.0755,15.2866],["Ragusa","Sicilia",36.9269,14.7255],["Trapani","Sicilia",38.0176,12.5365],["Agrigento","Sicilia",37.3111,13.5765],["Caltanissetta","Sicilia",37.4901,14.0629],["Enna","Sicilia",37.5677,14.2795],["Cagliari","Sardegna",39.2238,9.1217],["Sassari","Sardegna",40.7259,8.5557],["Nuoro","Sardegna",40.3209,9.3297],["Oristano","Sardegna",39.9062,8.5884],["Olbia","Sardegna",40.9236,9.4966]];
   const qIn=$("#map-q"), sugg=$("#map-sugg"); let risultati=[], scelto=-1, timer=0, ultima="";
   const norm=s=>s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"");
   function mostra(lista){
@@ -1041,7 +1052,16 @@ creaFeed($("#feed"), "notizie", "Per ora nessuna notizia nuova su Gaza e la Pale
   }
   async function cerca(testo){
     const t=norm(testo.trim()); if(t.length<2){ sugg.hidden=true; return; }
-    const locali=REGIONI.filter(r=>norm(r[0]).includes(t)).map(r=>({nome:r[0],info:"Regione",regione:r[0],c:[r[1],r[2]],z:r[3]}));
+    const comincia=(n)=>norm(n).startsWith(t), contiene=(n)=>norm(n).includes(t);
+    const locali=[
+      ...REGIONI.filter(r=>comincia(r[0])).map(r=>({nome:r[0],info:"Regione",regione:r[0],c:[r[1],r[2]],z:r[3]})),
+      ...CITTA.filter(c=>comincia(c[0])).map(c=>({nome:c[0],info:c[1],regione:c[1],c:[c[2],c[3]],z:13})),
+      ...REGIONI.filter(r=>!comincia(r[0])&&contiene(r[0])).map(r=>({nome:r[0],info:"Regione",regione:r[0],c:[r[1],r[2]],z:r[3]})),
+      ...CITTA.filter(c=>!comincia(c[0])&&contiene(c[0])).map(c=>({nome:c[0],info:c[1],regione:c[1],c:[c[2],c[3]],z:13}))
+    ].slice(0,7);
+    /* scrivendo il nome di una regione si vedono anche le sue città principali */
+    const reg=REGIONI.find(r=>norm(r[0])===t);
+    if(reg) CITTA.filter(c=>c[1]===reg[0]).slice(0,6).forEach(c=>locali.push({nome:c[0],info:c[1],regione:c[1],c:[c[2],c[3]],z:13}));
     mostra(locali.length?locali:[]); if(!locali.length) sugg.hidden=true;
     if(t.length<3) return;
     ultima=testo;
@@ -1055,7 +1075,7 @@ creaFeed($("#feed"), "notizie", "Per ora nessuna notizia nuova su Gaza e la Pale
             regione:p.type==="state"?p.name:p.state, c:[f.geometry.coordinates[1],f.geometry.coordinates[0]],
             box:e?[[e[3],e[0]],[e[1],e[2]]]:null}; });
       const visti=new Set(locali.map(r=>norm(r.nome)));
-      mostra([...locali,...altri.filter(r=>{ const k=norm(r.nome+r.info); if(visti.has(k)) return false; visti.add(k); return true; })].slice(0,7));
+      mostra([...locali,...altri.filter(r=>{ const k=norm(r.nome); if(visti.has(k)) return false; visti.add(k); return true; })].slice(0,8));
     }catch(e){ if(!locali.length){ sugg.innerHTML='<li class="vuoto">Ricerca non disponibile in questo momento</li>'; sugg.hidden=false; } }
   }
   qIn.addEventListener("input",()=>{ clearTimeout(timer); timer=setTimeout(()=>cerca(qIn.value),300); });
@@ -1106,7 +1126,7 @@ creaFeed($("#feed"), "notizie", "Per ora nessuna notizia nuova su Gaza e la Pale
   }
   pastBox.addEventListener("change",()=>{ try{ localStorage.setItem("usp-cortei-passati",pastBox.checked?"1":"0"); }catch(e){} disegna(true); });
 
-  /* mappa a tutto schermo, sotto la barra con USP / News / Articoli / Mappa / Gruppo */
+  /* mappa a tutto schermo, sotto la barra con Unione Sociale / News / Articoli / Mappa / Gruppo */
   const wrap=$("#map-wrap"), fullBtn=$("#map-full");
   let vistaPrima=null, scrollPrima=0, ripristina=0;
   /* ogni volta che la mappa cambia dimensione la ridisegna; uscendo da "Allarga" rimette la vista di prima */
