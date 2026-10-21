@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-21T12:33:28.056Z",
+ "aggiornato": "2026-10-21T12:37:24.896Z",
  "notizie": [
   {
    "titolo": "Stop al commercio con gli insediamenti illegali di coloni",
@@ -579,7 +579,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaVFvZE9ZVGJ5Q0xWMDNqdW1EOE1peWVkMm85VDBSMGNfeFk3V01ld3JrREJSSy1mMTQyaDVPTFJ4T3VabjVfOHNWakROa0FOTEN4M2U1MzI4bGdad084Nmp1WXVYMmFLeVJDMnBsYjJwWVVGMVNoUUNUWnlFdU9TOHRvaF9NOU5SRnNtOU56MThuSHAteDROZzM2Z3VlYk1OcEFVYnFxeXZXZDR4R0x0MW1DM2NUdDI1Zi1qU0c0eU03Sl8tQzJhQ1d0MDlhR1piY0JEcVJfWU5HOVM3YXBaQ1hxUXJMMlg00gHuAUFVX3lxTE1ZTVoyZjE3TXFTVFY2eldxeUJvM3dPZkVNWV9rMk82bkNkQjUtX19xNGw3RldKcmtkWW5XanF2YWJhV1diMDRhRGcxcWRxU0FUR1pLeklmV2FlMUljeGR3VWh2OWxEVjVXaUgtY0FrY3NlR2hqOGNyeW5GN2VaWHREMlpDeU54RHhPMjVLNk9mTHplWFJGT241aWk1a0lSWURCWkdJeUh0a2xHakZ5US1NYUxiSExZeTkzWll6YUNQc3hSOFN0OU8xVzMwQ0ZTNlBWX3lUNmx5aEktbDNpTHIzUHc0MjRuWGR4dW90R0E?oc=5",
-   "altriArticoli": 40
+   "altriArticoli": 39
   },
   {
    "id": "gn-dlZrOHcb2M9NQ",
@@ -636,6 +636,23 @@
    "altriArticoli": 1
   },
   {
+   "id": "gn-d1pFMUIb2M9NQ",
+   "fonte": "Giornali · Tribuna di Treviso",
+   "titolo": "Studenti in corteo a Treviso: \"Non staremo più zitti sull'esempio della Francia\"",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-16",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-16T10:29:29.000Z",
+   "luogo": "Treviso",
+   "citta": "Treviso",
+   "regione": "Veneto",
+   "coord": [
+    45.80669,
+    12.20632
+   ],
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaE9hUXE5WjlBX3l4czBadWxJTUlmY2F2cC1CSGpVUTl3U1RIWmxyWkpLU3BFaDZrYnF6YTJwaHJjbTY3eUtYMG9Udml4Q1VVaW42N0l6bDFGZUNTemtfZWNxSjY5R0JNOUwyWjh0VEJBN0lQR1JBbENVVWRreVZsRFN1NU5VM3BuQjUwZE1B?oc=5"
+  },
+  {
    "id": "gn-QnBhazlSP29jPTU",
    "fonte": "Giornali · la Repubblica",
    "titolo": "Milano, migliaia di studenti in corteo: “Per una scuola antirazzista”. Occupato l’ex obitorio",
@@ -686,8 +703,7 @@
     45.75666,
     9.75422
    ],
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVzBMZUdrb3dOOWppcGZoYlNmN1psWDEwM1lKT0VuV1NHUG9RSmprTldUb0FiejZTcWR0RWt0RjJ1OVBqS0thVU9lN0dXXzRwZm16cno1ZXFDcG4wQmVHZUpCdmltNXhGUElzOFh5cms1VDA4WWFhQTAtbS1tblItNGswMWhFZ0VRSFRRTDR5ejE3bXpJdXc4eThQeXEtYV9wZVR2TmdEMVRTY29jb2VsSWNQMWh1VS0tcXZqR1g5Rm5VQQ?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVzBMZUdrb3dOOWppcGZoYlNmN1psWDEwM1lKT0VuV1NHUG9RSmprTldUb0FiejZTcWR0RWt0RjJ1OVBqS0thVU9lN0dXXzRwZm16cno1ZXFDcG4wQmVHZUpCdmltNXhGUElzOFh5cms1VDA4WWFhQTAtbS1tblItNGswMWhFZ0VRSFRRTDR5ejE3bXpJdXc4eThQeXEtYV9wZVR2TmdEMVRTY29jb2VsSWNQMWh1VS0tcXZqR1g5Rm5VQQ?oc=5"
   },
   {
    "id": "gn-eFQxOHcb2M9NQ",
@@ -739,7 +755,7 @@
     8.93386
    ],
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTG9haVc2V3JGRHJsWVJiNjR3Wm1kdTl5Ti1kb0haTzVtQ0twQnN6QWlYMUZzWHpTMGZVQ1J4cnEzUWdid1lrZGktd1J3dlJXMmpZS3F6NFNkeGVLdmFzZWR2bUw0cjljUVVSLUR0VjZBV3M4T1NtU0FSVXpGQzJXRkxYWUlKS05SOVhuWnl6WmZEZkNyWmM3R1BuQmJpN0ZqX2RnQ2U3Tk04R0ZRbGF6aXlxbjN6VkdQZk40TVBoUTVKYlpPU1dCRU83VWVQRHc2QVhZSHMxa0NYdGpLdnfSAeMBQVVfeXFMUGNMdm50cmZMMXdOT0NQaERQQUVfQ1F4Y1lMVFhULW5aUkhacDVkT3VKaXdRYWw1UWx5YTBLVjFQd1lzZmRNYS1RQ3phQjBscHltWmdlNkpWeUhJb2FmcU5kTHdkNVp5RTRDa19SSVlWNVhURHpUaEk2aGxWWHJjWTRRTmVfMWt1SXl6THFiSnRKZ2M0WVlqQnJmWVV5bHlWTWRlak5PQThGeGZ6Wm5UUnhMYTJJdERPM2RnbkhoR1ZvcXRHSTRDZEd4N2VMZmNYeE1jaFpTLURpX2xManJna21UdVE?oc=5",
-   "altriArticoli": 1
+   "altriArticoli": 2
   },
   {
    "id": "gn-VVhOM1VRP29jPTU",
@@ -810,6 +826,23 @@
    ],
    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQdy1CSW1vSFR5Y0xYODQta1djanBmNk1vVDlGTU1HRnlrZU5COG9QWEpzZThaQWxlOXpQdEpTblU2Ukxid1RLWWdsRFh2Z2VFUTh6b2ZGbDhXZ1JZbV9PdUlzLXNmNlFTUjVqXzRwMi1uX1B6UlJfVTFaN1h5eVpZZ2ludW5SVHFGYUFnaFZJZ2FjSFdraHBJNDlwajUyQnNvdGhOMnRUR0NDUHRUNmkzay1yX1FOSkdrdmw3eGxidDR4a0g5bUpzY2ZRSnlwcXhIQ2dQSkpsQXZXT3VRZ1cwUXRCNGxFOUpSdjZacjVoVDJDWkJYblFJLWhFaExQWWgwdVU3a2hKWlBkWmJvMTZRY3JhYWloVkdE?oc=5",
    "altriArticoli": 1
+  },
+  {
+   "id": "gn-Y0hoNlZBP29jPTU",
+   "fonte": "Giornali · LA7",
+   "titolo": "Autotrasportatori in protesta in Calabria, a Gioia Tauro un corteo funebre contro il carovita: “Il nostro Sud vuole lavorare”",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-20",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-20T13:01:40.000Z",
+   "luogo": "Calabria, Italia",
+   "citta": "",
+   "regione": "Calabria",
+   "coord": [
+    39.0566,
+    16.52499
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZWk3bTJjRGlEWml5MThRZUhQWE1YRERBalgxQkJhRmJiVGlSV0hBVFFzY2hHb2gydGh0WG1uZ2VEZ3JSNUtoc3JHc2ZNU2pDVGtfYUExVHNXOGpHUHVSX0FEQmZva19MbS1uODhfRkF3RXc4YXliVFFIU0tUZ2pISXBUTXdhaWZDb19IaS1SUUFVSUJKZ25LeXo2NmdXdUtBZUNURGk0eGZoR0tKOWQ5VnZFQlBxNUpDdUdTWV93d2lKcHhXOFBtS3ZtTGZ4ckNSWmEwSVBlRDZjV0hsY2o40gHkAUFVX3lxTE9ncHlVeWpMdG1tMGtHSFJFa2ZYVTBxRGlPRTVUM3pIcW5OOFFvU2diV3AtYmlYTFZJcC1wVU9SOVREWVdLSVVvU01BNXVsRDVROG9na0stMWlRdllUVG1JNmxDaDNwYTRiTHc2ODlTVEMyMDdqLU5mNjRLUTZBOVFBVGd5SEJGYTByb0NDV0Y1cjZLSjB2TkJwbXpyWUJELWd4aDYzVGJuaXZhb09vMkVHWF9tX1VwNXEteEs1MzRhS1FybkhnLWd1SUtwUGNGYjF6aG5UclNYaXplbHg5VDVwcHh6VA?oc=5"
   },
   {
    "id": "gn-b3lVWGcb2M9NQ",
@@ -1351,7 +1384,7 @@
    "fonte": "Amicizia Italo-Palestinese",
    "titolo": "Tutta Italia: Sciopero generale contro guerra, carovita e genocidio",
    "tipo": "",
-   "inizio": "2026-10-30T14:33",
+   "inizio": "2026-10-30T14:37",
    "luogo": "Tutta Italia",
    "citta": "Tutta Italia",
    "regione": "Puglia",
