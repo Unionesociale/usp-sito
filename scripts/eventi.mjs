@@ -111,6 +111,7 @@ async function amicizia() {
     titolo = titolo.replace(/\s*\.\.\.$/, "…");
     const cittaRaw = (titolo.split(":")[0] || "").trim();
     const citta = cittaRaw.length <= 45 ? cittaRaw : "";
+    if (/^(online|on line|web|tutta italia|italia|varie|vari luoghi|nazionale|ovunque)\b/i.test(citta)) continue;   // senza un luogo preciso: non va sulla mappa
     out.push({ id: "aip-" + ev.id, fonte: "Amicizia Italo-Palestinese", titolo, tipo: "",
       inizio: locale(...ev.giorno, ...(ora || [null])), luogo: luogo || citta, citta, regione: "", coord: null, link: ev.link });
   }
