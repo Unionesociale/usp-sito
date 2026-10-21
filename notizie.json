@@ -1,6 +1,42 @@
 {
- "aggiornato": "2026-10-20T17:57:33.655Z",
+ "aggiornato": "2026-10-21T06:31:04.474Z",
  "notizie": [
+  {
+   "titolo": "Stop al commercio con gli insediamenti illegali di coloni",
+   "link": "https://ilmanifesto.it/stop-al-commercio-con-gli-insediamenti-illegali-di-coloni",
+   "fonte": "il manifesto",
+   "data": "2026-10-20T22:01:35.000Z"
+  },
+  {
+   "titolo": "I leader del campo largo: «Al primo cdm riconosceremo lo stato di Palestina»",
+   "link": "https://ilmanifesto.it/i-leader-del-campo-largo-al-primo-cdm-riconosceremo-lo-stato-di-palestina",
+   "fonte": "il manifesto",
+   "data": "2026-10-20T22:01:11.000Z"
+  },
+  {
+   "titolo": "ONU, mancano i fondi: sospesa la distribuzione di cibo a 500mila gazawi",
+   "link": "https://www.lindipendente.online/2026/10/20/onu-mancano-i-fondi-sospesa-la-distribuzione-di-cibo-a-500mila-gazawi/?utm_source=rss&utm_medium=rss&utm_campaign=onu-mancano-i-fondi-sospesa-la-distribuzione-di-cibo-a-500mila-gazawi",
+   "fonte": "L'Indipendente",
+   "data": "2026-10-20T17:48:09.000Z"
+  },
+  {
+   "titolo": "La responsabilità dei media nel genocidio di Gaza: il nuovo rapporto di Francesca Albanese",
+   "link": "https://www.lindipendente.online/2026/10/20/la-responsabilita-dei-media-nel-genocidio-di-gaza-il-nuovo-rapporto-di-francesca-albanese/?utm_source=rss&utm_medium=rss&utm_campaign=la-responsabilita-dei-media-nel-genocidio-di-gaza-il-nuovo-rapporto-di-francesca-albanese",
+   "fonte": "L'Indipendente",
+   "data": "2026-10-20T14:00:30.000Z"
+  },
+  {
+   "titolo": "Awad Joumaa: «Lo scopo degli stupri è impedire ai palestinesi di alzare la testa»",
+   "link": "https://ilmanifesto.it/awad-joumaa-lo-scopo-degli-stupri-e-impedire-ai-palestinesi-di-alzare-la-testa",
+   "fonte": "il manifesto",
+   "data": "2026-10-20T09:26:40.000Z"
+  },
+  {
+   "titolo": "Tagli agli aiuti, mezzo milione in più di condannati alla fame",
+   "link": "https://ilmanifesto.it/tagli-agli-aiuti-mezzo-milione-in-piu-di-condannati-alla-fame",
+   "fonte": "il manifesto",
+   "data": "2026-10-19T22:04:11.000Z"
+  },
   {
    "titolo": "Le milizie palestinesi che collaborano con Israele",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzbDNnSndEU1VVaWZoMDVVcW9xVlRkTGEtM3NkdDY5Y2xXcEZPbEtBd0Q4Wl9WTXRnbXpHOUtXTHlCaWFyYUg3TVRkT2Noa3JNbnpjenI1dnVWYTAtYlNtSkppLUUxbE4wMUVwbHBKU0p6MkYw?oc=5",
@@ -43,5 +79,815 @@
    "fonte": "Il Post",
    "data": "2026-10-16T12:44:05.000Z"
   }
- ]
+ ],
+ "eventi": [
+  {
+   "id": "pl-13476",
+   "fonte": "PeaceLink",
+   "titolo": "Europa: difesa come? Pagata da chi?",
+   "tipo": "dibattito",
+   "inizio": "2026-10-20T15:00",
+   "luogo": "Roma, Via Paolo Mercuri 4, RM",
+   "citta": "RM",
+   "regione": "Lazio",
+   "coord": [
+    41.90446,
+    12.47261
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13476",
+   "online": false
+  },
+  {
+   "id": "pl-13494",
+   "fonte": "PeaceLink",
+   "titolo": "Un teatro in Palestina",
+   "tipo": "incontro",
+   "inizio": "2026-10-20T19:00",
+   "luogo": "Lecce, Via G. Candido 23, LE",
+   "citta": "LE",
+   "regione": "Puglia",
+   "coord": [
+    40.3491,
+    18.17619
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13494",
+   "online": false
+  },
+  {
+   "id": "aip-1744359",
+   "fonte": "Amicizia Italo-Palestinese",
+   "titolo": "Firenze: \"Casa mia, Gaza mia\" - spettacolo teatrale al Puccini",
+   "tipo": "",
+   "inizio": "2026-10-20T21:00",
+   "luogo": "Firenze",
+   "citta": "Firenze",
+   "regione": "Toscana",
+   "coord": [
+    43.7698,
+    11.25564
+   ],
+   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744359/-/firenze-casa-mia-gaza-mia-spettacolo-teatrale-al-puccini"
+  },
+  {
+   "id": "aip-1744356",
+   "fonte": "Amicizia Italo-Palestinese",
+   "titolo": "Livorno: assemblea cittadina verso lo sciopero internazionale dei porti del 30 ottobre",
+   "tipo": "",
+   "inizio": "2026-10-20T21:00",
+   "luogo": "Livorno",
+   "citta": "Livorno",
+   "regione": "Toscana",
+   "coord": [
+    42.79024,
+    10.34022
+   ],
+   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744356/-/livorno-assemblea-cittadina-verso-lo-sciopero-internazionale-dei-porti-del-30-ottobre"
+  },
+  {
+   "id": "inv-pordenone2310",
+   "fonte": "Invictapalestina",
+   "titolo": "Pordenone: iniziativa per la Palestina",
+   "descrizione": "PORDENONE – Venerdì 23 Ottobre",
+   "tipo": "",
+   "inizio": "2026-10-23",
+   "luogo": "Pordenone",
+   "citta": "Pordenone",
+   "regione": "Friuli-Venezia Giulia",
+   "coord": [
+    45.95625,
+    12.65972
+   ],
+   "link": "https://www.invictapalestina.org/archives/55281"
+  },
+  {
+   "id": "pl-13444",
+   "fonte": "PeaceLink",
+   "titolo": "Incontro Mappe di Pace: narrare i territori oltre i conflitti IT.A.CÀ Milan",
+   "tipo": "incontro",
+   "inizio": "2026-10-23T18:30",
+   "luogo": "Milano, 16 Alzaia Naviglio Pavese, MI",
+   "citta": "MI",
+   "regione": "Lombardia",
+   "coord": [
+    45.44987,
+    9.17733
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13444",
+   "online": false
+  },
+  {
+   "id": "aip-1744258",
+   "fonte": "Amicizia Italo-Palestinese",
+   "titolo": "Montaione (FI): \"Camerati alla corte d'Israele\" - incontro con Fabio Lattanzio",
+   "tipo": "",
+   "inizio": "2026-10-23T18:30",
+   "luogo": "Montaione (FI)",
+   "citta": "Montaione (FI)",
+   "regione": "Toscana",
+   "coord": [
+    43.55294,
+    10.91277
+   ],
+   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744258/-/montaione-fi-camerati-alla-corte-disraele-incontro-con-fabio-lattanzio"
+  },
+  {
+   "id": "aip-1744354",
+   "fonte": "Amicizia Italo-Palestinese",
+   "titolo": "Settignano (FI): \"Palestina dall'economia di occupazione all'economia di liberazione\" - cena e incontro",
+   "tipo": "",
+   "inizio": "2026-10-23T20:00",
+   "luogo": "Settignano (FI)",
+   "citta": "Settignano (FI)",
+   "regione": "Toscana",
+   "coord": [
+    43.78299,
+    11.32082
+   ],
+   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744354/-/settignano-fi-palestina-dalleconomia-di-occupazione-alleconomia-di-liberazione-cena-e-incontro"
+  },
+  {
+   "id": "pl-13491",
+   "fonte": "PeaceLink",
+   "titolo": "Nazra 2026 - Palestine Short Film Festival",
+   "tipo": "rassegna",
+   "inizio": "2026-10-23T20:30",
+   "luogo": "Modena, Viale Monte Kosica 91/S, MO",
+   "citta": "MO",
+   "regione": "Emilia Romagna",
+   "coord": [
+    44.65214,
+    10.92251
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13491",
+   "online": false
+  },
+  {
+   "id": "aip-1744289",
+   "fonte": "Amicizia Italo-Palestinese",
+   "titolo": "Siena: \"Nazra 2026\" - Palestine Short Film Festival",
+   "tipo": "",
+   "inizio": "2026-10-23T20:45",
+   "luogo": "Siena",
+   "citta": "Siena",
+   "regione": "Toscana",
+   "coord": [
+    43.16721,
+    11.46756
+   ],
+   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744289/-/siena-nazra-2026-palestine-short-film-festival"
+  },
+  {
+   "id": "inv-milano2410",
+   "fonte": "Invictapalestina",
+   "titolo": "Milano: iniziativa per la Palestina",
+   "descrizione": "MILANO – Sabato 24 Ottobre",
+   "tipo": "",
+   "inizio": "2026-10-24",
+   "luogo": "Milano",
+   "citta": "Milano",
+   "regione": "Lombardia",
+   "coord": [
+    45.46419,
+    9.18963
+   ],
+   "link": "https://www.invictapalestina.org/archives/55281"
+  },
+  {
+   "id": "pl-13481",
+   "fonte": "PeaceLink",
+   "titolo": "Sollèvati. La coscienza non si arruola.",
+   "tipo": "evento",
+   "inizio": "2026-10-24T09:30",
+   "luogo": "Impruneta, Via Quintole per le Rose, 131, FI",
+   "citta": "FI",
+   "regione": "Toscana",
+   "coord": [
+    43.71112,
+    11.2296
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13481",
+   "online": false
+  },
+  {
+   "id": "pl-13447",
+   "fonte": "PeaceLink",
+   "titolo": "No al CPR, né a Castel Volturno né altrove. Il 24 ottobre manifestazione nazionale",
+   "tipo": "manifestazione",
+   "inizio": "2026-10-24T13:00",
+   "luogo": "Castel Volturno, Centro Fernandes, CE",
+   "citta": "CE",
+   "regione": "Campania",
+   "coord": [
+    40.99485,
+    13.97304
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13447",
+   "online": false
+  },
+  {
+   "id": "pl-13490",
+   "fonte": "PeaceLink",
+   "titolo": "Presidio contro l'olocausto nucleare",
+   "tipo": "presidio",
+   "inizio": "2026-10-24T15:00",
+   "luogo": "Ghedi, Base militare di Ghedi, BS",
+   "citta": "BS",
+   "regione": "Lombardia",
+   "coord": [
+    45.43781,
+    10.28207
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13490",
+   "online": false
+  },
+  {
+   "id": "aip-1744358",
+   "fonte": "Amicizia Italo-Palestinese",
+   "titolo": "Firenze: \"Danni collaterali\" - concerto del coro Bella Ciao",
+   "tipo": "",
+   "inizio": "2026-10-24T16:00",
+   "luogo": "Firenze",
+   "citta": "Firenze",
+   "regione": "Toscana",
+   "coord": [
+    43.7698,
+    11.25564
+   ],
+   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744358/-/firenze-danni-collaterali-concerto-del-coro-bella-ciao"
+  },
+  {
+   "id": "aip-1743433",
+   "fonte": "Amicizia Italo-Palestinese",
+   "titolo": "Empoli (FI): \"No al genocidio! Palestina libera!\" - incontro dibattito e cena palestinese",
+   "tipo": "",
+   "inizio": "2026-10-24T17:00",
+   "luogo": "Empoli (FI)",
+   "citta": "Empoli (FI)",
+   "regione": "Toscana",
+   "coord": [
+    43.71949,
+    10.94586
+   ],
+   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1743433/-/empoli-fi-no-al-genocidio-palestina-libera-incontro-dibattito-e-cena-palestinese"
+  },
+  {
+   "id": "aip-1744290",
+   "fonte": "Amicizia Italo-Palestinese",
+   "titolo": "Firenze: \"Nazra 2026\" - Palestine Short Film Festival",
+   "tipo": "",
+   "inizio": "2026-10-24T19:00",
+   "luogo": "Firenze",
+   "citta": "Firenze",
+   "regione": "Toscana",
+   "coord": [
+    43.7698,
+    11.25564
+   ],
+   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744290/-/firenze-nazra-2026-palestine-short-film-festival"
+  },
+  {
+   "id": "pl-13431",
+   "fonte": "PeaceLink",
+   "titolo": "La fiaba che avrei voluto raccontare ai bimbi di Gaza",
+   "tipo": "rappresentazione teatrale",
+   "inizio": "2026-10-24T21:00",
+   "luogo": "Messina, Via Enrico Martinez, 11, ME",
+   "citta": "ME",
+   "regione": "Sicilia",
+   "coord": [
+    38.19597,
+    15.55511
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13431",
+   "online": false
+  },
+  {
+   "id": "pl-13493",
+   "fonte": "PeaceLink",
+   "titolo": "Dialogo e confronto con Gideon Levy",
+   "tipo": "dibattito",
+   "inizio": "2026-10-25T10:30",
+   "luogo": "Modena, Via Antonio Peretti 9 (ingresso da Piazza Panini), MO",
+   "citta": "MO",
+   "regione": "Emilia Romagna",
+   "coord": [
+    44.63805,
+    10.92315
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13493",
+   "online": false
+  },
+  {
+   "id": "aip-1744355",
+   "fonte": "Amicizia Italo-Palestinese",
+   "titolo": "Viareggio (LU): presentazione del libro \"Sionismo e Nazismo facce della stessa medaglia\"",
+   "tipo": "",
+   "inizio": "2026-10-25T13:00",
+   "luogo": "Viareggio (LU)",
+   "citta": "Viareggio (LU)",
+   "regione": "Toscana",
+   "coord": [
+    43.86724,
+    10.25061
+   ],
+   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744355/-/viareggio-lu-presentazione-del-libro-sionismo-e-nazismo-facce-della-stessa-medaglia"
+  },
+  {
+   "id": "pl-13430",
+   "fonte": "PeaceLink",
+   "titolo": "“Antonio Maresio Bazolle e i nativi americani” Conferenza",
+   "tipo": "conferenza",
+   "inizio": "2026-10-25T14:30",
+   "luogo": "Limana BL, Via Valmorel 11, 32020 Limana BL, BL",
+   "citta": "BL",
+   "regione": "Veneto",
+   "coord": [
+    46.05437,
+    12.22736
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13430",
+   "online": false
+  },
+  {
+   "id": "aip-1744288",
+   "fonte": "Amicizia Italo-Palestinese",
+   "titolo": "Montespertoli (FI): presentazione di \"Il gelso di Gerusalemme\" di Paola Caridi",
+   "tipo": "",
+   "inizio": "2026-10-25T16:00",
+   "luogo": "Montespertoli (FI)",
+   "citta": "Montespertoli (FI)",
+   "regione": "Toscana",
+   "coord": [
+    43.64675,
+    11.06693
+   ],
+   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744288/-/montespertoli-fi-presentazione-di-il-gelso-di-gerusalemme-di-paola-caridi"
+  },
+  {
+   "id": "pl-13495",
+   "fonte": "PeaceLink",
+   "titolo": "In Sogno 2026 - 28ª Targa D'Argento Luciana Pardini",
+   "tipo": "rassegna",
+   "inizio": "2026-10-25T18:00",
+   "luogo": "Lucca, LU",
+   "citta": "LU",
+   "regione": "Toscana",
+   "coord": [
+    43.84047,
+    10.50724
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13495",
+   "online": false
+  },
+  {
+   "id": "inv-bari2610",
+   "fonte": "Invictapalestina",
+   "titolo": "Bari: iniziativa per la Palestina",
+   "descrizione": "BARI – Dal 26 al 31 Ottobre",
+   "tipo": "",
+   "inizio": "2026-10-26",
+   "luogo": "Bari",
+   "citta": "Bari",
+   "regione": "Puglia",
+   "coord": [
+    41.12578,
+    16.86203
+   ],
+   "link": "https://www.invictapalestina.org/archives/55281"
+  },
+  {
+   "id": "pl-13483",
+   "fonte": "PeaceLink",
+   "titolo": "I luoghi della cultura, dentro e fuori gli spazi di produzione culturale: partecipazione, contraddizioni, comunità di riferimento",
+   "tipo": "evento",
+   "inizio": "2026-10-26T17:00",
+   "luogo": "Napoli, vico Giuseppe Maffei 4, NA",
+   "citta": "NA",
+   "regione": "Campania",
+   "coord": [
+    40.85049,
+    14.25672
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13483",
+   "online": false
+  },
+  {
+   "id": "aip-1744387",
+   "fonte": "Amicizia Italo-Palestinese",
+   "titolo": "Empoli (FI): \"Coltivare diritti in Palestina\" - incontro e aperitivo",
+   "tipo": "",
+   "inizio": "2026-10-26T18:00",
+   "luogo": "Empoli (FI)",
+   "citta": "Empoli (FI)",
+   "regione": "Toscana",
+   "coord": [
+    43.71949,
+    10.94586
+   ],
+   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744387/-/empoli-fi-coltivare-diritti-in-palestina-incontro-e-aperitivo"
+  },
+  {
+   "id": "pl-13449",
+   "fonte": "PeaceLink",
+   "titolo": "Necropolitica migratoria",
+   "tipo": "incontro",
+   "inizio": "2026-10-27T17:00",
+   "luogo": "Roma, Via San Francesco di Sales 5, RM",
+   "citta": "RM",
+   "regione": "Lazio",
+   "coord": [
+    41.89401,
+    12.46365
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13449",
+   "online": false
+  },
+  {
+   "id": "aip-1744357",
+   "fonte": "Amicizia Italo-Palestinese",
+   "titolo": "Online: Assemblea Nazionale \"La conoscenza non marcia\" verso lo sciopero del 30 ottobre",
+   "tipo": "",
+   "inizio": "2026-10-28T16:00",
+   "luogo": "Online",
+   "citta": "Online",
+   "regione": "Abruzzo",
+   "coord": [
+    42.3513,
+    13.40074
+   ],
+   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744357/-/online-assemblea-nazionale-la-conoscenza-non-marcia-verso-lo-sciopero-del-30-ottobre"
+  },
+  {
+   "id": "pl-13489",
+   "fonte": "PeaceLink",
+   "titolo": "Fermiamo le guerre, costruiamo giustizia",
+   "tipo": "assemblea",
+   "inizio": "2026-10-29T21:00",
+   "luogo": "Monza, Via Rosmini 72, MB",
+   "citta": "MB",
+   "regione": "Lombardia",
+   "coord": [
+    45.56166,
+    9.27625
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13489",
+   "online": false
+  },
+  {
+   "id": "aip-1744287",
+   "fonte": "Amicizia Italo-Palestinese",
+   "titolo": "Tutta Italia: Sciopero generale contro guerra, carovita e genocidio",
+   "tipo": "",
+   "inizio": "2026-10-30T08:30",
+   "luogo": "Tutta Italia",
+   "citta": "Tutta Italia",
+   "regione": "Puglia",
+   "coord": [
+    40.89048,
+    17.29397
+   ],
+   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744287/-/tutta-italia-sciopero-generale-contro-guerra-carovita-e-genocidio"
+  },
+  {
+   "id": "pl-13464",
+   "fonte": "PeaceLink",
+   "titolo": "Il Diritto di Uscire. Il Diritto di Tornare.",
+   "tipo": "convegno",
+   "inizio": "2026-10-30T09:15",
+   "luogo": "Roma, Aula Magna, Dipartimento di Giurisprudenza, Università Roma Tre, RM",
+   "citta": "RM",
+   "regione": "Lazio",
+   "coord": [
+    41.92143,
+    12.5132
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13464",
+   "online": false
+  },
+  {
+   "id": "pl-13469",
+   "fonte": "PeaceLink",
+   "titolo": "Per una pace disarmata e disarmante",
+   "tipo": "convegno",
+   "inizio": "2026-10-30T16:00",
+   "luogo": "Palermo, Villa Niscemi, Sala delle Carrozze, PA",
+   "citta": "PA",
+   "regione": "Sicilia",
+   "coord": [
+    38.16475,
+    13.33439
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13469",
+   "online": false
+  },
+  {
+   "id": "aip-1744257",
+   "fonte": "Amicizia Italo-Palestinese",
+   "titolo": "Piombino (LI): Presidio di pace",
+   "tipo": "",
+   "inizio": "2026-10-30T16:00",
+   "luogo": "Piombino (LI)",
+   "citta": "Piombino (LI)",
+   "regione": "Toscana",
+   "coord": [
+    42.92317,
+    10.52682
+   ],
+   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744257/-/piombino-li-presidio-di-pace"
+  },
+  {
+   "id": "pl-13487",
+   "fonte": "PeaceLink",
+   "titolo": "Il fascino di Fantasmagorìa accende Roma",
+   "tipo": "evento",
+   "inizio": "2026-10-30T18:30",
+   "luogo": "Roma, Via di Bravetta 633, RM",
+   "citta": "RM",
+   "regione": "Lazio",
+   "coord": [
+    41.87011,
+    12.42267
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13487",
+   "online": false
+  },
+  {
+   "id": "pl-13473",
+   "fonte": "PeaceLink",
+   "titolo": "Presentazione del libro \"L’internazionale della Terra\"",
+   "tipo": "presentazione",
+   "inizio": "2026-11-04T17:30",
+   "luogo": "Verona, Lungadige Porta Vittoria, 41, VR",
+   "citta": "VR",
+   "regione": "Veneto",
+   "coord": [
+    45.43682,
+    11.00188
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13473",
+   "online": false
+  },
+  {
+   "id": "pl-13496",
+   "fonte": "PeaceLink",
+   "titolo": "Il Poliedro della Pace III - Europa: radici e prospettive",
+   "tipo": "convegno",
+   "inizio": "2026-11-06T09:00",
+   "luogo": "San Giovanni Rotondo, Centro di Spiritualità Padre Pio Via Anna Frank 8, FG",
+   "citta": "FG",
+   "regione": "Puglia",
+   "coord": [
+    41.70623,
+    15.70696
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13496",
+   "online": false
+  },
+  {
+   "id": "pl-13488",
+   "fonte": "PeaceLink",
+   "titolo": "DOWN. Una storia di paura, una storia di coraggio, una storia d'amore",
+   "tipo": "evento",
+   "inizio": "2026-11-06T21:00",
+   "luogo": "Cantù, Teatro San Teodoro, CO",
+   "citta": "CO",
+   "regione": "Lombardia",
+   "coord": [
+    45.74039,
+    9.12772
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13488",
+   "online": false
+  },
+  {
+   "id": "pl-13457",
+   "fonte": "PeaceLink",
+   "titolo": "Smile Meeting: Incontri che lasciano il segno",
+   "tipo": "incontro",
+   "inizio": "2026-11-07T09:00",
+   "luogo": "Verona, Vicolo de Pozzo 1, VR",
+   "citta": "VR",
+   "regione": "Veneto",
+   "coord": [
+    45.44794,
+    11.00606
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13457",
+   "online": false
+  },
+  {
+   "id": "pl-13497",
+   "fonte": "PeaceLink",
+   "titolo": "Il Poliedro della Pace III - Europa: radici e prospettive",
+   "tipo": "convegno",
+   "inizio": "2026-11-07T09:00",
+   "luogo": "San Giovanni Rotondo, Centro di Spiritualità Padre Pio Via Anna Frank 8, FG",
+   "citta": "FG",
+   "regione": "Puglia",
+   "coord": [
+    41.70623,
+    15.70696
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13497",
+   "online": false
+  },
+  {
+   "id": "pl-13486",
+   "fonte": "PeaceLink",
+   "titolo": "1866: La vicenda delle petizioni “indipendentiste” nel Veneto",
+   "tipo": "conferenza",
+   "inizio": "2026-11-07T17:00",
+   "luogo": "Grisignano di Zocco, Hotel Venice, Grisignano di Zocco (VI), Via Francesco Beggiato 56, VI",
+   "citta": "VI",
+   "regione": "Veneto",
+   "coord": [
+    45.47466,
+    11.70278
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13486",
+   "online": false
+  },
+  {
+   "id": "inv-azio811",
+   "fonte": "Invictapalestina",
+   "titolo": "Azio: iniziativa per la Palestina",
+   "descrizione": "AZIO – Sabato 7, Domenica 8 e Domenica 29 Novembre",
+   "tipo": "",
+   "inizio": "2026-11-08",
+   "luogo": "Azio",
+   "citta": "Azio",
+   "regione": "Calabria",
+   "coord": [
+    38.95256,
+    16.34009
+   ],
+   "link": "https://www.invictapalestina.org/archives/55281"
+  },
+  {
+   "id": "aip-1742358",
+   "fonte": "Amicizia Italo-Palestinese",
+   "titolo": "Massa: \"Colpevoli di Palestina\" - presidio davanti al Tribunale",
+   "tipo": "",
+   "inizio": "2026-11-09T09:00",
+   "luogo": "Massa",
+   "citta": "Massa",
+   "regione": "Toscana",
+   "coord": [
+    44.03593,
+    10.13955
+   ],
+   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1742358/-/massa-colpevoli-di-palestina-presidio-davanti-al-tribunale"
+  }
+ ],
+ "geo": {
+  "internet / virtual": null,
+  "riunione di \"firenze per la palestina\" al cpa": null,
+  "firenze": {
+   "coord": [
+    43.7698,
+    11.25564
+   ],
+   "regione": "Toscana"
+  },
+  "livorno": {
+   "coord": [
+    42.79024,
+    10.34022
+   ],
+   "regione": "Toscana"
+  },
+  "montaione fi": {
+   "coord": [
+    43.55294,
+    10.91277
+   ],
+   "regione": "Toscana"
+  },
+  "settignano fi": {
+   "coord": [
+    43.78299,
+    11.32082
+   ],
+   "regione": "Toscana"
+  },
+  "siena": {
+   "coord": [
+    43.16721,
+    11.46756
+   ],
+   "regione": "Toscana"
+  },
+  "empoli fi": {
+   "coord": [
+    43.71949,
+    10.94586
+   ],
+   "regione": "Toscana"
+  },
+  "viareggio lu": {
+   "coord": [
+    43.86724,
+    10.25061
+   ],
+   "regione": "Toscana"
+  },
+  "montespertoli fi": {
+   "coord": [
+    43.64675,
+    11.06693
+   ],
+   "regione": "Toscana"
+  },
+  "online": {
+   "coord": [
+    42.3513,
+    13.40074
+   ],
+   "regione": "Abruzzo"
+  },
+  "tutta italia": {
+   "coord": [
+    40.89048,
+    17.29397
+   ],
+   "regione": "Puglia"
+  },
+  "piombino li": {
+   "coord": [
+    42.92317,
+    10.52682
+   ],
+   "regione": "Toscana"
+  },
+  "massa": {
+   "coord": [
+    44.03593,
+    10.13955
+   ],
+   "regione": "Toscana"
+  },
+  "soci ar": {
+   "coord": [
+    43.7372,
+    11.81335
+   ],
+   "regione": "Toscana"
+  },
+  "castelfranco veneto": {
+   "coord": [
+    45.66047,
+    11.92932
+   ],
+   "regione": "Veneto"
+  },
+  "torino": {
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "regione": "Piemonte"
+  },
+  "pordenone": {
+   "coord": [
+    45.95625,
+    12.65972
+   ],
+   "regione": "Friuli-Venezia Giulia"
+  },
+  "milano": {
+   "coord": [
+    45.46419,
+    9.18963
+   ],
+   "regione": "Lombardia"
+  },
+  "bari": {
+   "coord": [
+    41.12578,
+    16.86203
+   ],
+   "regione": "Puglia"
+  },
+  "roma e tivoli": {
+   "coord": [
+    41.92609,
+    12.76793
+   ],
+   "regione": "Lazio"
+  },
+  "azio": {
+   "coord": [
+    38.95256,
+    16.34009
+   ],
+   "regione": "Calabria"
+  },
+  "venezia": {
+   "coord": [
+    45.43719,
+    12.33459
+   ],
+   "regione": "Veneto"
+  }
+ }
 }
