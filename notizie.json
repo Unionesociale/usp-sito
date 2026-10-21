@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-21T09:15:37.359Z",
+ "aggiornato": "2026-10-21T09:17:25.510Z",
  "notizie": [
   {
    "titolo": "Stop al commercio con gli insediamenti illegali di coloni",
@@ -1108,6 +1108,23 @@
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRVVKa1l1M0ZDRkc2MW9Sdm1xOHF5MDNic1Q0MkhvTmh2RDh4clVBM2hEcTllVVBBbk83X183V04xdWJUdmh5OUVYYTVQNDhLamdXeERQcVNnWkFrb0pHZ1VUajJXOHdFdkxhNE1oSjVCY3VtYkI4cnRQbXhNWXpIMW9VeHNLZTV4WHRpSDRadFBMdkZ1Q2VzLTg5b0xmY2gzbWY3WldnRUcwYmVKLUlMaG9BTzFSajRFeW1vWFY5Y0d0QWJtcWNVQjhyRnpjNEI3bllReS1HcGkyV0puZEpVUw?oc=5"
   },
   {
+   "id": "gn-emVraHJRUT9vYz01",
+   "fonte": "Giornali · HuffPost Italia",
+   "titolo": "Anche in Italia si scende in piazza contro il carovita. Scontri a Milano e Bologna, a Torino gli incappucciati dividono il corteo",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T16:21:00.000Z",
+   "luogo": "Milano",
+   "citta": "Milano",
+   "regione": "Lombardia",
+   "coord": [
+    45.46419,
+    9.18963
+   ],
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQWWVnTzhlM3RTQkJBUFZNdWhDLU8yRDhLbUc4VGE1VjJrVlJZS3JEZFY0Qk0wb2FocUNmRmxWMHpZa3F6czlpaFNGVm1lbEdlVm52STFxdXREU19tLURYS3gzenhFeE9makpCT3hCaE9XTnFub3N1VUJ4QkVraUs4NGx2OXY3b0wwYzFFRjh3VUp5cFJlMjhNZzBnVVZfYjFfQ2Q1LTV0VzZMSmlxaUF6UDVYd0lSOWx2ODAyYnVDaURKNGF5OTRCVWNDZ2Q3OGlFRVVEY3V5dDVBajIyMy1kblFGeHVIMTZRaWZUNXgzSzZyOHRjQXFiM0JVRzE3Ym1Dbm0taldwd016V0x3clpTcnIzekhrQQ?oc=5"
+  },
+  {
    "id": "gn-TGEzbDFRUT9vYz01",
    "fonte": "Giornali · Giornale di Brescia",
    "titolo": "Corteo contro il caro vita, tensione e lacrimogeni in piazza Duomo",
@@ -1225,23 +1242,6 @@
     9.18963
    ],
    "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOQlhzSUdFNEozMGg4SXRkVlBxdVlWM0ltaUoxTFhNY0FiNWN3VVhIVmVmMWlZMko2NXo5WTYzTlRTNWdMMHcxbDE5ei1VYWZ0YTFHanNDS3haczZieUdiZEdBVlpDclYydlhVOUMxbndST24xUkg3c0k3U01jNzh1WDhud0NPVmRHMWljNDRqM1JvTlVpRUtfS0gzQkJPMXZ6U3czV0dZYWtDMEEtaEVOQ0kwWWJXcW5KU0ExVlM5Uk1INTJCUEFjM2ZFZkU0TDRoMVZhWEtSdUlubEZCejMtYXJiV01JXy1wd05PcjRkRDJobTZocFJTR0J2SS10YmkyMEdPR1ZjR3hpSlR3b3FnZVNNZG5ndmJkeS1rVFp1c2ExRkZSWEtldzllN3RQT0FzSEppSzh2Tnp3aE0ySHfSAcMCQVVfeXFMTUhfaURUdkdWNUdJdElIWFdHMDIwRTJrLUViYVZqd251YnBBNjVlRVIyLXltM0ZDaUR6MVRIWVdSajI5RDdDaUJvLUNleENOR3NFV09WNllwZC13cTBGcWtaZFFTdGhBcWc2UVFMOUV5cWdybjVyclRYd2RMMFM0dzFwY2hlV0JLX3NRdHpLblU0dk96MjBnMEg5dGF1N29oWjE0Vms3ZE5yWFZpTlE4c0RLXzBFUER3SU1GM2h1cEc0Q2xBbUMySW9KQ3RFbzZrazBuNTNGc05vcF9PTjdBUjE5UUtZdU5RS0otQlR3Z0lydldfeVRyaXJ0Z0lrVURGeFY5dzEzcjFRMlo2WVJNREVoVThSUG16VTRMTXd6djcxbTlKaWtYVFV2ZFhIUk5Nc3ItRld4dTlGUzE5VkVQQ1ZWbUU?oc=5"
-  },
-  {
-   "id": "gn-R01FWnEb2M9NQ",
-   "fonte": "Giornali · Il Sole 24 ORE",
-   "titolo": "Torino, manifestazione contro il caro vita: scontri con infiltrati incappucciati",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-17",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-17T15:25:34.000Z",
-   "luogo": "Torino",
-   "citta": "Torino",
-   "regione": "Piemonte",
-   "coord": [
-    45.06776,
-    7.68249
-   ],
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbTR3b04wcDhoRGUzNzB2QUktWEtIZklNUmVSNjZ6M1gxNzJuM19lWmxNY0NCbDJ5Z2p1bmRISHJPQV9ablBfeDNqUGpLVGlfQmZBTzBIT1VvM2lJcjZTblhnNHdudlluay1mUkUxUGtncEZLdmx6UUZSZ1ItZlV0MURyeFJwYjVBWXI3QUZjbklMZmpIZmVfUXBtZ1pIM3ltR0xaTmhhQlNoLWtIbGQ5VHdwcVp6cU01ZVNFNHVPSjBGMEZq?oc=5"
   },
   {
    "id": "gn-NU1XVnYb2M9NQ",
@@ -1497,23 +1497,6 @@
     10.86871
    ],
    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdFRZZUYzOERyN2t0TzBuTWRVdlM0SmtEaUJJbnpXempCdzhyekV0R1ZYc2xWd25lbFoxeTFoc1FvT3VzdnRleWc1RTJ6Qm5aQl8tRWVrT09uSlpEb0pBbWJFVzNKaVM4MEVadnY2SE92eDFyVDM4Tk4tOEg1MWZCcE5NT3dTdlZuVC1ZUVFLcENPdnpzYjFpSTRHQ0U1M0hpSWkyTy1pWEI0YXh1cjFubVJTQ0dsVFVlMER0X1NVYkFRYUxNRVFUMS1SbVowbmFZemRpWjNHLXB6VVl4OUdRU3NXSEJISjhNOUowdFV4T0pISnVTRFRhSllKcmRuTF9aMzZSUVpVc2NxT18w?oc=5"
-  },
-  {
-   "id": "gn-T1dFM2JuZz9vYz01",
-   "fonte": "Giornali · Toscana Notizie",
-   "titolo": "Carburanti, Giani: “12 milioni dalla Regione”. Coldiretti scioglie il presidio",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-19",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-19T17:24:00.000Z",
-   "luogo": "Toscana, Italia",
-   "citta": "",
-   "regione": "Toscana",
-   "coord": [
-    43.45865,
-    11.13892
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMmFhZ0t6ODRmamx6SkUtNGxFVUFFeEEwWm9qSnVtU1d5TmJfdjlBQl9HUDZHR2RRNUtSVEZWYXB3VVRZTDhZd3dGUDNoZzZjOFpVNG1Sd2lDdTdacTVDay1PbXprTS1yNm1FR3FPYTY4dnREMXJtQi1ReVpGdDRJZEM4MC1pbmMzX0NPcHV4RDhGMGFSTkJPTXR5NUlqRGNjbW45OWE3bng?oc=5"
   },
   {
    "id": "gn-MjFVZFZFP29jPTU",
@@ -2465,7 +2448,7 @@
    "fonte": "Amicizia Italo-Palestinese",
    "titolo": "Tutta Italia: Sciopero generale contro guerra, carovita e genocidio",
    "tipo": "",
-   "inizio": "2026-10-30T11:15",
+   "inizio": "2026-10-30T11:17",
    "luogo": "Tutta Italia",
    "citta": "Tutta Italia",
    "regione": "Puglia",
