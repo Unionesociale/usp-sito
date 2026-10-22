@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-22T08:51:59.343Z",
+ "aggiornato": "2026-10-22T09:48:06.966Z",
  "notizie": [
   {
    "titolo": "In Cisgiordania il colono che spara ha sempre ragione",
@@ -118,10 +118,34 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "Authentica, confronto su occupazione, organizzazione del lavoro e contrattazione",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUXUwYnQyS2FiZ1VaQmpyaWNLbGNVZ0sweTBRZmktaHd6bzFUTC1uS04xbUVLWFNwcDVkc0U3bnBkNllQWW5tbVR1NU03N1ZXRWFhWjNkSXh1X19OMExZb2JrOVlWWTU1NEFLRnp1dHVSb2p4ZEZNOXdRek53UVVOUnZwOTlQbGVKMUI3TzJ5blJaQUNPVUdrVGZFdzEya0k?oc=5",
+   "fonte": "UILTuCS",
+   "data": "2026-10-22T09:17:08.000Z"
+  },
+  {
+   "titolo": "Bari, il paradosso di Porta Futuro: l'agenzia per l'occupazione manda a casa 25 dipendenti",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNb2pBaEFBdlI1d2tsU3pUTEVXcW5BRTBDYUFLaEx2eHNTTUhVSDF4T0FidWtGVUFob3BMSGlNV3hMblRTTHdCbWM1M0NfRU9iVWwxSnNPZlE5dENsUklacnFVMkNuMF9sd3FndUdDa1l1WHN1SEN1bURPYWl5a2F5WHhybXF1ck5rRUJXQmNhakpibzZLX24tRG1vWXhtXzdwTHFpUGV2MldOcVdnNnJ3U0N6bXliNFoxZm9rVzVja0VLMTFSbFBnM1JOQUNKbnFoV0ozeDBnd1otcjFqVXB6S0hVMURrZ9IB5AFBVV95cUxObTJ5SGdWZXpUbHppWXY0V1RZbzZ0T1B2RE1IU1J3QV91TW9UX1FtMDZUM3VHa2FpRjNGTExnSDJUbDN1d1JuVUlVbUtYWnJDLTRVVDgzTS1aOWlOYkhsbmdkZC1zTE1ISWktUEdZSWlkQUJJY3ppTy1pczVMOWF5cWQ3eE04blc0bVRuaGRRQVBYQ3l4c2VEZDZ1RV80U1ZvSXlaUWZVZFFQdFVNVzR2Y0xNRl9RZlh6eF9LaG82WVpKVVBhTTNfNGJCeGRncDlJSHl4RUlpdzl0WHVjY3hRNWZLNXI?oc=5",
+   "fonte": "La Gazzetta del Mezzogiorno",
+   "data": "2026-10-22T08:49:07.000Z"
+  },
+  {
+   "titolo": "Cosenza, gli studenti tornano in piazza. Grande corteo contro carovita e guerra «soldi alle scuole non alle armi",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FS0tPLXRDdk8tc0FWRlhQaFowbWxZU0h1VGQ3dDZrcWZ6aVptRFZMZC1nelI3aFRNYjNBQVZGMlh1RFFWSG5Rak9xbjVKZ3NSTkF2alRYS1c5eVQzQVh2cjZ0M1RscnRKUlc1MGgwWU4tVFVyOWtQOEFHeWNPNEE?oc=5",
+   "fonte": "quicosenza",
+   "data": "2026-10-22T08:48:42.000Z"
+  },
+  {
+   "titolo": "Occupazioni nelle scuole a Firenze: al Sassetti Peruzzi usano gli estintori nelle classi. Assedio fuori dall’Itis Leonardo Da Vinci. Si aggiunge il Marco Polo",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOalUxaG8wZWpfM1U2dHZKVUo0NkRnaXFhMjc3N2UyTURRY2U1MncxX1ViQlBZdVdMb0FzWUtrZGJHSEtKbFBkQmNkV2l6MmtqQVVhUGpWbnpkczBNQ0p3LUFrZUpXODdzRGNRZjdjaGRDZ2FDeVlBLTlBazlkeTNKZzhjd2NLelJ6aVJ1c2JncHg0U1ViMzgtRE4yYnBsZDhVQTk0cHFxNk9pNUJwZ0M4NFhER2dvUkwwQXo4X041eUdNWXpyYU9mYzNjVHZGejlPWm9HRkV1ZU4zcEpNN2oxWk9zRHdTQjVQSnoxSFU4eG8xSHhZaXU1R2pVWXBEM2V4bWpZc3FYMTVBdThNVFNmMXVVbWlka2pmR3VuQw?oc=5",
+   "fonte": "La Nazione",
+   "data": "2026-10-22T08:29:36.000Z"
+  },
+  {
    "titolo": "Sabato manifestazione a Napoli, l'appuntamento corre su Telegram e si temono disordini come a Milano",
    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPMXBqV2ZuQmZ5TmdiTmc1TkRhVmgwZVlhWDVvZ09WTDI5NjZMZVlsWEk4UjhxOFFteTRqc3duUHpwN2xLcGZvVTIteEdySkFvWXhzN1dVOW00THJJaXJoc1dOMXp6U09FSm8tdUxzZkJ1Nm5BS1V4dnp3X3YzbVFxVUZXMVVtZVJRYWtBTjBoVG5YM1pJaE9nUlBsOUhQSzBEQ0M3d2NzTnV3RldZcU9YX1hKZjhDaXNvd0tBbzNuNVAwcFQ1NDNnTDU3MWlFTW1jU1BZSWlNZGdxdVNHOWs5b3plWXk1VFhBa3Z4S0E0ZHFJbEJ1LXVyb290LVJIcUU0RUsxVWJaalI2MGRlQ3BIcDF1MEplSzk4cS1KS0lGWENKbm9CMWfSAasCQVVfeXFMTVNVMXlacGVpSS1sUFNHMkVxdUxtaE0wSzJGWmZNQ2RJWmREeGJZRnh0QXVOSFBHMlg0azlRZXhOUFFOZzk3WVE5QU5ndjJDYnBnUzFlcVU1UDc4MHUtdXptajZ0ckg5a3JhSGdqY01CYnRrcE8yWlRNU3hqb3pDbXJZbG5NX2piODlWdnlYOU92YllsQzZLMjNIMHZpSTQ0SHA3ck1VZW1ZSXo5anQ1VW5XZDdnd0lFamVpS3g5dzd4RFdnMml2WEh0MjRVQzRQbTduN000LWlYaUFydWl0d0gzR3diOWwycmVGZ0xEVjlnY1pnZC13Qzd0dTc2VkV0NHhHb3E2eDdGMHdXUU1WTUc1eDlkODVOdjFEMW5vTUVQR2tPckpBQ2xpbWs?oc=5",
    "fonte": "Corriere Napoli",
-   "data": "2026-10-22T07:29:10.000Z"
+   "data": "2026-10-22T07:29:00.000Z"
   },
   {
    "titolo": "Studenti in piazza, il corteo fino a piazza Dante. Faccia a faccia con l'assessora Gerosa che assicura: «Le risorse per la scuola ci sono»",
@@ -572,30 +596,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeXlyRTN3TmVGUVA2R3BaU2F0UFN3bE9fdC1sM0lSMDFqMXk3N3J2NWlXUnRQTkFoOGR5OXpNa2dJdml0MGw5OUY0bzdQalN4TkNCZUZ0ZTVLMkFUXzZ2SzBqV1A4SWtvNWlCNnlac1dqS3lVWktZYzJDTWVoR19raDdSUVFXY1ctY0gyeTFVTG9YMGxKZllpaXhiOU1iMUhZWmRPTm5fT1d3LWdUSGFUUmlPMjBkd185SWpxcTY3aHfSAcYBQVVfeXFMUHZJMUxpMkZ4UjBTdFBPSUpQY1ExckRScG9ISDFCSGpnVFdUbnl0bEdqcXgxQVh1WXljaWk3WjZWN0Yzd3V5TjQ5aU8wWHFwQThfdEFINFBSNnptenplUktsbW4xWFF5eUttNjJUY1kwLWdTNXBnLUpSNl9GR2V0bjF2d1ZGcV9kMVBkUXpXYm5FcG1nNVM2MkxtVHN2dXZvNE1ES0hpd1pPVWg4VUt2YmI5LTNWMVUzNHdJWnpJTDNsTVFvUXB3?oc=5",
    "fonte": "RaiNews",
    "data": "2026-10-21T12:28:01.000Z"
-  },
-  {
-   "titolo": "Anche a Empoli studenti in piazza contro il caro-vita: manifestazione sabato 24 ottobre",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVGozeTA1WXQtdk9WbzQ4cml0TWtUX3k3ejgzM1NDdjBwcU1YOEROajItZlpOVHBJeFZ6T1VlSEhIZENMVXF6VV9yWjA3S1R1WUhtdVVsR185QlhVeEJaWlJ0R1Y5X2hOSFUxV28yYUZ3V0owX0VXbkwyWVVyY2szckJqM29iQUdwRFZ2OXJFdXNTa0F2SHBJdzVBaHB6M0xTYWxGQ2t6akJCZjNSNlBlM1l2UHNVZHZQTjJQMdIBxAFBVV95cUxOMnROb0tJNVRUeGNlRjNmVFo0dFFGNFVoY281UmJQWHJucjlDcDI3dGtLOTJmcHBJQThrTDJpeVE4VTZFa2xXOHdrcFV4djVOMEczWE9Ed0k4RDZJLUJqWUxid2VkY2MyX0ZiVFBjbkZmTl9hYTVObURxV0VURkhEYWZhcElEc3RWSUw0cmRVdzZRRkhWM2lmd2JveW5EOHlWdzRkU2tva1c4dmhEdjhDd29DWnowa3pnbk9vWlNQbWcwWXpO?oc=5",
-   "fonte": "gonews.it",
-   "data": "2026-10-21T12:12:04.000Z"
-  },
-  {
-   "titolo": "Loano, messaggio tra gli studenti: “Il 23 ottobre manifestazione davanti al Falcone”. Il dirigente: “In chat anche adulti, annunciate possibili violenze”",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZENqZjU2aklJYWZYZnp1M3NPR243ZG84aTJ5SFBmeXdxT1hVay1vU18wOUdrOF9PSURRLXV5d25scnB6NWlNSm5qOGxTWkJCOEZaZUVUMW02YnJMRjhWUDBFazhfU05KV29NWURWdzU5UXcyM2tNc19HQUNNS1dGTTZwc05ZRWZ1VVd5ZFZBcFdteDVJTndKeVhMNE5JQUtLcXZyemlWNVVfVENWSTFzaDRIUzhCWEpoTE5qQnFfck9BWFBvWGEtREh5SDNCZ1plcEdjVS1fOTFxdF9PZTM3MUpYd2kyTzdqbC12VktFTGFMMWJk0gH6AUFVX3lxTE9TUi1ERUpkdWZCYTlrQ3YxdGNXeVdzZG5EMExYYmh3VUtRdEhqVU03SkNCdXI1aHJsMzJfTDBDSlZSTE5XWXloQ2Jma1ZWRDJENElydFJhMDhhNUhLV0ItWVN5T2hTejJvNVdiTWRHZEpidlIyT2dVZnFyaG53UDBSc19iNFhvbHVGa1ZVMGVZLWtUVjF1dl9ua0pGU1FDalMwTzY1bEVUeHZlMjBJNE1mRmtxanBCdWFONDZ1WlJDVHhvUTh0N1EtTFJEbmlMdDQ5VEN1eWJUM0l5ZVczZnNhLUhWdWlCSEVkREZCQi1FU09EeGEycFUyTVE?oc=5",
-   "fonte": "IVG.it",
-   "data": "2026-10-21T12:10:00.000Z"
-  },
-  {
-   "titolo": "Dopo Milano il Movimento 17 ottobre arriva in Puglia, manifestazione a Bari: «Non siamo violenti, lo dimostreremo»",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWhkcHplbjVFRHpmdy1jRk1GN3NPb0duaVB3dVYwclBFRlU0Z1NSR3ltQThMMnlaandzZWJMU0IzQzBVZzdVaXY2VG02TXphV1c1ZllnOVhiQVR0aG9ScExXWlVGdFhZVFN1bWsxOHZDTWpCc0tLWU9ZS0VvbVBvbkNBNVdha3VXSVBkS0QxRGNKSk8wa3l2d0JPbWbSAaIBQVVfeXFMTnJBeTdTb2g2UEM0bEtXd1d6Qk5UNzFTYVp6Vkk0UWVJaWNXc2FkNmRyVUtwLV9Nb1BIU2RZeG15OS00dHhtNU5RMWMxem94Q2c1eENjdGtxZXoxQWg3TEZWelhaNlpaR0dUZGs0dF9XcFRvUmVvbFNrd0tSZmdwSC1jTXN2R2ppSDZLWGppdVl3Y2ltSENFekpiSDI5WE14SkZn?oc=5",
-   "fonte": "Quotidiano Di Puglia",
-   "data": "2026-10-21T12:08:28.000Z"
-  },
-  {
-   "titolo": "Firenze, manifestazione annunciata per il 24 ottobre: cresce l’attenzione dopo gli scontri a Torino e Milano",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb1JhVjRpUUtfbkJQR2Fqa0lZUC1hTUVDYTAzekhEZWh4VURmdFVRZW5jQXZ3MWNGYUJNbmNSR2R4WkgyVUF5eS1odGc3c2Vaa3JFY21rUXVESmo1Z3E2d2NPcXFHeEJkYWpIa0xfcGZUZENBWjc2UFBycnVrcjhfWTczTHFBQlBoUG14Q1VVVVlzNVBWUE10SjJ2NTNkT0FNRmt0UldMQjZfNTk1RGphY1pwemh4TWxCcHNWbW5MdWZCYWlRMnZPMTA3eURpS2NIQ3JDTw?oc=5",
-   "fonte": "055Firenze",
-   "data": "2026-10-21T12:05:00.000Z"
   }
  ],
  "eventi": [
@@ -615,7 +615,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQQWJfbXRCVFppa2dCOExTWTR1eFk5cU4ta1htNzQtZXdFNGljM2pMeFlEckRGTVpMdUJUN21fQ1lSLW9fWWdZcC02azhxN3ZQNURZOHA1N2dHcUJGdHZxcFI3cVUyaGlYV0hqdjVkUVlwanRlMDc3azFFMUtlSHdoMHFnTm9XU1MySWJWRmV5dWZsMkpfbXEwUW9xRFk1MHBWUjhYSjBBa0VEc0wzUGt4UHZpdTJXbE0yNzZqOW05Ym9qZ09FWkd4VzJ4elpYdkFhWEV6M3NYMmwtbnVBODFIYnlEaHdocWxRdGhXV1RNem0tUUwyTlYyR0RiTElBZkFBSFlwLVhNbExfYTkwUTMyUGJJMHhUVnNheU5Z?oc=5",
-   "altriArticoli": 107
+   "altriArticoli": 106
   },
   {
    "id": "gn-WmxVVlEb2M9NQ",
@@ -667,81 +667,6 @@
    "online": false
   },
   {
-   "id": "aip-1743124",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: \"No alla repressione e alla censura - No al sionismo e al nazifascismo\"",
-   "tipo": "",
-   "inizio": "2026-10-08T21:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1743124/-/firenze-no-alla-repressione-e-alla-censura-no-al-sionismo-e-al-nazifascismo"
-  },
-  {
-   "id": "aip-1742969",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: \"Non è più la stessa luna – Tracce di Jenin\" - spettacolo teatrale",
-   "tipo": "",
-   "inizio": "2026-10-08T21:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1742969/-/firenze-non-e-piu-la-stessa-luna-tracce-di-jenin-spettacolo-teatrale"
-  },
-  {
-   "id": "aip-1743278",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Venturina Terme (LI): \"Il riarmo non costruisce la pace, prepara la guerra\" - incontro con Alessandro Volpi",
-   "tipo": "",
-   "inizio": "2026-10-09T17:30",
-   "luogo": "Venturina Terme (LI)",
-   "citta": "Venturina Terme (LI)",
-   "regione": "Toscana",
-   "coord": [
-    43.02847,
-    10.60323
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1743278/-/venturina-terme-li-il-riarmo-non-costruisce-la-pace-prepara-la-guerra-incontro-con-alessandro-volpi"
-  },
-  {
-   "id": "aip-1743275",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Massa: \"Colpevoli di Palestina\"",
-   "tipo": "",
-   "inizio": "2026-10-09T18:00",
-   "luogo": "Massa",
-   "citta": "Massa",
-   "regione": "Toscana",
-   "coord": [
-    44.03593,
-    10.13955
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1743275/-/massa-colpevoli-di-palestina"
-  },
-  {
-   "id": "aip-1742970",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: \"Umm Saad\" - presentazione del libro e cena",
-   "tipo": "",
-   "inizio": "2026-10-09T18:30",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1742970/-/firenze-umm-saad-presentazione-del-libro-e-cena"
-  },
-  {
    "id": "pl-13384",
    "fonte": "PeaceLink",
    "titolo": "Cena Sociale Raccolta fondi Palestina",
@@ -756,21 +681,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13384",
    "online": false
-  },
-  {
-   "id": "aip-1743000",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: \"Non è più la stessa luna – Tracce di Jenin\" - spettacolo teatrale",
-   "tipo": "",
-   "inizio": "2026-10-09T21:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1743000/-/firenze-non-e-piu-la-stessa-luna-tracce-di-jenin-spettacolo-teatrale"
   },
   {
    "id": "pl-13450",
@@ -823,24 +733,6 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-UTVRVUUb2M9NQ",
-   "fonte": "Giornali · Sky TG24",
-   "titolo": "Manifestazioni pro Gaza, cortei nelle città. Greta Thunberg a Napoli",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-10",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-10T07:00:00.000Z",
-   "luogo": "Napoli",
-   "citta": "Napoli",
-   "regione": "Campania",
-   "coord": [
-    40.83588,
-    14.24877
-   ],
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CVlp6VzVyMVd3cjVwUFRFTkRBN0lRZ1NoNV9NLVd3SjZjOFBVUE5vdzBEVGdfUnd2bDZhWlNyaXJrWXNTV1g3Q1VhREE4MTZDXzJCNnVwVzFxMEpQa21sV215MTBwU0J6V25ZVHQxb2ItSDJTXy15V2d4cVQ5QUE?oc=5",
-   "altriArticoli": 3
-  },
-  {
    "id": "gn-U2NGaDIb2M9NQ",
    "fonte": "Giornali · TorinoToday",
    "titolo": "Manifestazione pro Palestina Torino Centro - 10 ottobre 2026",
@@ -856,24 +748,6 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbS1MdUhzVUFtaXZJRGxLem9kM0tKOXZXYUhNTElHeEQwZnVqeEpFci01cnU1SDNXbklWWVFaZDhUNW94U0k5SEVSRlo3OGV0WXNMSUxBWWVNZ2Nsb1dmX0lleUhsVTlsWFZYaEgwUmtHd1U0UklPMm5KZUZKRDBkRG5HZmw3TV9oNVJRM2V0MHROVVcxUmFqQndnSXhScFh2?oc=5"
-  },
-  {
-   "id": "gn-RkJEYmpkQj9vYz01",
-   "fonte": "Giornali · Corriere TV",
-   "titolo": "La diretta video delle manifestazioni pro Palestina a Roma, Torino e Milano",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-10",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-10T07:00:00.000Z",
-   "luogo": "Roma",
-   "citta": "Roma",
-   "regione": "Lazio",
-   "coord": [
-    41.89332,
-    12.48293
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRHpfMml3dDRnX2FJbi1mR3pDZ2s5MlBucjdfMkt1ejE2ZUxpMXVaUTFhZDloY0M1TzRhSFpNX29OMVBiWkdMWERaclNPa0xyMnZsbjhMNC0zcGlyRGY1d2p6UjQtUS02OTJWd05hUjNzbXk5RDFzc0NwX0hwemx0cnBUYV8tcTNDTUluQjI2NHNrZk5WbjFHbTdXV0pCS25QWm5YYWR3eHFVRjFrQUNUVUFxODhKVkJtVWdoLU5GNXphcGJqOEd1QzhEY1V5SFBDbjdB?oc=5",
-   "altriArticoli": 21
   },
   {
    "id": "gn-aHRSa0Ub2M9NQ",
@@ -961,36 +835,6 @@
    "online": false
   },
   {
-   "id": "aip-1742546",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: seconda assemblea rete \"Firenze città operatrice di pace\"",
-   "tipo": "",
-   "inizio": "2026-10-10T09:15",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1742546/-/firenze-seconda-assemblea-rete-firenze-citta-operatrice-di-pace"
-  },
-  {
-   "id": "aip-1743001",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: \"Parla palestinese in 3 ore\" - nell'ambito del festival Middle East Now 2026",
-   "tipo": "",
-   "inizio": "2026-10-10T10:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1743001/-/firenze-parla-palestinese-in-3-ore-nellambito-del-festival-middle-east-now-2026"
-  },
-  {
    "id": "pl-13455",
    "fonte": "PeaceLink",
    "titolo": "SCONFINATI FEST! 3a edizione",
@@ -1021,21 +865,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13458",
    "online": false
-  },
-  {
-   "id": "aip-1742999",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: \"VOCI E STORIE DALLA PALESTINA\" - nell'ambito del festival Middle East Now 2026",
-   "tipo": "",
-   "inizio": "2026-10-10T13:30",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1742999/-/firenze-voci-e-storie-dalla-palestina-nellambito-del-festival-middle-east-now-2026"
   },
   {
    "id": "pl-13442",
@@ -1070,51 +899,6 @@
    "online": false
   },
   {
-   "id": "aip-1743432",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Piombino (LI): \"Pace in Palestina - stop Genocidio\" - presidio",
-   "tipo": "",
-   "inizio": "2026-10-10T16:30",
-   "luogo": "Piombino (LI)",
-   "citta": "Piombino (LI)",
-   "regione": "Toscana",
-   "coord": [
-    42.92317,
-    10.52682
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1743432/-/piombino-li-pace-in-palestina-stop-genocidio-presidio"
-  },
-  {
-   "id": "aip-1743123",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Cecina (LI): Presidio di solidarietà con la resistenza del popolo palestinese",
-   "tipo": "",
-   "inizio": "2026-10-10T17:00",
-   "luogo": "Cecina (LI)",
-   "citta": "Cecina (LI)",
-   "regione": "Toscana",
-   "coord": [
-    43.31134,
-    10.51734
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1743123/-/cecina-li-presidio-di-solidarieta-con-la-resistenza-del-popolo-palestinese"
-  },
-  {
-   "id": "aip-1742361",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: \"La fine del genocidio è la fine del sionismo\" - corteo",
-   "tipo": "",
-   "inizio": "2026-10-10T17:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1742361/-/firenze-la-fine-del-genocidio-e-la-fine-del-sionismo-corteo"
-  },
-  {
    "id": "pl-13451",
    "fonte": "PeaceLink",
    "titolo": "La fine del genocidio è la fine del sionismo",
@@ -1129,21 +913,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13451",
    "online": false
-  },
-  {
-   "id": "aip-1742084",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Sesto Fiorentino (FI): 21° Flash Mob \"Urlo per Gaza\" con cena al CSA Next Emerson",
-   "tipo": "",
-   "inizio": "2026-10-10T18:00",
-   "luogo": "Sesto Fiorentino (FI)",
-   "citta": "Sesto Fiorentino (FI)",
-   "regione": "Toscana",
-   "coord": [
-    43.83172,
-    11.19922
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1742084/-/sesto-fiorentino-fi-21-flash-mob-urlo-per-gaza-con-cena-al-csa-next-emerson"
   },
   {
    "id": "pl-13460",
@@ -1229,21 +998,6 @@
    "online": false
   },
   {
-   "id": "aip-1742998",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: \"Due film e una performance teatrale dalla Palestina\" - nell'ambito del festival Middle East Now 2026",
-   "tipo": "",
-   "inizio": "2026-10-11T16:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1742998/-/firenze-due-film-e-una-performance-teatrale-dalla-palestina-nellambito-del-festival-middle-east-now-2026"
-  },
-  {
    "id": "pl-13408",
    "fonte": "PeaceLink",
    "titolo": "Sulle strade d'Africa",
@@ -1294,6 +1048,42 @@
    "altriArticoli": 11
   },
   {
+   "id": "gn-VkVkV1l3P29jPTU",
+   "fonte": "Giornali · Il Resto del Carlino",
+   "titolo": "Le difficoltà dell’agricoltura. Aziende in presidio a Roma: \"Così i conti non tornano\"",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-12",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-12T07:00:00.000Z",
+   "luogo": "Roma",
+   "citta": "Roma",
+   "regione": "Lazio",
+   "coord": [
+    41.89332,
+    12.48293
+   ],
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWnR2aFgyN28yOHZZczc4bXY4Tll5UHAxOFBXenFiWXEzM3g5UTFiamR1cnlINlFyRUVSQ0Y1THoyd0R6MjZGdmpJU1gyNE5SbWduVXVla1hRbkxyQzZGaXRxYjNhbXR3Nmk3Y1IxR2xmME5FQV9RcDFocXlMMWJERnAycW5HRzhEeW1vNzZ3YWxVYklHVi1PNFdMV2JLb2JVWGZyVEdWYw?oc=5",
+   "altriArticoli": 20
+  },
+  {
+   "id": "gn-bDlQY1ZkMz9vYz01",
+   "fonte": "Giornali · NapoliToday",
+   "titolo": "Scatta l'occupazione nelle scuole di Napoli: tensioni al Genovesi",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-12",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-12T07:00:00.000Z",
+   "luogo": "Napoli",
+   "citta": "Napoli",
+   "regione": "Campania",
+   "coord": [
+    40.83588,
+    14.24877
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOTE5NFlsZDAzaDJGSXdsdzREVWdnOXBzdHp6NGtRT2RiT1FZcHQyX0xnbmh3RElkdlhqeGxZMWdoVW8wdEJFaGFlQUxtODExZHNIWWNYSzcwcjNXYi1qN0p1RHZ2VjZUTHhBZzBwSUVDMWtEVExCSGREdFVmM1hsVl9aaGlTZl9PcVd3?oc=5",
+   "altriArticoli": 2
+  },
+  {
    "id": "gn-ODNTVzVuP29jPTU",
    "fonte": "Giornali · Milano Finanza",
    "titolo": "Occupazione record in Italia, ma il Mezzogiorno deve ancora decollare",
@@ -1309,7 +1099,7 @@
     9.18963
    ],
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeWpkRWtzZnRDS0h0RWtta2FQVU1GRmt5VFE3cUc5UFRnREh0bjZZUjhaXzdrUXZ0QXJLUU1OakhNRGhyM1Jpb2NncWt6a1B4STE0aUhhTkZVeV9NWVF5Tm12TDhvazZnUWNma0t3LWhnN1ZjeWJoMTVubnJhQ1RWRV9KbWNLbi1wamZPQ1FBeHpqVkU4WlluWUh6NlU1ZEJ4VGpNRWtLV202Rm9pUGFDLUZ2RGRfRUhlZV83SW5n?oc=5",
-   "altriArticoli": 33
+   "altriArticoli": 34
   },
   {
    "id": "gn-QlluQmtkdz9vYz01",
@@ -1329,21 +1119,6 @@
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOFVPeHNWSzctWmtKSVZNTHhyNDJZZXl3Q0JWeVVJa016WXlwaGk2SW9TMnJkM0Roc0hXZGRsY3NEa0h6VllsLTlUd3VMZDdqOU1LbXUwX2FDSzZuZlkzWVVXUmVPRnhEYXhVelVrckQ2cC1rSjJRUzZidEhmUlAwSVQ4T3kzZVdfR2Jmd1c5NU1aY2R4ZHhobUoyUUQ2dFIxWDczby1nVWg3MXNLRF90cUxpR2Y2QThEQzVtWE5xVjZkYTd2UnJGRVlrZm84alN5c055Qkk4NUxJb1NBYnBkdw?oc=5"
   },
   {
-   "id": "aip-1742390",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Massa: \"Colpevoli di Palestina\" - presidio davanti al Tribunale",
-   "tipo": "",
-   "inizio": "2026-10-12T09:00",
-   "luogo": "Massa",
-   "citta": "Massa",
-   "regione": "Toscana",
-   "coord": [
-    44.03593,
-    10.13955
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1742390/-/massa-colpevoli-di-palestina-presidio-davanti-al-tribunale"
-  },
-  {
    "id": "pl-13461",
    "fonte": "PeaceLink",
    "titolo": "Poste Italiane complici di genocidio",
@@ -1358,36 +1133,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13461",
    "online": false
-  },
-  {
-   "id": "aip-1743277",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Piombino (LI): \"Unire le resistenze al saccheggio dei nostri territori\"",
-   "tipo": "",
-   "inizio": "2026-10-12T16:30",
-   "luogo": "Piombino (LI)",
-   "citta": "Piombino (LI)",
-   "regione": "Toscana",
-   "coord": [
-    42.92317,
-    10.52682
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1743277/-/piombino-li-unire-le-resistenze-al-saccheggio-dei-nostri-territori"
-  },
-  {
-   "id": "aip-1743618",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Empoli: presidio di solidarietà con la famiglia Taha",
-   "tipo": "",
-   "inizio": "2026-10-12T18:30",
-   "luogo": "Empoli",
-   "citta": "Empoli",
-   "regione": "Toscana",
-   "coord": [
-    43.71949,
-    10.94586
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1743618/-/empoli-presidio-di-solidarieta-con-la-famiglia-taha"
   },
   {
    "id": "pl-13404",
@@ -1438,7 +1183,7 @@
     11.25564
    ],
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUW8xakU5YURJbVRGbDlYMHZYckRQYjNXX2p0dVRuOGYwS3dHdS0xTnBPb1RGRW5tLXdHV1NrSlhlU1hWM3dTanJic19JbHRDbGVHMnduTlpkTFRHUjF4RXM0bkxrbnMtMWl3NFVPM2lXbHlOb2lZUWZadW5Ib01OQjNDbjJXbHE0bmwyemZWU0JKbDlHZW9UbnAxT01kOHN6M1Q2aHBOai1Gckc3d0E?oc=5",
-   "altriArticoli": 7
+   "altriArticoli": 8
   },
   {
    "id": "gn-VU5xU2tSTj9vYz01",
@@ -1593,11 +1338,13 @@
    "altriArticoli": 5
   },
   {
-   "id": "aip-1742360",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Massa: \"Colpevoli di Palestina\" - presidio davanti al Tribunale",
-   "tipo": "",
-   "inizio": "2026-10-14T09:00",
+   "id": "gn-MUtNR00b2M9NQ",
+   "fonte": "Giornali · La Nazione",
+   "titolo": "Sciopero generale regionale mercoledì 14 ottobre. Il corteo a Massa, possibili disagi per i servizi e per il trasporto",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-14",
+   "dataIncerta": false,
+   "pubblicato": "2026-10-12T07:00:00.000Z",
    "luogo": "Massa",
    "citta": "Massa",
    "regione": "Toscana",
@@ -1605,37 +1352,7 @@
     44.03593,
     10.13955
    ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1742360/-/massa-colpevoli-di-palestina-presidio-davanti-al-tribunale"
-  },
-  {
-   "id": "aip-1742362",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Massa: \"La protesta non è reato\" - corteo",
-   "tipo": "",
-   "inizio": "2026-10-14T09:00",
-   "luogo": "Massa",
-   "citta": "Massa",
-   "regione": "Toscana",
-   "coord": [
-    44.03593,
-    10.13955
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1742362/-/massa-la-protesta-non-e-reato-corteo"
-  },
-  {
-   "id": "aip-1737733",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Toscana: sciopero generale regionale per i Pro Pal citati a giudizio a Massa",
-   "tipo": "",
-   "inizio": "2026-10-14T10:51",
-   "luogo": "Toscana",
-   "citta": "Toscana",
-   "regione": "Toscana",
-   "coord": [
-    43.45865,
-    11.13892
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1737733/-/toscana-sciopero-generale-regionale-per-i-pro-pal-citati-a-giudizio-a-massa"
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xRUMyeWFXVUhfTlZMMnJvWE9ZUi1NeUZtMzhuQk9vVkUwbHJiMmlWSk5sNEZJSmJXc042eGlyT1dYV3FlMUpXclVqUm1UcXI5WGM3Q21QZkdGVmxwUVR6X2NsTjNHd2FETXNhYXNZVFVzWlFfekZGMkNTNm1KMGM?oc=5"
   },
   {
    "id": "pl-13445",
@@ -1652,36 +1369,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13445",
    "online": false
-  },
-  {
-   "id": "aip-1742051",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: \"Academic freedom, institutional courage, and anti-fascism\" - lezione di Judith Butler",
-   "tipo": "",
-   "inizio": "2026-10-14T16:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1742051/-/firenze-academic-freedom-institutional-courage-and-anti-fascism-lezione-di-judith-butler"
-  },
-  {
-   "id": "aip-1743744",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Borgo San Lorenzo (FI): proiezione di \"The Sea\"",
-   "tipo": "",
-   "inizio": "2026-10-14T21:00",
-   "luogo": "Borgo San Lorenzo (FI)",
-   "citta": "Borgo San Lorenzo (FI)",
-   "regione": "Toscana",
-   "coord": [
-    43.95425,
-    11.38647
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1743744/-/borgo-san-lorenzo-fi-proiezione-di-the-sea"
   },
   {
    "id": "pl-13480",
@@ -1790,7 +1477,7 @@
    "tipo": "Dai giornali",
    "inizio": "2026-10-15",
    "dataIncerta": false,
-   "pubblicato": "2026-10-14T13:32:28.000Z",
+   "pubblicato": "2026-10-14T07:00:00.000Z",
    "luogo": "Emilia-Romagna, Italia",
    "citta": "",
    "regione": "Emilia-Romagna",
@@ -1832,36 +1519,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13429",
    "online": false
-  },
-  {
-   "id": "aip-1743773",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Livorno: \"𝐏𝐚𝐥𝐞𝐬𝐭𝐢𝐧𝐞𝐬𝐢 𝐬𝐨𝐧𝐨 𝐢 𝐭𝐮𝐨𝐢 𝐨𝐜𝐜𝐡𝐢\" - reading teatrale globale",
-   "tipo": "",
-   "inizio": "2026-10-15T17:00",
-   "luogo": "Livorno",
-   "citta": "Livorno",
-   "regione": "Toscana",
-   "coord": [
-    42.79024,
-    10.34022
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1743773/-/livorno-palestinesi-sono-i-tuoi-occhi-reading-teatrale-globale"
-  },
-  {
-   "id": "aip-1743276",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: \"Palestinesi sono i tuoi occhi\" - reading teatrale globale",
-   "tipo": "",
-   "inizio": "2026-10-15T19:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1743276/-/firenze-palestinesi-sono-i-tuoi-occhi-reading-teatrale-globale"
   },
   {
    "id": "pl-13477",
@@ -2123,21 +1780,6 @@
    "online": false
   },
   {
-   "id": "aip-1743434",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: presidio contro l'autorizzazione degli impianti fotovoltaici dell'azienda israeliana genocidiaria Shikun&Binui",
-   "tipo": "",
-   "inizio": "2026-10-16T11:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1743434/-/firenze-presidio-contro-lautorizzazione-degli-impianti-fotovoltaici-dellazienda-israeliana-genocidiaria-shikun-binui"
-  },
-  {
    "id": "pl-13484",
    "fonte": "PeaceLink",
    "titolo": "Giornata Nazionale in Memoria delle Vittime dell'Immigrazione",
@@ -2168,21 +1810,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13478",
    "online": false
-  },
-  {
-   "id": "aip-1743743",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: presentazione del libro per bambini \"Mi chiamo Handalino\"",
-   "tipo": "",
-   "inizio": "2026-10-16T17:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1743743/-/firenze-presentazione-del-libro-per-bambini-mi-chiamo-handalino"
   },
   {
    "id": "pl-13470",
@@ -2279,21 +1906,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13409",
    "online": false
-  },
-  {
-   "id": "aip-1743772",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "San Casciano Val di Pesa (FI): \"Palestina libera e libero dissenso\"",
-   "tipo": "",
-   "inizio": "2026-10-16T21:00",
-   "luogo": "San Casciano Val di Pesa (FI)",
-   "citta": "San Casciano Val di Pesa (FI)",
-   "regione": "Toscana",
-   "coord": [
-    43.65696,
-    11.18567
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1743772/-/san-casciano-val-di-pesa-fi-palestina-libera-e-libero-dissenso"
   },
   {
    "id": "pl-13446",
@@ -2550,21 +2162,6 @@
    "online": false
   },
   {
-   "id": "aip-1742668",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: \"Pace o propaganda? Riconoscere la normalizzazione del genocidio\"",
-   "tipo": "",
-   "inizio": "2026-10-17T16:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1742668/-/firenze-pace-o-propaganda-riconoscere-la-normalizzazione-del-genocidio"
-  },
-  {
    "id": "pl-13440",
    "fonte": "PeaceLink",
    "titolo": "Cuba: l'esempio di un popolo, dal bloqueo all'assedio",
@@ -2579,21 +2176,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13440",
    "online": false
-  },
-  {
-   "id": "aip-1743742",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Pontedera (PI): pranzo di raccolta fondi e presentazione del libro \"Sionismo e Nazismo, facce della stessa medaglia\"",
-   "tipo": "",
-   "inizio": "2026-10-18T13:00",
-   "luogo": "Pontedera (PI)",
-   "citta": "Pontedera (PI)",
-   "regione": "Toscana",
-   "coord": [
-    43.66345,
-    10.63549
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1743742/-/pontedera-pi-pranzo-di-raccolta-fondi-e-presentazione-del-libro-sionismo-e-nazismo-facce-della-stessa-medaglia"
   },
   {
    "id": "pl-13380",
@@ -2643,6 +2225,24 @@
     11.13892
    ],
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMGtrX1AyWnlLZDFid2dBYUZkT2VaZUdEbk5KX0RUSFNIem1Rd3NmcFlMUnZ0S1FLZ1UxYk96NEx2WjNndFlfaXY1NzU5MXpoQ2ZKRGVmeHZPaW8tRHdYNWJxZmY2TEM1RV81NWU1U2JiSDZaZnBrS3N4N0hIYnJhZjA3NFBuZmVibU5xNFJjSjBPenExYWl5cWVWc0RFUEVoSm11ZXpnSEJLX1dT?oc=5"
+  },
+  {
+   "id": "gn-WDJjMlQyYz9vYz01",
+   "fonte": "Giornali · Corriere di Novara",
+   "titolo": "Cgil Novara e Vco, oltre 300 persone a Roma per la manifestazione «La Via Maestra»",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T09:47:00.000Z",
+   "luogo": "Novara",
+   "citta": "Novara",
+   "regione": "Piemonte",
+   "coord": [
+    45.58425,
+    8.546
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNk5CYmo2NWloZXU0ZVRXRTdrWjFmOW9UZWZwalNSS1VHcGNhNkdSZTZmWFNwYXlRd3I3OWVBSVdpSElHS3BSQnlyRThaUFo0THZ1Z2VZcVI3eEtpeGRrV0lOZzQzVm9aN3hBdWpyaFl5VXR0LWVwMFNBbS1UVF81S29YMXpwVXVEVl96RTZqQTczUExGZ3QwaFV3cndnTUNjZURxN1AwVlpUX3VUTGtvZzNDZmV4X2c2T2c?oc=5",
+   "altriArticoli": 2
   },
   {
    "id": "gn-UWVUSnlRUT9vYz01",
@@ -2731,24 +2331,6 @@
    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNZGZZSWxER0xpNFljVVZFYmRscXVFYTVkbHBJaDJzRERFWExUbzV6Z0JhY3VrRnpmWXpOa3AteUhtR1ZlWXp0Zi1yaEtTM0ZzbWVwUW1FZnE5S2daLUNTY3JWUHUzS0kyTk1qcmtnai11bHI5cUE2ajkxVkRnRGRjaC1KXzh5ZkhmOXpuT29vVHFpMXNxc25NYkpMbFMzTWhEaWxzM2U1bEF0MS1zUHVHX1p2Zmp5WGRpWVlvXzBhc0w2UklpUGhMVUxkXzhTUlFjTXB3aHNqblRyN28xSHhuTi1BZFJpM0lzQXNpX192RVAzYUFTZVQ3MDVnSy1BRnZ1UzJrLVVWd2dtUkY3eGtDMTg5aXpxZU1XNmI1ZHA1aVM0a3E1SnfSAasCQVVfeXFMTXYtZW1rR21ZZ1dsSTZRSENYekdjWTZyRExJV3dWVVptM3JYVkNaNmNvLUI2MEFTazdZclQ5SHN5ZDhWUDFKMHh4WnVQVXo4dUtXRHJxeFhucjhNQlNxNGxIUzZYbHhoMXd4UU9oZ0o5N1A3NEhkcTV4ZjY3UW45MjFFdF81VVo1a09fNF9KUWVwVlNjRjAxVzlTRHZvTzc4dVpONGtqdzdXUFRGMm1xWGVWNDN3QXM3ZTF5M25NV1M0ZFc4WW5WYzhsZW9SLXNza0d6a29GUE9xMU4xaEFWYzAzNlQ2bHliUzZDUUR3ZVBBWnNhWUJ3Nm5FejUzbG1vcWsya24xTmltV1dEaUt3YVRQakltQ1BUTHZhMVBENDM3U1RfQXRPdXNLc2s?oc=5"
   },
   {
-   "id": "gn-WkRGUFVHYz9vYz01",
-   "fonte": "Giornali · La Voce Novara e Laghi",
-   "titolo": "Barilla, la protesta arriva anche a Novara: sciopero e presidio davanti alla fabbrica",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-20",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-20T15:20:00.000Z",
-   "luogo": "Novara",
-   "citta": "Novara",
-   "regione": "Piemonte",
-   "coord": [
-    45.58425,
-    8.546
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb0dZUU1wY1EwTXlGa3F6NnhvTHY0OFlsb2E1cTFPeDI3Uzl0M3VZM0FHNVNFNnduVlljUnlkZ1Y5d3NJeGRMT3VBMlUxNU5aZEpKMmU1NmRoZTJ6bHB4OWttYXpOZVJ4Sk1UUXAzcGktbHlSVk5qY0s5OHJDT1VDSDlxX2xZX05kM2JHM3haYXlmZ2d1LU52MlptY2ZCek9Dd0lfT1B3TG9icG43ZDFGVlZQY0F1VGFoRUJFaHFDQTQxU1BSdXZiU0dlMng3UFktM1NGQlROWlBNZDFPUGc?oc=5",
-   "altriArticoli": 1
-  },
-  {
    "id": "gn-RVptVjBNP29jPTU",
    "fonte": "Giornali · Siena Comunica",
    "titolo": "Wine & Siena 2027, il Comune conferma il sostegno alla manifestazione al Santa Maria della Scala",
@@ -2831,36 +2413,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13494",
    "online": false
-  },
-  {
-   "id": "aip-1744359",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: \"Casa mia, Gaza mia\" - spettacolo teatrale al Puccini",
-   "tipo": "",
-   "inizio": "2026-10-20T21:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744359/-/firenze-casa-mia-gaza-mia-spettacolo-teatrale-al-puccini"
-  },
-  {
-   "id": "aip-1744356",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Livorno: assemblea cittadina verso lo sciopero internazionale dei porti del 30 ottobre",
-   "tipo": "",
-   "inizio": "2026-10-20T21:00",
-   "luogo": "Livorno",
-   "citta": "Livorno",
-   "regione": "Toscana",
-   "coord": [
-    42.79024,
-    10.34022
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744356/-/livorno-assemblea-cittadina-verso-lo-sciopero-internazionale-dei-porti-del-30-ottobre"
   },
   {
    "id": "gn-UzFGZldFaz9vYz01",
@@ -3068,19 +2620,21 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNREhpLV8yMHgyWExwSnQtbTV3d0wwMEZmNUFYV2lFX21PaHdNV2FHVmhvanBxVGo1QmtaR0RDMXAzeWZxTENkck9DYTJ2VjNsalRZTlJzWmctTU4yZXFoMUVDd1lPcnRqUTRhb3laSmlHMkd5Qm5wUkJwanZ2T0FvVA?oc=5"
   },
   {
-   "id": "aip-1744479",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: assemblea cittadina verso lo sciopero del 30 ottobre",
-   "tipo": "",
-   "inizio": "2026-10-21T21:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
+   "id": "gn-TlBORUUb2M9NQ",
+   "fonte": "Giornali · quicosenza",
+   "titolo": "Cosenza, gli studenti tornano in piazza. Grande corteo contro carovita e guerra «soldi alle scuole non alle armi",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-22",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-22T08:48:42.000Z",
+   "luogo": "Cosenza",
+   "citta": "Cosenza",
+   "regione": "Calabria",
    "coord": [
-    43.7698,
-    11.25564
+    39.59669,
+    16.33306
    ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744479/-/firenze-assemblea-cittadina-verso-lo-sciopero-del-30-ottobre"
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FS0tPLXRDdk8tc0FWRlhQaFowbWxZU0h1VGQ3dDZrcWZ6aVptRFZMZC1nelI3aFRNYjNBQVZGMlh1RFFWSG5Rak9xbjVKZ3NSTkF2alRYS1c5eVQzQVh2cjZ0M1RscnRKUlc1MGgwWU4tVFVyOWtQOEFHeWNPNEE?oc=5"
   },
   {
    "id": "gn-TFdaTlNTMD9vYz01",
@@ -3132,36 +2686,6 @@
    "online": false
   },
   {
-   "id": "aip-1744258",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Montaione (FI): \"Camerati alla corte d'Israele\" - incontro con Fabio Lattanzio",
-   "tipo": "",
-   "inizio": "2026-10-23T18:30",
-   "luogo": "Montaione (FI)",
-   "citta": "Montaione (FI)",
-   "regione": "Toscana",
-   "coord": [
-    43.55294,
-    10.91277
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744258/-/montaione-fi-camerati-alla-corte-disraele-incontro-con-fabio-lattanzio"
-  },
-  {
-   "id": "aip-1744354",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Settignano (FI): \"Palestina dall'economia di occupazione all'economia di liberazione\" - cena e incontro",
-   "tipo": "",
-   "inizio": "2026-10-23T20:00",
-   "luogo": "Settignano (FI)",
-   "citta": "Settignano (FI)",
-   "regione": "Toscana",
-   "coord": [
-    43.78299,
-    11.32082
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744354/-/settignano-fi-palestina-dalleconomia-di-occupazione-alleconomia-di-liberazione-cena-e-incontro"
-  },
-  {
    "id": "pl-13491",
    "fonte": "PeaceLink",
    "titolo": "Nazra 2026 - Palestine Short Film Festival",
@@ -3176,21 +2700,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13491",
    "online": false
-  },
-  {
-   "id": "aip-1744289",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Siena: \"Nazra 2026\" - Palestine Short Film Festival",
-   "tipo": "",
-   "inizio": "2026-10-23T20:45",
-   "luogo": "Siena",
-   "citta": "Siena",
-   "regione": "Toscana",
-   "coord": [
-    43.16721,
-    11.46756
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744289/-/siena-nazra-2026-palestine-short-film-festival"
   },
   {
    "id": "inv-milano2410",
@@ -3215,7 +2724,7 @@
    "tipo": "Dai giornali",
    "inizio": "2026-10-24",
    "dataIncerta": false,
-   "pubblicato": "2026-10-22T07:29:10.000Z",
+   "pubblicato": "2026-10-22T07:29:00.000Z",
    "luogo": "Napoli",
    "citta": "Napoli",
    "regione": "Campania",
@@ -3258,6 +2767,23 @@
     9.27491
    ],
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMEhBNUYzTjhQYk9DN3FRVGdfVXVNc0dxWEN3ZDd4RGdWYkxCcjVPTllCYXpqZW9TVGJpV19pel9SOFRQR1ZreFdoLVRNYV9Mb21fcHoycFV4eG8tdS1Pa1FrTmpfTXI5RlgwN0JyWFJTU3FfRndYZmloWFRkX2ZKWURNRDY2cUE4cXQzQWxIV3Q?oc=5"
+  },
+  {
+   "id": "gn-MnBsVmt4aj9vYz01",
+   "fonte": "Giornali · La Nazione",
+   "titolo": "Manifestazione a Firenze il 24 ottobre, si temono scontri come a Torino e a Milano: “Città pacifica, non tollereremo violenza”",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-24",
+   "dataIncerta": false,
+   "pubblicato": "2026-10-21T10:23:51.000Z",
+   "luogo": "Firenze",
+   "citta": "Firenze",
+   "regione": "Toscana",
+   "coord": [
+    43.7698,
+    11.25564
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRVlZdWh2bE5vREU0ZUpJNVlVTE1nbFo5dWZfV0tEYlNQRUtkelF3NU02azlXLWRCdFowYVlKVFg2NVJ4TldBYmExRWhpX0I3SUVTQlZ2NlhzdERwc28wQlBmV1NXZ2pPQmhOdU9qRWtUaDVmYlVMSjlJdkgyeVZKdVdHZG8zY2plVkxj?oc=5"
   },
   {
    "id": "gn-VmRJY0VVP29jPTU",
@@ -3342,51 +2868,6 @@
    "online": false
   },
   {
-   "id": "aip-1744358",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: \"Danni collaterali\" - concerto del coro Bella Ciao",
-   "tipo": "",
-   "inizio": "2026-10-24T16:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744358/-/firenze-danni-collaterali-concerto-del-coro-bella-ciao"
-  },
-  {
-   "id": "aip-1743433",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Empoli (FI): \"No al genocidio! Palestina libera!\" - incontro dibattito e cena palestinese",
-   "tipo": "",
-   "inizio": "2026-10-24T17:00",
-   "luogo": "Empoli (FI)",
-   "citta": "Empoli (FI)",
-   "regione": "Toscana",
-   "coord": [
-    43.71949,
-    10.94586
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1743433/-/empoli-fi-no-al-genocidio-palestina-libera-incontro-dibattito-e-cena-palestinese"
-  },
-  {
-   "id": "aip-1744290",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: \"Nazra 2026\" - Palestine Short Film Festival",
-   "tipo": "",
-   "inizio": "2026-10-24T19:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744290/-/firenze-nazra-2026-palestine-short-film-festival"
-  },
-  {
    "id": "pl-13493",
    "fonte": "PeaceLink",
    "titolo": "Dialogo e confronto con Gideon Levy",
@@ -3403,21 +2884,6 @@
    "online": false
   },
   {
-   "id": "aip-1744355",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Viareggio (LU): presentazione del libro \"Sionismo e Nazismo facce della stessa medaglia\"",
-   "tipo": "",
-   "inizio": "2026-10-25T13:00",
-   "luogo": "Viareggio (LU)",
-   "citta": "Viareggio (LU)",
-   "regione": "Toscana",
-   "coord": [
-    43.86724,
-    10.25061
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744355/-/viareggio-lu-presentazione-del-libro-sionismo-e-nazismo-facce-della-stessa-medaglia"
-  },
-  {
    "id": "pl-13430",
    "fonte": "PeaceLink",
    "titolo": "“Antonio Maresio Bazolle e i nativi americani” Conferenza",
@@ -3432,21 +2898,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13430",
    "online": false
-  },
-  {
-   "id": "aip-1744288",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Montespertoli (FI): presentazione di \"Il gelso di Gerusalemme\" di Paola Caridi",
-   "tipo": "",
-   "inizio": "2026-10-25T16:00",
-   "luogo": "Montespertoli (FI)",
-   "citta": "Montespertoli (FI)",
-   "regione": "Toscana",
-   "coord": [
-    43.64675,
-    11.06693
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744288/-/montespertoli-fi-presentazione-di-il-gelso-di-gerusalemme-di-paola-caridi"
   },
   {
    "id": "pl-13495",
@@ -3495,21 +2946,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13483",
    "online": false
-  },
-  {
-   "id": "aip-1744387",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Empoli (FI): \"Coltivare diritti in Palestina\" - incontro e aperitivo",
-   "tipo": "",
-   "inizio": "2026-10-26T18:00",
-   "luogo": "Empoli (FI)",
-   "citta": "Empoli (FI)",
-   "regione": "Toscana",
-   "coord": [
-    43.71949,
-    10.94586
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744387/-/empoli-fi-coltivare-diritti-in-palestina-incontro-e-aperitivo"
   },
   {
    "id": "pl-13499",
@@ -3660,21 +3096,6 @@
    "online": false
   },
   {
-   "id": "aip-1744257",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Piombino (LI): Presidio di pace",
-   "tipo": "",
-   "inizio": "2026-10-30T16:00",
-   "luogo": "Piombino (LI)",
-   "citta": "Piombino (LI)",
-   "regione": "Toscana",
-   "coord": [
-    42.92317,
-    10.52682
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744257/-/piombino-li-presidio-di-pace"
-  },
-  {
    "id": "pl-13487",
    "fonte": "PeaceLink",
    "titolo": "Il fascino di Fantasmagorìa accende Roma",
@@ -3689,21 +3110,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13487",
    "online": false
-  },
-  {
-   "id": "aip-1744478",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: \"Contro la repressione e la censura - no al DDL 1004\" - presidio",
-   "tipo": "",
-   "inizio": "2026-10-31T16:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744478/-/firenze-contro-la-repressione-e-la-censura-no-al-ddl-1004-presidio"
   },
   {
    "id": "pl-13473",
@@ -3802,21 +3208,6 @@
    "link": "https://www.invictapalestina.org/archives/55281"
   },
   {
-   "id": "aip-1742358",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Massa: \"Colpevoli di Palestina\" - presidio davanti al Tribunale",
-   "tipo": "",
-   "inizio": "2026-11-09T09:00",
-   "luogo": "Massa",
-   "citta": "Massa",
-   "regione": "Toscana",
-   "coord": [
-    44.03593,
-    10.13955
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1742358/-/massa-colpevoli-di-palestina-presidio-davanti-al-tribunale"
-  },
-  {
    "id": "pl-13428",
    "fonte": "PeaceLink",
    "titolo": "Dove Comincia la Pace?",
@@ -3847,21 +3238,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13500",
    "online": false
-  },
-  {
-   "id": "aip-1741827",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Soci (AR): proiezione di \"Palestina 36\" - rassegna \"Sguardi sulla Palestina\"",
-   "tipo": "",
-   "inizio": "2026-11-12T21:15",
-   "luogo": "Soci (AR)",
-   "citta": "Soci (AR)",
-   "regione": "Toscana",
-   "coord": [
-    43.7372,
-    11.81335
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1741827/-/soci-ar-proiezione-di-palestina-36-rassegna-sguardi-sulla-palestina"
   }
  ],
  "geo": {
