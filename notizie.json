@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-22T01:46:46.226Z",
+ "aggiornato": "2026-10-22T02:45:06.703Z",
  "notizie": [
   {
    "titolo": "In Cisgiordania il colono che spara ha sempre ragione",
@@ -158,6 +158,12 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcHdtcjNkLTRGRzZwTVdfZGZKTnZMUEJHN0lGYlFxcEtNUElIRDFQVUNVX3RUUmVUZ2JCOTc2WDdfQVlzenp4djBjVnE5d0xVa2QwREM2U1RBZ0NLS1lUVFpVc1Zuc0tubWE2Z0RBazd1UnozY0gwTl9vU0I2eHdVWXl0SU9HYk53WElCWlVjclVHZ19TRHZMMDk1RmFSSWk1NnJRazNneU1CenVkNE01RG90Rm5HYWNhWmZYOFhKT19wZGE1TXF6MmdMWkM3T1d0LVE?oc=5",
    "fonte": "Agricolae",
    "data": "2026-10-21T17:19:00.000Z"
+  },
+  {
+   "titolo": "A Milano la pioggia non ferma il presidio contro la violenza",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQjM0RmRiNzJQVWR2eGZsLXNqRXFnME9oUGNsYTBIWE9uYWxLN29vNzRnSkNiSjI4SHE5Qkswd0V2bXh1c0tzb2c0eTB0Qk9zNzR2aXRHYU1iMm11QU5kS2I4LUY4TEctUHM5bk5acThwY3duVVRGdHhBOWl0em9DVzFvOGg1S3RnOGFkV2lteEJkaS1ydGJKbnZEV2ZUSm5xVEo5dnNaZ19WTVViZnpSaGhtN2N4QzNzTko3R0ZIbF9aTjZZTFBnYlhndzlPNE1lai03aGtUQ0dLcnNNLXJicnFNNXh3Z9IB6wFBVV95cUxNQVhhZDZXd2h4cUdtN3ZsQjY3VlJCZ3IzTFE0amdDMFZ6RXF4TEZUNEpSUlVocGdLQVYzVFZfLUduWXJSTHJFN2xGbmVSbEk1S21FNXR0SUpQeW5xN2t3Z05QS0FUTURuczZzVWgwNTR2UGd1SVdQUl93RUl5YWt5MzRSNF96WGhHVUZ5elZvTnNoU0NxZElYX1NnVVVLc0QxMUFva1dqMXdzR0hBVHo1WG9sdXl0Y1ozN3BqaEJpcG5EV1Rtei1xbEhFaUlQYjZTWjZRaDlyMEZ6ZjVCUlR6cWdjZjhYMi1WZVdR?oc=5",
+   "fonte": "ANSA",
+   "data": "2026-10-21T17:18:00.000Z"
   },
   {
    "titolo": "A Milano la pioggia non ferma il presidio contro la violenza",
@@ -590,12 +596,6 @@
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc1U3eFpXUFUtRl9MZ3pqSUdiSTFQOWt4REpJb2RxRG9OWTBUemx4czhCYXBNeG55MXR2MUF6cUpRMmplSXIxRk1qRzJGZWlUNE1fQ292cTNoTXhQaU81c0RtTW9wN1l4d280dF9VbUFKUWlPOGxHT1M4Y2hLWjliV1lKV2poclRIa3dRRk9fVXpsSHJ2M1ZoQVVHY1hvRWcwQnlOT2xwR2hmR2xCSVVfUXk5TE85NDc5U05YRGZscXM5cEFINHR5NnRTVzZfenVRc1VBcjJXcEJRV3UzZlFmOWY2Zy1HWkJtc21Ecg?oc=5",
    "fonte": "ANSA",
    "data": "2026-10-21T09:57:00.000Z"
-  },
-  {
-   "titolo": "Trani, il presidio degli agricoltori: \"Fermati 5 minuti e protesta con noi\"",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNmVnNXAyclF5WG9jX3FJVEpKNzc4eWt4UExLWXB1NVRsT2lnUERhTDdMalVMbnJsYksxckdrZkVyb2xPaTl5Wlh6c0tzbkMwbVR3X09rQldESy0tekJXOWJDVnBzUWg2eDBTczEtVGhrSWdWRTJlQ0xJS3gxazlQVVVnalRlUENtbDZhUGhVeVZ2ZTRvTC1WN0t4Y3QtcXQ4eEoteXItYw?oc=5",
-   "fonte": "Telenorba",
-   "data": "2026-10-21T09:55:54.000Z"
   }
  ],
  "eventi": [
@@ -615,7 +615,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQQWJfbXRCVFppa2dCOExTWTR1eFk5cU4ta1htNzQtZXdFNGljM2pMeFlEckRGTVpMdUJUN21fQ1lSLW9fWWdZcC02azhxN3ZQNURZOHA1N2dHcUJGdHZxcFI3cVUyaGlYV0hqdjVkUVlwanRlMDc3azFFMUtlSHdoMHFnTm9XU1MySWJWRmV5dWZsMkpfbXEwUW9xRFk1MHBWUjhYSjBBa0VEc0wzUGt4UHZpdTJXbE0yNzZqOW05Ym9qZ09FWkd4VzJ4elpYdkFhWEV6M3NYMmwtbnVBODFIYnlEaHdocWxRdGhXV1RNem0tUUwyTlYyR0RiTElBZkFBSFlwLVhNbExfYTkwUTMyUGJJMHhUVnNheU5Z?oc=5",
-   "altriArticoli": 118
+   "altriArticoli": 107
   },
   {
    "id": "gn-WmxVVlEb2M9NQ",
@@ -1144,24 +1144,6 @@
    "altriArticoli": 4
   },
   {
-   "id": "gn-R1JSYTNRP29jPTU",
-   "fonte": "Giornali · La Stampa",
-   "titolo": "Il corteo pro-Pal ad Alessandria",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-11",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-11T07:00:00.000Z",
-   "luogo": "Alessandria",
-   "citta": "Alessandria",
-   "regione": "Piemonte",
-   "coord": [
-    44.83495,
-    8.74503
-   ],
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ19xTS1MRjFnYS0yUXRFbTlvTzdqY2pURnprckRMcHMwSVlXZkl6OHNJQ0hTakdJN1dVbG9CajdtVkdjc0xUTV9VbWdaS0d5bTBrSnM5alhWS05NT0lTM3JMR3RaMUtOY3hPVllzRHZ1alhfMU4xQUJZVTBHdzllNHFQX080TzZ1al9wdUQweWwyZ2k3a3RQTGRRa3Q?oc=5",
-   "altriArticoli": 4
-  },
-  {
    "id": "gn-ZDB0Tll3P29jPTU",
    "fonte": "Giornali · Newsbiella.it",
    "titolo": "Accademia Perosi, 50 anni di grande Musica a Biella e un Palazzo per il \"presidio\" universitario FOTO e VIDEO",
@@ -1309,7 +1291,7 @@
     14.24877
    ],
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOTE5NFlsZDAzaDJGSXdsdzREVWdnOXBzdHp6NGtRT2RiT1FZcHQyX0xnbmh3RElkdlhqeGxZMWdoVW8wdEJFaGFlQUxtODExZHNIWWNYSzcwcjNXYi1qN0p1RHZ2VjZUTHhBZzBwSUVDMWtEVExCSGREdFVmM1hsVl9aaGlTZl9PcVd3?oc=5",
-   "altriArticoli": 4
+   "altriArticoli": 3
   },
   {
    "id": "gn-ODNTVzVuP29jPTU",
@@ -1327,7 +1309,7 @@
     9.18963
    ],
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeWpkRWtzZnRDS0h0RWtta2FQVU1GRmt5VFE3cUc5UFRnREh0bjZZUjhaXzdrUXZ0QXJLUU1OakhNRGhyM1Jpb2NncWt6a1B4STE0aUhhTkZVeV9NWVF5Tm12TDhvazZnUWNma0t3LWhnN1ZjeWJoMTVubnJhQ1RWRV9KbWNLbi1wamZPQ1FBeHpqVkU4WlluWUh6NlU1ZEJ4VGpNRWtLV202Rm9pUGFDLUZ2RGRfRUhlZV83SW5n?oc=5",
-   "altriArticoli": 35
+   "altriArticoli": 34
   },
   {
    "id": "gn-QlluQmtkdz9vYz01",
@@ -1633,7 +1615,7 @@
    "fonte": "Amicizia Italo-Palestinese",
    "titolo": "Toscana: sciopero generale regionale per i Pro Pal citati a giudizio a Massa",
    "tipo": "",
-   "inizio": "2026-10-14T03:46",
+   "inizio": "2026-10-14T04:44",
    "luogo": "Toscana",
    "citta": "Toscana",
    "regione": "Toscana",
@@ -1802,21 +1784,22 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN25YZlhhMFlzeHhSbTJkcHJpajlYUDdCVktRQ1dpRndNb3JNLXdNLXZ0MWxZcFJyeTBWNkNic19TV2lBZEltUkg4QjBuQ21tQTdMVVR1NEdEd0xQOUhIbTNwX0lWT2hydTFQeE9faTB2TUFmcWRVVjg3aHpWWnAxOURIMEpCc1A4a3FMQ3MxZmNfS0dfZEZDQlU5M21FSm5JR2RNd3NFcUQta01RdXFQbWhWejNoa0FFa3FRM2diZS1ObG9EU1E?oc=5"
   },
   {
-   "id": "gn-S1ExSm8b2M9NQ",
+   "id": "gn-VW8zZHcb2M9NQ",
    "fonte": "Giornali · La Stampa",
-   "titolo": "Ex Ilva, tutta la rabbia di Novi Ligure: oggi lavoratori in corteo ad Alessandria",
+   "titolo": "La protesta dei lavoratori dell'ex Ilva di Novi ad Alessandria: dall'arrivo in stazione al presidio davanti alla prefettura",
    "tipo": "Dai giornali",
    "inizio": "2026-10-15",
-   "dataIncerta": false,
-   "pubblicato": "2026-10-15T06:31:00.000Z",
-   "luogo": "Novi Ligure",
-   "citta": "Novi Ligure",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-15T09:34:06.000Z",
+   "luogo": "Alessandria",
+   "citta": "Alessandria",
    "regione": "Piemonte",
    "coord": [
-    44.76085,
-    8.78955
+    44.83495,
+    8.74503
    ],
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVkU5Xy1PdXlPTWNPU0ZGcUg3Zno0RlVWNFNDbktkY2JQT1dNdE1ZVUxqTUxrNlprTEVUYWtyTEVzbC04a3dlMGZ0TUVTU0MyT0pIRTZQUXFSN1E0SG9zdkRDN3BvTzRXZzRybEdkcVZCRno2eFJ4bjZCUU9MQ3llcEpKdFhqMWczcF94S2tqcEVaYkY5VWh1OW5GaVRFWGQ4U0Q1RUI3UEVuTHhjMXRvVjBCVdIBuAFBVV95cUxPajUzMG1kUmxTZkZZNUtvLVRHeTYwcHctQldFU1lQRlM4YnBzQ2Mxdk81bmdjZGFRUHV4dzI2dmJZUG9qUzdjM3pPYnRGS1Z2QmRzaXUyMlpndmtKTF9QUnFSUnJzNGp3UzNJMnRJRVhpQVQyVWg4UTkwWUp2MWZLc05ZVnZaR0ZXMFk5LUtDUi16U0w2X0c3cE5QZ0lOZE02NDRTc2pNOEpqcHVyZVRhaXVzM1hKQ1Jo?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTWRrMFBOSGFsc0l0aklGay1fVVpFV3RYQk5DYXpSR2F0N21TQ3g3MUI5NXhWZjRrSWxVTzJuck1GS2FQcjF5TWtPOGpGS2Y3a1ZsbHROOVV6TjdRSHk2c283V000czk2T0tOY0FUN3NDZ09CZEdFeXNkSGRoQm9nU1d2enBsWjRPZTNsUGR3bkVwZVRZWXRlZktKaFppNFhhREE5aUxZMHVDTmVleTMzay0ySm9DSTNFaVloQ3JZcENOZ2ZWLXNvdUkwVTFwV1pLNjFTTVBLQUo3dw?oc=5",
+   "altriArticoli": 2
   },
   {
    "id": "gn-bTh3ZDBSUj9vYz01",
@@ -1983,8 +1966,7 @@
     41.68467,
     14.59561
    ],
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUlVONWVKcFo3R2daNEw5dC1qbXRIN2MtTm5Gb2J2S2NJWFFPMVVJUWVKVlpYU3NtdmNDc1FRb0VuRUtYMkdXbVBWbndOb1k4dWNGOHNtUDM4SENjV29na2p1UEhKcDA0OUxVZEhWdlBjdTBiSDlOWXItcldaZlBoVmhFZ1hlVHg3cTdpbG42QkNoLUc3Zkd3ekVUY3JIWktnSXQ0TWlqZVdUY1RJVFAxSmgxdTVvMzZHZEd3dVpUNjEwM3NxSGEtUFpibUVxMjFMSGhzdk10d29MYjFNTzZjQXVqTVZINGRPZHNjWXJzaHZPZ9IB9wFBVV95cUxPcVN0ZktyNzhoSk5MbnFka3l2TTAxbjNZdEFDY3hSOXNzelRsRkNvWV9MajFCSTJHdzUtYUdaLThGc2paTXRNVmlCYTBjcy1YbmdfR0JUbDVuc0RZQkRLTHZLVGdxQTZVZ2ZNVGJmUklOR3IydGtka0pRS2dUak1KbDF4UUduSVlnVV9id0gwNHNrT1JfcUxJZ09BajZjSjdQTlVoMm5reHk4ODNUeldDbG1EWWt6SVJPUHNjUjVURF9tMTJ6amZVR3NxNGNaUGt3Q3p2NUFGY0ZQc3dielYwejZHa0daQW1sRWVJcWwtRlBzY3dOVjA4?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUlVONWVKcFo3R2daNEw5dC1qbXRIN2MtTm5Gb2J2S2NJWFFPMVVJUWVKVlpYU3NtdmNDc1FRb0VuRUtYMkdXbVBWbndOb1k4dWNGOHNtUDM4SENjV29na2p1UEhKcDA0OUxVZEhWdlBjdTBiSDlOWXItcldaZlBoVmhFZ1hlVHg3cTdpbG42QkNoLUc3Zkd3ekVUY3JIWktnSXQ0TWlqZVdUY1RJVFAxSmgxdTVvMzZHZEd3dVpUNjEwM3NxSGEtUFpibUVxMjFMSGhzdk10d29MYjFNTzZjQXVqTVZINGRPZHNjWXJzaHZPZ9IB9wFBVV95cUxPcVN0ZktyNzhoSk5MbnFka3l2TTAxbjNZdEFDY3hSOXNzelRsRkNvWV9MajFCSTJHdzUtYUdaLThGc2paTXRNVmlCYTBjcy1YbmdfR0JUbDVuc0RZQkRLTHZLVGdxQTZVZ2ZNVGJmUklOR3IydGtka0pRS2dUak1KbDF4UUduSVlnVV9id0gwNHNrT1JfcUxJZ09BajZjSjdQTlVoMm5reHk4ODNUeldDbG1EWWt6SVJPUHNjUjVURF9tMTJ6amZVR3NxNGNaUGt3Q3p2NUFGY0ZQc3dielYwejZHa0daQW1sRWVJcWwtRlBzY3dOVjA4?oc=5"
   },
   {
    "id": "gn-d1pFMUIb2M9NQ",
