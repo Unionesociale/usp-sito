@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-23T00:59:29.069Z",
+ "aggiornato": "2026-10-23T01:48:36.983Z",
  "notizie": [
   {
    "titolo": "Farnesina, attiviste italiane fermate in Cisgiordania, chiesti chiarimenti",
@@ -130,16 +130,16 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "Manifestazione di sabato, i negozianti del centro preoccupati: \"Abbiamo paura succeda come a Milano\" \\ VIDEO",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTkNlb2Q2ekZLdzlvb3JmR0hyRFUzT0o5Mm4tVW0zYlRXRl9TLThJRThFOFd1OVVKaF90YnZNMzBTUXdSOEU4SGhTaTVESy11c3haRTl5SGdPSTEySzA3dl9UZjFSLTRFdEwzSGNQT0hkQUhBTE1aZHE0NGpCN3JuSnNvZkU?oc=5",
+   "fonte": "FirenzeToday",
+   "data": "2026-10-23T01:13:56.000Z"
+  },
+  {
    "titolo": "Proteste a Benevento, manifestazione per il costo della vita: studenti e lavoratori scendono in piazza",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTGpZVDUycklLY2JxXzBlZVVyZGRsR0tIdmJoaXdjUGUzcXhSU2lUMmxQUUhwdDVfb2xNRXVhNktrT1I5Skk2cnRQRk1oblhoeWtycVpveEJEQzFSckVId2VCNzJsdVRQVERkVWl3ZkR2V25INU5jamhTVWMyeUR4TVF1aHdUcG1LcWFDbzFjck9DTVN2MTg3QnlWZDRYdm1mWDFmY01WY1dVTktmdGhPa1ZNSEpmbzZ3WHJhV2J4WDY2aTdrTzFOS25DYlI0cVhiY05SdzAtTmhQbjZjNXBZM3J30gHnAUFVX3lxTE1Nd0pQM2U3TlBSSDlHV29JQ3dCSmsyd0RzX2xQNFZRQ25oU1pTZVp0cTBxemlvcFNqQlgtUUxNME9SaXNZVkJseUhYN1JNalg4b214Z0tBcWg1Qi1teGk2Uk9UVDg0MTFjZ3ExM2JSZFdxSFk5TUN2aGJvdmtxUmNuSEhqUVgzQjdlYVJobmdmZ1VCNlEwQ1hmQklxR3hkSDdrNTRqMzFZTGZBWTFGa0N1RUh1NEd2bjRlQVluX1dUWFdmN081aGpYODJUeWdhNkoxNDBLLVlvT0t1a3Z4UktWU2VoaVVnMA?oc=5",
    "fonte": "Il Mattino",
    "data": "2026-10-22T22:05:03.000Z"
-  },
-  {
-   "titolo": "Manifestazione di sabato, i negozianti del centro preoccupati: \"Abbiamo paura succeda come a Milano\" \\ VIDEO",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTkNlb2Q2ekZLdzlvb3JmR0hyRFUzT0o5Mm4tVW0zYlRXRl9TLThJRThFOFd1OVVKaF90YnZNMzBTUXdSOEU4SGhTaTVESy11c3haRTl5SGdPSTEySzA3dl9UZjFSLTRFdEwzSGNQT0hkQUhBTE1aZHE0NGpCN3JuSnNvZkU?oc=5",
-   "fonte": "FirenzeToday",
-   "data": "2026-10-22T22:02:41.000Z"
   },
   {
    "titolo": "Movimento 17 Ottobre, manifestazione in centro. Timori tra i commercianti, vetrine protette",
@@ -627,7 +627,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSFZYVVpXcHhucGw5YlBISTFRUlQtcE9VVWZFb3luNTcxWjZsbHlOa2pGNzdIRzlqZUpJLWVwd1M5NHFPVmg3ZzdLY0pnZTFJRDdRVkdITVVEWVF5bVlHeVF5UzlnWnZ2N2NFaHZ3eHNJaWhtaUNSZzNWVUQzcnRQWGVvUnJhQzhtMlliRFl3alcyRS0tb2NKMnZPZWN2cWpweDNDeXlxUnhXUHFSc2JuR0dyclBPeTdMeFRCcG5sVjV3ZEREM0hR?oc=5",
-   "altriArticoli": 100
+   "altriArticoli": 99
   },
   {
    "id": "pl-13384",
@@ -696,6 +696,23 @@
    "altriArticoli": 1
   },
   {
+   "id": "gn-U2NGaDIb2M9NQ",
+   "fonte": "Giornali · TorinoToday",
+   "titolo": "Manifestazione pro Palestina Torino Centro - 10 ottobre 2026",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-10",
+   "dataIncerta": false,
+   "pubblicato": "2026-10-10T07:00:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbS1MdUhzVUFtaXZJRGxLem9kM0tKOXZXYUhNTElHeEQwZnVqeEpFci01cnU1SDNXbklWWVFaZDhUNW94U0k5SEVSRlo3OGV0WXNMSUxBWWVNZ2Nsb1dmX0lleUhsVTlsWFZYaEgwUmtHd1U0UklPMm5KZUZKRDBkRG5HZmw3TV9oNVJRM2V0MHROVVcxUmFqQndnSXhScFh2?oc=5"
+  },
+  {
    "id": "gn-aHRSa0Ub2M9NQ",
    "fonte": "Giornali · L'Eco del Chisone",
    "titolo": "Pinerolo: il presidio del gruppo Bds a sostegno del popolo palestinese",
@@ -711,59 +728,6 @@
     7.33195
    ],
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeU9sQmtJMXJSam1wUXlLTzRCbVFRZzduck1OajRaT3FKUkxQbVFOTHE1SzRqOF9tWlJTUDlYbVhhTVNBdnphd2dMTGRyYzdKOFdmRTVRNUUtWHZBR1VDQjEyVmtpcTNMaFc0elVBc0d0T2pxMFBfOHkxYUZpUkNFN2hiSGo2bjJKMkkyYjBMSE5HMW8zaDZGN3A2MzF5Z09YQ3FoOXpESnhtRkE?oc=5"
-  },
-  {
-   "id": "gn-VFVsWFFRP29jPTU",
-   "fonte": "Giornali · Il Resto del Carlino",
-   "titolo": "Corteo pro Pal a Bologna, in ‘migliaia’ scendono in piazza: “Contro il sionismo e le violenze omofobe”",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-10",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-10T07:00:00.000Z",
-   "luogo": "Bologna",
-   "citta": "Bologna",
-   "regione": "Emilia-Romagna",
-   "coord": [
-    44.49382,
-    11.34263
-   ],
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWZjVXctVXFod0ZxSXI3SzE1YkZzemdKUFBzOEhIN0FOc0t3ekNGbGdqMGhxSEZsc1dKZWdlazNHUl9uWmFpTnNtUTg4ZzZ0My15Z0dXMnQ1VnJyV1E5ZElOQU1oVV95dVA5ejhxNjFLQ3lCNDN6V0ZWSk94YlVlMlRiLUhOLUZ0TUlXQQ?oc=5",
-   "altriArticoli": 9
-  },
-  {
-   "id": "gn-c3diR1l4P29jPTU",
-   "fonte": "Giornali · PisaToday",
-   "titolo": "Manifestazioni, anche Pisa aderisce alla mobilitazione nazionale: corteo proPal per le vie del centro",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-10",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-10T07:00:00.000Z",
-   "luogo": "Pisa",
-   "citta": "Pisa",
-   "regione": "Toscana",
-   "coord": [
-    43.47147,
-    10.67979
-   ],
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3pmZzBtaFFHME5lUmg1QlRzM1dfbkNhSWVDVExnSTNnSF8tV1FsUE55T0tPNXRkczM2eXJxU1h4TkI4US1UbExZQy0xdnFxYmNzc2c3QWYxQzFOcUtKejVaX1ZvT2tmS3RVdFIxVjU5dmdaT3Z2ZXlLMm5jeFdRVHhnLUJWZzBXdVpBRmFpRnRPVXlwdkVzVEt2UFhZaHFiTkZyMlhwdEswbGYx?oc=5",
-   "altriArticoli": 1
-  },
-  {
-   "id": "gn-dGljVGcb2M9NQ",
-   "fonte": "Giornali · VareseNews",
-   "titolo": "Presidio per la Palestina a Varese il 10 ottobre in piazza Monte Grappa",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-10",
-   "dataIncerta": false,
-   "pubblicato": "2026-10-05T07:00:00.000Z",
-   "luogo": "Varese",
-   "citta": "Varese",
-   "regione": "Lombardia",
-   "coord": [
-    45.83991,
-    8.75418
-   ],
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY3hIOTBBMEhkdzZ5bUNPd0NGYW9uZzZwRlVaMUhNYmpVWVlWRUdqVUVsNFBfOFc0U0l0dWV2dmJ5SFJfVm5ia3hPSVNqX09mOENDbU1JWUg5bzdmbFF3TXN3LWRKa1EwTTVJbWJPaFRHVEtQS2tCcW5tS2VXZWVJYmpHQVVLd1lsd0ZpMmRmc1lfRTNzUldzLWY0NkJkY1dBZUkwVnNPN2ViY0UxMWxYSkticTg?oc=5"
   },
   {
    "id": "pl-13413",
@@ -909,7 +873,7 @@
     7.55814
    ],
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUEdNU0pKbmUyR01OYzR2OUVEdDhwbHI5NWdiblpwb2VJZmdweXJUSDYzUEJjSjR4V2RmY054Wk8xN1Jtd0xOeWlRWHRnOWpOeFl4blZ2c2pjWmlLVnFMX0RhWWVCNmt4TThjZWtMZkpweHJrNVBQc3lSMnFrVnpTMWxUWHBldHhfcURraHptb2dVMWk5YkZSa3RRZXFkeTJ0RnZ2c3ZqQUd2M3VCV2JSRlZkX3R5YVZGVkJsTXp2c3ZRYUl4VzBWdnR1dUVjVUpuUXF6NzFLTWxUU0E?oc=5",
-   "altriArticoli": 5
+   "altriArticoli": 4
   },
   {
    "id": "gn-ZDB0Tll3P29jPTU",
@@ -927,7 +891,7 @@
     8.08691
    ],
    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPSXFOQzBhSXprZDdXUkY2ckVaNnJBOGxvYjloUHpUVHpNUW0tQ29jM0FnQmdjWUpuaTVYUE9uQkF5VWdRSV84Ml9ydFBTaDNPRlduemNVQVFubXNFeEQtTER6ZmtESTc3MEU1SWVET1hJamdXRGdaYWh4cEs4cFlRRWVvZ2R1ekkyY0hmTTdUSERwUHBYR01fNlJvbm5kZWEyU3hSeXphUUdGTi1CaXhUVVNtRXlra2dSSmE2a0gtSmliUzk0UXFvYlNKUzdfTFVFZ1FKc1VTVGRZMGxPenVEd25EeWwzdHlRVHlVNVp0UFh3SnhXRFZqUHIwdG1nY204bTJleHpzMVRDYjRKSE1Hd0tNYw?oc=5",
-   "altriArticoli": 3
+   "altriArticoli": 2
   },
   {
    "id": "pl-13419",
@@ -1364,23 +1328,6 @@
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdzBVbTFIT1VHUXFxY2J0b0libUZ3ZXFSZzd4Tjkyc3hWNFVleVNpQkF1QlZKd2dYWHhlOGpqT2tLRXByTGYzeE1oZmNTMFhjSlFzRUdSanpvMTU3OWtjc3NJS0Z5NkdMRGJuU28yZnFDUE40TFNPTUMyZHJkR2xZb3RvemVIUFU4VUotQmZFSWVpb0ZrS0JUMVI0NmdtX1lJVHJSSXlxdzdKZFVSM0drbUJFSGRhek9EQ2czNk84Y2Z6LWJ5Q2NMbkpkT2xYdWE5R3pPbFZjdGZzRkJlTm9sYzNhQnRoZGVBbkZKVEtKRXVVNm8wd0RR?oc=5"
   },
   {
-   "id": "gn-U2xwNFVXMD9vYz01",
-   "fonte": "Giornali · Agenparl",
-   "titolo": "IL COMUNE COMUNICA - domani la manifestazione indetta da Coldiretti Puglia sul lungomare Nazario Sauro le limitazioni al traffico e alla sosta e le modifiche ai percorsi dei bus Amtab",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-15",
-   "dataIncerta": false,
-   "pubblicato": "2026-10-14T00:52:43.000Z",
-   "luogo": "Puglia, Italia",
-   "citta": "",
-   "regione": "Puglia",
-   "coord": [
-    40.98425,
-    16.621
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNNFdadktDLVhFYzBEOVhCNVFtNFJhS1liR3ZId2RxYU1MVy1aT1dvVEtaeF8yalROR0t0SG5NdTNPUm5iOTBEbXpTcm92S3dRcU5FUnpMcWNVVmRmNHpMWTljMlhwQlExa2JjUVl4RlR1WG5EcEI3Qkd2aFV0ZUVpS1ladnF1Y3FybkJEaGZDSVNYMUlDZEhUeEN1V091aHNVMVUwVW5jcUFKaDZQLWxzWHBJLW9FbEQ5a1dRM0xIMXY5WnJ2c2FxWUk1cnpiTWM2Mk5hOGhQdlFLMGtMM0s3eG13SUdsd2tZY241bUdkNFBmalRsUHMyWVFWLTVxNTd6Y0pvaFA3aWtTbVVnQ2NYeWJuSkF0ZjNHM2JXdUMtTkktRlhpSzQ2ZVpNM1ZPQlBTSGk0Slp4UW0?oc=5"
-  },
-  {
    "id": "pl-13429",
    "fonte": "PeaceLink",
    "titolo": "Un mondo senza regole?",
@@ -1428,7 +1375,25 @@
     13.35244
    ],
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTFVTSGJKRzF4UTczT0djVkF4anpYcHpLcWRHNkVNaUtpNnYtdGlvUVA5dktxbWw5WDVucmdHOXN3SmpqbGRMSzU1T0d3RVljTWc4WWZ2aXY4OUtVdXFQSmpfX29TYXVRVUVWSFIwVURELVFHSTNrWWNfcEJNX2YyNUNtZ1VhZDk5STJiYkRrbjdXZw?oc=5",
-   "altriArticoli": 2
+   "altriArticoli": 3
+  },
+  {
+   "id": "gn-dlZrOHcb2M9NQ",
+   "fonte": "Giornali · Corriere di Bologna",
+   "titolo": "Bologna, il corteo degli studenti con tafferugli in stazione: dieci denunciati e altri cinquanta identificati",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-16",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-16T19:30:24.000Z",
+   "luogo": "Bologna",
+   "citta": "Bologna",
+   "regione": "Emilia-Romagna",
+   "coord": [
+    44.49382,
+    11.34263
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOcDBsRXE4V0lnX00wV19qeVh2SFZWZHJjODNBM1NuZkxnQmlDWGtYbVlrRk9JXzRubTJHdDdFbnRVOVJ0Z0ZMandTRFBVVmU3R1U1SlVfTWxWd1JZWEFQRTZuZ3o5UnluNndrbV9OcXlOLW5VZGJZdUsxelItbGRlVnpsek80b0hBWVNBazJxZ2o1TlV5UjBIbUJxOE1jRlRONHpQMHFxOEc4V1gtUjl2MnU1VWw2NHNzdXdxcGhwNy13Q3RjY2lRSjV4eHVFZV9pUG10YmJnSzNNRFRRRkFUd0RZenFHSzB2RWpCRGJEV3FkNl82YVlIYTJEak9nVmF2RkVrLW5uQ1gzU05mZExHZ3c4ZU4zUXR6UTVkTHptVmhxTHM5VXN4Y3VaNFhTaHI2TGdmRUxZV2I3Z9IBvwJBVV95cUxNMy1rUTZDQm95bG1OWHhNejIzSDY4QzNiZm93MDZTdWxuckdQd2RUc0ZlWWRnYTVCRU9sU3EtV3ZaRl9jekQ2cmIwWXJwMFcyQjhxUjhPSEotaFVYeXJQUUx0WHEyeGxUcDdGS21aLTBYOHdubGZmRXBxOU9LSmtLTk42M2Z3THRFZlJZMEtZRzc3aXlFVXd2S1ZPemR0VzB0Q3JZTUwzRThsRmdvS0ZqV2J4VmdfbjJ5Ql9sN0tuZ1RLTWpZZE1fQU5wQUE3bUVha19rNk1qOGJpWEt3ekxldWcxencwOUZ4ZFdvdVRqMVRKTkNUSWk3dVVsNTMtbTZLZlZjS1pJbHRhQ3VRb3JHSWlteUVEeUdPZEFlcmpnR2lReHRmSmJYWTQyNWtVZ05LbDhDMEhGSnB4Z1JvVk8w?oc=5",
+   "altriArticoli": 8
   },
   {
    "id": "gn-SnFiVGcb2M9NQ",
@@ -1552,25 +1517,7 @@
     9.18963
    ],
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaEFqUkdHWDJETUF4aUYxSzNmUm4zVUt2eFV3ZVNYNVJIWmNhXzB3aE0tSnc2ZmgwanBiWm1GZmxtODdzX3NXNDBJX203WVBWSHJzQW5GNjNOLXlVQzA5NVUwWmdHanBVa29OOF9xdFExa292UWtZR2lVaVpIZlRrMlhtTUlXZGhGYlJnR21UcElRY0FsTkZBS2pjZWUybDd1dlM4bGFRNA?oc=5",
-   "altriArticoli": 31
-  },
-  {
-   "id": "gn-ZVdaNGJBP29jPTU",
-   "fonte": "Giornali · IVG.it",
-   "titolo": "Anche a Savona la protesta degli studenti, in centinaia in piazza: cori e slogan, ma anche disordini dopo il corteo",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-16",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-16T10:04:00.000Z",
-   "luogo": "Savona",
-   "citta": "Savona",
-   "regione": "Liguria",
-   "coord": [
-    44.23342,
-    8.25257
-   ],
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNG9ydGhncFlpbnhORnRONUduUDBlUGtZaVg5M2Rac1hhZEFHZFZZU3Buc2hScllHRkRMX0dJVlRCNnlTY2RoOWZRVGFLUU50a3g1QzBZVTFGSDRKWTVrVVJISlhtbF8wM3N5YklwcGJBSXFOejdXZENYakF6RkFtR0lUbUp3Q1NUMEV2OFZwVF9YdldRSzM00gGcAUFVX3lxTE1yOVdfLVpabGFFOHBuRWpSTkZvOFhLZXBkZThQY2t4S3RoR1E3SUlOaF94Q3FiWTZXeUpPTkRTZTMxY3FHMG8wVHlhM0ZXT0dqeHlJcGtEV0VRUEVScGwwYWlyNmlUa1NOM1hpUUFqTWxyREtURzg0b0tpZGY0bjJyV3BDZmx1RFJqNVBpeS14bmpZNGZ0WXBweWZ4bA?oc=5",
-   "altriArticoli": 1
+   "altriArticoli": 28
   },
   {
    "id": "gn-VlYwdEIb2M9NQ",
@@ -1589,6 +1536,23 @@
    ],
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM2VfRmxzS1JlY2hKTGlWUUZIa01FN2xwYTBScmI0WHd6djFWR1E1d1JTWC1lM0lldUF6QWpOaWFXLXlrcW9rMWQyM0RGMnNyZEF5Tk82QWI3Vkp6Ul85ejZKM2VmUVZXYkREbndpeEc3dGZNenkyMml1al9zMDVqUjFXSzFYVS1lLV94Mnc5OFJIaGZKcEo4WFdYb1Qwa1loelBtNm5ZSDltWldHcEVxaUVfNURSTlc4eGdjYThDSERmQzFHcTQ0dHVFMmIzTzFkejNGZkpfUl9uMFFZc05QdUxza2d6R0lYVUJrMXU3VVFKaUdBaEJVV0tB?oc=5",
    "altriArticoli": 4
+  },
+  {
+   "id": "gn-ZW01UVl3P29jPTU",
+   "fonte": "Giornali · TPL Linea",
+   "titolo": "Manifestazione in Piazza Mameli nel Comune di Savona",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-16",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-16T07:44:00.000Z",
+   "luogo": "Savona",
+   "citta": "Savona",
+   "regione": "Liguria",
+   "coord": [
+    44.23342,
+    8.25257
+   ],
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcjZsckdPSjZXUzc2S0VQVjVLVTN5Wk9aMXBkbWxFZGdmRWtwa0gzRDlNa2xGSlhrbXNnXzlmYTl0LXdNdlhTQ3FfVkpiaHhTb21uWFlweHhwU0loek9oQmhBdl90d0ZIOXRxYUJuNUxTZjRQcFN3dXVGVUlhRUl6em5QYw?oc=5"
   },
   {
    "id": "gn-bGhlRUUb2M9NQ",
@@ -1920,7 +1884,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3NySUJXcW1OY3EwTHlOMXJjQ2FDOXVyZ2xMX3ZIR3pVX3ZlcUZoVXJhaFlXQnN2Y045RzFOZDRhRHVPR1g3OTRLWkZqN1g2cXpLN2p1R2VzWUJLRnpzQ3lpTnRNcmRUWlV1dGNEWXJacUt4cDBUMzFqMFNTcFJZV0tHeFlzMXRhR1NFRUVuS3BBWm0wYlJIOWdRbmh3YmpwaVQ4WU1GVWtfM1FELUdQX0N1TXFodw?oc=5",
-   "altriArticoli": 4
+   "altriArticoli": 6
   },
   {
    "id": "gn-WTFsamVHTT9vYz01",
@@ -2122,24 +2086,6 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMGtrX1AyWnlLZDFid2dBYUZkT2VaZUdEbk5KX0RUSFNIem1Rd3NmcFlMUnZ0S1FLZ1UxYk96NEx2WjNndFlfaXY1NzU5MXpoQ2ZKRGVmeHZPaW8tRHdYNWJxZmY2TEM1RV81NWU1U2JiSDZaZnBrS3N4N0hIYnJhZjA3NFBuZmVibU5xNFJjSjBPenExYWl5cWVWc0RFUEVoSm11ZXpnSEJLX1dT?oc=5"
   },
   {
-   "id": "gn-WDJjMlQyYz9vYz01",
-   "fonte": "Giornali · Corriere di Novara",
-   "titolo": "Cgil Novara e Vco, oltre 300 persone a Roma per la manifestazione «La Via Maestra»",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-19",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-19T09:47:00.000Z",
-   "luogo": "Novara",
-   "citta": "Novara",
-   "regione": "Piemonte",
-   "coord": [
-    45.58425,
-    8.546
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNk5CYmo2NWloZXU0ZVRXRTdrWjFmOW9UZWZwalNSS1VHcGNhNkdSZTZmWFNwYXlRd3I3OWVBSVdpSElHS3BSQnlyRThaUFo0THZ1Z2VZcVI3eEtpeGRrV0lOZzQzVm9aN3hBdWpyaFl5VXR0LWVwMFNBbS1UVF81S29YMXpwVXVEVl96RTZqQTczUExGZ3QwaFV3cndnTUNjZURxN1AwVlpUX3VUTGtvZzNDZmV4X2c2T2c?oc=5",
-   "altriArticoli": 2
-  },
-  {
    "id": "gn-aFFiME10P29jPTU",
    "fonte": "Giornali · Sky TG24",
    "titolo": "Manovra finanziaria e il carovita, in Puglia tir in corteo",
@@ -2188,8 +2134,7 @@
     45.64767,
     11.86653
    ],
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFI1bDNyRHd0WndtRlZka3p0Z19kSkFxbm5lS2c1czBQaWVHTU9GeDZkTVhJRVU0bVFhbzlFX0o4ODhyZWo2VGQ5enNINkw4RXF2OUhXTW9EbU5peDlsUHN3OWt5NVUxZEdKMHZ1VFpncGVieEJmTWtwS0M0SU1sOUJJOU1mVUU1Sk0tM1NQaVpxbldTT3NQdVRmeVV0VGNGLVRBWmdGMzZMWFdxc0pHY0xNNXJndl9sVlctT0NRR0xkNVk?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFI1bDNyRHd0WndtRlZka3p0Z19kSkFxbm5lS2c1czBQaWVHTU9GeDZkTVhJRVU0bVFhbzlFX0o4ODhyZWo2VGQ5enNINkw4RXF2OUhXTW9EbU5peDlsUHN3OWt5NVUxZEdKMHZ1VFpncGVieEJmTWtwS0M0SU1sOUJJOU1mVUU1Sk0tM1NQaVpxbldTT3NQdVRmeVV0VGNGLVRBWmdGMzZMWFdxc0pHY0xNNXJndl9sVlctT0NRR0xkNVk?oc=5"
   },
   {
    "id": "gn-M2xOVkc0P29jPTU",
@@ -2207,6 +2152,24 @@
     16.47357
    ],
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOUxNdXlLRWJSNlJ3SHE4V3Y4aUlqVzZ0YlBCN3d3Q0ZpT09ZZDhPZEQxUWFxZ211TkJ1eXVWb1pESDQ5X0xPRTR4ZFMybVVQMDYwQ3AyLVZrcko4dkZWNTRzdU1HUk1ST1RLdTladUh0emxubnRFNWltb3JLR1pvN1BWU2h0YkIxSFVZWW5pOGlCeW1UcmtRT3lNVG4?oc=5"
+  },
+  {
+   "id": "gn-WkRGUFVHYz9vYz01",
+   "fonte": "Giornali · La Voce Novara e Laghi",
+   "titolo": "Barilla, la protesta arriva anche a Novara: sciopero e presidio davanti alla fabbrica",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-20",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-20T15:20:00.000Z",
+   "luogo": "Novara",
+   "citta": "Novara",
+   "regione": "Piemonte",
+   "coord": [
+    45.58425,
+    8.546
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb0dZUU1wY1EwTXlGa3F6NnhvTHY0OFlsb2E1cTFPeDI3Uzl0M3VZM0FHNVNFNnduVlljUnlkZ1Y5d3NJeGRMT3VBMlUxNU5aZEpKMmU1NmRoZTJ6bHB4OWttYXpOZVJ4Sk1UUXAzcGktbHlSVk5qY0s5OHJDT1VDSDlxX2xZX05kM2JHM3haYXlmZ2d1LU52MlptY2ZCek9Dd0lfT1B3TG9icG43ZDFGVlZQY0F1VGFoRUJFaHFDQTQxU1BSdXZiU0dlMng3UFktM1NGQlROWlBNZDFPUGc?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "gn-TldSMVdVWT9vYz01",
@@ -2484,6 +2447,23 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ0NKR3RacHZtc3JHeG1lRTdKLUI2RDBId2h1V0xHdi1xRjE3UENxWmROaGtxR1NuMlhqemlCMXRLWnhnWmY1NEN0RzI5R2sydFdrdWdYaDU4czV6VW1lOHdrc2xrVWpiOVp0R1piTHpjT194UWVuQ1FuMUNEeG1CZmducVlLM3BEWGhCTFZPcFNadUNPeGFrSDh4RE5Ga2FSbHRyVm5QX3VZRXd6RENEbHRSZ2FWWUZIQnFvWjBnVWtvOG55N3hrQkY4Q1pBY2tWMFE?oc=5"
   },
   {
+   "id": "gn-V1Z3VTE4ND9vYz01",
+   "fonte": "Giornali · La Nazione",
+   "titolo": "Il giorno dopo l’occupazione. Pisa, scuola devastata, danni per 20mila euro: “Distruzione gratuita”",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-21",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-21T00:12:03.000Z",
+   "luogo": "Pisa",
+   "citta": "Pisa",
+   "regione": "Toscana",
+   "coord": [
+    43.47147,
+    10.67979
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3ZPeVBVZWE1c3AwWE94Y0RJTE8xd3p1WmptakQyNkd6NzFiWmYwMEo0QktGSE93OXBxZDh3SjQ3WGEwbzBPMWJheWpVamRGNlA1NDNOLVd1MkJRVHVzRjhmRUtsbW1teFVuNHZqb2h2MGNsMEEyMmFhQThhMm8zc2hrN1BNZ1RqX0JYbi1jdjhxMGpOQndvU0dQZGxPdFBCSGNFVFRpb296MWI4Y2JlOGY1LVU1TFM4MHFBdC1YZG9CYzhfLTJlODlGczc5VWVwU184?oc=5"
+  },
+  {
    "id": "gn-emcyTTNOUj9vYz01",
    "fonte": "Giornali · La Provincia Unica Tv",
    "titolo": "Sondrio, allarme per le voci su una manifestazione domani: la Digos monitora le chat",
@@ -2670,6 +2650,23 @@
     12.33459
    ],
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUFyQnh5VHNkUFI0eXd4V0FNQzN4d2JWVm9mckZHSzllY3JIcnVJbjd6STNxZjE0NnRSX000MXU4dEhBTU5VTktwV2FLN3Y5VzA5MmgwRlRDT1ZtZG1EbnlmcHRLOV92XzdFb0gwM1hTSU1DcUZNb2ZRWVhvLTV5bUlucjEtcWRva0tMNm9xb2lDTndf?oc=5"
+  },
+  {
+   "id": "gn-TFdaTlNTMD9vYz01",
+   "fonte": "Giornali · Il Biellese",
+   "titolo": "Manifestazione del Sinappe il 22 ottobre sul carcere di Biella",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-22",
+   "dataIncerta": false,
+   "pubblicato": "2026-10-14T13:52:20.000Z",
+   "luogo": "Biella",
+   "citta": "Biella",
+   "regione": "Piemonte",
+   "coord": [
+    45.56695,
+    8.08691
+   ],
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMUJfcHdnamRJQXlhQ1pPajBvWVpPQjJ4c01LcnhlelpzOFRIWV84dFRpYVV2dWhzNnR5bm84UzVweXNSbkFlcEZOY3BvMmYyMmhiLXRFNHdUNC02a0lfcy1ZWl9sNHNIcGN4Y0plU3kzZkVkSzZiSk8yWkYydEs5dHFwcGZYMmt6M3B6SkhqQzNMdlI4Z0lGcHppZUV1YkZyc3JWeExFR0VOSTVrY2ZOWERSNjQ4eTdsUnRuamNFVjZLZHRILWtYLWZNSS0?oc=5"
   },
   {
    "id": "inv-pordenone2310",
@@ -2890,7 +2887,7 @@
     11.25564
    ],
    "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQb0NZLWp1U255b2NoTTRBdllaY0kwUmFhenhtTUdQLVo0dzdET05qZ3hlZDlCWEFIeE1wV09HeGZvRFU0ckF0Z0swVzNydktPbFJRMTZqclpfY1ZaUFhucGpTc1BBaF9kNGlnZFk1cXU2YXdQNU9LeG5ROFhWYXVLazJVb1hwTE1KejI2LUpIb3lxcmtKZWVnNjEtc1ZoYkJIb0xIMWR1RF9hdzhBUzV0eXQ4aXZIeGZubm5RdHpUSUcyMl9mY3d5UVBuaW4ySjFOLV9zUm5rRDBZTFM1dS1leGp2WjJweTBkdVBFX2ppamdLUG1DSjlQNlNTMkdNUl91dGFCYWIyWE1zcGFicUpweWRrelp1WHVoYmlZd1hWWjA3bURRZlpoS2lkRElMaTDSAbQCQVVfeXFMTnpvWjZmcXlyU2x3RGpOeEd3bkswX0ZQLVJfbTduaTVaY0VjNXhDRnotTk9xbGVxQ2tpWTF0allyTl8tNTNHaFppUTh0SDlEU19lMExfM1ltdXBISFN1SFdMekR5VDBSc2FoRG5rZEwyNWhhZ1RrM0poUmQ4VF9RanZlckNObndpSWlBM2JNMmx2Y1oyUnU4WmZPZXlYN05WQnlTVTRGbm5waU1iUGUxbUF1VUw1dzhRNXc0Q0pkaGhXUzltSFNESkpYanl5YUJucVYzWjBINnVGZ01JQVNzUmwyY19id3o2YTNIY042RTdQLUVHT3hmckRBa1l2VUhjN3JNNy1palFuVjR0ZUFydzdnWWJNT2tQcE1oeFBtYjlOeVl6dEhqUElzaFlCcGVQVFRRV3I?oc=5",
-   "altriArticoli": 3
+   "altriArticoli": 1
   },
   {
    "id": "gn-eElWM1Eb2M9NQ",
