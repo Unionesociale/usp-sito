@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-24T16:43:21.561Z",
+ "aggiornato": "2026-10-24T17:39:59.317Z",
  "notizie": [
   {
    "titolo": "Picchiati, accusati di terrorismo ed espulsi: l’odissea dei volontari italiani in Palestina",
@@ -226,16 +226,64 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "Pesaro, nessuna manifestazione non autorizzata del \"Movimento 17 ottobre\". Centro presidiato dalle forze dell'ordine (VIDEO)",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPa1BBX2RJc0tMNXBFQXllOHZTZHpSNVp1NGxvdWYzMXZFMGQ1QmFXZ25waS1Wenl2WjkwcHhTQ20xc1F1ejZYZFk3Uy1feVkyNUJ1R1JGZ09kZWVCMjV4M1Q1bjBJV01XR1k5YWp5ZG5oTWVrdzh5WTJGRnBnd1FzUnBVeVd1YjV6c0I5YS1YZE1Bb3Q3Q2pMQ2h4YmJZd2djazdSeXFhbUpub3RwWnFIMDFFVFEtSVR1THRlbWRITEswWmhTZGFZaTVoVWtyemNFUHlsYjdKZkdkS2I1MnBhMTgtNXhLZw?oc=5",
+   "fonte": "Occhio alla Notizia",
+   "data": "2026-10-24T17:11:09.000Z"
+  },
+  {
+   "titolo": "Milano, la diretta delle manifestazioni oggi. Due cortei riuniti in uno, migliaia di manifestanti verso il Politecnico: le strade bloccate. Tensioni con la polizia in corso Venezia",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLUYwVXU1empXVDhnbW9MQldjcUtucDloMWFpdzhwRFVMNW5yTEJFeVVhbjJqdHNvdDhuclVJTWZJREt0Qm5EV1NuT2ZUQlNUcDFMQU52SXpZRlNvVzZicFNDNHFQaVFRZnhOUDlWeXNsdXhuZml5ek1rVE1ITzhVX3NMUmRiRWNPRVhjbHV3NV9qZw?oc=5",
+   "fonte": "Il Giorno",
+   "data": "2026-10-24T17:06:19.000Z"
+  },
+  {
+   "titolo": "Manifestazione a Firenze, tensione tra il corteo e la polizia",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRi1RQkZ0aVVNRWNVemQteWhod2FkeXppMy1HOTlmWDJJLUtONTZXaEY3R1BhNTNiMklMME9FTnBvekpMOUp5TkZzb3p4bGUtM1ZLRy1ZTzVuaUxBRWVMTlFSeEpPV1JHaE1IX2c4R0I5M21WbDcwVHNWOFpTWTUzdnhFQklGSGo5LUdhSTlZaklvWk5ZX0w5emtMQ2FXaWJ2bGc?oc=5",
+   "fonte": "La Nazione",
+   "data": "2026-10-24T17:02:38.000Z"
+  },
+  {
+   "titolo": "Manifestazione pacifica senza incidenti a Napoli",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTTJ0OGZqSzdKZTBidF9UU3BZOTlwMEpscHlCN0RjUGRTU3RiZzA3SGRyb0hpU2tVZm5UbE05MEdJR3Vnazc5ZXIwVmo1WURQTGRycXpITGxqTnlPSWlUS1RCZGpFRjN2Q0xucTVDaG5WaElUWVI1aXFhbUZTdFY3bFlVTnc5ZDdDZ1lzbmNrQQ?oc=5",
+   "fonte": "NapoliToday",
+   "data": "2026-10-24T16:58:40.000Z"
+  },
+  {
+   "titolo": "Manifestazione 24 ottobre, il video degli scontri in via Marconi e piazza dei Martiri a Bologna",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNHBMUXNiSExEM3BZSE5fdm92OVpzMFYtRW9wX05rM3Q1TFhhWkRQdTZndHU4WFdHYlQ5Q1JvWVFOMFp3YXRleFpheERYVm93aHgyOHpJSHR1LUlmTURqaWo4ZnpSM0JmMzdULUdaakc2ekNnR1lkcHNFSzBCcnI3cEdWaGhwU2MyMUNkVXJINUctSkttX0JvdDJETHBZcHV1RVl6UkNuaW8tc1htTGJ2NjVYSGp3Snd3WlJjNUpEVkMwVHlfOHY1dXlfbUFBRjVrU0ZWbmRueEhuQQ?oc=5",
+   "fonte": "Il Resto del Carlino",
+   "data": "2026-10-24T16:49:04.000Z"
+  },
+  {
+   "titolo": "Roma, corteo si ferma davanti al Colosseo: bloccato dalle forze dell'ordine in via degli Annibaldi",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWmVRczNsbnVRQ3BpamxpQm9MQTR4bldWTUZ2UUhfU3V5SFktbEtxU3B2cmk4YzkxSUd0ZWxiMGQxLTRjMnZjWnItQ2JORDN2YVQyeXY3S2NwMHQ1dXIyaFltNGJBbTVqRk1Bbk1FWmp0QjlOTjZZSjc5LVVzUlJGeXlxTHdZVzBHNGR1TG5FMXJNOFB5bjRLLUtHMFRiVDNEVXlrYVliMHk0cFZiZThkcVZlSGlHSVZlaEk3cTBOQ25rTGhvcWNEWm5kSzduYU94bHM2dzFuZEIwcm03NDRKSjJ1bVNJWEg1cm5ub05n?oc=5",
+   "fonte": "la Repubblica",
+   "data": "2026-10-24T16:38:00.000Z"
+  },
+  {
+   "titolo": "Duemila persone in corteo: lacrimogeni e idranti contro i manifestanti | FOTO e VIDEO",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVFNzaGYyci1WVS04WmQtc2pYV2lyb0RTWGRlMkN1QkowR2NzdkJDLVotVVowYTh1T1ZoWWpYVXlUQzdNSENBTEVoRlJ6eTdPd05FZFd4WkZoRG9WQWdlNDhoRHRHUWwxd2dmRnZuSndwajZmdE1jQUV6ZVpMSi1pb0JkX3BiWGRFYl9kVXBrN0VQbXM?oc=5",
+   "fonte": "BolognaToday",
+   "data": "2026-10-24T16:28:10.000Z"
+  },
+  {
+   "titolo": "Città blindate, cortei in tutta Italia. Tensioni a Torino, Milano, Firenze. A Roma manifestanti al Colosseo",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNd3pyQ0NGaG5iM3h4VkNKdXdBYjZLMm9XWTFPTm1PY1pZVVdxWWR3V1U4Yzh5XzJyeHg5M2NkbW05bTJzOFpMVmp2c2FkcEhFVkpubU9CTTFLd3NjOUl3ZzlqdGI4NUNmWG9CLTRISXpLazhLVE5RYTcyWFN6dVZKMWgtcWNXeW1MUnoyZXdSZDgyMG5kMXVmSEJsUWpEYnMtUTR6cDhfN1QzdUNmUFJhSWcxRGpOUEs3RDMtdTZ0M3I1WGQwdmx3dTh4MnFaRlNUbXpxNWVLTENGXzludV9BMG1FWlNWV1dxOWVxa2lhZkFxc2pSQ28wRHREcWRrNnViX2VZ0gGIAkFVX3lxTE9jZzJJcEszaHZTNkR3R29DdDJDTGNzSzhXb00zZ2U2WlBzTVRsMFYzbmNWUF8zSGdpUU1oZDU1NXhWMFFjYkQwM2FkRGVEcExRU1RlMGJvdzVmYWJBTHVnUEc2Y0JPemJWS2lHZTd0Q0VHR3pBVi0wOG1nVjgya0NvTDR6UWNzcU9QSkRPLUVLcTdHWHZVdFVSRUNDV2JaZ1d5S0o0YWp3R1VvWG56R2NtWGtjbEg5cmN5ajFlb18xWlY3UVNOUTFvanNaOV8yUFpsTG9idEQ1UFR5RnFYUkJjanlscmsyeVpWa2YydHlyMENxT0FDUXBGWUJNUXdsYW5UcGxtUFhVYg?oc=5",
+   "fonte": "ANSA",
+   "data": "2026-10-24T16:26:25.000Z"
+  },
+  {
    "titolo": "Il corteo della manifestazione giunge in via Roma, i commercianti chiudono le vetrine. La diretta",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVJITDlSbm1RcEd0bkNDT2ItUzBkMUdFdTBPYVVMa19mdE5LQ1JvWXpRc2VaUHFQRlVVRFFvbU5NZlNMempVZ2loajN3ZkZObUVCbXBFbDg1eU9hRDZicm44ZlhhdlZZZjNxNFNEYnVlcHdubndCMXNfM2ktb0VjVExHLUp6TE91cWFHMWI3NG5QVVpJ0gGaAUFVX3lxTFBvd2F6NjkxY29YSm5vV2pEUThtS0JQNy1pVGtoblp6b09jQnhTQ2E5dDVLajRQendCYnRfYmFtMFZHZmc4ck1YNWQta1plUV9RRWNGMGJDSXZKNXlMal9sQ1p0STlxeWpNdnVpbXlaaHBiQkJ3UldoaGJoM2VOWjVrYUdfWEJKb0twSlVWRTNncVVJSllGcEJQWmc?oc=5",
    "fonte": "Primocanale",
    "data": "2026-10-24T16:22:00.000Z"
   },
   {
-   "titolo": "Milano, la diretta delle manifestazioni oggi. In migliaia nei due cortei verso piazza Duomo. Tensioni con la polizia in corso Venezia",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLUYwVXU1empXVDhnbW9MQldjcUtucDloMWFpdzhwRFVMNW5yTEJFeVVhbjJqdHNvdDhuclVJTWZJREt0Qm5EV1NuT2ZUQlNUcDFMQU52SXpZRlNvVzZicFNDNHFQaVFRZnhOUDlWeXNsdXhuZml5ek1rVE1ITzhVX3NMUmRiRWNPRVhjbHV3NV9qZw?oc=5",
-   "fonte": "Il Giorno",
-   "data": "2026-10-24T16:16:17.000Z"
+   "titolo": "Milano, diverse centinaia di studenti in corteo in centro",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUUlVR0dWbXBrZ3FfMjc3Z3QtSXV5cGNNNmNENzE3T19aNVFNYnJSaUQ3RUJoR0ZvUDVfYl9DTHUtQzlKN2diaTQ3QlRWcm1vTVVuUjZYeEYyTjNxQjRVb0hOQ250Mi00dThJSkpOWkhuenJrems2aG5OcGpEeTVaTy04QXNrTkdMSlR5Sm4wMG9XNDhLaUU3bDRJSWZ2RDZZU1daUmkwSQ?oc=5",
+   "fonte": "Sky TG24",
+   "data": "2026-10-24T16:18:16.000Z"
   },
   {
    "titolo": "Corteo a Torino, proseguono gli scontri tra agenti e manifestanti",
@@ -400,6 +448,12 @@
    "data": "2026-10-24T14:17:25.000Z"
   },
   {
+   "titolo": "Torino, Via Roma si blinda prima del corteo: pannelli sulle vetrine e saracinesche abbassate",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNTNUU1l4OWwyVjBJVWZOa2NtMGw5WWRlY0N0UTN0Q1RxZUtlWkk5RUFRdzQxalZERjhnV0d4TWFYRHRucXVZYlhuYUNCMmxjRERkbEdsOEZzSzFFZEthNjNKNXAwajZ5SkNNelNOeE40MmlMYTg3OGFwMVY5ak5wd1l2cmVaSXppcWdJVGZxaHZycHFyQks3TnNsNTM?oc=5",
+   "fonte": "La Stampa",
+   "data": "2026-10-24T14:17:00.000Z"
+  },
+  {
    "titolo": "Controlli per la manifestazione: sequestrati una pistola finta e un machete",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONG5Qak8wbmR2V3dtSUVGa2VFcmZmenRFbE1Fc25wanQ2UFhyUmxLeHd0STRVUGUzZmtTZU14d1pIQ3RLc1lmVjdLMkdFaG5FSERRRnpQYjFaQUtrZTNfV1RBbUlmVmxoQVNmTy10MkQ1MnBILVBnTm5FeDBnMURLaklGV2g1cVpORlVqSXNXQTAtbVM5bDhMZVdHRXNreFNQ?oc=5",
    "fonte": "BolognaToday",
@@ -448,6 +502,12 @@
    "data": "2026-10-24T13:20:37.000Z"
   },
   {
+   "titolo": "Cortei a Roma, oltre 200 giovani trovati con passamontagna e kit da scontro. Tentato blitz al Colosseo",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSjRJbGFhMHFINV9PeEFGcDhPOWt3VEVabVFtODJYZjZ1NVdoWGtEb1lITUhvTExfNXo4WnNmRHZYY3dCWWFFLTVmUWl0cjN1X19fcFVpV1JNT2d3aFBHSnlkbXBJWVJkS3ZKeDU5bnpPYWhkVEpvTS00ZllydTQ3b01JbGp1UFk1d3phOWxsY0Q1bjhDR0E?oc=5",
+   "fonte": "RomaToday",
+   "data": "2026-10-24T13:17:19.000Z"
+  },
+  {
    "titolo": "Roma, Milano, Torino: manifestazioni di \"Noi siamo il popolo\" e \"Movimento 17 Ottobre\" - Live",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaFFlSnRPd3BUYVEtcWU4SkQ1dWtQbUVFdU0wQVdpS21TLXVtcmZYYlRqR25pQ1BXT3NwSWMxUEF2V1FzSV9hdU4tWWRKcm91TklSc2hTcjZTVnNZV0NiQjJ6NTloWS1Qbk0yTnhucHZtdFg5OG1pcVlIMlZPeGgwYjhPVURMcUJCUWt2dU0wbnlBLTgya1JmbFdrTkdhdVhhekZjdnZKZ055Z3N5c3AycTN5RVJKNlhfNkc1OU9IT2JqSEtVZ1hMLUx5TGtET3l6WmI3TTFTMzhLVTllNVZBUzJB?oc=5",
    "fonte": "la Repubblica",
@@ -460,14 +520,14 @@
    "data": "2026-10-24T13:15:27.000Z"
   },
   {
-   "titolo": "LIVE FED - I giovani scendono in piazza, Firenze blindata: la manifestazione si muove verso Santo Spirito",
-   "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQbjFUTDZiSDJwWGxVT2NkYXFaRjRFNGJzOEo4MjRyYWpOWlN3dS1fZUs1aFVWYW9BVEFuREpzVlhPbVhxeGhBZ1k2Z0NLLWxDekNtN242eXJWWENhTnBqa3Z4Mm1qSDlXdzI5Tnp1OXBHYU52a0o1Mkg3UFZFT20yOXJjTXA1RXlVbnVKYjI4ajh5d0c1Vk1wVDhTRTRUaHZpcmxXQ01DZS1LdGRIOVdieFItZVo4N256VENpRjFCSnh1bWtqWnpFNm5mNHV4QTAyMEZvX19uZzJsSHZxaXUxRTBxUnI2X0Jlc2RSNGRNdGdMRkN5b2JISjlqMnNjZ1JpQ0x4MzRHeUVaOGxuY1M5c09aRHVHbGV1N01hcGhQLUMtbnNaVGQ3WDItYk9icVNVT0tDNF9jdjhzNWhOYXZoRnFTN1A?oc=5",
+   "titolo": "LIVE FED - Firenze, tensione al corteo: polizia in assetto antisommossa per deviare i manifestanti",
+   "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOdUc2VGFsOTl6MGxVZS14Q1NyVHZZbk5aVk9SLUxVMGFNdXRCeUltOXdiU0ZmNmRnbkxTdHB4OVhUQVN0T2pDNkYxclN3eWpFbHZYaXV2S2piYWU4OFdfOTdVVVNHTURqZzZ1amFZQnZscWdjWTd1cVpHRjVRTEdHUnh3bk9KRnB2Sm1Zcy1FZE9wUmdRdE9sdTVmYUxpYVV3MU5jbU84V2FOZ1psWElVcHRpRGRvQjFVUFlOR0gwNk5YVTdZd0h4cEctR003andObzZQN09iSm9RT3I5N29wcWRfekxKaklQdTktampya3dJTjlrcWNVWlhYdDVJbFkzSTlpTWpLbzdsaWtGdkpMZFVQNjVvdXFnc0JxdEdBWVF2cVNMaERoS0xCSk5LZ3J0YkxPOS1OYmdLNUU?oc=5",
    "fonte": "Firenze e dintorni",
    "data": "2026-10-24T12:38:00.000Z"
   },
   {
-   "titolo": "LIVE FED - Firenze, tensione al corteo: polizia in assetto antisommossa per deviare i manifestanti",
-   "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOdUc2VGFsOTl6MGxVZS14Q1NyVHZZbk5aVk9SLUxVMGFNdXRCeUltOXdiU0ZmNmRnbkxTdHB4OVhUQVN0T2pDNkYxclN3eWpFbHZYaXV2S2piYWU4OFdfOTdVVVNHTURqZzZ1amFZQnZscWdjWTd1cVpHRjVRTEdHUnh3bk9KRnB2Sm1Zcy1FZE9wUmdRdE9sdTVmYUxpYVV3MU5jbU84V2FOZ1psWElVcHRpRGRvQjFVUFlOR0gwNk5YVTdZd0h4cEctR003andObzZQN09iSm9RT3I5N29wcWRfekxKaklQdTktampya3dJTjlrcWNVWlhYdDVJbFkzSTlpTWpLbzdsaWtGdkpMZFVQNjVvdXFnc0JxdEdBWVF2cVNMaERoS0xCSk5LZ3J0YkxPOS1OYmdLNUU?oc=5",
+   "titolo": "LIVE FED - I giovani scendono in piazza, Firenze blindata: la manifestazione si muove verso Santo Spirito",
+   "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQbjFUTDZiSDJwWGxVT2NkYXFaRjRFNGJzOEo4MjRyYWpOWlN3dS1fZUs1aFVWYW9BVEFuREpzVlhPbVhxeGhBZ1k2Z0NLLWxDekNtN242eXJWWENhTnBqa3Z4Mm1qSDlXdzI5Tnp1OXBHYU52a0o1Mkg3UFZFT20yOXJjTXA1RXlVbnVKYjI4ajh5d0c1Vk1wVDhTRTRUaHZpcmxXQ01DZS1LdGRIOVdieFItZVo4N256VENpRjFCSnh1bWtqWnpFNm5mNHV4QTAyMEZvX19uZzJsSHZxaXUxRTBxUnI2X0Jlc2RSNGRNdGdMRkN5b2JISjlqMnNjZ1JpQ0x4MzRHeUVaOGxuY1M5c09aRHVHbGV1N01hcGhQLUMtbnNaVGQ3WDItYk9icVNVT0tDNF9jdjhzNWhOYXZoRnFTN1A?oc=5",
    "fonte": "Firenze e dintorni",
    "data": "2026-10-24T12:38:00.000Z"
   },
@@ -574,10 +634,22 @@
    "data": "2026-10-24T11:14:45.000Z"
   },
   {
+   "titolo": "A Verona presidio per Moussa Diarra, una sagoma bianca sull'asfalto",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOREI1dTFpakVRYWhmR3V5dDNuQ2wyWEhVQ1JqbTJmNzNmZW8tc3JIbUpYRkpmQkFaalZpMVlLcVpVNDRvd0dLRlBSRmRtUWxycUtOejg3OXJVTnRKOVZ2MXFiaFlWUXlCclJGeGZyY1RaRk1KR1luLUlRbE83NlBFc19kaW4xaUh0VXRabDRZa3JKNHh3akQ2YUN2UnFWMlhKLVI1WGFZWVY1VmJWMVJab0dOUV9kRlN2azBydXE4NEptNG4ydk5XWlpmZ3AzZTg3V2dmSnNFcFZTeE9fd0ZDNy1pSGtEMnJBdF9JendlRlfSAfYBQVVfeXFMUE5vNXllUkM3M1BiQ3lJT05MU3JxNkdOSi1IcnhVT3huenFkUDk1ZHR5R2dXMkxjaDh4ZUpaSnFBVjRBYmJxTFFGMzdqS2xiRnZ4SlRBYzZfSWlLT1BTeEtqV0RJUlY5aDlKUFlFV29XWEFTSzVtbndDcFRtTmxfeFlveTJENFhtMkdSTlZzVnFuTHdSY1ZSYTUxbWhVVHU3aXc2Z2psT0NWdUQ5eDZGaU5JYU9CTGVZMDhYdHNscTVqdUFvR2tUcHNBNkExY0NuX25oSEx5cHhiRjlvNV9DWGtRdkdUOTlzTk9SQ1Boc3gxM0tPUUt3?oc=5",
+   "fonte": "ANSA",
+   "data": "2026-10-24T11:04:00.000Z"
+  },
+  {
    "titolo": "Avellino, presidio di studenti e agricoltori in piazza Libertà contro carovita e precarietà",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOEJySDRuZGlKV1dpSEp5X2RleFY2aDgyZzR1S2JKcnVXMERMeG1sVThWMWpOUGhXRTY2WXZXRmtpRWJUdUhyQ2hXaVNsenctMFpad1BTY3ZFYW44RmR6SE96bDBDRHFJSjlRMVA5RE4zOVJzQVJ3a0dwd09aU0hvYkxSNkowWWZpa0E?oc=5",
    "fonte": "AvellinoToday",
    "data": "2026-10-24T10:54:21.000Z"
+  },
+  {
+   "titolo": "Manifestazioni a Brescia: il corteo si è concluso senza problemi",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlF5VnBsT2NPdnhkT04tMVFjeVBvN3h2Y0tyWExHNzlWWUlJQWFLU1lpbjctMzBBeFJ1VVpPbjBZSWNOR1I4bHpPM3NZNEE0bTFjTjZpTERBdHFhX1k1eV96Uks2elNhdzNfR3hwQ0J1Tk9ReWFwRjlPNk1MdHRnZmcyc3Jtc0otemNpZlU1X3c2Yzg?oc=5",
+   "fonte": "Giornale di Brescia",
+   "data": "2026-10-24T10:53:22.000Z"
   },
   {
    "titolo": "Cortei, oltre 150 perquisizioni a Milano e in altre 20 città. Oggi le nuove manifestazioni",
@@ -632,78 +704,6 @@
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONlhYR0JfMmkyM2xoYzNuOXdBUnN6VmxZa2U4cTRkU2ZVN2wySEc4aUxOekliX0s1S0Rva294TEZEQ3A2X0tENHNmR3hGTmpkWW5VQlJJcVBfSmdCY3Ryb29DbjdhTDRXS1ZpU2VSZktaeUdLTlNFbnpnZTN1djBuazBoc3VnLWZrbVJOSUpEc2JmV012dU1uNmpfNjR0TUhITmcxWmRDUEY0SmJDRDRFaUpEVUMtU0JWYm9lNGV1d3U0RlpLS2RYdEpYb1ZiZnJjY1paRVlhMHA3dGZNRXphUTdB?oc=5",
    "fonte": "Informazione Scuola",
    "data": "2026-10-24T10:29:44.000Z"
-  },
-  {
-   "titolo": "Gli studenti di Empoli scendono in piazza: il corteo e le rivendicazioni",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjJwaVU1ZlFXS3hvc1BOVkNCM2lJbDFVU2pQUjk3cUp6UzZwTGs3YmNfQWY3RjRyejdDdEtJRUx6M0c1cS1PXzhJcS1EbkU3c3V3RHJpZ0xVVGJteFlfVGl2ZURQMzVtd1RoUkEzU0VCRmFneWdkRXl6WU05REhXSFVnQlZWZmpuX1pXdG1iRWdQM0g0SHpTQWgwTXZUUGxsd2lVZDNmZC0tV2F4N3I1TA?oc=5",
-   "fonte": "La Nazione",
-   "data": "2026-10-24T10:28:55.000Z"
-  },
-  {
-   "titolo": "Perquisizioni e allerta per i cortei: indagini sui disordini del 17 ottobre",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS19XQmFPRGdGbURJQU91cjk2aGhKU3NGUWpKX0RqNWV5ellDV0RORmZOVmppQUZjdHdNb1QyTTV6NGdRbEdJV2ZsUURmaXg2UXVxdXhQb0hFWkpaQ3dURnAzMjRkbjhlNXp0NjYzNXY2d1lzYUFVRmM1UEdUNG03TGpReTJpLUgzTGhOa0hPSFRmVGVkQkJaN2hYMmZnQWNzVUkyUHktUQ?oc=5",
-   "fonte": "Il Sole 24 ORE",
-   "data": "2026-10-24T10:22:28.000Z"
-  },
-  {
-   "titolo": "Manifestazione degli “studenti con il tricolore” in piazza 25 aprile a Milano – video",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaTdhc3U3WEZBbzhQN2RpS1l6WlpMTk1PUVJZbXZmbzU1UmZIM09QeW5hQ3NlUEdiTTFyRURQRkNSMEtZYXRabDVXQ3ZCN3RyX3FybDl1WjBQVzhlSmVpS2Z3LWlvbklvUDlsekVlSVFXejNhc19fNG5YOWN1VUV1QnJweHRQbVA1Qlo1b1lSTkctRmRjRHFGRVNZV3pGeHZnOVYwWWF6MDV1bGxHV2dOWlluZUdhUQ?oc=5",
-   "fonte": "Agenzia Nova",
-   "data": "2026-10-24T10:19:14.000Z"
-  },
-  {
-   "titolo": "Tensioni al corteo contro il caro vita a Napoli",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZmxJcnBqTkNGYjZkaG1vZ2pTUHRnQk5ZRFo3VzVTTFl0TlJjQUhxU3dqS0dJT1BoLWZqQnlEaDdtcWw4ZnBlTmtXaGhaMmRKVHh4LWdyaXdUNkItQ24tSmVkOS1fcXFNdVlJTUtJSUxXN1ZRVDk4RXRpMlBYbnZLQlZTalU5bmdZMXRIM2l2aG5sNGNLeUxUeHlB?oc=5",
-   "fonte": "Domani",
-   "data": "2026-10-24T10:16:28.000Z"
-  },
-  {
-   "titolo": "«Caro vita»: sabato manifestazione a Napoli e si temono disordini come a Milano",
-   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPMXBqV2ZuQmZ5TmdiTmc1TkRhVmgwZVlhWDVvZ09WTDI5NjZMZVlsWEk4UjhxOFFteTRqc3duUHpwN2xLcGZvVTIteEdySkFvWXhzN1dVOW00THJJaXJoc1dOMXp6U09FSm8tdUxzZkJ1Nm5BS1V4dnp3X3YzbVFxVUZXMVVtZVJRYWtBTjBoVG5YM1pJaE9nUlBsOUhQSzBEQ0M3d2NzTnV3RldZcU9YX1hKZjhDaXNvd0tBbzNuNVAwcFQ1NDNnTDU3MWlFTW1jU1BZSWlNZGdxdVNHOWs5b3plWXk1VFhBa3Z4S0E0ZHFJbEJ1LXVyb290LVJIcUU0RUsxVWJaalI2MGRlQ3BIcDF1MEplSzk4cS1KS0lGWENKbm9CMWfSAasCQVVfeXFMTVNVMXlacGVpSS1sUFNHMkVxdUxtaE0wSzJGWmZNQ2RJWmREeGJZRnh0QXVOSFBHMlg0azlRZXhOUFFOZzk3WVE5QU5ndjJDYnBnUzFlcVU1UDc4MHUtdXptajZ0ckg5a3JhSGdqY01CYnRrcE8yWlRNU3hqb3pDbXJZbG5NX2piODlWdnlYOU92YllsQzZLMjNIMHZpSTQ0SHA3ck1VZW1ZSXo5anQ1VW5XZDdnd0lFamVpS3g5dzd4RFdnMml2WEh0MjRVQzRQbTduN000LWlYaUFydWl0d0gzR3diOWwycmVGZ0xEVjlnY1pnZC13Qzd0dTc2VkV0NHhHb3E2eDdGMHdXUU1WTUc1eDlkODVOdjFEMW5vTUVQR2tPckpBQ2xpbWs?oc=5",
-   "fonte": "Corriere Del Mezzogiorno",
-   "data": "2026-10-24T10:14:59.000Z"
-  },
-  {
-   "titolo": "Bologna verso il corteo di sabato, alert Usa sulle proteste. Lepore: \"Il governo ascolti il Paese reale\"",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUVdsSEpBLXFsYVFNdDdHb0FsbFBrN0MzbS1NZGZVX2M5WHBtRzcwNGhXcDY4M1NwUUpGLTloMWIzTm5Va3JTRE9Jb0E0elNQV1VjQndIcjltLWRWR3lyNDRXWnFkeklLeE5ueFZkQWZHOGRsNjJIZF9nRW5uYzBmcFE1b0VSdC1vS0toejJmWGFqNHd0dUM2LTRnQ3dZcWdSSTdCNWQ4VFo?oc=5",
-   "fonte": "BolognaToday",
-   "data": "2026-10-24T10:12:08.000Z"
-  },
-  {
-   "titolo": "Trento, «Manifestazione contro il carovita»: preoccupa l’annuncio social",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOUpsY19iZzFKWEs0YVdITU5vSVRrNElhUC1mLUJ3clRTVEFJSDFTVUlqTFJ5djZMc18wZ3lVNC1sWWpkbmtuZFBLUlVFUFFFY29aeXV5ZGkySjdwVWlCa0JZRDJ5VVU5WGtfelVtR19XWHZWZk1GRDFFNkNVc0RoN0tfdGRpZlJLTHg5Nlctb2JHRXpPbTM0b0pkYXBoTlp1WTZ4cnE4SzJaQQ?oc=5",
-   "fonte": "L'Adige",
-   "data": "2026-10-24T10:05:24.000Z"
-  },
-  {
-   "titolo": "«Scuole più sicure»: il corteo di 500 genitori in centro a Padova",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVk5yWVA1V2JoRE5Pa2lPUmtzRFh2R3pZOVM3UDlQMllLSmdkTDRUU2dTaU91dUQ1LWpwc0RDX29oZ0JYZ290cjdRS0ZJUVZJeFhvZ095eDhaaENPU2RuSmJCeTZfQjVOUDFwVW5DdWtLTXc4ckl3bl9NbHRxYkxnUUZodk9QRXc?oc=5",
-   "fonte": "Il Mattino di Padova",
-   "data": "2026-10-24T09:58:15.000Z"
-  },
-  {
-   "titolo": "Lucca, centinaia di studenti scendono in piazza in un corteo pacifico: «Ci siamo rotti...»",
-   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPWHlUNzFkemVrejkxY0hjWG1tRFB4cENYaW1XRDlZQ0dpaWhMbDhQMEw4b0t0TVBBV2t3SVF5anpfOV9LRGpPMmpRSWhVaU5ObHY5UTN0bzk0UVRZSUVmTFpCT2pzZWMtOEthdlcwSm4yRHdMTWZDM0g4LWxQWjlyYndTQkdzYjNxYTZDbFdpNlM1OFpWaFNIbWw5UVFpVzJBR09CQzd6VVp2b01lMWowX0dremZLMFA2d2F4Q0ZoOHJMR01Ud2FrcjRrUlFkZXNtUlV6SjRONW5jbldZREQxYjE1Um1HTEpXR04yOVpuVmY4WFdhVloxblBRSDhJa2NjVVFwalNWTDBnTHdyQ3NjVGZDMDBKdE5iazVwWnBvb0PSAaYCQVVfeXFMTzByN0pJSTU2dEQ4V2puQ0YtN2tUTGtDc2dIbHRwRk9QU0NhRm04VHlIaXg1M1dLSms1SF9HdExwVEFHTFEtMXJtLVZFa0lOcDQzem9GOFN1VHZFMDNJUkdjOU8wMklTdmI5dU5iYTJMVlBEdUFMSGRiYXBFV2dZbjBaaXBzOEdYRmhfQXB0MFF6b1NhS1hCWTZkOXZpT2g2QlVmT1hROFc2SHRoalAxWmZ3U0o5YkFkTVlFd3U0Q29nN0N0TndDWG1aY29mTTBVVU5GaHFmMnQ2SjNkNWJvZEEwT0w2eEJuTmlINUtxUWZBQTZkNEdzWG94Q2RVSHVoZ2lheUNseUotN0JYODFfT2duVGJOMlk3U0lPbVBqMW5GbU0zYzBR?oc=5",
-   "fonte": "Corriere Fiorentino",
-   "data": "2026-10-24T09:56:04.000Z"
-  },
-  {
-   "titolo": "Scuola, catene all’ingresso e accessi bloccati a Bologna: la manifestazione delle superiori, cortei e traffico in tilt",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYkstZjB4X2FRQ3QyeGI2NEc1TFNqdjVURnZNQ25tUjFmY0tsUkFpUXg0Rm9UOWhta2gtRDhVbnpsRlZPcnNGVU5qTWhfaEVTX2N1VHRNa2EtU2ZBdzJ5TWJPTm9kLV9obzRYTDhQMDBDdF9fT19vdDJTNUNrWURIenhn?oc=5",
-   "fonte": "Il Resto del Carlino",
-   "data": "2026-10-24T09:44:42.000Z"
-  },
-  {
-   "titolo": "Commercianti preoccupati per il corteo degli studenti nel pomeriggio. Daspo a 12 giovani: genitori in lacrime",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRWdYVXNYdVRiQ04tejJfTUZJTHJsREdQUWU1Z0FrOHFYc2ZXekVrMXdpQnVvZFhMMVMyamo0MnN6LXBaMHNCVmRSbXpsbS14N1ZMczdRTmhvNlFkMkxHR1dPMXdRLVROTG1wZFBWNThSbjlqSTlFQkFETXUtZzJMVU5qdzcwU2pWM0dscTg2TFF0YVM2U3V0TENXQ0VnR3dzUTd0cTY0bVJ1MWFCd3g5ZGtPMmp6Yk9BSkxEWjgzd2FIcVl3Zm9KTldVUGRfWkllckUwYWlqMzAybTVIQ1FQS1VVWTBLZw?oc=5",
-   "fonte": "L'Eco di Bergamo",
-   "data": "2026-10-24T09:44:29.000Z"
-  },
-  {
-   "titolo": "Milano, ore 8. Ecco come si prepara la città alla manifestazione: vetrine blindate",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQelJ0VzkxeGJJbU9pOG1adzE2aENROVpkd1NHWVhsbkRuWGUzakJOYjFhRDQxU3lMSW5uaTAyTGhxZ0h6Z29kZWlncTlhLUJ6ZEZrQVhJV3NnZFNvY1dWTFFjMFdSSm8xOTN3RmJoWWJjakZmc3I5ZVFtSmpKOXFNSld0b0F5dlNZcFhDNFF4Nm5QSVVzRE4wZWNWVkZtZ25VMXExWE1NbnhtdXB1MjJ6NEM2bV9aWE9vUU9FdG1WYWJGeGwyako2emdHWUxvR0hhV1U4WXdNUWc3eTRoeXhzTzczTQ?oc=5",
-   "fonte": "Corriere della Sera",
-   "data": "2026-10-24T09:37:05.000Z"
   }
  ],
  "eventi": [
@@ -789,7 +789,43 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNSUFLeFdRcXo5LWEyQWg5dzlQbDRaVWYweW01anotWkFFQnlhMkNNcFYtUUF2a1VUeEd6UXZDSk5fMy1XV3lwbVF3aXZJN0J3OGN4S3BxYVFwZHFBMWtVenlxdHF4ZkltYXE2dmFOZDdKWlFlT0ZEckx1dTBnNVRIMk5FalFGQnNJZVg5YnNDeEZYcE9jczlGb3dJLXJIdDdXa19KMVV2bUVCbmwtWFZVY3EtMVVyanZSTXpRUWUyRVJvWW14am85RDQtWUcxQzhWTVlLaThfNEZEVzk5eFRrcXBEUnhRSTRJbFJVeF9IbjNfSFlVNGR0TzFIQzdvOXBmZDFFS1RrMXpER1lycXRfdG5TMHpRZzVpZ1lMNEhoZDcxNTNGYmJ6NjVMYmliWFYxUzhBN0RzLTVLQdIBvwJBVV95cUxPeVZQZHpaU0lFR1dWbml2RHc1Y2NxNGhnQzE0MDNibHRYcHh4dVJJYV93M1hwdmZOZndqNjVsOFd2d0tQb2VndTdTa0xMOER6azZTNG9vS2c3cWhjemQ5bXY5clV4cjJFbThlVFNyYlZ0VjJDeHJNUU5EZnlfZXVUM3NOVkREaGlXcEItY3hIX0RSemJVRE9zbFdPY0RCd2d5dWd2ZnllQmVnLVVaSUM2dzF1bWlZQmRwZ0FPU0tmQ0FWMlFyTFV4dHVPRlBXV1NOTGlVVElQSmlWTkFhcmR4RVpkak40aVIxcnR6cm5rT0VkLUVzQlZaZ2xtejNQbjh1b0V3TktGR3ZKTXFUeFZ3MXNMVVlid0tqYjdWVExaM0NtR29Fc1lWNjJXUU5oY09kUjYwMTNKQXlMMUlhQ2hF?oc=5",
-   "altriArticoli": 94
+   "altriArticoli": 95
+  },
+  {
+   "id": "gn-UjA4eWVsaz9vYz01",
+   "fonte": "Giornali · Il Sole 24 ORE",
+   "titolo": "Milano, in centinaia in piazza al corteo per la Palestina",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-10",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-10T07:00:00.000Z",
+   "luogo": "Milano",
+   "citta": "Milano",
+   "regione": "Lombardia",
+   "coord": [
+    45.46419,
+    9.18963
+   ],
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaUZDM1loSnpRZ25tcHFCLXFrTW0tSldhNlB1a3M3UnJzeWUyZ2xHZV9vNXhjWmZrbndzSjhEWmRmcWNrT2tWUllsUWZSVVYzLWh6T0xrUWJiNHZrb2h2NUg2cDhqQy1VQ2lVMV9TVTkwSUVTVkZ3OW9ueUxMZXdDSHNVUXdmY1pLUEpISTZjYk5Ibm5YX2hnQ1lKR08yelk?oc=5",
+   "altriArticoli": 28
+  },
+  {
+   "id": "gn-VFVsWFFRP29jPTU",
+   "fonte": "Giornali · Il Resto del Carlino",
+   "titolo": "Corteo pro Pal a Bologna, in ‘migliaia’ scendono in piazza: “Contro il sionismo e le violenze omofobe”",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-10",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-10T07:00:00.000Z",
+   "luogo": "Bologna",
+   "citta": "Bologna",
+   "regione": "Emilia-Romagna",
+   "coord": [
+    44.49382,
+    11.34263
+   ],
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWZjVXctVXFod0ZxSXI3SzE1YkZzemdKUFBzOEhIN0FOc0t3ekNGbGdqMGhxSEZsc1dKZWdlazNHUl9uWmFpTnNtUTg4ZzZ0My15Z0dXMnQ1VnJyV1E5ZElOQU1oVV95dVA5ejhxNjFLQ3lCNDN6V0ZWSk94YlVlMlRiLUhOLUZ0TUlXQQ?oc=5",
+   "altriArticoli": 10
   },
   {
    "id": "pl-13413",
@@ -920,42 +956,6 @@
    "online": false
   },
   {
-   "id": "gn-V3hVVTBFP29jPTU",
-   "fonte": "Giornali · Cuneo24",
-   "titolo": "Scarnafigi, lavoratore agricolo ucciso in bicicletta: lunedì sciopero provinciale e presidio in Prefettura",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-11",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-11T17:05:00.000Z",
-   "luogo": "Cuneo",
-   "citta": "Cuneo",
-   "regione": "Piemonte",
-   "coord": [
-    44.45807,
-    7.55814
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUEdNU0pKbmUyR01OYzR2OUVEdDhwbHI5NWdiblpwb2VJZmdweXJUSDYzUEJjSjR4V2RmY054Wk8xN1Jtd0xOeWlRWHRnOWpOeFl4blZ2c2pjWmlLVnFMX0RhWWVCNmt4TThjZWtMZkpweHJrNVBQc3lSMnFrVnpTMWxUWHBldHhfcURraHptb2dVMWk5YkZSa3RRZXFkeTJ0RnZ2c3ZqQUd2M3VCV2JSRlZkX3R5YVZGVkJsTXp2c3ZRYUl4VzBWdnR1dUVjVUpuUXF6NzFLTWxUU0E?oc=5",
-   "altriArticoli": 4
-  },
-  {
-   "id": "gn-ZDB0Tll3P29jPTU",
-   "fonte": "Giornali · Newsbiella.it",
-   "titolo": "Accademia Perosi, 50 anni di grande Musica a Biella e un Palazzo per il \"presidio\" universitario FOTO e VIDEO",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-11",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-11T07:00:00.000Z",
-   "luogo": "Biella",
-   "citta": "Biella",
-   "regione": "Piemonte",
-   "coord": [
-    45.56695,
-    8.08691
-   ],
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPSXFOQzBhSXprZDdXUkY2ckVaNnJBOGxvYjloUHpUVHpNUW0tQ29jM0FnQmdjWUpuaTVYUE9uQkF5VWdRSV84Ml9ydFBTaDNPRlduemNVQVFubXNFeEQtTER6ZmtESTc3MEU1SWVET1hJamdXRGdaYWh4cEs4cFlRRWVvZ2R1ekkyY0hmTTdUSERwUHBYR01fNlJvbm5kZWEyU3hSeXphUUdGTi1CaXhUVVNtRXlra2dSSmE2a0gtSmliUzk0UXFvYlNKUzdfTFVFZ1FKc1VTVGRZMGxPenVEd25EeWwzdHlRVHlVNVp0UFh3SnhXRFZqUHIwdG1nY204bTJleHpzMVRDYjRKSE1Hd0tNYw?oc=5",
-   "altriArticoli": 2
-  },
-  {
    "id": "pl-13419",
    "fonte": "PeaceLink",
    "titolo": "Festa del Volontariato e delle Associazioni | Piazzola sul Brenta",
@@ -1020,22 +1020,22 @@
    "online": false
   },
   {
-   "id": "gn-VnBOYUc1Mz9vYz01",
-   "fonte": "Giornali · RomaToday",
-   "titolo": "Nuove occupazioni, tensioni e scioperi: la mappa delle proteste nelle scuole di Roma",
+   "id": "gn-VmFFYzAb2M9NQ",
+   "fonte": "Giornali · Cuneo24",
+   "titolo": "Presidio davanti alla Prefettura per la sicurezza dei lavoratori agricoli: i sindacati ricevuti in audizione",
    "tipo": "Dai giornali",
    "inizio": "2026-10-12",
    "dataIncerta": true,
-   "pubblicato": "2026-10-12T07:00:00.000Z",
-   "luogo": "Roma",
-   "citta": "Roma",
-   "regione": "Lazio",
+   "pubblicato": "2026-10-12T17:16:00.000Z",
+   "luogo": "Cuneo",
+   "citta": "Cuneo",
+   "regione": "Piemonte",
    "coord": [
-    41.89332,
-    12.48293
+    44.45807,
+    7.55814
    ],
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0VmFOUGVWZFhHa2M1NmpVWW1RSll0b1p4aTY4OV9ES3h0WjVneE1ZSFlMbnoxa0VTRXdBd3ZFblRwWnFvZDMzNDFVVmRTVFlhSTRYekpDZmhIQXNZLTVRX1R5QlM1ZEdvUXMxdWRQdlRGZ3hLQVpNaG53?oc=5",
-   "altriArticoli": 17
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVXlKaGIybG5PeHN1U2VTWkg0SWg4VEEzc1FkU2tXRFVPZVVpYUZpdGVZb1kxODkzR3RnVlVqSkRlWTRHaHpNLUtXR1dpT2RlZThfaS1nTXVBQUsxWXUxbE5ueVFiZXRNQkZrY1ZTZ3ZoVlFJSWZWZmZwSmtucDZFc0FCN2wtNWxIb3J3UzI5WDBFMzhyc0ZMc1FSSWZBeTBId0pqMzRscFFWZHpwMnRmZmFDZWtRb2xKQlVmVGE3dXZVZzFKbXNfVnJoWDF4Y1dwTmlPaXZwNjJHQUlVaEc0?oc=5",
+   "altriArticoli": 4
   },
   {
    "id": "gn-bDlQY1ZkMz9vYz01",
@@ -1122,22 +1122,22 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ2Z5OS1BcHBOUUV0dkVuMHR6UEdiVkV5MTBuTHdJYkhTTUlJV1JDVXRjdVVIbUVZcmNJRUFEdEZXZTZNVkQ4MGdIa01ubXB5VlR1MzkxZS05NEtodlV4TzFoNXlvUTJROVZMam44aWlONlRtZU1mNERtMW0tZEt1eWE3WjI1OVlmWTIxd3o0cndVMFhxWnNMV3p1NXdGa1pCY3RkZ0FB?oc=5"
   },
   {
-   "id": "gn-MHBpWWkwP29jPTU",
-   "fonte": "Giornali · BolognaToday",
-   "titolo": "\"Laura occupato\": a Bologna scatta la prima occupazione dell'anno al liceo Laura Bassi",
+   "id": "gn-NVVVWE0b2M9NQ",
+   "fonte": "Giornali · RomaToday",
+   "titolo": "Le scuole di Roma in fermento: occupati Newton e Kant, al Rossellini sciopero degli studenti",
    "tipo": "Dai giornali",
    "inizio": "2026-10-13",
    "dataIncerta": true,
    "pubblicato": "2026-10-13T07:00:00.000Z",
-   "luogo": "Bologna",
-   "citta": "Bologna",
-   "regione": "Emilia-Romagna",
+   "luogo": "Roma",
+   "citta": "Roma",
+   "regione": "Lazio",
    "coord": [
-    44.49382,
-    11.34263
+    41.89332,
+    12.48293
    ],
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS1Z3WHctNERwY0hONkJrcWs2cGZQcXFBNkhyN0JQM1EzTVdVQnM2TG1QWjdBeU55aHpadm5pNjZ2azA4aGhLaVY5YmhsZWY0cXVOaE1ZSnhaYUJlQWhJTnUzbEVhclVlOUhaS3lmUjhNRmU5QW9XRXBjVk5Udjg0Qzg3T2gtVEdoSUVwdGI2Zk1SbmFSMVQ5U0piYi0?oc=5",
-   "altriArticoli": 7
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORldLRWt5ellpOV8zM3o4WTVBUHQzaVgyUHFacFRjYTRSd2pSZE4zZjZydi0yT2stNlB1OW1KR2ZnXzJkdjlwVDRabEZxZk9uWXBVTDZhUFl6Mkh2Mlk0WE41V09NRUYwTFNRY1VINTkzTnVlaDRiWnRTb2NyZ0FnRE1XLW5UUXM?oc=5",
+   "altriArticoli": 19
   },
   {
    "id": "gn-cDVZamcb2M9NQ",
@@ -1270,12 +1270,12 @@
     11.12974
    ],
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMm1BTnhqODVRZDAxTlJRd1ExMkdzVXhJZEFLbmR1TjJjSEQyTzdwSXB6WXBXeXp3b1g4UTB1bmw1MHQzaDBUYXRSMC15c1FmS2ZFUTZZeWgyTjJlMFJZc3JwUWxMdXZuX2xNcURKQnhFekllMjl6eFlJWjdBRWpiV3NTa25KSmVSR0JaWWlQeE1EejJTbENOMXZydXFWWmstb2tZ?oc=5",
-   "altriArticoli": 7
+   "altriArticoli": 6
   },
   {
-   "id": "gn-MWhTZVhWUj9vYz01",
-   "fonte": "Giornali · RaiNews",
-   "titolo": "Ex Ilva Genova: dopo l'occupazione della prefettura arriva l'accordo e si torna al lavoro",
+   "id": "gn-bXhKZHcb2M9NQ",
+   "fonte": "Giornali · Primocanale",
+   "titolo": "Ex Ilva di Genova, Cornigliano non chiude: sciolto il presidio davanti alla prefettura",
    "tipo": "Dai giornali",
    "inizio": "2026-10-14",
    "dataIncerta": true,
@@ -1287,8 +1287,25 @@
     44.40726,
     8.93386
    ],
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdnU4N3MzWV9mTWM4XzV6aU1hUnRFTklEdXIta1Z2OGxCTzJoWnlpMHdPRjZRYlN5dmp1TnJvVEpJbDZqUktnYVhMSC02M3EzaXdEd0dDd2F0UlVmVlF4NFdQQ0lOLThJMTQ1YUMwYV9saFNrN21Sa3Z3aHR3dnkyVkdNdzgxREFtMXlKbGQ3R3RxRndZcHdIcGxBZFAxSjI1ckNXR2cyMEJjTk1lTHhsck45QVlaNXc1Y1pLZUwwczZNQl9TYnZGeFBFeWo3aTFvRVdtS1BHbjlqQVVlQnpmbHRIUERzdkpvVGN1LVIyZ1LSAfYBQVVfeXFMTUp0TU9md0pHNEVZSWRGSE5jOGwyaVpyWUZCWnYyejc3c2ZqeUVQc2JOT2ZOV2NsTmJQYXhGbkFodEFGYjQyMFZ2clNxeG9wend5ckt5UGYweXRPQVVfeWxUUVFPRnZYbWVXX08zTE5sLVVCUkZuZ05rSmEzNnprNzNJb1U5TTVPSnV3UmVzNHRpSktUUVlNaURvaE1za0dteTNCNG5EZGs3RU5Od296NWl1a0RxVC03Skl2OTJLTzJsWW9FeVFIc2IwcjZFNjNsZ0ozUWg3LWRKSDQ2UHRqWnhZM0NlZTlCRTY5LTl4eWdjS1hSeXVR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdENHMmRiWFA2ZlNQQVpsWEJpTDdWd3RfNnh6V045ZWtSSzZXNnpTaDN5cm9yWmFlYndCcGcwNGlETW1FOXo1d044blVITWpFeENRLVRRbEtkUElIT3lOc1RXYWpvb1lCbDQ2bUM4TVFud2JsS2s5YjJVcDAyRTI3VFVIMFZWQ3EwaDRBaW1wc1pVTGdteDAxUW5xaE9KMWNkY0JJRndaTGZYaXJMdXVTTzhMN3VNV2FaSWxaSkowOThEVHItUTA2bk1mWE5NS0ZuQkx2ZdIB2gFBVV95cUxNRmlyLUpMTmkxNVJOSElRakFTaE9tTWRPbW1PVXVoTnNtaHBhQkZCOEZpS0JBS0RQekV2ZEUzanhDOVlzaEQxeDRSQWpNM0hMLWZPNVo2R09YOFBETHU3V0EzcUE0NmJRejJ3by10UFFDTU90RnR5MEs1NkdlZG9oekZSV2xXdko3UUlhMXJxMkNQRDJfenEtVmxNUjZfblpXSk84LWhmTnM5X3h6enRfVFN4dVZLZVVOcmctX29HODRNUmh2ZU94U0lxbTh1bm0za1JlQ1VWcmxJdw?oc=5",
    "altriArticoli": 11
+  },
+  {
+   "id": "gn-MUtNR00b2M9NQ",
+   "fonte": "Giornali · La Nazione",
+   "titolo": "Sciopero generale regionale mercoledì 14 ottobre. Il corteo a Massa, possibili disagi per i servizi e per il trasporto",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-14",
+   "dataIncerta": false,
+   "pubblicato": "2026-10-12T07:00:00.000Z",
+   "luogo": "Massa",
+   "citta": "Massa",
+   "regione": "Toscana",
+   "coord": [
+    44.03593,
+    10.13955
+   ],
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xRUMyeWFXVUhfTlZMMnJvWE9ZUi1NeUZtMzhuQk9vVkUwbHJiMmlWSk5sNEZJSmJXc042eGlyT1dYV3FlMUpXclVqUm1UcXI5WGM3Q21QZkdGVmxwUVR6X2NsTjNHd2FETXNhYXNZVFVzWlFfekZGMkNTNm1KMGM?oc=5"
   },
   {
    "id": "pl-13445",
@@ -1372,23 +1389,6 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN25YZlhhMFlzeHhSbTJkcHJpajlYUDdCVktRQ1dpRndNb3JNLXdNLXZ0MWxZcFJyeTBWNkNic19TV2lBZEltUkg4QjBuQ21tQTdMVVR1NEdEd0xQOUhIbTNwX0lWT2hydTFQeE9faTB2TUFmcWRVVjg3aHpWWnAxOURIMEpCc1A4a3FMQ3MxZmNfS0dfZEZDQlU5M21FSm5JR2RNd3NFcUQta01RdXFQbWhWejNoa0FFa3FRM2diZS1ObG9EU1E?oc=5"
   },
   {
-   "id": "gn-VW8zZHcb2M9NQ",
-   "fonte": "Giornali · La Stampa",
-   "titolo": "La protesta dei lavoratori dell'ex Ilva di Novi ad Alessandria: dall'arrivo in stazione al presidio davanti alla prefettura",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-15",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-15T07:00:00.000Z",
-   "luogo": "Alessandria",
-   "citta": "Alessandria",
-   "regione": "Piemonte",
-   "coord": [
-    44.83495,
-    8.74503
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTWRrMFBOSGFsc0l0aklGay1fVVpFV3RYQk5DYXpSR2F0N21TQ3g3MUI5NXhWZjRrSWxVTzJuck1GS2FQcjF5TWtPOGpGS2Y3a1ZsbHROOVV6TjdRSHk2c283V000czk2T0tOY0FUN3NDZ09CZEdFeXNkSGRoQm9nU1d2enBsWjRPZTNsUGR3bkVwZVRZWXRlZktKaFppNFhhREE5aUxZMHVDTmVleTMzay0ySm9DSTNFaVloQ3JZcENOZ2ZWLXNvdUkwVTFwV1pLNjFTTVBLQUo3dw?oc=5"
-  },
-  {
    "id": "gn-MGVsbHVkdz9vYz01",
    "fonte": "Giornali · RaiNews",
    "titolo": "Ex Ilva Novi Ligure, lo stabilimento non chiude. Lavoratori in corteo, continua il presidio",
@@ -1404,6 +1404,23 @@
     8.78955
    ],
    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaTBHVzBXY0pEVlg0RXo0c0dDbU83WThjVHNfV1p1dVVKOGZtUG4yeTRXTUR3MUpBUU9zNnFRS0ViLXhOMktoYmFZZXBNekU3RURsQThwcXdGTk5XN0ViRGxJLUExR3M1TWNIbTNrcGxOeDlJT0V0WEpoM1NESmNraXgtM1JjTm1renV2dDQtcTR5SHFSTXJJa1VJNll0dGYza2VVRzBQanVjWm90d1c0RnVyU0JVUmgyS05acVp1bHVKWFhfbENtbGs5ejRRZ1JsZHB2WFBNcVdsREJtQnZuVEVJbHo3aUNwOEt1NksyckxlZ2dEeGJjZGNsaV9jQ1A4RnRNNdIBigJBVV95cUxPYnpKREM0V1gtRVQ0UWVBZi00NEdKSjR5NVBvT1J3d2FjczlQM18yN2N0LXprRXdCX2dfcS14TFdUdzExejI2SEZXZHJndTJtTHNMZXFmVkxpSkstSFloU0taWEZZajdnOVEyc0d4YW11d1NWNHpTaVpUZGVkVjZRVEhVRHJxRHNHblJJZEdZUjFveGpJUHdJV0t4bzF5S0lEZDZpeWx0eExIa0ZrUTRVVDZ6SkYzTTNkbW5qQVd6ODFQUUp4bFlNdDh2U1JCRmktRV9HQTNROUl1UFBrWk1aZkVETEpGWWd1YmRucU1Sa0xmdkRTUmJwM3p2Y1ZmSEptLXpWanp0elludw?oc=5"
+  },
+  {
+   "id": "gn-VW8zZHcb2M9NQ",
+   "fonte": "Giornali · La Stampa",
+   "titolo": "La protesta dei lavoratori dell'ex Ilva di Novi ad Alessandria: dall'arrivo in stazione al presidio davanti alla prefettura",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-15",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-15T07:00:00.000Z",
+   "luogo": "Alessandria",
+   "citta": "Alessandria",
+   "regione": "Piemonte",
+   "coord": [
+    44.83495,
+    8.74503
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTWRrMFBOSGFsc0l0aklGay1fVVpFV3RYQk5DYXpSR2F0N21TQ3g3MUI5NXhWZjRrSWxVTzJuck1GS2FQcjF5TWtPOGpGS2Y3a1ZsbHROOVV6TjdRSHk2c283V000czk2T0tOY0FUN3NDZ09CZEdFeXNkSGRoQm9nU1d2enBsWjRPZTNsUGR3bkVwZVRZWXRlZktKaFppNFhhREE5aUxZMHVDTmVleTMzay0ySm9DSTNFaVloQ3JZcENOZ2ZWLXNvdUkwVTFwV1pLNjFTTVBLQUo3dw?oc=5"
   },
   {
    "id": "gn-bTh3ZDBSUj9vYz01",
@@ -1488,7 +1505,7 @@
     11.80585
    ],
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYk9wYTR1blNQVXFfRTVlMHFUeUZIaG5NczlUYlk0dWhQcndHRkwzWThiOGpJWXUxSkZOQktPRnVuWG1kVkFOMXJ4ZElrMkVLWU9rY2tTTm5FTlctQ0p0N01hRWRROXFVQXN6SWxKQUhhR1pabEMzVEFKaFFZRXNGVUk5ZjZRUVVEMnRlTnNQT2J0d1VpclpLU1dRT1NSc0drTWl6UlVLOUtTWlp1c3Z6cUpEWEZfZmhZWTM1Umg2Nmw4ZDFqZkhVOXBsY2FEREl2bFNBSFhyMmpFX2ZneUtHTEVPQWJiNlhQOW4wUVVmSzVkYVdmeU4w0gH8AUFVX3lxTE9OSFhoSTZjRjRlYm50ZGxNUEJTbmx2QW9OZnl5NVpMck16aGs3QW5UdmtIZms5TkQzU1lzVndKOEpXN2E3YmMzam1YbFZDeDJBX0tQeHVnS1NrVUJ3S1ZsVVMwWXlKU1JDSkM1SGFFai1rTEdyVGJtdTlBR2RlLXU3b3I3RU1xbDd4UmZ0WVBnRTRmbi1tTHNIUXNCZUVfSXVZM3JUcGZaMExSai1oM0pKQk5XREpoc2htZDNZNUszbVkzdjd3NVhXazltV0xfTlpzZHFuMVBDWFJiSm1YVjhXdGk4b1p4MHdFY1BxeXFiS0x0dzFTRDZ2Z0pZWA?oc=5",
-   "altriArticoli": 7
+   "altriArticoli": 6
   },
   {
    "id": "gn-T1ZqQTQb2M9NQ",
@@ -1524,7 +1541,7 @@
     9.75422
    ],
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM2VfRmxzS1JlY2hKTGlWUUZIa01FN2xwYTBScmI0WHd6djFWR1E1d1JTWC1lM0lldUF6QWpOaWFXLXlrcW9rMWQyM0RGMnNyZEF5Tk82QWI3Vkp6Ul85ejZKM2VmUVZXYkREbndpeEc3dGZNenkyMml1al9zMDVqUjFXSzFYVS1lLV94Mnc5OFJIaGZKcEo4WFdYb1Qwa1loelBtNm5ZSDltWldHcEVxaUVfNURSTlc4eGdjYThDSERmQzFHcTQ0dHVFMmIzTzFkejNGZkpfUl9uMFFZc05QdUxza2d6R0lYVUJrMXU3VVFKaUdBaEJVV0tB?oc=5",
-   "altriArticoli": 4
+   "altriArticoli": 5
   },
   {
    "id": "gn-bGhlRUUb2M9NQ",
@@ -1563,24 +1580,6 @@
    "altriArticoli": 2
   },
   {
-   "id": "gn-QnBhazlSP29jPTU",
-   "fonte": "Giornali · la Repubblica",
-   "titolo": "Milano, migliaia di studenti in corteo: “Per una scuola antirazzista”. Occupato l’ex obitorio",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-16",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-16T07:00:00.000Z",
-   "luogo": "Milano",
-   "citta": "Milano",
-   "regione": "Lombardia",
-   "coord": [
-    45.46419,
-    9.18963
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd0YyTDU2ckFFRmJ2b29wLVRBTjVQZEdxOTFjQWpUX21LUGxIRjhtVlBmSTRab2VQUXFVaFV5WVNXaExGblRPdVNxci1tWTZ3WTFnbFdQdEwyQ1dRWE1CR2pwOWZMa3I2V1c3T2JodF82aVowd25NNmFlbFoxLTVwVkM4RUVJZFdpS1dJTDAzclFSQ25lUzZZR01LZkxEdHptdC1PWmJVRElta253Z3Z4bmZYb2NyTGdJY3R1dnp1U2xyeXRrdG9IdlhROWdXcUp3eGtmdWRLZEfSAd4BQVVfeXFMTi1FLXJNWm5YclItajVodUFuVlVPcUNoelNRODR4VEVnWmJ5cjU3X1c3bkt5aHBoMGdGVUZ5SW82TXJ0WDRoVnlSYnVVNDV1Q0hLRnJLcWxjUGFMT09wcEV2VmVCN0N1Z1BqX29jcW85TUI0TkNTekNTTEJJb2g2dDhVa0NFLUlHTkdockk1QU16Q3ZtYXdmWGJaaHhVTG45ODVwZnVmdVRkTjAxVVluY0tjS09SUGY1a01icDBKeGlObGZ1clBiR2Vqb2lnLVBGWnMxSXB1djE1dTBpak9R?oc=5",
-   "altriArticoli": 24
-  },
-  {
    "id": "gn-UXpSdmVWWT9vYz01",
    "fonte": "Giornali · LA7",
    "titolo": "Scioperi del 16 ottobre, tensioni durante il corteo studentesco a Roma: bombe carta e fumogeni",
@@ -1613,6 +1612,23 @@
     16.87828
    ],
    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQOFFvYmh1Q21HNW5LYXYtYm5PZUFVUThfRllCVjlxVUdVZjZOS3pXLVlKd0puZ0t1TTl5REVXREllQ0NwT3djZl91ZThucG01U215bG96ajFJYkk0aG9VT3FZblNpdk9JdXoxaFhtd3RQbk1MejRyMW9pSkJ4alQtVGRHcE44ZnFnUHRsU0UwQy0yaFlBZjlKWnIxcWU2ZE8xbVlKcVFWaDhnYVNMM3dmcFNxT2E0bEt0UVhlQ05wQ3NvZmpGMGE3SVk2Wlh5ZEN1bmlzZmJWQjk1SVhFQWk5VU0zeTk3OFVqRnRwUkdzRTA0WnY4MnJ4N3RKOEZob0I0cllSQUIwRlVfNE5ETUJfQ1o4dVBIMVk?oc=5"
+  },
+  {
+   "id": "gn-Mlk0WXcb2M9NQ",
+   "fonte": "Giornali · BergamoNews",
+   "titolo": "Arriva, nuovo sciopero di 24 ore il 16 ottobre: presidio in stazione a Bergamo",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-16",
+   "dataIncerta": false,
+   "pubblicato": "2026-10-14T07:00:00.000Z",
+   "luogo": "Bergamo",
+   "citta": "Bergamo",
+   "regione": "Lombardia",
+   "coord": [
+    45.75666,
+    9.75422
+   ],
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWNsT0ZRSV9iWVVlcmlfY2VKY0pQQlc5dHEtVlJkWDVOOGRLdi1McTRYcHEtR2FuUm9fZ0tab3VxRUs3cnpRUUpfNkI2Tm5ma1RTUG90Zjk5Z3pRanBXclJFZFY1NHZaVnQ3OFloMlZKRjlheGxicm1URC1KU0p6MGVLUkZ0a1dzOXQ4VEtMQnFLYXhMMURQNEMwRll2Y3BuaVZtVnVnbGRsQ0M1LWVqZE54aDE1T0xBaWJLZ2Y4Yw?oc=5"
   },
   {
    "id": "pl-13467",
@@ -1807,6 +1823,23 @@
    "online": false
   },
   {
+   "id": "gn-TlhoTFp3P29jPTU",
+   "fonte": "Giornali · Occhio alla Notizia",
+   "titolo": "Pesaro, nessuna manifestazione non autorizzata del \"Movimento 17 ottobre\". Centro presidiato dalle forze dell'ordine (VIDEO)",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": false,
+   "pubblicato": "2026-10-24T17:11:09.000Z",
+   "luogo": "Pesaro",
+   "citta": "Pesaro",
+   "regione": "Marche",
+   "coord": [
+    43.90981,
+    12.91312
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPa1BBX2RJc0tMNXBFQXllOHZTZHpSNVp1NGxvdWYzMXZFMGQ1QmFXZ25waS1Wenl2WjkwcHhTQ20xc1F1ejZYZFk3Uy1feVkyNUJ1R1JGZ09kZWVCMjV4M1Q1bjBJV01XR1k5YWp5ZG5oTWVrdzh5WTJGRnBnd1FzUnBVeVd1YjV6c0I5YS1YZE1Bb3Q3Q2pMQ2h4YmJZd2djazdSeXFhbUpub3RwWnFIMDFFVFEtSVR1THRlbWRITEswWmhTZGFZaTVoVWtyemNFUHlsYjdKZkdkS2I1MnBhMTgtNXhLZw?oc=5"
+  },
+  {
    "id": "gn-YUMxU1Exaz9vYz01",
    "fonte": "Giornali · Borderline24.com",
    "titolo": "Bari, in piazza del Ferrarese il corteo dei giovani contro il caro vita: del Movimento 17 ottobre nessuna traccia",
@@ -1861,24 +1894,6 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-M0YxVUhoej9vYz01",
-   "fonte": "Giornali · Sky TG24",
-   "titolo": "Crisi ex Ilva, migliaia in corteo a Taranto contro il siderurgico",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-17",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-17T20:07:17.000Z",
-   "luogo": "Taranto",
-   "citta": "Taranto",
-   "regione": "Puglia",
-   "coord": [
-    40.54882,
-    17.08058
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaVFKOWdudU1yY1E4MldJOVpsMmtWeUthcmV4R3J4RnRjTDRsMjRKdnJGVmhLQzVKd3puVk5TSFMzTlN4ZklTdy1VV1dNdEE2OXA0MHVXd0c1UWZ2VDFkUzNtVkVnZU5yXzVPdFU4aFNNQzBuWE51LS1OaGg3OTdpRndndEdmSTg2T3N3R0ExdDNiTXNvREJxY0xwYkdNVUNQRG5FR1M4dDlZMDJXdXgtb2VZR3F1UHhz?oc=5",
-   "altriArticoli": 1
-  },
-  {
    "id": "gn-TGEzbDFRUT9vYz01",
    "fonte": "Giornali · Giornale di Brescia",
    "titolo": "Corteo contro il caro vita, tensione e lacrimogeni in piazza Duomo",
@@ -1893,7 +1908,8 @@
     45.77958,
     10.42587
    ],
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3JXMm1KdkhUUDl0OFpuNjYzS1BhYnBneUpiRlRkVFJIRzlYVlFSNEhGNlhYNi1XMDIwSWl5dGdYcFdnTTdRWGdtNlZyTFlBQl96N09tX0NnVkRBN1FCa0JMYktRWDRzTTNDaHNnT1IzT2xYd2pMUzlIcXdvZDZXYzl3SHdCeE9XSHBzd0FMS3ZoWjN4QkM3ZVRFb2NhR3RBOGowd3JLa3l1QQ?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3JXMm1KdkhUUDl0OFpuNjYzS1BhYnBneUpiRlRkVFJIRzlYVlFSNEhGNlhYNi1XMDIwSWl5dGdYcFdnTTdRWGdtNlZyTFlBQl96N09tX0NnVkRBN1FCa0JMYktRWDRzTTNDaHNnT1IzT2xYd2pMUzlIcXdvZDZXYzl3SHdCeE9XSHBzd0FMS3ZoWjN4QkM3ZVRFb2NhR3RBOGowd3JLa3l1QQ?oc=5",
+   "altriArticoli": 2
   },
   {
    "id": "gn-RTAzUTNsVj9vYz01",
@@ -1911,7 +1927,24 @@
     16.86203
    ],
    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZTFacGhsbEJZSlBqbUN1Z1d4ZGpMb29ZaXlpWWRycEI1SzdWV0JGcTdVSU1YR3pFOFBXSHR1bXNxQy1RODBHc0ZsQlZyRkFjR2RJMEZHaDF1YzBNRmVKU2JTcy1LMzEzeFhLQVF2ZjBHQmprQV9jX18xbC1mdFNFdHB2NndmQ0dCckpwVlA4SmNYcXFJYnptZV9VVzVoelRHTjRCRGhEd3dLbjA2TWZUb0xvb2NfOFh0b3E1UzV2VERJSU9JcEVWSzZpbW5ubVU3T2poUVF0VzFxM1puNkljOE9ybWtuN2N4b3NsVThpNXJhUjVEZ21fOFR2U01rZ9IBgwJBVV95cUxQTzBsenllZFhndmN4cGlrZlM2c0Y5SVRZeFFXM1hBQWxVWVBjRi1mZTlKcHNWU3NHWWlTVUFBXzUyYlFkOUVRT05sUmZUdEwzQTJrRDIzU0h6Y1JXMGp2R255VFJreGFkR2FTRTg1b0ZNa0tHMGZnSmQ2QlF2TWowdWsyYnNxcXJ0Wjd4TVN5c21DQV9nei1tQ1l3MHJYQURlS09sN09QV1Q5VV9MRlluT2loeDJhRUpoLVRCQzh2akNQX2UwMVFHMlR4dXA1Vl9OVFhwb1dHYWhCa2tKV3V6amM2WnhKRXpzMTRwSmFpeGJKRWdiRGJJWWE1T2tNWE03Q3lV?oc=5",
-   "altriArticoli": 3
+   "altriArticoli": 2
+  },
+  {
+   "id": "gn-bXBmYmcb2M9NQ",
+   "fonte": "Giornali · ANSA",
+   "titolo": "Ex Ilva, corteo a Taranto 'basta inquinamento e ricatto occupazionale'",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T15:57:00.000Z",
+   "luogo": "Taranto",
+   "citta": "Taranto",
+   "regione": "Puglia",
+   "coord": [
+    40.54882,
+    17.08058
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWTIyc0tmbkVieHBHMTE1V3VQcGhrOUxDb09SQ24tVWRiUGdnRWV5bW11Z0lGRGMxYVp2cUtzazJsUWd5dTJoUFF2QW9fbGh1NDBWUjlJMXQ1UW5EZnRLaU1xV1VXeG51dU9FX0NzN3BJc3gzUzRuRjY5QndGQkdYY1NoSHNyMVdQVklOOTB5aWFOWWFFc3NXNzZtSllHbXBpbDFmVWtCR3M4MWFxMFhnMDJwdVJGQWhJckwxakZ4VVFoeElJWVU5SHd1ZFB0cFRaMXBDS1hFTnZIWVdOc19iNkVISGszdVU4LVFr0gHwAUFVX3lxTE8zalFVblJudDBZZF83N0FIQmM0V3A4Y3dkbW5YbV9QbGJVSHBNaDNjSVhrSVR5MnAwUV9CT0tpTFRzUjJDRFFNbWZZbE55OWVMcmJ5RjVsbDBqcEw2U1pMRV9HQm5TdFh3X3J3V2xlZDJ5OElreUxDdlVoN3MwNnl1LVhIMEswSjRMWkdORTB4REVjcmtmU09od3VXMU03bEtkR0c1MHBveFdqS0luNXBaNFdWc2ZYS3pOc3dvT1d3VjlmVU9wcUNQTmxYX2FpbjY2VVZoWHFwZVY2ZjcwSldoVm5mWHVVTEhaYVN1Rmpfbg?oc=5"
   },
   {
    "id": "gn-UnZRbkpCP29jPTU",
@@ -2046,24 +2079,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb0J1Zy14NktCU3pFdF92TnNjUWEtWkctUV9sSF9RZVRDd3EzZUtIVXJIUGhzbkRGdjZ0UnhkdmdOOWNTYVBVOE5WWWJMY21HZ1BadE9nbjRJdzhuaE5XcS1EY2lSNmhtX3FDdEZpV0UtNzVkbnZabnVNcTc0YXlKQ0FqTS1GQ2g3S0hVM2VhcnEtMkc5cmcxNS1Jc0hQNXVxWWxNQ05NVzJjeEpfUVlWbUh1QmxpNDhFanlOck9TLUV1UQ?oc=5"
   },
   {
-   "id": "gn-V2tFMll3P29jPTU",
-   "fonte": "Giornali · Voce di Lucca",
-   "titolo": "Un corteo contro il caro vita ???",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-18",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-18T08:03:00.000Z",
-   "luogo": "Lucca",
-   "citta": "Lucca",
-   "regione": "Toscana",
-   "coord": [
-    44.01776,
-    10.45443
-   ],
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaXh6NlR6djRtRi1nSkxmTktiTmlBVFJROGhCcDh6U1AydlBJTG5xSFVQYXNWbGtBWmR3RGZGSVdMQlF3Tk44a3Z6OVRzU3NEQmJFOTc4TTRDY0pjM0NJbkJXYTFwWTZBQVNlOGlqRnpabWpYLTlOUUg0ODlxR2pPWkE2Yw?oc=5",
-   "altriArticoli": 1
-  },
-  {
    "id": "pl-13380",
    "fonte": "PeaceLink",
    "titolo": "Pace sì e comincio io",
@@ -2131,6 +2146,23 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMGtrX1AyWnlLZDFid2dBYUZkT2VaZUdEbk5KX0RUSFNIem1Rd3NmcFlMUnZ0S1FLZ1UxYk96NEx2WjNndFlfaXY1NzU5MXpoQ2ZKRGVmeHZPaW8tRHdYNWJxZmY2TEM1RV81NWU1U2JiSDZaZnBrS3N4N0hIYnJhZjA3NFBuZmVibU5xNFJjSjBPenExYWl5cWVWc0RFUEVoSm11ZXpnSEJLX1dT?oc=5"
   },
   {
+   "id": "gn-RFl6YUEb2M9NQ",
+   "fonte": "Giornali · Adnkronos",
+   "titolo": "Presidio autotrasportatori al confine fra Abruzzo e Molise: \"Per ogni camion 8mila euro al mese di gasolio\" - Video",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T12:24:39.000Z",
+   "luogo": "Abruzzo, Italia",
+   "citta": "",
+   "regione": "Abruzzo",
+   "coord": [
+    42.22768,
+    13.85498
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObmp0UHlVU29Pd0NtWTVhUGNlNmp2Tk9GdEUyN19SV3BXdWsxTkpZTGEyczR5MFZjQ0ptUEk4bUI1eGJkX3NLSFl4Z1hLYmRVa0JoVlNZZnpCaG9QY3REb1RKcExsblNEcDctaGt1SjdFZDZNSnZBQjFDZ1NFUTRtbDBwYWpRbmg2aVVrekZ5ZU01SmZBaUZRcWV3SmNBdUhlTFZacUNOenJVeXVRaGotc0dWRklfdGZYaDFVSTQ1bkNMdVpSUm05b1NqUl9sMlZFT3hDbG13V1o5X0pET2E1Vm5RMmlMQnVvWDYzaA?oc=5"
+  },
+  {
    "id": "gn-aFFiME10P29jPTU",
    "fonte": "Giornali · Sky TG24",
    "titolo": "Manovra finanziaria e il carovita, in Puglia tir in corteo",
@@ -2165,6 +2197,23 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORFVRWENiU3I2bWphWmc5WkliMWE4WmhKYUNOYUJnRXp4N245UG1MN1g0UGFIYjlOZmxhWHdFeTJEb1lZZEdlTlNwU3V0UjE2M2xNXy03VzhRRE8wYXFpMVpGa0ZtVURpTnRSeTRQRHJwQ1FaYlFUdmY4TkNseGI2VVNvWS1tb3BDbzF5bWhQcW9SNnFNbjNXRTdDR3ZzelhvZkRRVmFQeTJyQQ?oc=5"
   },
   {
+   "id": "gn-UXljRUUb2M9NQ",
+   "fonte": "Giornali · ComoZero",
+   "titolo": "Rischio assalto a Como, scattano petizione e \"presidio pacifico per la città\": ma non si dice dove",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-20",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-20T19:23:13.000Z",
+   "luogo": "Como",
+   "citta": "Como",
+   "regione": "Lombardia",
+   "coord": [
+    45.93959,
+    9.14936
+   ],
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV1JxU051RGlCbXFrdVBBVGlUVUxzbWNzZnJBYU1xaGNZdlcxQnJkaHd6c29pdnRHNU9DME94ZHp5ZGM1VXRGQXVJZ211T0NMc0xlU29NYldmRmUtRUVoWUIxa21UN1NNTWp1bDJxNkY1WmpCRnFZbU5ZMW03R1hZekprSGdzTWpPSGhLSGp2c3JnSzRfRUdDVC1WdUlTNVA4WjJlS0hWVDFDQkF2dl82NlNwR2xibW00Zm9leUxyTVZQT1QycEE?oc=5"
+  },
+  {
    "id": "gn-UjB4a05Waz9vYz01",
    "fonte": "Giornali · Veneto Orientale Informazione",
    "titolo": "Portogruaro, Manifestazione studentesca, venerdì mattina il corteo: transito vietato in centro storico",
@@ -2179,7 +2228,8 @@
     45.64767,
     11.86653
    ],
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFI1bDNyRHd0WndtRlZka3p0Z19kSkFxbm5lS2c1czBQaWVHTU9GeDZkTVhJRVU0bVFhbzlFX0o4ODhyZWo2VGQ5enNINkw4RXF2OUhXTW9EbU5peDlsUHN3OWt5NVUxZEdKMHZ1VFpncGVieEJmTWtwS0M0SU1sOUJJOU1mVUU1Sk0tM1NQaVpxbldTT3NQdVRmeVV0VGNGLVRBWmdGMzZMWFdxc0pHY0xNNXJndl9sVlctT0NRR0xkNVk?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFI1bDNyRHd0WndtRlZka3p0Z19kSkFxbm5lS2c1czBQaWVHTU9GeDZkTVhJRVU0bVFhbzlFX0o4ODhyZWo2VGQ5enNINkw4RXF2OUhXTW9EbU5peDlsUHN3OWt5NVUxZEdKMHZ1VFpncGVieEJmTWtwS0M0SU1sOUJJOU1mVUU1Sk0tM1NQaVpxbldTT3NQdVRmeVV0VGNGLVRBWmdGMzZMWFdxc0pHY0xNNXJndl9sVlctT0NRR0xkNVk?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "gn-M2xOVkc0P29jPTU",
@@ -2283,8 +2333,7 @@
     45.64965,
     13.77728
    ],
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTlNNaUE0emNHOWlaOXFGQ3NMeVF5VWxQeWI3bGpDZzFSb3lJYzdIRjRXYlNaVWVQWERQMXdzTllvblZXMVp0OE92TnJZTktwcks0emNpeHpaNFlocDBPMkZSYkZlUFBUSm5mYy1DTk92VlJqQmJ5OW92aTZNckoyOTlXQ2ZYRkR1WnRNZm9ZcnI3c056Rmd3QVNkVWEwN05OMWtOQWM5SDR1c1UwLWc?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTlNNaUE0emNHOWlaOXFGQ3NMeVF5VWxQeWI3bGpDZzFSb3lJYzdIRjRXYlNaVWVQWERQMXdzTllvblZXMVp0OE92TnJZTktwcks0emNpeHpaNFlocDBPMkZSYkZlUFBUSm5mYy1DTk92VlJqQmJ5OW92aTZNckoyOTlXQ2ZYRkR1WnRNZm9ZcnI3c056Rmd3QVNkVWEwN05OMWtOQWM5SDR1c1UwLWc?oc=5"
   },
   {
    "id": "gn-WGhQU2xSSj9vYz01",
@@ -2543,6 +2592,41 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVWNmcWRzUDBEdzJFWGhIR2p6UkdiMXU2SDdZY01PMVY5MnhaMWZ6a2ZvbFVYSllqTkRwVkNnOHJWRUdfNFNrcGhDNl85MVRZaUo2UWhMLWl2Rzh3QWtzWWE4bE5PeVpFYkpFb3BUc1l1NVY4TVFlSHd0SmtjekU1WWZYU3dYRWUxMlBLZkl3aVlXSk1ELUplSA?oc=5"
   },
   {
+   "id": "gn-VlRSdGQzTT9vYz01",
+   "fonte": "Giornali · Newsbiella.it",
+   "titolo": "Polizia penitenziaria, presidio davanti alla Prefettura di Biella: “Servono personale e dignità” FOTO e VIDEO",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-22",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-22T14:50:22.000Z",
+   "luogo": "Biella",
+   "citta": "Biella",
+   "regione": "Piemonte",
+   "coord": [
+    45.56695,
+    8.08691
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxORzhIWGdZZnJuOVRJTjhYc3pTbURlTVEyaDVBWUxBUHdIeWNzQ0hFLXFma0JoeDdVVFdSdW40c1lwdURfVHVLbmJNdW91S203Q0ZrbEhJdWpDNlRCRExsNElIaF9ZSXgzYzNNdFVMVjRFOWcySFRiOGFEVGlhdnlvOGlVS2d3V0JtQnVPMjVkUXFWZ0xhdGJXc0E5Y252cks3Z3FYaUw1QUtTX0FoV0ZSZjZMWmdMUWlVMkRtVFNHRW05eDdNc3AyeWJxLURxMlJ0Qi1KOUVCQmc5VTdvZk0yZ1dwdkc4MldQcmdwMEtIQW9YU0xpT3hONEVub1N6dm9hYUd4VXBDVTRtd3M?oc=5",
+   "altriArticoli": 1
+  },
+  {
+   "id": "gn-MlJCV1dNP29jPTU",
+   "fonte": "Giornali · RaiNews",
+   "titolo": "Cosenza, studenti in corteo per chiedere più risorse per la scuola",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-22",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-22T09:29:14.000Z",
+   "luogo": "Cosenza",
+   "citta": "Cosenza",
+   "regione": "Calabria",
+   "coord": [
+    39.59669,
+    16.33306
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTG1ncGxkQ3JhdDJreGYyMXB2LWpZYXBUc3hQUzlPc1A1MmlkVVBVcklMQzFDeThldk1OelgzMUpMcmI2bjlFUlRKOERIOGFyT1dlRllERHAzckJGcXdGN3h2LWYzWWFRcUhtSzY3d29ZeWhvcGtQSFRKYXR5OEtpZmVjSnFlX1libTQ3MkUxb2ZGV3kwZUxRV28zRTV4Um9tX0REVmZwekF1aGxIYkZ3VldtS09tdUZpeG53Z2gtZTBKajMtel92R0NydEptQnlqMTZiMzh5OVotUFB3WENNem1NNlotNHAzUXBDNnViRDNwZG9kQVlj0gH3AUFVX3lxTE5MbWdwbGRDcmF0Mmt4ZjIxcHYtallhcFRzeFBTOU9zUDUyaWRVUFVySUxDMUN5OGV2TU56WDMxSkxyYjZuOUVSVEo4REg4YXJPV2VGWUREcDNyQkZxd0Y3eHYtZjNZYVFxSG1LNjd3b1l5aG9wa1BIVEphdHk4S2lmZWNKcWVfWWJtNDcyRTFvZkZXeTBlTFFXbzNFNXhSb21fRERWZnB6QXVobEhiRndWV21LT211Rml4bndnaC1lMEpqMy16X3ZHQ3J0Sm1CeWoxNmIzOHk5Wi1QUHdYQ016bU02Wi00cDNRcEM2dWJEM3Bkb2RBWWM?oc=5"
+  },
+  {
    "id": "gn-bHB4TkVoTj9vYz01",
    "fonte": "Giornali · ANSA",
    "titolo": "Prima notte di occupazione di due scuole a Palermo, oggi sit-in fuori da istituti",
@@ -2744,13 +2828,13 @@
    "link": "https://www.invictapalestina.org/archives/55281"
   },
   {
-   "id": "gn-bkEyVkVrP29jPTU",
+   "id": "gn-RWh1UVEb2M9NQ",
    "fonte": "Giornali · Il Resto del Carlino",
-   "titolo": "Manifestazione 24 ottobre a Bologna: piazza del Nettuno presidiata dalla polizia",
+   "titolo": "Manifestazione 24 ottobre, il video degli scontri in via Marconi e piazza dei Martiri a Bologna",
    "tipo": "Dai giornali",
    "inizio": "2026-10-24",
    "dataIncerta": false,
-   "pubblicato": "2026-10-24T15:12:23.000Z",
+   "pubblicato": "2026-10-24T16:49:04.000Z",
    "luogo": "Bologna",
    "citta": "Bologna",
    "regione": "Emilia-Romagna",
@@ -2758,8 +2842,8 @@
     44.49382,
     11.34263
    ],
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb3ZtVnRXY1Y4NEQtYWhCa0g2eUMyTUREcGk5QUJXUWNnTWtUUS1MN1BENnVNaHBDZXdsNkNiTUU1QWt4M0M0dm5ZZW1TMXlKVmJQV09Kd1k2RmVOX1BTRkgtV2FFYUFDRGpTVk4zUzFZTXBINWJndHpyXzRCZDVoR0Q0SF9tY1pTMENzVWF1TnA2VEk?oc=5",
-   "altriArticoli": 5
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNHBMUXNiSExEM3BZSE5fdm92OVpzMFYtRW9wX05rM3Q1TFhhWkRQdTZndHU4WFdHYlQ5Q1JvWVFOMFp3YXRleFpheERYVm93aHgyOHpJSHR1LUlmTURqaWo4ZnpSM0JmMzdULUdaakc2ekNnR1lkcHNFSzBCcnI3cEdWaGhwU2MyMUNkVXJINUctSkttX0JvdDJETHBZcHV1RVl6UkNuaW8tc1htTGJ2NjVYSGp3Snd3WlJjNUpEVkMwVHlfOHY1dXlfbUFBRjVrU0ZWbmRueEhuQQ?oc=5",
+   "altriArticoli": 6
   },
   {
    "id": "gn-cEpRemcb2M9NQ",
@@ -2777,7 +2861,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQME05eUFKRWItWHYxbXdXLUwwRjhoT1NuTVJyU0ZUM3o0TmhRNjdwaHpMS3ZnSkxKNl90TTRMU2tNUFlLOEx1VW5wNVQyeWR0NDdvbnFCTUp4bTQ1d00wUm5PQ3MyOFZuNUhMNEZCczNtS2t5bGdkam1OXzE0OUhRLW41em9zUlhWUTROQUR5OExHZ0pHT1kxdmozSkR1VmpwUm9ZZWpaRkxxSUtHTzJvazZQV3Etc2FLdG9qN0c2ZXNSMjlDZDZGZTlweUxzQjNpZ0xTa1pJQzg?oc=5",
-   "altriArticoli": 13
+   "altriArticoli": 12
   },
   {
    "id": "gn-WkV0UWR3P29jPTU",
@@ -2815,6 +2899,23 @@
    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPMXBqV2ZuQmZ5TmdiTmc1TkRhVmgwZVlhWDVvZ09WTDI5NjZMZVlsWEk4UjhxOFFteTRqc3duUHpwN2xLcGZvVTIteEdySkFvWXhzN1dVOW00THJJaXJoc1dOMXp6U09FSm8tdUxzZkJ1Nm5BS1V4dnp3X3YzbVFxVUZXMVVtZVJRYWtBTjBoVG5YM1pJaE9nUlBsOUhQSzBEQ0M3d2NzTnV3RldZcU9YX1hKZjhDaXNvd0tBbzNuNVAwcFQ1NDNnTDU3MWlFTW1jU1BZSWlNZGdxdVNHOWs5b3plWXk1VFhBa3Z4S0E0ZHFJbEJ1LXVyb290LVJIcUU0RUsxVWJaalI2MGRlQ3BIcDF1MEplSzk4cS1KS0lGWENKbm9CMWfSAasCQVVfeXFMTVNVMXlacGVpSS1sUFNHMkVxdUxtaE0wSzJGWmZNQ2RJWmREeGJZRnh0QXVOSFBHMlg0azlRZXhOUFFOZzk3WVE5QU5ndjJDYnBnUzFlcVU1UDc4MHUtdXptajZ0ckg5a3JhSGdqY01CYnRrcE8yWlRNU3hqb3pDbXJZbG5NX2piODlWdnlYOU92YllsQzZLMjNIMHZpSTQ0SHA3ck1VZW1ZSXo5anQ1VW5XZDdnd0lFamVpS3g5dzd4RFdnMml2WEh0MjRVQzRQbTduN000LWlYaUFydWl0d0gzR3diOWwycmVGZ0xEVjlnY1pnZC13Qzd0dTc2VkV0NHhHb3E2eDdGMHdXUU1WTUc1eDlkODVOdjFEMW5vTUVQR2tPckpBQ2xpbWs?oc=5"
   },
   {
+   "id": "gn-MHpZekJSP29jPTU",
+   "fonte": "Giornali · Corriere Fiorentino",
+   "titolo": "Lucca, centinaia di studenti scendono in piazza in un corteo pacifico: «Ci siamo rotti...»",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-24",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-24T09:56:04.000Z",
+   "luogo": "Lucca",
+   "citta": "Lucca",
+   "regione": "Toscana",
+   "coord": [
+    44.01776,
+    10.45443
+   ],
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPWHlUNzFkemVrejkxY0hjWG1tRFB4cENYaW1XRDlZQ0dpaWhMbDhQMEw4b0t0TVBBV2t3SVF5anpfOV9LRGpPMmpRSWhVaU5ObHY5UTN0bzk0UVRZSUVmTFpCT2pzZWMtOEthdlcwSm4yRHdMTWZDM0g4LWxQWjlyYndTQkdzYjNxYTZDbFdpNlM1OFpWaFNIbWw5UVFpVzJBR09CQzd6VVp2b01lMWowX0dremZLMFA2d2F4Q0ZoOHJMR01Ud2FrcjRrUlFkZXNtUlV6SjRONW5jbldZREQxYjE1Um1HTEpXR04yOVpuVmY4WFdhVloxblBRSDhJa2NjVVFwalNWTDBnTHdyQ3NjVGZDMDBKdE5iazVwWnBvb0PSAaYCQVVfeXFMTzByN0pJSTU2dEQ4V2puQ0YtN2tUTGtDc2dIbHRwRk9QU0NhRm04VHlIaXg1M1dLSms1SF9HdExwVEFHTFEtMXJtLVZFa0lOcDQzem9GOFN1VHZFMDNJUkdjOU8wMklTdmI5dU5iYTJMVlBEdUFMSGRiYXBFV2dZbjBaaXBzOEdYRmhfQXB0MFF6b1NhS1hCWTZkOXZpT2g2QlVmT1hROFc2SHRoalAxWmZ3U0o5YkFkTVlFd3U0Q29nN0N0TndDWG1aY29mTTBVVU5GaHFmMnQ2SjNkNWJvZEEwT0w2eEJuTmlINUtxUWZBQTZkNEdzWG94Q2RVSHVoZ2lheUNseUotN0JYODFfT2duVGJOMlk3U0lPbVBqMW5GbU0zYzBR?oc=5"
+  },
+  {
    "id": "gn-Q1RtOURTUT9vYz01",
    "fonte": "Giornali · Cuneo24",
    "titolo": "Caro carburanti, mobilitazione a Cuneo: oggi il presidio in Largo Audiffredi",
@@ -2832,24 +2933,6 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUk04MmFGcG5zQnhfcnNnZHlpcWg2bVJ3Y1VvVkQ1dUZyZnQ4RERORkVJcU9ZNVdMU1JlWThJRWF6ZWh4TG1PeGtTQUZpM3A3RHFZV1Z5ZDRXODFrak1Iem94NlpHX25WemdfQ1hkbW40c09RN3NkVmdieUd1dDlnMlRmSFY0OVZQMmtDMm03TDBoemRJTGhJWlF1WUdwSHp1TEJEdTRVYmR1dGFQc09CTm9DSQ?oc=5"
   },
   {
-   "id": "gn-M2JHVTFVQT9vYz01",
-   "fonte": "Giornali · la Repubblica",
-   "titolo": "Firenze, le contromisure dei negozi del centro storico alla manifestazione di oggi",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-24",
-   "dataIncerta": false,
-   "pubblicato": "2026-10-24T07:08:00.000Z",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ3p3bGduQjVaZGVHTDhIaFRfY0FaRnlhMTBhYWhEb2pDaVdEbDJsa0dEUVlVWWQ1c01SUXdhZzZhYzJVdmowNFBpZllvSGw1c3czSGhIdHpFckNmVFUwdXJVZ2hFRHp1MEhYaTVJaW5QUTNHZ2d0MnB2LVhRNXE1SE9Kcl8ydnFiWGU2TTNxQ20weUJJMTdSN3Zpa0Y0OHh4SFpQY2ZIcmZxRGNucExkWHY1T3RNc3U4Y2dxS2JlQnZfX2JsaE82N1RfMEtrMFpod2hSZDQwdkxUR1I3bGU1UA?oc=5",
-   "altriArticoli": 2
-  },
-  {
    "id": "gn-RXdRVlZRP29jPTU",
    "fonte": "Giornali · Bresciaoggi",
    "titolo": "Corteo, presidio e rischio violenze: Brescia rafforza la sicurezza in un sabato blindato",
@@ -2865,6 +2948,24 @@
     10.42587
    ],
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGlkV1RxenpidjFxR3FzeTZSbzc2S3dJM05vQ2VxQU9ycTN5Rkl3b090d3pkeGhoQWthUzB0aWFTT0hzenJSQ0JJRktzU1UtSkhqN2x3ODFNZWhHc29YdUJLUVB6dFA3Mm8yOGxtbnBNMTVJQkVfSGE0YllhbnB1LVRVWHhoMWlVdXRJeXBJLWx4dVJFeTJNM0E4UHg5MFdLMy1sRUF0VndYT3I0MjlQT1BwTnBJU2xXMlRlckZUS2RCS3RicERtVF91NNIB0AFBVV95cUxQaXZGVGNibjZHQkZmejZ0NTNlc25JRUtBNjZ2QlE4TTJVQjNSX09udTZVc2JuXzhzSGFQajVpVTRtNVBWdmdMdnh0c05TWWZZa3EzU2lGMTQzcUNicFI3clpRNnBQVmFSMkthOTdSRzFmMGctZlg1Z0hnYTVMUUdUeWpCTDBxU3MxLW54WmpRVVAzbnNpWkc2b0k5V0VnYlU5dFFmX005UjdDdm9HTmhjQlA3YTc0OWJycExYZ0ZXV3ptRjZIblJ0OUxBbDEwQVVQ?oc=5",
+   "altriArticoli": 1
+  },
+  {
+   "id": "gn-bHNXREEb2M9NQ",
+   "fonte": "Giornali · Novaradio Città Futura",
+   "titolo": "Manifestazione domani a Firenze, molti timori e poche certezze. Giorgio: “Pronti a difendere la città da chi vuole solo spaccare” – ASCOLTA",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-24",
+   "dataIncerta": false,
+   "pubblicato": "2026-10-23T11:29:49.000Z",
+   "luogo": "Firenze",
+   "citta": "Firenze",
+   "regione": "Toscana",
+   "coord": [
+    43.7698,
+    11.25564
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPam1UUkJ1VllsNmJxYVZLLVhyd2l4Nmx3NkF3SXE4bDNTRnBycnVZeEYzSmhzaTgwREdtSTR3aVlTWGxBTnhTYlc1T0hOWWlGSHc3cjFKZWpMb1JRcjZjelJsS2xKemkxbXJVVXFBejZ6cjdNbHpsNTJ4UXhKOGFsR3d6QkhodHhYTG5MYWo0VFFXblNNT0NQeUVrd3JXMUM2TjNjakY2QWZpZDFITVJZUzRwbW9faEZ6aEJKYnQ1bmhZeHZqLXFVTnZ5ZkNvMDB6SkkxRHJTc0NDNGRsZW5xMUZGSXBMcnBCeFpJS0VoMmlsWDA?oc=5",
    "altriArticoli": 1
   },
   {
@@ -4273,6 +4374,13 @@
     11.23018
    ],
    "regione": "Trentino-Alto Adige"
+  },
+  "pesaro": {
+   "coord": [
+    43.90981,
+    12.91312
+   ],
+   "regione": "Marche"
   }
  }
 }
