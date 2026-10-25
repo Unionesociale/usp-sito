@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-25T20:40:43.680Z",
+ "aggiornato": "2026-10-25T21:41:53.556Z",
  "notizie": [
   {
    "titolo": "Anp, '2.670 palestinesi sfollati dalle proprie case dall'Idf a Hebron'",
@@ -244,6 +244,12 @@
    "data": "2026-10-25T18:03:17.000Z"
   },
   {
+   "titolo": "Sabato ad alta tensione: tutto ciò che serve sapere sulla manifestazione attesa per oggi",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNWx0VTZ2d2JGVFprOFI0MEI3SUNGQm9SV3daTk00ZExkbW5qd1hDNFY2dng1bTlKZ0VsdEx1bjQwTjZuamtuMVlBWUU4bm05Z2pfZ0NyN2k1LUpHUnRxNGpoOTRnelhvbEhQUnpJeDlheWs1N2c3YWdoWG5WRkRmX2pTaWQ3U3FVTVpqT3NJVUExSXhDRnN5VkdfUnlfWDdGYzVqYnlWcw?oc=5",
+   "fonte": "BolognaToday",
+   "data": "2026-10-25T16:33:29.000Z"
+  },
+  {
    "titolo": "Napoli, dopo l'occupazione prendono scope e stracci: gli studenti ripuliscono la scuola",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhDSC1vdlRCYXpNdE1veHpscEJacjdybGlFd2oyaTdRN1FTREprQVppTDk2S196UXdSMmNkZlNfbjBFS0xtaXlPZEx0NVlJeGN5ZHdLc3l6djdRUXBpUUNkUmRMNFVQQnV3WTU0RHN1MFozQlVMWDRlWmdTanYzMm1Pb015TWY4dTdnM1V3Y0VmMW45TE1uRmg2LTMtREZpRWtndFliZnQ1N0R1WHFwR0c3ZTFlSklyb0txQmlOMXd3a1V6VTIyRUJteUIxdkJvQmtLLXZ0REVOWU0?oc=5",
    "fonte": "La Stampa",
@@ -298,16 +304,16 @@
    "data": "2026-10-25T14:53:01.000Z"
   },
   {
+   "titolo": "L’aglio rosa di Nicastro è un nuovo Presidio Slow Food",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHlkRUJxcXRoSzJ5TzN0Wm5jR1htdjhMU0V5aDUzVFRyamhpdVpqS1E5ejJsdE5faXRVY20tUG5rUFp1SkZ2YjFzdnAtVjFscjdMMjV6WFBOWnVuMGxYTDdDcWZhd0F5ZFI4WTI2dFhSWjZ6bkFreUpVNy1sbVl4ZWtxaHJyaG13cXA0UnpPQ2RSSzA5OVFQRUdxRzVpVEQ1MF9YTzZrSVBzUnMwYnQ1WXB3?oc=5",
+   "fonte": "TeatroNaturale.it",
+   "data": "2026-10-25T14:00:00.000Z"
+  },
+  {
    "titolo": "Scontri in piazza, Youssef Siher al presidio pro-Pal del 2025: \"Hanno paura di noi\"",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOV9zc2dBblVwWEVGZXM2c0t1YVBYeDNPNkFWaFlac1JqSkVKcGRqZU4xMG9TbGp2NnZ2UkczeDJ5Ym5DRmlNNlFVQ29YYmh4ZjNncEhfVVdFWlpndU11R0lTR0FTSzd6TFY2d0NDVGNldFR6VWdFaFpkalpKT3RZaW9fU1NEQU9rUF83WExDTnl4d2k2NDhwYzRPVzZqUTF2bmcwYlMtd3dOWkgxMU5NT1dnY255cTFKVW5Wc2lB?oc=5",
    "fonte": "LaPresse",
    "data": "2026-10-25T13:52:24.000Z"
-  },
-  {
-   "titolo": "Sabato ad alta tensione: tutto ciò che serve sapere sulla manifestazione attesa per oggi",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNWx0VTZ2d2JGVFprOFI0MEI3SUNGQm9SV3daTk00ZExkbW5qd1hDNFY2dng1bTlKZ0VsdEx1bjQwTjZuamtuMVlBWUU4bm05Z2pfZ0NyN2k1LUpHUnRxNGpoOTRnelhvbEhQUnpJeDlheWs1N2c3YWdoWG5WRkRmX2pTaWQ3U3FVTVpqT3NJVUExSXhDRnN5VkdfUnlfWDdGYzVqYnlWcw?oc=5",
-   "fonte": "BolognaToday",
-   "data": "2026-10-25T13:38:19.000Z"
   },
   {
    "titolo": "Corteo a Firenze: 14 i manifestanti identificati",
@@ -710,12 +716,6 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaUoxZVR5VGtZN1BlTUluSjRqNnRjRGw0UXliQkthMjhVNU5vMWw1RDh5UEhPVVZyQTVIeE1iOE1ET1FWbW1nRlQ2ajR6cUN5T1E5MnhCMlNWTEJjRTJqX3pVSHhLM0pBc2dSWUYyR0RYUktIOVRYQWt0MmViWTk1aVZfOFRnRUlzRks1QjZLQjM1Q1V1ZGtCUW85dG8?oc=5",
    "fonte": "Il Fatto Quotidiano",
    "data": "2026-10-24T18:26:24.000Z"
-  },
-  {
-   "titolo": "Studenti in corteo a Torino contro il carovita e la guerra",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU2tEbGZDWDQtRmlseldzNDVLS00xVDNocW96RzdCOTlKazlfdmJPQS00OWI2Q2xMQVROQUNlQ1pHTFhxSUVYUkFuaFlLUkZncnZQX0VvakxsMXhxMF9OWGFfQmdYU1BDaG04VElGai1DblZ1S0VvMWQxcWZsQWZLczFickNoUdIBiwFBVV95cUxQdTBkei14Q2Y5N0J0eHpIVmRDVlVCZy1sRmpscy1uZTRGaGU0eml4ZEx3MmFvWV9kQmNzUkdZb0tBRGxTX2ZocFpjTlBSM24tSDhwSmFfZnJnMS10LUo0ZjhBbnB2a3VCOWlWZG1kdVA0RFo4czRtUGZMNmhKNEdWLVkyRTFhMDZnUWRV?oc=5",
-   "fonte": "News Istruzione",
-   "data": "2026-10-24T18:25:00.000Z"
   }
  ],
  "eventi": [
@@ -1234,7 +1234,7 @@
     9.75422
    ],
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM2VfRmxzS1JlY2hKTGlWUUZIa01FN2xwYTBScmI0WHd6djFWR1E1d1JTWC1lM0lldUF6QWpOaWFXLXlrcW9rMWQyM0RGMnNyZEF5Tk82QWI3Vkp6Ul85ejZKM2VmUVZXYkREbndpeEc3dGZNenkyMml1al9zMDVqUjFXSzFYVS1lLV94Mnc5OFJIaGZKcEo4WFdYb1Qwa1loelBtNm5ZSDltWldHcEVxaUVfNURSTlc4eGdjYThDSERmQzFHcTQ0dHVFMmIzTzFkejNGZkpfUl9uMFFZc05QdUxza2d6R0lYVUJrMXU3VVFKaUdBaEJVV0tB?oc=5",
-   "altriArticoli": 5
+   "altriArticoli": 4
   },
   {
    "id": "gn-cHdXWGxWP29jPTU",
@@ -1824,23 +1824,6 @@
    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdE9pNjJmN0p5YXdObGJGM1RDaW50TjRBZzJyck1XNkpJU1cxN0d1eXp1RU9OekMyRWN1azRhNFZjcUluaDFoTk9tVnVWenB2eXp6cjRiQnBEb3FIS1hzMGdlWEcxVzBGYkc1VW1IZ3hHVV9jZnZNZWx0Q01ZOGFuVHEzZXB3N1pEejBDTVVTaVFPdXdNN1EzVjNoX0liV1pnanVVSUZhdlpLbVpSbGZuTEQ5dGtGdTdXdEZGZHlzcDlfaXhJMWhMMFllSV8xVVNNamU0cGV6N0dtdlB1WkV0N0NqMzJPbnk1YlVNQTJrOGh6VTk1dEltR3A1eXhWd0h1REHSAYACQVVfeXFMUE1lajZzbVpGUnJWX01JWTl5aEJ1d2I3Ml95ZF8tVW4yVC1fcDNtbmdUUG80X1g1c0s0UXJQb3BhUU9YUVFCMlprSnIwaEdpMERJQTNYVWhpeFBOMERiajFKcUx6VU92WWo1dHA0Y2l4NnJ5SERmWjZjTTNMMmhMbmdCbGxmR19IdmFfLVYwdUsyOEtQaVFWOVhyWHBMeFdnaVF1T3c4aEJHNWc3Z1NjekNHQmt0eGxjbGRPTVpNR1h1YzhidENqX1NFcXk2MVJzSTI5RXdrSnZpaDdnR3NtYzJ6S2ZtNDhIczJ2c08zaFllZDRvaWpOS0ViNzl2M0hwSQ?oc=5"
   },
   {
-   "id": "gn-UXljRUUb2M9NQ",
-   "fonte": "Giornali · ComoZero",
-   "titolo": "Rischio assalto a Como, scattano petizione e \"presidio pacifico per la città\": ma non si dice dove",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-20",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-20T19:23:13.000Z",
-   "luogo": "Como",
-   "citta": "Como",
-   "regione": "Lombardia",
-   "coord": [
-    45.93959,
-    9.14936
-   ],
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV1JxU051RGlCbXFrdVBBVGlUVUxzbWNzZnJBYU1xaGNZdlcxQnJkaHd6c29pdnRHNU9DME94ZHp5ZGM1VXRGQXVJZ211T0NMc0xlU29NYldmRmUtRUVoWUIxa21UN1NNTWp1bDJxNkY1WmpCRnFZbU5ZMW03R1hZekprSGdzTWpPSGhLSGp2c3JnSzRfRUdDVC1WdUlTNVA4WjJlS0hWVDFDQkF2dl82NlNwR2xibW00Zm9leUxyTVZQT1QycEE?oc=5"
-  },
-  {
    "id": "gn-UjB4a05Waz9vYz01",
    "fonte": "Giornali · Veneto Orientale Informazione",
    "titolo": "Portogruaro, Manifestazione studentesca, venerdì mattina il corteo: transito vietato in centro storico",
@@ -1908,25 +1891,7 @@
     45.22086,
     10.03704
    ],
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX3h1OTFNZHVoQVg3c0MxMjk4U1FzVWFUNEVJZmhOSmthQjF5VExmUVV0dXJscEVuRmNJaG10MzBydjlYYTQ2eFFpNWtqTFY0anJrdFZwWXBHV21PSkRaS3dSMDZpSkpjdUFDeXI5eEFPT2pEeG5BektubzNjLVRJM2VKbmJWYlo5R3NrN0R5YnJXMHVX?oc=5",
-   "altriArticoli": 1
-  },
-  {
-   "id": "gn-RVptVjBNP29jPTU",
-   "fonte": "Giornali · Siena Comunica",
-   "titolo": "Wine & Siena 2027, il Comune conferma il sostegno alla manifestazione al Santa Maria della Scala",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-20",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-20T08:32:47.000Z",
-   "luogo": "Siena",
-   "citta": "Siena",
-   "regione": "Toscana",
-   "coord": [
-    43.16721,
-    11.46756
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYkZFcm1ydG5Rd2luNUxRclhJZXB0cGZ5bkNPVkdaVWRKT0loVFA2LUdxU1E1QlBXNGtCczlKMTk4ZnV4ZWstN0JXcTE5ZklnbWhXTFlDUVZ2cDVIZUd4YVJxdjdXdEl3ZlVEbExQWDB2UW5YMVRFcWIzenU5MEN4TDF0SkIyRmFaWkY4cHcyYlNQS0FrSDJXQTRGdmhaN3o3RWV1SGZkNXdpYm82eGxpSVl5b25hbGpyaE5pSEZmV0M?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX3h1OTFNZHVoQVg3c0MxMjk4U1FzVWFUNEVJZmhOSmthQjF5VExmUVV0dXJscEVuRmNJaG10MzBydjlYYTQ2eFFpNWtqTFY0anJrdFZwWXBHV21PSkRaS3dSMDZpSkpjdUFDeXI5eEFPT2pEeG5BektubzNjLVRJM2VKbmJWYlo5R3NrN0R5YnJXMHVX?oc=5"
   },
   {
    "id": "gn-MVV3TFdjP29jPTU",
@@ -2014,23 +1979,6 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-UjJsaE5BP29jPTU",
-   "fonte": "Giornali · Infermieristicamente",
-   "titolo": "Ferrara, sindacati in presidio a Cona: «Basta promesse, servono impegni scritti»",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-21",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-21T15:04:56.000Z",
-   "luogo": "Ferrara",
-   "citta": "Ferrara",
-   "regione": "Emilia-Romagna",
-   "coord": [
-    44.76676,
-    11.82794
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOWpMRHp6a0pPQm9NRE9DdlhfLWtfbGx4Nk9TdTBiSHFpSkxHNTlNMVBCNjdhQWJ1S3NZR0ZhSU9heTNEVUh0MlczNjFQOG5GNU5JSWI1SUVhR0hPTmZHV1lLdHVZc3FycWxDdEViRW9FN1JaNVZtcWxuMFd3bXpKeEdBNmpZUGljcjhtU3FpeG5nS0ZRdlUzSmtsenhLWVhzVGVSRW1lbXJPU3VicnZNWm5rNnhFLVBaS3l4aWlfVTJpakFTQnRIR2lhNA?oc=5"
-  },
-  {
    "id": "gn-WFZCZERKQj9vYz01",
    "fonte": "Giornali · Open",
    "titolo": "Studenti in Dad per il caro carburante, la decisione del rettore alla Federico II di Napoli non piace agli studenti. Scatta l'occupazione: «Non basta",
@@ -2046,7 +1994,7 @@
     14.24877
    ],
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1Q0U19fMUNVTGpNaGEwSFo1dC1fOWxpZXdlYmZmQXFpSnh0MHhRYTFfOHJ4N0N1RzdXdUJQR1JNVkthVXhVLWFoVC1JLTVkZDNCTUZvclJJUlNHaXhfMkpSNWIweTBTdEpKT1BNcGNqMUptOEhpVjFrQnM3UjRkaVZMTFJhcXVBdDJB?oc=5",
-   "altriArticoli": 9
+   "altriArticoli": 8
   },
   {
    "id": "gn-VFdFNGR3P29jPTU",
@@ -2132,7 +2080,7 @@
     11.80585
    ],
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQU5sZjJxM2U1S1Fab2lBajZfZ1JQN2NQM3IwRmkwN1RRQXYzbE9OV25fOEtwX2pvNkJpWjBPcG5PY2owcW9SQVBWazRiZWwzM2wyWTMtcEdPWUdCQXRWeEI1SURWOGFMb0VoaC1QenNlUTNIeHRzM05tUUF3YUZyS05VRmJFRHZXeURWRFZuSVVjbzFHdnc?oc=5",
-   "altriArticoli": 4
+   "altriArticoli": 6
   },
   {
    "id": "gn-V1Z3VTE4ND9vYz01",
@@ -2972,8 +2920,7 @@
     45.06776,
     7.68249
    ],
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUVAwY2E0cGVITWk0VXdEang0RXNpTHo3OEJKU0hmOTU3LVZYR0Q2aU1UejR3azl2X3Z3ZGZwaXVKWFpYMmdiMkhGQ2lEQlRQZWZzTFVJVTA5TS1mOGpVOW5nVWZJaGFLSmtMZ1dwR2JGY05HNGdNMmJxR3d3Y1Nkb0drUVBqN2FvU1V6dFdxNjAyeDhZX0cxQXFIRFdTRnBhOU5YSExWQW1EcV9nZ0ItTm0tNG1BRmlxWlJxU2tBd3M4bUZxOU5BcG9Xa3RHYkdnbXhuUzdITDFwNXgteGVXd0VBb1lfVjVkVkc5R9IB8gFBVV95cUxQTTdxeXBhMW9CTGRsWGRJNGpoRTlSZmxxRURoTTMxRXVLRkM3LXlXREJkTFpBV2dJaW1LTXZyTmRfS0luRW5BZW9EUjYtSWVBeU9hOHc1Q1ZMem5uXzJmYkFIZE9jYnFrX1JXS1RvVzRDdWd4T1JaRkhLSEpPTGRYaGFSMk9WdGF2OXNkR1B2YmRJQ1hqZXBtcWY2bm5XaHJmRE92SXZUdEVWZ2ktVkJTdDFHLWNUSUNKc21LSG12YmpGSlNBOEZISEloTG1wN3pUd1dxRHpyRkViUXgtSUhYWHROWlVxTnJJZWJoUlFIcVFYdw?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUVAwY2E0cGVITWk0VXdEang0RXNpTHo3OEJKU0hmOTU3LVZYR0Q2aU1UejR3azl2X3Z3ZGZwaXVKWFpYMmdiMkhGQ2lEQlRQZWZzTFVJVTA5TS1mOGpVOW5nVWZJaGFLSmtMZ1dwR2JGY05HNGdNMmJxR3d3Y1Nkb0drUVBqN2FvU1V6dFdxNjAyeDhZX0cxQXFIRFdTRnBhOU5YSExWQW1EcV9nZ0ItTm0tNG1BRmlxWlJxU2tBd3M4bUZxOU5BcG9Xa3RHYkdnbXhuUzdITDFwNXgteGVXd0VBb1lfVjVkVkc5R9IB8gFBVV95cUxQTTdxeXBhMW9CTGRsWGRJNGpoRTlSZmxxRURoTTMxRXVLRkM3LXlXREJkTFpBV2dJaW1LTXZyTmRfS0luRW5BZW9EUjYtSWVBeU9hOHc1Q1ZMem5uXzJmYkFIZE9jYnFrX1JXS1RvVzRDdWd4T1JaRkhLSEpPTGRYaGFSMk9WdGF2OXNkR1B2YmRJQ1hqZXBtcWY2bm5XaHJmRE92SXZUdEVWZ2ktVkJTdDFHLWNUSUNKc21LSG12YmpGSlNBOEZISEloTG1wN3pUd1dxRHpyRkViUXgtSUhYWHROWlVxTnJJZWJoUlFIcVFYdw?oc=5"
   },
   {
    "id": "pl-13464",
