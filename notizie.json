@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-26T03:47:57.394Z",
+ "aggiornato": "2026-10-26T04:47:13.641Z",
  "notizie": [
   {
    "titolo": "Anp, '2.670 palestinesi sfollati dalle proprie case dall'Idf a Hebron'",
@@ -460,6 +460,12 @@
    "data": "2026-10-25T08:18:00.000Z"
   },
   {
+   "titolo": "Roma regge l'urto dei cortei: idranti a Termini e blitz al Colosseo, il bilancio delle proteste",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HakcyZ1E3YTNfWGJiZnhJZ2MtUkVPQWd4Z1N1YVNsbllzeVpiUURMX0V5UG9LeDJkU3p4TVlZZlhIdmwxYmNjZ0pITk4wdm9TV3RzN3RWRDhkVnFEMDJYcmxvWnlmaTZ5ZEw3NkxQaGk2Skl6M2FRU2ZNS0hrZ2M?oc=5",
+   "fonte": "RomaToday",
+   "data": "2026-10-25T07:56:33.000Z"
+  },
+  {
    "titolo": "Più di 1.300 arresti in Francia nelle manifestazioni di sabato",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VSG9CS0txNnpwTzJzNWIwT3Q3RE5odDlJei1DZmlwR3h1ckNMRmxNYXhpT3ByNDdUMzV5NEgyQ2NNdFR0bmk1X2NiWjR4X2tlS0h5dlluT3VFMXVmNUhfQjlZdXNibXRfTER6RC1KVFVURkFLM29sLUpB?oc=5",
    "fonte": "Il Post",
@@ -710,12 +716,6 @@
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQckxnWDhVSllSaFhpTms2cUJWWl9HVmhjaWx5VlZvMldURWEyLU1ZU3V0RHAtMkdEd0xPaTZ4RTUtS3lscXBjS3lsam5VWmVLdGwxRnFIU0xoMWtvTWJYTzE2dUFxTG5zV3hwZDZlbEhmSmJqVEdybHRGYlAzdGR5X2w5b0xXNWxvdk1TR0c1SThvV2NzUE15NkhxeUxlSzBISDRHbGpQY2ZVdFYwdk1meHhncFJDTHJOb21nQzlCeXNmenJDSGc1NHIwaXgtQzBUSVczRm5wcw?oc=5",
    "fonte": "Il Sole 24 ORE",
    "data": "2026-10-24T19:00:30.000Z"
-  },
-  {
-   "titolo": "Scontri ai cortei in tutta Italia, cariche e lacrimogeni da Roma a Torino. A Bari poche tensioni e manifestazione pacifica: nessun incidente",
-   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNaGczdVBoeXlfUWtHdjN6RXREUDgwNjNSelBzMGhWUTBBNUdCTFNCRmtKcUJDR1lnRzhZMXNPSzJxVUFoNTc0bHlJUllFYnNQZUlxck5aWTBxdlN0emQ1aHFpLU1fYUFVeHQwTmVseE41ZkhWMER0UFJscmVoUUZvcGhpMDlyQUN5MmJJTG5QbS1zQU9HamV3REkwNUd6OXpxY1RCTXp4dV9nVC1ZdEdQeHNmX1FTSmh2OU91VTBWbWlfQjBxM2I4ckpPT0dkLUtFTnVYT2xHTmRtRHlLYkRrMXctcXNWYWhTRFhDWG9lck9Uc2lhRVNTVjRUX01pc2NzbVl5bWY3TTdvMjIzWVFtaDJ0SmhyQ1dpSVpYTDlPVkRSVjMzYnltUXpB0gGoAkFVX3lxTE5ZUzZzVE1Ob1ZrSWlMd0t5WDFuVUlVSm9kRWd6Mks3Z013T3ZpM0lBNlJiWGZfUlNZZVRLQmRuMWtSNDloVFB2ZG5XYU55aWdJMkZZVGhvU0h0SnI4WUZ0TVhCWjZsYmFxV3lpcUNQa290TWNaN1pEeURGd2ZraU1aY1ZKaWxjTzd3Z1ZCaGxFZkk1ZXJPRmRWNjlKVHRyTmRLQVVtZEtJQlFMNjh0cFozR0stdTNaV2FqMXdXdXZGWnJDLUIwQm56M25KOHRCYWVsZnpzR1VzSTR6T19Ra3U4ZDdCSlF1aDdKVl9JMVZJQ2NpdWFzSXdfRVFrSUZXdFlJOGxLODlrRUw1ZXowdDhQN1J3ZHJCTkNURWo3U2U4RHRiUTBJTE95?oc=5",
-   "fonte": "La Gazzetta del Mezzogiorno",
-   "data": "2026-10-24T18:59:00.000Z"
   }
  ],
  "eventi": [
@@ -1101,7 +1101,7 @@
     12.48293
    ],
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQmVLeVJEOE1FdmROVGJYc0pNZ21hTkNHZDlXX2QzTndmZzhnSE56anM1Y3hQdGV5ODFQRldQb3VoRkp0eFdnU0NWT09haVlmcEN2cmdLalZNcUh4SV9rMGZxb2JWR2xtRl81RWRCdWphdkFOalNDeDlyQVQtRXg1cEJ6ZmE2SU9IN1AzSV9qVQ?oc=5",
-   "altriArticoli": 18
+   "altriArticoli": 20
   },
   {
    "id": "gn-VlYwdEIb2M9NQ",
@@ -1207,7 +1207,7 @@
     9.18963
    ],
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUEMxRm5ZckFnbnliNlZKYm5fUm9DcjB0cndoTTZOVmdtM0NDZ001VmdrYXhIN2x1WGVsaFoxby1lY2FFdVFtWkVZOWs5SzIzSkNEdWlRRFRqS2pNbWRDRkFSQnE4TklnV0hyUG0yQzBqd21rYTlPb2pWVndxVDVLYXc2MFh0Zjc5Z2sxVTRONXdvdE40dnA5U3JOVXl5dUFFS1FOUWdPandHQm9HTmxrTUFLR1lFa0ZIYnVjSTc4cTVUQmNCV2JIODkxbnRIc0Q1TkRv?oc=5",
-   "altriArticoli": 26
+   "altriArticoli": 27
   },
   {
    "id": "gn-TWpGaFFraz9vYz01",
@@ -1225,7 +1225,7 @@
     11.34263
    ],
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZjNjMkdIY3FxYTRnODFLZVBfNkRIVEYtTWVXMUJCTFFUakpKaGhKTGRMUm1CUDdOVkI4dWVzTXFaaVBKd1hjLXotRzFMOEVHUUYtbzFjN1U1T2lYUEZ4elBSbUNvWUNQaUFTRkYyN3pjb2VZQjk1MWVPdkJSM0tXUVN2cDRDM0xWeGgwZU4xUGVVbGE2UHRwZUlVMjFhQkk?oc=5",
-   "altriArticoli": 7
+   "altriArticoli": 8
   },
   {
    "id": "pl-13467",
@@ -1454,41 +1454,6 @@
    ],
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONFBxSHlYSW96dmRRT012VThZQzZwMlVNcHdfQ2FZaEVhelNjaGlPWWhSUXpQWG10bkwtM042aWlIM0pCWm03TjJ2SjRDMVVBcXBpbV9KUnZtLTFHcnVjSzFFT1F0MmZqT2E4Q2hiYjNxVUR6eFNOdk9fbTgwTDVvRW1TaFhhZUROWExDX1JXM1JvTHdXRW5vb3lSNFc5YlRta2piQXRoWkpjd0RGQ2dUQVZaTW4wSlhrN04wb0xpaWJWWGdwMTlXc3JQYXo1TXV3QUxXMEc1M2J0YjJPQUpKckQ0aC1SQ1k?oc=5",
    "altriArticoli": 1
-  },
-  {
-   "id": "gn-a3laMTluP29jPTU",
-   "fonte": "Giornali · Quotidiano Piemontese",
-   "titolo": "Torino città blindata per il corteo di protesta. La strategia del Movimento 17 Ottobre: annullate le piazze annunciate",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-17",
-   "dataIncerta": false,
-   "pubblicato": "2026-10-24T12:57:47.000Z",
-   "luogo": "Torino",
-   "citta": "Torino",
-   "regione": "Piemonte",
-   "coord": [
-    45.06776,
-    7.68249
-   ],
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbzU3Ym5rd195MEVOU1lTVXlHcjVGU2FlN19IcGdOQ3BzUm4yZ1Rma0dJNkZaQTBuX1RfdFRzRUFqSDFfYzM4SWRrUkxoVGd3bFd4enNpNTZhOHllZnZUY1I0MmJsaDVPeUp2UXZPLVMwa3VwMWRrZ2FnazNscDZwWkM5YjFPRHRxYTcxVy1vdFBXVnNRMWNINGdiSXlBTExXaTZiSlBNWDRQbHBFYkN6RzVINzZiQTdXQTkyZ19n?oc=5",
-   "altriArticoli": 1
-  },
-  {
-   "id": "gn-UzBvMFQzYz9vYz01",
-   "fonte": "Giornali · GenovaToday",
-   "titolo": "Blitz della Digos a Genova: perquisito un 29enne alla vigilia della manifestazione del Movimento 17 ottobre",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-17",
-   "dataIncerta": false,
-   "pubblicato": "2026-10-23T12:00:00.000Z",
-   "luogo": "Genova",
-   "citta": "Genova",
-   "regione": "Liguria",
-   "coord": [
-    44.40726,
-    8.93386
-   ],
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY3dMdGhJXzRSRUdlMGVvc2x5VXd6azhrQWJPZnhQamxMM1o2bU54LUhNemh1MktMWHZwNl90aEhvWkZkQ1VVRExoY3pHRkpVSHktUXdvYTRPQWdfT29Tdkxra2VTWDFTNG9EYWNCcFJ3VW05eVA2VFl3N2pDR0UwaW1SNzNSZWtLQjhXeHFGcXVnS0o0T3c?oc=5"
   },
   {
    "id": "gn-RTAzUTNsVj9vYz01",
@@ -1881,24 +1846,6 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-WFZCZERKQj9vYz01",
-   "fonte": "Giornali · Open",
-   "titolo": "Studenti in Dad per il caro carburante, la decisione del rettore alla Federico II di Napoli non piace agli studenti. Scatta l'occupazione: «Non basta",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-21",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-21T13:52:09.000Z",
-   "luogo": "Napoli",
-   "citta": "Napoli",
-   "regione": "Campania",
-   "coord": [
-    40.83588,
-    14.24877
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1Q0U19fMUNVTGpNaGEwSFo1dC1fOWxpZXdlYmZmQXFpSnh0MHhRYTFfOHJ4N0N1RzdXdUJQR1JNVkthVXhVLWFoVC1JLTVkZDNCTUZvclJJUlNHaXhfMkpSNWIweTBTdEpKT1BNcGNqMUptOEhpVjFrQnM3UjRkaVZMTFJhcXVBdDJB?oc=5",
-   "altriArticoli": 9
-  },
-  {
    "id": "gn-VFdFNGR3P29jPTU",
    "fonte": "Giornali · La Provincia Pavese",
    "titolo": "Pavia, riaprirà lo studio fotografico “spazioventi”: «Un presidio culturale in città»",
@@ -1982,7 +1929,7 @@
     11.80585
    ],
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQU5sZjJxM2U1S1Fab2lBajZfZ1JQN2NQM3IwRmkwN1RRQXYzbE9OV25fOEtwX2pvNkJpWjBPcG5PY2owcW9SQVBWazRiZWwzM2wyWTMtcEdPWUdCQXRWeEI1SURWOGFMb0VoaC1QenNlUTNIeHRzM05tUUF3YUZyS05VRmJFRHZXeURWRFZuSVVjbzFHdnc?oc=5",
-   "altriArticoli": 5
+   "altriArticoli": 6
   },
   {
    "id": "gn-V1Z3VTE4ND9vYz01",
@@ -2258,6 +2205,24 @@
    "altriArticoli": 7
   },
   {
+   "id": "gn-Vzg1ZEc4P29jPTU",
+   "fonte": "Giornali · Il Fatto Quotidiano",
+   "titolo": "Napoli scende in piazza contro il carovita: 500 in corteo",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-24",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-24T18:26:24.000Z",
+   "luogo": "Napoli",
+   "citta": "Napoli",
+   "regione": "Campania",
+   "coord": [
+    40.83588,
+    14.24877
+   ],
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaUoxZVR5VGtZN1BlTUluSjRqNnRjRGw0UXliQkthMjhVNU5vMWw1RDh5UEhPVVZyQTVIeE1iOE1ET1FWbW1nRlQ2ajR6cUN5T1E5MnhCMlNWTEJjRTJqX3pVSHhLM0pBc2dSWUYyR0RYUktIOVRYQWt0MmViWTk1aVZfOFRnRUlzRks1QjZLQjM1Q1V1ZGtCUW85dG8?oc=5",
+   "altriArticoli": 8
+  },
+  {
    "id": "gn-bERhRVYzP29jPTU",
    "fonte": "Giornali · Corriere della Sera",
    "titolo": "Torino, scontri alla manifestazione di oggi vicino piazzetta Reale",
@@ -2273,7 +2238,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcVFNMW5JcFZwVVg0QV8zei1qclRfbHdRLXJ1LXNqSHZaLWFYLTNMa2tHdTVjRUo0NzFudTZKTnZ1NUh2bnNNRkdIbFVHcU45QUJZaVVmc3dWZDQzSWxEZThCdU5oTW1QQVdxRmM2U3FUZUZleGl3NVJYbUZabDduNkxUaFJUYkRPa0xIcDNZcVU3b1FNLUdhYXNReUV6LTZfNWJfd2g0bE5LdXFRYVJuT0hnU1B4ZDJkakMxdEViQXI2RUt0UzZPU3ZKVWlDaEV3?oc=5",
-   "altriArticoli": 16
+   "altriArticoli": 18
   },
   {
    "id": "gn-NWNuVkIb2M9NQ",
@@ -2696,23 +2661,6 @@
     16.86203
    ],
    "link": "https://www.invictapalestina.org/archives/55281"
-  },
-  {
-   "id": "gn-QlJUa3RuP29jPTU",
-   "fonte": "Giornali · Città della Spezia",
-   "titolo": "I giornalisti tornano in piazza: rinviato al 26 ottobre il presidio sotto la Prefettura di Genova",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-26",
-   "dataIncerta": false,
-   "pubblicato": "2026-10-17T17:11:00.000Z",
-   "luogo": "Genova",
-   "citta": "Genova",
-   "regione": "Liguria",
-   "coord": [
-    44.40726,
-    8.93386
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdlM2TE50YkFGZjlTcmo4bW9lQm1FTHpFdHpZclFwMmt2VmNpVUd4bFV0cExUenNNX2NRY19IbzBNWFMtUC0xV0pmQk13c3JIMmpqVUY1M2lQenc5VENtWjk5Y201X0RNTkg4b1p5d3Zrc3ZKUDhxc0gzeXlxeld0aE5ENC1tTVgtcFFwbDJfQkVfRDNsMzMtd3dPcXZaSHV2OEVCY3NuSDFDUmgycXh2aFZPR2ZJRlIwRnkwOF92eHROdGFIVWtXaEVVdjVKYlIxRXIxV0Zldi1wQzVKaTBRTktn?oc=5"
   },
   {
    "id": "pl-13483",
