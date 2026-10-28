@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-28T19:00:31.155Z",
+ "aggiornato": "2026-10-28T19:57:01.904Z",
  "notizie": [
   {
    "titolo": "Israele: scrutinio delle urne terminato, 53 seggi al blocco Netanyahu, 48 a blocco Eisenkot",
@@ -292,6 +292,18 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "Sciopero generale del 30 ottobre, studenti e lavoratori in piazza: \"Abbassate le armi, alzate i salari\", il percorso del corteo a Torino",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNXFNalJDOGNMWWZRT0EtYVl0Mm85NHN2c3FNUGpjbTB0bkRBQmZ5cWtGWEJXa09qV2xfQk9zaUFpUEpwSFp0MkgxdUpmZjg3Y0I3TzVPbGplOVZsRzNja0lUc2xLSXFBYUxLaDR4YVc4X3hFTVZVVlYwM19LWGlicmlWLVRQVUJ6RHJpT3h2ZGlOdzl1YzVmUVA1OGthYzdlMEdycDRsR2tDRzAxenI3NmRpbDFQbWpkOEgyNWNjRXNYV2pwV3FPNS1qajZDOEx6U3NmcmpWMEE4UQ?oc=5",
+   "fonte": "TorinoToday",
+   "data": "2026-10-28T19:34:32.000Z"
+  },
+  {
+   "titolo": "Sciopero venerdì 30 ottobre, due cortei a Milano: le piazze e i percorsi. Attese migliaia di persone",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zR1FpdHhzZjJCNUxrVmZtVG1MRkNQV2RLaEVFbWVvR1RUeDdINm53eGhITGFGS21XR3NBd2FiVHRxRXNyMVJtYk01RlNablFpbkFGUm4xV3RQbXh1Y1Y0anU0Q21xWFVSU1FFWHB1UlIzNE94aFh1ZFVjdWJQRVU?oc=5",
+   "fonte": "Il Giorno",
+   "data": "2026-10-28T18:58:36.000Z"
+  },
+  {
    "titolo": "Scontri al corteo di sabato scorso, convalidati gli arresti",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWRKaFBiM3dwbF9iUFBOaDVRc05BZFdxSHJkdGRkaEw3NXRNVDdNelVuUjBIVUZ1bHB6c1Qwck1hY2xha0ZKRkFla2ZDRmF6bndsRVQzNm9IZ0xxd1NiUzlMYW9uMllCMkNYa25xamcwRWEtYUgtX0xGaDI1VGVRRWl2bjNBbGNsQ0R3Qk5Fb0hSODhsWEtqeGZYME9FVTVVNmpDdW9tVDVKZUdSOE9saFZ3?oc=5",
    "fonte": "Torino Cronaca",
@@ -310,6 +322,12 @@
    "data": "2026-10-28T18:29:13.000Z"
   },
   {
+   "titolo": "Vicenza, doppia manifestazione venerdì: città blindata e stazione nel mirino",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbF9wX2ptb0JUdW5QbE1YbFU3d2QyVGtjNzFkVlc3WnhqeEtzVzZJbjMzTzgzR1JVMVRnNTJtdEs4OV9QU1BObDhGbGpteXdzUXhkNEhjS1JhUVB2RDJuQ25NVXpseUczbGw3bGpWT1czMnB3TzJwcGVIR3o2Zjh4ajVkdUp2azg0UUZ3Y2pDRnNRNHNHem1PbUs2WFhlR0g2RjF2TG1SYlNIdGItSnh6OXIzcVFGdlRqZU5rOE1zLXVRaW9xR0tkS0VvRjNhdTh5NTFPNU5WVTFhZ9IB3wFBVV95cUxNLU1Lb0lseUxZcjVKREctOXFiSTlRaEFkaU5PVUlSRkppTlhBWGdrd1QtN3lrdlYxdkVFMHF0Z0FnaWdsWVRjNDZJc01PV00wU01zVG9IM1hDM091S0NjcU1WVkRwMW90U21mMmhBMjBTMlgybmFnVHRPSEgweGJjVnJwWTZ1bnBqRlJ3elNDSFp2NmtMVk5ESFVVLVJKZjhwTG9JM0d5cHhFRWppUnVLZjdneWNub2daTGdaS2xRVG9UY3QyYWZ6YVNjTkJQUnJ2MEdEeHFiTm5mdldDVHVn?oc=5",
+   "fonte": "Il Giornale di Vicenza",
+   "data": "2026-10-28T18:19:04.000Z"
+  },
+  {
    "titolo": "«Riprendiamoci il futuro», venerdì sciopero generale e presidio a Porta Nuova",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTEY4cjhDY0NFd3VNR1pHTkNjbENnZjdZeGVpaUtvbGdVRVZPaGkyTVNYXzNfUXN2WTByeVFEeFg5RlQ3T3pxWV9qZGd2ekp0Qm9vbGZ4SEJqUnI2T0FmSnhib0tkUUpiYWt3N2dHdF81c1lJaURrMnJlbHc5TjRTTGdONHBfYUgyUUVLbU1SVmpoNnJ3WnFZbTN0RHo5alRYcUFwc2RSZ0hnd0RfT2fSAbMBQVVfeXFMUGNjV0tHbGQ2dmtDMy0zN2hJWHNaNUVPc3FCYW9NY0Z6NFBZUFJZNG5FcHE4bTVYUzdzMmptR090bXl2RnFsbU9KODU1cUNyamJhbHFOM0ZzT3lYalBiZUx2c2xDdlZJOXdHSVl4MXdMWnFCcDhkTF9vVGJjQkRCY1JSQW90d0lMSUZFSlpXbGo1TWVrdExweHMyNW1GSlI2a3N6ZW1NRW1nTF9xY0JkYVl5NlE?oc=5",
    "fonte": "L'Arena",
@@ -326,12 +344,6 @@
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcWx3Q0xJNm9kVGRMV1RDTlA0TTRRQWpDWHFwaWlGYXRRM2NrSDJRWE1idXRPOVRhc2xjUUppY1VrU044Vnl4QmN3Qk1QeFg5VmV3SmVscGc2RDdSTDFuZVVZX3U5dmRXNVpfaFpqVFNVVlpZTmg2OXFTZUZHLWkySWw1bElvdkNXSVRNelh5VWh1cEpsdWNvU0h2TjlGTWd5c0hBYS1NNDhvWjREYjZRZW9VblB0WFpxQUdmeW9NVXF4cDdKMElGbzI1T3h2LWIxSUhYaEdJY1JQTTV1eGZqYTE1SHl4NU5Ic1RHWmE4TzFOd9IB9wFBVV95cUxQZXhkakc4QXN0VlpaNnJMWGlUbzhFc3FPcnl0em9oQWdUX2NjZWRxbHptTzIzaEJiQnJPSXRuYTkxYWF6a2RlQzhMQlVPWGZVaUpwLW8xeDlBemdNSWFSUGdvVDM0NU1pMG1wRmZXRjl1UElNamNuNnhlZm1XY2xaMFpELU1HZjc1QlcyUUpLWmNPYjIxUE0tOEZVdlZtMVVHR1BDX3h3YWFhZURCT1ZiV0dtanRKcjIydUlEMTJWQy1EQnAwX0RYd3ZKa0pqSWtEbEJuS3JLYUUxTnJyOE9pcjQ0M1JjZk9YR3R3SnBIdERuQ28tcWk0?oc=5",
    "fonte": "RaiNews",
    "data": "2026-10-28T16:51:00.000Z"
-  },
-  {
-   "titolo": "Sciopero generale del 30 ottobre, studenti e lavoratori in piazza: \"Abbassate le armi, alzate i salari\", il percorso del corteo a Torino",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNXFNalJDOGNMWWZRT0EtYVl0Mm85NHN2c3FNUGpjbTB0bkRBQmZ5cWtGWEJXa09qV2xfQk9zaUFpUEpwSFp0MkgxdUpmZjg3Y0I3TzVPbGplOVZsRzNja0lUc2xLSXFBYUxLaDR4YVc4X3hFTVZVVlYwM19LWGlicmlWLVRQVUJ6RHJpT3h2ZGlOdzl1YzVmUVA1OGthYzdlMEdycDRsR2tDRzAxenI3NmRpbDFQbWpkOEgyNWNjRXNYV2pwV3FPNS1qajZDOEx6U3NmcmpWMEE4UQ?oc=5",
-   "fonte": "TorinoToday",
-   "data": "2026-10-28T16:31:42.000Z"
   },
   {
    "titolo": "Nuovo corteo venerdì 30 ottobre, il prefetto vieta indumenti o maschere per coprire il volto. Presidiato l'imbocco dell'autostrada Torino-Milano",
@@ -358,6 +370,12 @@
    "data": "2026-10-28T15:28:00.000Z"
   },
   {
+   "titolo": "Carovita, lavoro e armi: il 30 ottobre è sciopero generale. A Genova corteo e blocchi in porto",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ1ZONnpmTTNWTE9pcWYwd20zcEpZdHQyTHN6Tnp1YS1CLTREclltZzdpREs1a1NkZmthdGIzR0xYdHd4WnkwTjlGX0VXa2JGdFlyWFFwYXI0Zmp1V05uaDNvMjBrd0NpdEJzWVEyNVNGSEw0bDN5Y0lCTmQtZlJPcnpzcmU0b2dj?oc=5",
+   "fonte": "Genova24",
+   "data": "2026-10-28T15:21:00.000Z"
+  },
+  {
    "titolo": "Usb, il 30 ottobre in corteo a Napoli 'contro il carovita, i salari bassi e la guerra'",
    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPalRkc2VKM1czeE52cDJBSFlTVUdFX3lFT0l3S1JnMDJMMHVmVC1aS2dDUWZucDIxTEpqU1pXSUJBY1pRM3hKMldTOVhjLU1talI1NjhDM1hsb3dEaWlGM195RG56REs3YU5sYldLdXIwcjlfRVlhSXl4QkJRb0NfZzNnR002ZmVMZ2dJRkE5NlBzVDVhZ0NSUnZOWUxYaW8xMGdicENvckpVYVJiSktSMUtSZFhicWpCTzdlMUM2V3huZ25EOXB2dkMxUnROOEotcExTdG9Xck9XamxtRlBNLVFuM2NkVzctYmFldmxJRER6ejJ4U0ZFTHJkZ3Q1c1ZtMUHSAYcCQVVfeXFMTlhKS0lSbTZkTGFBWm5xZk8wZW5LZFU0NE00UmxieTVkNm9aUGFtd3BXQlBhc1RtbEIxVk1wdDVJR0QxSGdxTHJfMjdJUC1mTkVRSUxxSkF4RFpFMTE5MmlfSVBxMDZPT2JSWjQ3ZWQwQ3N2MzBDU09nemFGVHZ5R2V2MGZBM3MzaWlrODVHN1JfdEFWRnljRXlGOEY2VlNGOUFOYTNHdnZ1d0JWOGIyb2dBMV84Ri1uUkhQaXptclBWeDRYSlRKU0NSaHV3Mm52MnBfWm5sQW1MRWJUbTJoWENPQk51elRELXVydTg5UkNsLWl4VFB3d1NYNU1Obk5IX1JkbjQ2Ujg?oc=5",
    "fonte": "ANSA",
@@ -368,6 +386,12 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUG1GaVludzhTM01uSzUwU0sxUVRKV1J5blhwSVRtWE5vMTFLTk5GcjdQSHpLeXFobGRqNElScVZZM2RwUDU1UjFFUUhNWGJWUnVfTWJRV0lYY2RzcXR1UjN5Y0VsZ3pjSnR1UjlaVEJiNDNLOE5HbF9oMDNrNmJ0ZTR2WjlYd2lQaW0wOU1aTU9kQ3JZLUEzSGNhYzBlN3pYRnc?oc=5",
    "fonte": "SalernoToday",
    "data": "2026-10-28T15:07:29.000Z"
+  },
+  {
+   "titolo": "Bolzano, attesa per le manifestazioni di venerdì: una non è autorizzata",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1pNT21saVp4V1NtN1YzSVoyTlJ2YXNKazAwb1E3bXJxdVpoTi1lVUh3WmhiNUpmWGdoWFVabi1qUEptcUlkUThUb1pmZXFBVU85WDBFV1ZUQUFDVHlZMzladERqZjd5RDVZNnhXZVU1THRJYzlHWFMxYTdNYl9wejJmYlZYZTNDS0NTSHRKYTFHeVlMZ19sMURZX25yUHVnYWs5TXozQXpPZnpNWTlXUA?oc=5",
+   "fonte": "Alto Adige",
+   "data": "2026-10-28T14:53:38.000Z"
   },
   {
    "titolo": "Banche, Colombani a Rai Radio 1: serve un Protocollo per l’occupazione",
@@ -403,7 +427,7 @@
    "titolo": "Le Radici del Natale, al via la manifestazione di interesse per la quinta edizione - 2026",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMkN4M1JKSnhuZFRZdFE5dldGWHZ2U0xsZWxnMTVhYmdsUU4xOUJfX2k4bUNhakQ1bUM0eVVEYV81ZW1kbHFZSkxkUFdLMHAtWmp5TGc1SzNQNGxQSjZmTWM2RzdnSUtUbzRDRVhTZWtTbnk3Znp5UEZsc1MwS1NhV1BBWWR5VEVWYmNhNW5HMUlENkswbnR4M2t5eExVX2RWZEV2RHJrU3RyTWFPYTVncDBmYlZFSVpSdUs0d01QNjRINzk4?oc=5",
    "fonte": "Comune di Andria",
-   "data": "2026-10-28T13:22:25.000Z"
+   "data": "2026-10-28T13:25:52.000Z"
   },
   {
    "titolo": "Torino, corteo di venerdì 30 ottobre: percorso definito e controlli rafforzati nel weekend",
@@ -746,30 +770,6 @@
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTGxhTnJOZ1VXSkJLT3RNZVhlMWN1R3R2TVdlVXNCMTcxY0pkaXJDbVN3aUtCUF8taW5lcUNGTHJRUDMzcW00YTR5WmY0aGdkX1IzYnlDeEFWR194ZFdTYzJCSks2Tkg5RUlhNzhTZno5RDNvNWR3UVR5SEU4MkdVc0JJRUpHSnpiX0RYeGdrUHJwYmJHT19LVDUtZlo1d1pTMFRXQ1VKZXl3TFc0d3BVRGpubFFSZTBrY3VDY2lSRWpQWk1ueUdwV1RTUS1jUTQ2dWVjTEtjanZfU0hMQjdGTkR5SGpfTGZRVUhOd2ZWWE1Za0pMQmxN0gH8AUFVX3lxTE9rVE5Wc1lVVmdTOXhEMThqcWNob09tZW5nb2xZZkF2R3V4MUtOeG5wNWphN1J0N294TTJSX3EwRW84Zmw3UnpKcEoxU0lLeDZKdFVfS2liZVFuT2x6ZXFhcWRUMVB3djl5SzBlcVJqTXNNSFEzUVpYR1ZBVkJDQkJnRGJXQi04R0VJc1JkbFBXWTBlOGd6aWZCVXVncEFRdzhhTGR2SUlKcDEyUzBVMllSeGh0dEh0anZCMDFfOWluSU5RQS1GVk93NFQ1aXRqam9vWlRIZHdFRXlzN09wSkl3N09wWW9sQlFVWTdQR3NkdXE4b0ZCdXhRZkFhUQ?oc=5",
    "fonte": "RaiNews",
    "data": "2026-10-27T21:05:00.000Z"
-  },
-  {
-   "titolo": "Sciopero generale: il percorso della manifestazione",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRDBpcTNrMnR4TmJ5eHNCd2tlc2djWF9iclkwMUppOEU3Sko4Y25nSTdnajBpQ2JPam92NWdBSEk2RVRZVmJwSmJWZ0dHYV85b1phOWtSMGlTRXhfeVBnbnBjdkktMWVuUEpvMDRVLVVyYmFqSDFEelpONFJDTWUzaVVzTmhVNFVzamlHNURqLTY5bm9yYXc?oc=5",
-   "fonte": "Cronache Ancona",
-   "data": "2026-10-27T19:03:05.000Z"
-  },
-  {
-   "titolo": "Bari, presidio contro il Decreto sicurezza: studenti in piazza Umberto con striscioni e megafoni VIDEO",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNE5FNVRYdVFWdE9aZkF4cGlUeTJZUkNxektiLV84ZURpczE4TVZhbzZDZ2FXWU5CZURzejNzb2tBaWpyMzVTX3BMZ1hNRmJ3Q015OHJiNmUtaUN6bjdPY25SZFhXV0w3WHowNVFLZy04MmNyZ0Fwb0VpWldpa2traFBveW9rczF4VTJFOUxNTVNVR1gtUUR0UmlhdmdDNmRIYTVhX1JkOTJqRmxITjU2dVZCU1hqXzBMNzlUQUpEYWRYLVYxUmZxVE05aGlhbHdpdG11eGt1MlQ3UXNkVW9PZkdwS01SX3VKdG5GcndKX0NmQVZ1b2tB0gH2AUFVX3lxTFBPN1RKOEdUVzVPYW50ZThTOWtjLWt4bDhGUm4tYUlONjkyTWdtamdhZEtUVGVGbVZ1UlhCTFhxV210ZmR3TmNwdzNubTdyS2lYTmRraWd1aFNkZVFKeEotdTRULXZqR1haYjVyLXpVdVJ6TFBwTkItRXN2Ny1TZkdRbFd1OUpUalFNZXVOdkhCQkRxYzIwc3pxaXRwQk5rNi00aFRUUmM1Q1BtRmp2RHBDTkJLTUJmeUtmY1E1LWRhcWRoMlo0cmxUMDVPS3N0Z2FTdFNDR0FWSEFUSmhHVFJEQWxRRHFOWk5TX0o2U1dkbWJ1RFpUdw?oc=5",
-   "fonte": "La Gazzetta del Mezzogiorno",
-   "data": "2026-10-27T18:40:42.000Z"
-  },
-  {
-   "titolo": "\"Salviamo i conigli del cimitero\", manifestazione animalista in città contro lo spostamento degli esemplari: \"Sono animali selvatici, questo stress può essere pericoloso\"",
-   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNdTMzaXU4ZHdDME8xLXk1Rk5reXJrZ19vZ0UyRVNxUXY0aEs4TUVRalhhX1lWMFlMaElXUU9rbDE5Qm44MEQ0MXR1RktoR3lvMlg0OTItenY2UkpuT0RHT2UzampEQUlwRG52Y3hZcmx5NzFKM1Ezby1uLWgyb2tfZXdBZHdqZ0FmeXdVQk5pcEJKTGN5QUJHVmNUeDlVa2NOYmdfM2xKQXJtOFZUWXBfWkF2RmFyWUoyelgwbGF5XzEyRDNVQVJTbXFoVGxBNXhPbWt4czA4ZUZnaUZzWXVZTi05a2pHRXUwTmkwbVlqMkFMeDhwN1hRVzRMa1Q3cnE0Mmg2TG55N1d3Nzl1TTlFOE1SSHZhcW5VaVlsUjJQMkN6UmlkemdycWFB?oc=5",
-   "fonte": "il Dolomiti",
-   "data": "2026-10-27T18:36:30.000Z"
-  },
-  {
-   "titolo": "Sciopero del 30 ottobre, cosa c'è da sapere: cortei, manifestazioni e settori che si fermano",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeHd5Qm9NWlVMRko1OEtKZUFvSkRGLWhDelJpOXl5dWw4SklNZ1I3dnNOY2dKc2RFNGFHUzJ5NnJrNllwTWdvR3B2SG4wd0Z5S0VUSmhmOWxSNDlRMkFpSmxkX1R6eXo5OFd6c2ZpV0RURDl6WWhrbHhfWTRwR295TWR2MHd2OVlyY1JnZnRaSE5RZ3ZVazNsS0hRWWlPQWo2OExrWTRMUnNNRDdJMnhvaC04Ti04dXlUb1piNUhaTQ?oc=5",
-   "fonte": "Vanity Fair Italia",
-   "data": "2026-10-27T18:12:32.000Z"
   }
  ],
  "eventi": [
@@ -790,39 +790,22 @@
    "online": false
   },
   {
-   "id": "gn-c3RiMnRaP29jPTU",
-   "fonte": "Giornali · Ufficio Stampa della Provincia autonoma di Trento",
-   "titolo": "Protezione civile, il primo presidio è nei Comuni",
+   "id": "gn-SGJHNTUb2M9NQ",
+   "fonte": "Giornali · Comune di Napoli",
+   "titolo": "Avviso Pubblico per la manifestazione di interesse degli Enti del Terzo Settore alla costituzione dei partenariati con il Comune di Napoli ai fini delle candidature all’Avviso Pubblico della Regione Campania per l’attivazione dei servizi di presa in carico, accom",
    "tipo": "Dai giornali",
    "inizio": "2026-10-14",
    "dataIncerta": true,
    "pubblicato": "2026-10-14T07:00:00.000Z",
-   "luogo": "Trento",
-   "citta": "Trento",
-   "regione": "Trentino-Alto Adige",
+   "luogo": "Napoli",
+   "citta": "Napoli",
+   "regione": "Campania",
    "coord": [
-    46.10295,
-    11.12974
+    40.83588,
+    14.24877
    ],
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMm1BTnhqODVRZDAxTlJRd1ExMkdzVXhJZEFLbmR1TjJjSEQyTzdwSXB6WXBXeXp3b1g4UTB1bmw1MHQzaDBUYXRSMC15c1FmS2ZFUTZZeWgyTjJlMFJZc3JwUWxMdXZuX2xNcURKQnhFekllMjl6eFlJWjdBRWpiV3NTa25KSmVSR0JaWWlQeE1EejJTbENOMXZydXFWWmstb2tZ?oc=5",
-   "altriArticoli": 4
-  },
-  {
-   "id": "gn-SkxTVkUb2M9NQ",
-   "fonte": "Giornali · Eunews",
-   "titolo": "Minzatu: \"In Sicilia risultati documentati su occupazione femminile e servizi di prima infanzia\"",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-14",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-14T07:00:00.000Z",
-   "luogo": "Sicilia, Italia",
-   "citta": "",
-   "regione": "Sicilia",
-   "coord": [
-    37.58779,
-    14.15505
-   ],
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNm1QSjdmQVNCYTcxZ3E3ZW1NSTc2eGl4VjZxc1lGLU83eUZLdXFjUHpmbGZsM2RGaVlqaWNMZ2o3bm1oWmFKeWtJYVlpbmViQzg4blcwbkNhVmFYcUdyUUlWcWpqSWo5NEVBcWlKcjZDWWItdzRhWkNIa2Y2M1FXSFhiQjhYY2JEd1dINDl6R1AwSl9sZ05mRFVKc093elM3aDdnMlVqNll1NTVfYWs4d2JldmVVXzBYVzlQR3ZGVnJjTjJLSVE?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPUWVnczY0eWR3bFZHbDFlcExuRXl1V1YtQlBpR2FSR05iQTZBWGZCQzB6MWpNdlhReUVrRTI0ZWJmRHFxbTBWTjFxelFOU2dBdFVDTk9BZ085Rnc3bnl0NUJyOVFiSzh1VWVkb2lobjB3dGxuUlJmb0ZTZkZtUnJ1VWtFNm1yQXR1OGltSXd6MzBVYkp3cVUwNEJMV29lTGhWdUFHb21VXzFfbEs3SjJPdTJzei10Rm5OdUFQQzU4YUlyekZHQmZuVFZPVjhCZklqOE9NeTRmemZBeE9vUFMwbnllcDdJdXlxRG9lZmYzYWttQ09ISTNKTXFac3RteFQ5a09FQ2gwN0RLd29wMVJwbWgtREMzTUZ6TVZnLTBaM3NsM19nVU5EMm14RGNnY3hNR2FqRGlnM1JMakNocnBnTjZRLXMzSDBMOEVKQVZDekJHbG55?oc=5",
+   "altriArticoli": 5
   },
   {
    "id": "gn-Y0VWS1dXYz9vYz01",
@@ -840,7 +823,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT0pOTzNSeElWVmNlcjd0WnRTMEJZSUhRSXUxcXVkWVd5bXB6aWZxSzliUzVlZUI3YWFmaGV3Tll0MUFHcHE0eXRNU3NhNFA1ckpnTWc3V2VlZVVsUGtNWndJcHdON2t1X0ZxZ3pUQ0NjNmltdkRoRVVNNHJzc2xYMDVwWElxWm9KQXppWFljeXdsdS16a2NsRmJYcEVKWWc?oc=5",
-   "altriArticoli": 86
+   "altriArticoli": 88
   },
   {
    "id": "aip-1742360",
@@ -908,7 +891,7 @@
    "fonte": "Amicizia Italo-Palestinese",
    "titolo": "Toscana: sciopero generale regionale per i Pro Pal citati a giudizio a Massa",
    "tipo": "",
-   "inizio": "2026-10-14T19:59",
+   "inizio": "2026-10-14T20:56",
    "luogo": "Toscana",
    "citta": "Toscana",
    "regione": "Toscana",
@@ -999,6 +982,23 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN25YZlhhMFlzeHhSbTJkcHJpajlYUDdCVktRQ1dpRndNb3JNLXdNLXZ0MWxZcFJyeTBWNkNic19TV2lBZEltUkg4QjBuQ21tQTdMVVR1NEdEd0xQOUhIbTNwX0lWT2hydTFQeE9faTB2TUFmcWRVVjg3aHpWWnAxOURIMEpCc1A4a3FMQ3MxZmNfS0dfZEZDQlU5M21FSm5JR2RNd3NFcUQta01RdXFQbWhWejNoa0FFa3FRM2diZS1ObG9EU1E?oc=5"
   },
   {
+   "id": "gn-MGVsbHVkdz9vYz01",
+   "fonte": "Giornali · RaiNews",
+   "titolo": "Ex Ilva Novi Ligure, lo stabilimento non chiude. Lavoratori in corteo, continua il presidio",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-15",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-15T07:00:00.000Z",
+   "luogo": "Novi Ligure",
+   "citta": "Novi Ligure",
+   "regione": "Piemonte",
+   "coord": [
+    44.76085,
+    8.78955
+   ],
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaTBHVzBXY0pEVlg0RXo0c0dDbU83WThjVHNfV1p1dVVKOGZtUG4yeTRXTUR3MUpBUU9zNnFRS0ViLXhOMktoYmFZZXBNekU3RURsQThwcXdGTk5XN0ViRGxJLUExR3M1TWNIbTNrcGxOeDlJT0V0WEpoM1NESmNraXgtM1JjTm1renV2dDQtcTR5SHFSTXJJa1VJNll0dGYza2VVRzBQanVjWm90d1c0RnVyU0JVUmgyS05acVp1bHVKWFhfbENtbGs5ejRRZ1JsZHB2WFBNcVdsREJtQnZuVEVJbHo3aUNwOEt1NksyckxlZ2dEeGJjZGNsaV9jQ1A4RnRNNdIBigJBVV95cUxPYnpKREM0V1gtRVQ0UWVBZi00NEdKSjR5NVBvT1J3d2FjczlQM18yN2N0LXprRXdCX2dfcS14TFdUdzExejI2SEZXZHJndTJtTHNMZXFmVkxpSkstSFloU0taWEZZajdnOVEyc0d4YW11d1NWNHpTaVpUZGVkVjZRVEhVRHJxRHNHblJJZEdZUjFveGpJUHdJV0t4bzF5S0lEZDZpeWx0eExIa0ZrUTRVVDZ6SkYzTTNkbW5qQVd6ODFQUUp4bFlNdDh2U1JCRmktRV9HQTNROUl1UFBrWk1aZkVETEpGWWd1YmRucU1Sa0xmdkRTUmJwM3p2Y1ZmSEptLXpWanp0elludw?oc=5"
+  },
+  {
    "id": "gn-VW8zZHcb2M9NQ",
    "fonte": "Giornali · La Stampa",
    "titolo": "La protesta dei lavoratori dell'ex Ilva di Novi ad Alessandria: dall'arrivo in stazione al presidio davanti alla prefettura",
@@ -1013,25 +1013,25 @@
     44.83495,
     8.74503
    ],
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTWRrMFBOSGFsc0l0aklGay1fVVpFV3RYQk5DYXpSR2F0N21TQ3g3MUI5NXhWZjRrSWxVTzJuck1GS2FQcjF5TWtPOGpGS2Y3a1ZsbHROOVV6TjdRSHk2c283V000czk2T0tOY0FUN3NDZ09CZEdFeXNkSGRoQm9nU1d2enBsWjRPZTNsUGR3bkVwZVRZWXRlZktKaFppNFhhREE5aUxZMHVDTmVleTMzay0ySm9DSTNFaVloQ3JZcENOZ2ZWLXNvdUkwVTFwV1pLNjFTTVBLQUo3dw?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTWRrMFBOSGFsc0l0aklGay1fVVpFV3RYQk5DYXpSR2F0N21TQ3g3MUI5NXhWZjRrSWxVTzJuck1GS2FQcjF5TWtPOGpGS2Y3a1ZsbHROOVV6TjdRSHk2c283V000czk2T0tOY0FUN3NDZ09CZEdFeXNkSGRoQm9nU1d2enBsWjRPZTNsUGR3bkVwZVRZWXRlZktKaFppNFhhREE5aUxZMHVDTmVleTMzay0ySm9DSTNFaVloQ3JZcENOZ2ZWLXNvdUkwVTFwV1pLNjFTTVBLQUo3dw?oc=5"
   },
   {
-   "id": "gn-TkVaelUb2M9NQ",
-   "fonte": "Giornali · CGIL Modena",
-   "titolo": "SCIOPERO CON PRESIDIO IL 15 OTTOBRE NELLE STRUTTURE SANITARIE HESPERIA HOSPITAL (MODENA) E HESPERIA DIAGNOSTIC (CARPI)",
+   "id": "gn-V0hOcWIzYz9vYz01",
+   "fonte": "Giornali · La Stampa",
+   "titolo": "Anche ad Aosta la protesta degli studenti, un presidio in piazza: “Vogliamo farci sentire”",
    "tipo": "Dai giornali",
    "inizio": "2026-10-15",
-   "dataIncerta": false,
-   "pubblicato": "2026-10-08T07:00:00.000Z",
-   "luogo": "Modena",
-   "citta": "Modena",
-   "regione": "Emilia-Romagna",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-15T07:00:00.000Z",
+   "luogo": "Aosta",
+   "citta": "Aosta",
+   "regione": "Valle d'Aosta",
    "coord": [
-    44.53847,
-    10.93596
+    45.73731,
+    7.3204
    ],
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVk1CQWNpRTIwREFheFc3eUl2N1N0bjYtYVdNZV9wR0RnY0tJdVdXU2V0TXF4c2d3R3o5U182QTAyUDNpY2RMMFRyOU9HWTg5cEgtR1FTVEdNb3Q0RGV1SXVNc0lqRVBKM0lramd4ZmRxRHl2QkExcXJzNHZtZDlNU096cVZYQkJPVE9ScXV6RWFVSHBXYUZtdkt4QktpY0VrWlI3QV9WejB4dVBCTGxEVFhQcnZ1MGZVWnZSVnV4YVlUenQtMkd1NFhOY19pam5DcXJtMENEZzU?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWlCTFRxX1RzQlBKb2VfNGV2S1hKeTZWRVMzSUJwTlVEQW02UDk5WlVKYkEydEVRZ2tuWUJoMDJOZzFGdTVPRHA0Zm5kdWhreGI1MVVESjRYYUV1N3BianZ6TVQ2OFA3ZmVkRGFLZ3VPMHBiVGhqaDdjMXZkWDZhcUdxZ1hoc3c1MVYxeWRvTllnd280NXdUS0xRWWY5dHBh0gGmAUFVX3lxTE02MHo1UDlYNExCTmhGLTAyelh2WVo3UUNfNEhwRzUxQkJSS01nR2RLWWxDV1lTWHFxY09qVXBjdXRNU1d3WmxFMnpwOVRoSGVkOEpERHNxaXptSmNoSjBVd1lUcVkyWDRHU3FkWV9GZnlhaTV3M2pJU1d2aF8zdjZHOEJqWDFLUHZUUy0zb3l2WkF4YXVhY1I0ZF90NS1TRmwwWHNqb3c?oc=5",
+   "altriArticoli": 2
   },
   {
    "id": "pl-13429",
@@ -1111,7 +1111,7 @@
     11.34263
    ],
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZjNjMkdIY3FxYTRnODFLZVBfNkRIVEYtTWVXMUJCTFFUakpKaGhKTGRMUm1CUDdOVkI4dWVzTXFaaVBKd1hjLXotRzFMOEVHUUYtbzFjN1U1T2lYUEZ4elBSbUNvWUNQaUFTRkYyN3pjb2VZQjk1MWVPdkJSM0tXUVN2cDRDM0xWeGgwZU4xUGVVbGE2UHRwZUlVMjFhQkk?oc=5",
-   "altriArticoli": 7
+   "altriArticoli": 6
   },
   {
    "id": "gn-VlYwdEIb2M9NQ",
@@ -1129,43 +1129,43 @@
     9.75422
    ],
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM2VfRmxzS1JlY2hKTGlWUUZIa01FN2xwYTBScmI0WHd6djFWR1E1d1JTWC1lM0lldUF6QWpOaWFXLXlrcW9rMWQyM0RGMnNyZEF5Tk82QWI3Vkp6Ul85ejZKM2VmUVZXYkREbndpeEc3dGZNenkyMml1al9zMDVqUjFXSzFYVS1lLV94Mnc5OFJIaGZKcEo4WFdYb1Qwa1loelBtNm5ZSDltWldHcEVxaUVfNURSTlc4eGdjYThDSERmQzFHcTQ0dHVFMmIzTzFkejNGZkpfUl9uMFFZc05QdUxza2d6R0lYVUJrMXU3VVFKaUdBaEJVV0tB?oc=5",
-   "altriArticoli": 4
+   "altriArticoli": 3
   },
   {
-   "id": "gn-elNWOXFWUT9vYz01",
-   "fonte": "Giornali · Amnesty International Italia",
-   "titolo": "Presidio a Roma presso l’Ambasciata di Malta per il 9° anniversario dell’uccisione di Daphne Caruana Galizia",
+   "id": "gn-amRYWncb2M9NQ",
+   "fonte": "Giornali · Associazione Inquilini e Abitanti",
+   "titolo": "Unione Sindacale di Base - Associazione Inquilini e Abitanti: Palermo, presidio contro l'emergenza abitativa!",
    "tipo": "Dai giornali",
    "inizio": "2026-10-16",
    "dataIncerta": true,
    "pubblicato": "2026-10-16T07:00:00.000Z",
-   "luogo": "Roma",
-   "citta": "Roma",
-   "regione": "Lazio",
+   "luogo": "Palermo",
+   "citta": "Palermo",
+   "regione": "Sicilia",
    "coord": [
-    41.89332,
-    12.48293
+    38.11123,
+    13.35244
    ],
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQmVLeVJEOE1FdmROVGJYc0pNZ21hTkNHZDlXX2QzTndmZzhnSE56anM1Y3hQdGV5ODFQRldQb3VoRkp0eFdnU0NWT09haVlmcEN2cmdLalZNcUh4SV9rMGZxb2JWR2xtRl81RWRCdWphdkFOalNDeDlyQVQtRXg1cEJ6ZmE2SU9IN1AzSV9qVQ?oc=5",
-   "altriArticoli": 18
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTFVTSGJKRzF4UTczT0djVkF4anpYcHpLcWRHNkVNaUtpNnYtdGlvUVA5dktxbWw5WDVucmdHOXN3SmpqbGRMSzU1T0d3RVljTWc4WWZ2aXY4OUtVdXFQSmpfX29TYXVRVUVWSFIwVURELVFHSTNrWWNfcEJNX2YyNUNtZ1VhZDk5STJiYkRrbjdXZw?oc=5",
+   "altriArticoli": 6
   },
   {
-   "id": "gn-bGhlRUUb2M9NQ",
-   "fonte": "Giornali · RaiNews",
-   "titolo": "Caro carburanti, iniziato il blocco trasporti in Calabria: il presidio a Lamezia",
+   "id": "gn-MFExVGtSdj9vYz01",
+   "fonte": "Giornali · Fanpage",
+   "titolo": "Sciopero degli studenti a Milano, corteo e occupazione dell'ex obitorio dell'ospedale Maggiore: \"Siamo in 5mila\"",
    "tipo": "Dai giornali",
    "inizio": "2026-10-16",
    "dataIncerta": true,
    "pubblicato": "2026-10-16T07:00:00.000Z",
-   "luogo": "Calabria, Italia",
-   "citta": "",
-   "regione": "Calabria",
+   "luogo": "Milano",
+   "citta": "Milano",
+   "regione": "Lombardia",
    "coord": [
-    39.0566,
-    16.52499
+    45.46419,
+    9.18963
    ],
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTEZ3Q0tfRzRUbHg5eGYtNVVJaVV3QTdabThwcWJEU20xbzNlTjVwNEFwUlR5aUVZOTd6b054NEdnUHJwWHNLVExkckhTMm5MYlNwaEVLX2FvQldSbm96eHVRTEZyZjM1UlhLNHl1QkFORWpzTWpjNXZlczlOWmlhSFI0VTl6cVl1dHZoVFhXa1VidEp0X0dNaFhHRTFQMmprU2FON1FOTHlEa2c0UDRFWXFTaVRNckhTWTJ1cnpGeDByanEyYTJRTkZOdWFJT2Rxcm5POEhwZE9rN3dG0gHiAUFVX3lxTFBwRFd6VmFBMmJScGtlNHhHSTdJNUZZdEFkZHdhVHNxU2FIbFVHMnA4bHRmWFR3a2hNaGpOQ2pCbkdqeDI5c3pHVkN1c290d1R5RzhkbWZiQ2ZSLUtwQVdwczFBS3QyOWx5S1cwRU16VkoxVTZSMGpPN09JQ04wclN5ZEdpMzFMQkxpYjh3V0lXaUM0RlI1TFNaY09FNWEtdnpWRzd0d2Q1a3otcjlURHQyU3I4MFR2U25WQWwzOTZHME5WZXh6Tm5qNnd6bmx0RThMMkU0SFItRnBXNjV4dXlheEE?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUEMxRm5ZckFnbnliNlZKYm5fUm9DcjB0cndoTTZOVmdtM0NDZ001VmdrYXhIN2x1WGVsaFoxby1lY2FFdVFtWkVZOWs5SzIzSkNEdWlRRFRqS2pNbWRDRkFSQnE4TklnV0hyUG0yQzBqd21rYTlPb2pWVndxVDVLYXc2MFh0Zjc5Z2sxVTRONXdvdE40dnA5U3JOVXl5dUFFS1FOUWdPandHQm9HTmxrTUFLR1lFa0ZIYnVjSTc4cTVUQmNCV2JIODkxbnRIc0Q1TkRv?oc=5",
+   "altriArticoli": 17
   },
   {
    "id": "gn-elpvTVdjP29jPTU",
@@ -1186,22 +1186,22 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-YkdGUk5BP29jPTU",
+   "id": "gn-bDlpVm5ZP29jPTU",
    "fonte": "Giornali · Il Sole 24 ORE",
-   "titolo": "A Milano sfila il corteo degli studenti, almeno 3000 in piazza",
+   "titolo": "Studenti in piazza a Roma, il corteo in centro con bandiere palestinesi e striscioni",
    "tipo": "Dai giornali",
    "inizio": "2026-10-16",
    "dataIncerta": true,
    "pubblicato": "2026-10-16T07:00:00.000Z",
-   "luogo": "Milano",
-   "citta": "Milano",
-   "regione": "Lombardia",
+   "luogo": "Roma",
+   "citta": "Roma",
+   "regione": "Lazio",
    "coord": [
-    45.46419,
-    9.18963
+    41.89332,
+    12.48293
    ],
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaEFqUkdHWDJETUF4aUYxSzNmUm4zVUt2eFV3ZVNYNVJIWmNhXzB3aE0tSnc2ZmgwanBiWm1GZmxtODdzX3NXNDBJX203WVBWSHJzQW5GNjNOLXlVQzA5NVUwWmdHanBVa29OOF9xdFExa292UWtZR2lVaVpIZlRrMlhtTUlXZGhGYlJnR21UcElRY0FsTkZBS2pjZWUybDd1dlM4bGFRNA?oc=5",
-   "altriArticoli": 16
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc2FoaEZVMml4cUlScHk3bm1pZEEtN0VFODZ4ZFB5Xzk3NUZSOWc4Smx2VGo4VWF3Qk1jeFlUbVMwOUNiZWZKOHlmNFdtZHlSM0pBSnBwOFp1enhZd1V5SXliTF9kcjl2ZjljNEZqWU9jdDdodmJsVS1FZWZzelZiV0xYYjdrRG84b0daQTJhUFdxQ0FKZlZrOVgtZTMyaG5RNHVUeTl4dUFrT2k4NGljV1Q5QWE4U1hwQzI2Nl9iVnY?oc=5",
+   "altriArticoli": 15
   },
   {
    "id": "pl-13467",
@@ -1441,6 +1441,41 @@
    "online": false
   },
   {
+   "id": "gn-OHplWGMb2M9NQ",
+   "fonte": "Giornali · RaiNews",
+   "titolo": "Movimento 17 ottobre annulla i luoghi del presidio, a Bari salta piazza Umberto",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": false,
+   "pubblicato": "2026-10-23T16:43:00.000Z",
+   "luogo": "Bari",
+   "citta": "Bari",
+   "regione": "Puglia",
+   "coord": [
+    41.12578,
+    16.86203
+   ],
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWnFwcGVtMTE3LUs4dHpVVWt6eDlZc1UwWTlCd2VTdnNuOGU4WDZFSlB1Uzh2eXh2VUFXQUtSZHZtaGpWOGpDNzhTWGFZQVhoSE5aUEItYzFUWVdFSXlzWG1nZ2prOUQ3Nm9IaUVHdU15dEpGcE0tR3c4U1F4dHI2MDFBUmtBaW9pbDlzajFpODdiUGdjV2Q4bEpicmFRQmFMb2RuNTNxSkxkbGdvTC1HcExjYlNZXzAyT3lnek1YNEFhTVlHNndQYVd1WU9pWFBrbDZ0OHBtYXdSVWdEaXpEOVVIZm5GYU0tc0dUTGZLaGJlazg1bVNQRUY0SWFWcFdZ0gGGAkFVX3lxTE1NcTFlVS13VkhRUDAzS1hXbDlsUTI0RzN6MGpfZkM0MHpLd1hEZUt3a1VrYmJCOEJQbmdvczI1Z1ZCX1JuaWJfemU3WWo1OEQzNlY1cWtxTzdudkxLTVU1WEROMmZqVHZDc0x0ZjRVOVM0c0t2bWpLd1gwM1IzYk93UmRWQk9heFh4ckZCRTllRE16ZG1WZ0NHV0lGcEl4eGRoVmJxMTRJQWw1aE5uUkoycURYdjY0SVN1Qk1fSmZEN2VaR2tvV2kyWEZiVW1KVFA5MmhPT3VtWU9LdjEweWY5X0dkSjFvTnUtZ3AzYlhXbW5vdWl6NlowLVNJVUluM0RveG8zeXc?oc=5"
+  },
+  {
+   "id": "gn-RTAzUTNsVj9vYz01",
+   "fonte": "Giornali · ANSA",
+   "titolo": "Si rinnova a Bari il consultorio diocesano, presidio socio-sanitario e psicologico",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-17T07:00:00.000Z",
+   "luogo": "Bari",
+   "citta": "Bari",
+   "regione": "Puglia",
+   "coord": [
+    41.12578,
+    16.86203
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZTFacGhsbEJZSlBqbUN1Z1d4ZGpMb29ZaXlpWWRycEI1SzdWV0JGcTdVSU1YR3pFOFBXSHR1bXNxQy1RODBHc0ZsQlZyRkFjR2RJMEZHaDF1YzBNRmVKU2JTcy1LMzEzeFhLQVF2ZjBHQmprQV9jX18xbC1mdFNFdHB2NndmQ0dCckpwVlA4SmNYcXFJYnptZV9VVzVoelRHTjRCRGhEd3dLbjA2TWZUb0xvb2NfOFh0b3E1UzV2VERJSU9JcEVWSzZpbW5ubVU3T2poUVF0VzFxM1puNkljOE9ybWtuN2N4b3NsVThpNXJhUjVEZ21fOFR2U01rZ9IBgwJBVV95cUxQTzBsenllZFhndmN4cGlrZlM2c0Y5SVRZeFFXM1hBQWxVWVBjRi1mZTlKcHNWU3NHWWlTVUFBXzUyYlFkOUVRT05sUmZUdEwzQTJrRDIzU0h6Y1JXMGp2R255VFJreGFkR2FTRTg1b0ZNa0tHMGZnSmQ2QlF2TWowdWsyYnNxcXJ0Wjd4TVN5c21DQV9nei1tQ1l3MHJYQURlS09sN09QV1Q5VV9MRlluT2loeDJhRUpoLVRCQzh2akNQX2UwMVFHMlR4dXA1Vl9OVFhwb1dHYWhCa2tKV3V6amM2WnhKRXpzMTRwSmFpeGJKRWdiRGJJWWE1T2tNWE03Q3lV?oc=5",
+   "altriArticoli": 7
+  },
+  {
    "id": "gn-SVRsTkhSUT9vYz01",
    "fonte": "Giornali · Corriere di Bologna",
    "titolo": "«Italia in piazza», la manifestazione di Bologna del 17 ottobre. Il movimento apartitico protesta in 13 città italiane: «Contro caro benzina, stipendi bassi, tasse alte e servizi negati»",
@@ -1620,6 +1655,94 @@
    "online": false
   },
   {
+   "id": "gn-SkxYMWRUP29jPTU",
+   "fonte": "Giornali · Toscana Notizie",
+   "titolo": "Carburanti, Giani: “12 milioni dalla Regione”. Coldiretti scioglie il presidio",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T17:24:00.000Z",
+   "luogo": "Toscana, Italia",
+   "citta": "",
+   "regione": "Toscana",
+   "coord": [
+    43.45865,
+    11.13892
+   ],
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMGtrX1AyWnlLZDFid2dBYUZkT2VaZUdEbk5KX0RUSFNIem1Rd3NmcFlMUnZ0S1FLZ1UxYk96NEx2WjNndFlfaXY1NzU5MXpoQ2ZKRGVmeHZPaW8tRHdYNWJxZmY2TEM1RV81NWU1U2JiSDZaZnBrS3N4N0hIYnJhZjA3NFBuZmVibU5xNFJjSjBPenExYWl5cWVWc0RFUEVoSm11ZXpnSEJLX1dT?oc=5"
+  },
+  {
+   "id": "gn-azFYVFEb2M9NQ",
+   "fonte": "Giornali · Cgil Firenze",
+   "titolo": "Operaio morto in cantiere Av a Firenze, presidio dei sindacati. “Urgono risposte su sicurezza”",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T11:22:09.000Z",
+   "luogo": "Firenze",
+   "citta": "Firenze",
+   "regione": "Toscana",
+   "coord": [
+    43.7698,
+    11.25564
+   ],
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV3ZWNjd6OUJmbTNnczVBNmZZUU43cE53OHBQRTY1SGk2eWszOEVCOFlSdGg5a2g2YUV0a3pPazZqaTc2ZndpX0p0THk5ZThqWUNIaUhEUXdDX1M5ZWVTMlRYT2lHOHBrYWx3b2hDRG9DdWc1SkFleXM5Rm9GOWh4TFJfTjVKSS1wZjFkSkRvTHdtV3pqYVRtSDRDNWJ2My1KUFpHZHBEQjBRM0xyNHJ3QTJyN3JNNE8xNEdoNk1XTQ?oc=5",
+   "altriArticoli": 16
+  },
+  {
+   "id": "gn-SldZa0kb2M9NQ",
+   "fonte": "Giornali · Confcommercio Vicenza info",
+   "titolo": "GIOVANI IMPRENDITORI, “MOTORE” DI OCCUPAZIONE GIOVANILE E INNOVAZIONE",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T08:35:39.000Z",
+   "luogo": "Vicenza",
+   "citta": "Vicenza",
+   "regione": "Veneto",
+   "coord": [
+    45.63486,
+    11.40635
+   ],
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0hoSzhfRXl4LUFSRlhMVWpkSjVYVGtkQ2VDY3lpZWFEZFNwX2QzSm45SjUyRHphVDhoRHhvVTFyYWVoRGR5eGhSdHk1MUxmMkRJa1lfVXpEY3hUYVhHLXRscUZjUWhYNHNLY0dXak5FTm15UVBaa2FsWWg5bW5fYWF0enZVaXMwdFdreE1oeWdod0xIUXdGN1BnMWVvbkx3QlBhRzIyaUlIeWRuN2ZYcTJWYkI?oc=5",
+   "altriArticoli": 2
+  },
+  {
+   "id": "gn-WGxFVXpVP29jPTU",
+   "fonte": "Giornali · SoldiOnline.it",
+   "titolo": "Ex Ilva, stop al presidio in aeroporto a Genova: cosa cambia per la Cigs",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T07:00:00.000Z",
+   "luogo": "Genova",
+   "citta": "Genova",
+   "regione": "Liguria",
+   "coord": [
+    44.40726,
+    8.93386
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSWpXTFRDTW5WZXJWZFc3amVyTl9CTVVpV0RnXzRNVU0zVXBtNWptUlJ3dFFpQm1ZbFFVQmNkdWxKYWpWNlQ1d0RLZDRVaDlhRDRUZHFDajdOYmczY3BTUnI3TmgzYVRNSjhiUTJleExmaU5UNmIzR29OcVJBQ3M2UVI4cXB4YVZ6Q3BYVWJCLUdIbThCamF4T2xyWHhlTEx5OTlEaVJmS2p3a2p5NVB4VWRjaE1UQzhwMXd4eXlEUzU?oc=5",
+   "altriArticoli": 12
+  },
+  {
+   "id": "gn-RFl6YUEb2M9NQ",
+   "fonte": "Giornali · Adnkronos",
+   "titolo": "Presidio autotrasportatori al confine fra Abruzzo e Molise: \"Per ogni camion 8mila euro al mese di gasolio\" - Video",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-19",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-19T07:00:00.000Z",
+   "luogo": "Abruzzo, Italia",
+   "citta": "",
+   "regione": "Abruzzo",
+   "coord": [
+    42.22768,
+    13.85498
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObmp0UHlVU29Pd0NtWTVhUGNlNmp2Tk9GdEUyN19SV3BXdWsxTkpZTGEyczR5MFZjQ0ptUEk4bUI1eGJkX3NLSFl4Z1hLYmRVa0JoVlNZZnpCaG9QY3REb1RKcExsblNEcDctaGt1SjdFZDZNSnZBQjFDZ1NFUTRtbDBwYWpRbmg2aVVrekZ5ZU01SmZBaUZRcWV3SmNBdUhlTFZacUNOenJVeXVRaGotc0dWRklfdGZYaDFVSTQ1bkNMdVpSUm05b1NqUl9sMlZFT3hDbG13V1o5X0pET2E1Vm5RMmlMQnVvWDYzaA?oc=5"
+  },
+  {
    "id": "gn-bkpYTUhWWD9vYz01",
    "fonte": "Giornali · Polizia",
    "titolo": "Occupazione scuole a Cremona, due minori denunciati",
@@ -1634,42 +1757,61 @@
     45.22086,
     10.03704
    ],
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX3h1OTFNZHVoQVg3c0MxMjk4U1FzVWFUNEVJZmhOSmthQjF5VExmUVV0dXJscEVuRmNJaG10MzBydjlYYTQ2eFFpNWtqTFY0anJrdFZwWXBHV21PSkRaS3dSMDZpSkpjdUFDeXI5eEFPT2pEeG5BektubzNjLVRJM2VKbmJWYlo5R3NrN0R5YnJXMHVX?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX3h1OTFNZHVoQVg3c0MxMjk4U1FzVWFUNEVJZmhOSmthQjF5VExmUVV0dXJscEVuRmNJaG10MzBydjlYYTQ2eFFpNWtqTFY0anJrdFZwWXBHV21PSkRaS3dSMDZpSkpjdUFDeXI5eEFPT2pEeG5BektubzNjLVRJM2VKbmJWYlo5R3NrN0R5YnJXMHVX?oc=5"
   },
   {
-   "id": "gn-RVptVjBNP29jPTU",
-   "fonte": "Giornali · Siena Comunica",
-   "titolo": "Wine & Siena 2027, il Comune conferma il sostegno alla manifestazione al Santa Maria della Scala",
+   "id": "gn-bVpDWncb2M9NQ",
+   "fonte": "Giornali · Cuneo24",
+   "titolo": "Allerta arancione per rischio idrogeologico: Regione attiva presidio continuo della Protezione civile",
    "tipo": "Dai giornali",
    "inizio": "2026-10-20",
    "dataIncerta": true,
-   "pubblicato": "2026-10-20T08:32:47.000Z",
-   "luogo": "Siena",
-   "citta": "Siena",
-   "regione": "Toscana",
+   "pubblicato": "2026-10-20T15:01:00.000Z",
+   "luogo": "Cuneo",
+   "citta": "Cuneo",
+   "regione": "Piemonte",
    "coord": [
-    43.16721,
-    11.46756
+    44.45807,
+    7.55814
    ],
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYkZFcm1ydG5Rd2luNUxRclhJZXB0cGZ5bkNPVkdaVWRKT0loVFA2LUdxU1E1QlBXNGtCczlKMTk4ZnV4ZWstN0JXcTE5ZklnbWhXTFlDUVZ2cDVIZUd4YVJxdjdXdEl3ZlVEbExQWDB2UW5YMVRFcWIzenU5MEN4TDF0SkIyRmFaWkY4cHcyYlNQS0FrSDJXQTRGdmhaN3o3RWV1SGZkNXdpYm82eGxpSVl5b25hbGpyaE5pSEZmV0M?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaEdINHdWS0YzNmR2WlowM1RIVFVUN1VUWFdac2NQbHQ5LWdITlhGWDJRV3JOdzRQZ3FmT2lyTC1ZYmJxV1NGQnlibG4zWXY5WENtUF82OGpHbjJ6bzFlWG1QOXlBR0Q4cHhYbzBPQllidy11U1R1ZEdJS3BXN2hCQWhvYm5NUEo4eTFydHdoYVQ4VlVabXYwU0puS0tBZmJBd1NTYUVYMDNCWWZKUTBZa0dFal9xNF9IRkdyVDA2MXc5UW14Sm9RMWV1YVNkdkVDVDE4ZDUtUmZCZw?oc=5",
+   "altriArticoli": 3
   },
   {
-   "id": "gn-WEZxUTJjP29jPTU",
-   "fonte": "Giornali · Azienda Usl Toscana Centro",
-   "titolo": "Casa Parkinson inaugurata oggi nel presidio Canova. Innovativa partnership Asl e Fresco Parkinson Institute",
+   "id": "gn-WkRGUFVHYz9vYz01",
+   "fonte": "Giornali · La Voce Novara e Laghi",
+   "titolo": "Barilla, la protesta arriva anche a Novara: sciopero e presidio davanti alla fabbrica",
    "tipo": "Dai giornali",
    "inizio": "2026-10-20",
-   "dataIncerta": false,
+   "dataIncerta": true,
    "pubblicato": "2026-10-20T07:00:00.000Z",
-   "luogo": "Toscana, Italia",
-   "citta": "",
-   "regione": "Toscana",
+   "luogo": "Novara",
+   "citta": "Novara",
+   "regione": "Piemonte",
    "coord": [
-    43.45865,
-    11.13892
+    45.58425,
+    8.546
    ],
-   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPekVlR0JIbGpLaEY4VFJobWpKNFZvNVdSdGFZRkV3TjJFQXRYOXBBUUxXUGY1Z180UVM0MmZralZLeEhBb3laeTJNMUt0VWdPVk5PU0g2N2ExM1RCVVZaVEsyTDZNQjM1TkFwUXU0LVpISFR2VHJWTjEwX1pldC1DTUZEVF94SzZCRzBqbzdKdUotQ3FyYVc5MU5LcEo0ZnJFUGlxS1V5a0o2Wi1nRDROMmNHVy02SzFSUUNROWNwYXNIR2R5cTYyN1E5cC0xdGlEdXN3d25wOVNEZUxlRTdiT3hsbGItVGp5MUpjWjgxc2VVaWFQSUg2UU1qaWtBaTBnaHk3ZXIzeDQ3YTdBakVERU9SUFplUXFqQ2c?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb0dZUU1wY1EwTXlGa3F6NnhvTHY0OFlsb2E1cTFPeDI3Uzl0M3VZM0FHNVNFNnduVlljUnlkZ1Y5d3NJeGRMT3VBMlUxNU5aZEpKMmU1NmRoZTJ6bHB4OWttYXpOZVJ4Sk1UUXAzcGktbHlSVk5qY0s5OHJDT1VDSDlxX2xZX05kM2JHM3haYXlmZ2d1LU52MlptY2ZCek9Dd0lfT1B3TG9icG43ZDFGVlZQY0F1VGFoRUJFaHFDQTQxU1BSdXZiU0dlMng3UFktM1NGQlROWlBNZDFPUGc?oc=5",
+   "altriArticoli": 1
+  },
+  {
+   "id": "gn-MVV3TFdjP29jPTU",
+   "fonte": "Giornali · Il Piccolo",
+   "titolo": "Aria di occupazione nelle scuole superiori di Trieste: una chat per organizzare le proteste",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-20",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-20T06:00:00.000Z",
+   "luogo": "Trieste",
+   "citta": "Trieste",
+   "regione": "Friuli-Venezia Giulia",
+   "coord": [
+    45.64965,
+    13.77728
+   ],
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTlNNaUE0emNHOWlaOXFGQ3NMeVF5VWxQeWI3bGpDZzFSb3lJYzdIRjRXYlNaVWVQWERQMXdzTllvblZXMVp0OE92TnJZTktwcks0emNpeHpaNFlocDBPMkZSYkZlUFBUSm5mYy1DTk92VlJqQmJ5OW92aTZNckoyOTlXQ2ZYRkR1WnRNZm9ZcnI3c056Rmd3QVNkVWEwN05OMWtOQWM5SDR1c1UwLWc?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "pl-13476",
@@ -1734,21 +1876,57 @@
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744356/-/livorno-assemblea-cittadina-verso-lo-sciopero-internazionale-dei-porti-del-30-ottobre"
   },
   {
-   "id": "gn-R3BRZVhBP29jPTU",
-   "fonte": "Giornali · Il portale delle Prefetture",
-   "titolo": "Manifestazione comparto autotrasportatori in provincia di Caserta.",
+   "id": "gn-R3gwTkEb2M9NQ",
+   "fonte": "Giornali · LA7",
+   "titolo": "Calabria, l’appello di Rosa, dodici anni, dal presidio degli autotrasportatori: “Per favore, cambiamo la situazione”",
    "tipo": "Dai giornali",
    "inizio": "2026-10-21",
    "dataIncerta": true,
-   "pubblicato": "2026-10-21T18:08:46.000Z",
-   "luogo": "Caserta",
-   "citta": "Caserta",
-   "regione": "Campania",
+   "pubblicato": "2026-10-21T15:09:18.000Z",
+   "luogo": "Calabria, Italia",
+   "citta": "",
+   "regione": "Calabria",
    "coord": [
-    41.20352,
-    14.11686
+    39.0566,
+    16.52499
    ],
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOHdjVU1ZOUZnREpSREFuMHlfdnAyUUNnVE1ZaXE2Z2tjVHZHTHVMa1l5eGZXcGZsZXpJSkJlMzZBdi1RWnc0LUk0Z0pVMnU3em5XS2Jvd1RhOF9IeDlIYjJmSDAxVFh6X21ua2FiclJhcHkyZmI2NFR2YnJYMnRLUGhNdm5rUHV6TFFnNHhSY1J6VWxoTlRuS3B5VXg2enJLZE5YZWZNdmFTRmxMeUZBcHV1UWtIQnJmNm5hMGpQeXA?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQXzM4M3hVQVk4eWozUzFGNWhFc1JWOEJMWk5RY0lyanloaFVHRERqSmZlMUdNTXRSQjhXbk1hbFU1QTgxTVdqN2hhbndqRzc1aEFzNHNmYkRBQ0hsSmZHOW5xQmhKNDhhdUItdXM2NEJxYWJwOXN4YUFxeDlOQkYyaXBWRDNMRzRVQTE2VUVyMDIzNGVlZm0zRTFsR195RW5UZmR4N3huNEdiRUVCdFlNZi1tS3FGRTJoN1hwVEt0NGgwTDBpV1lsUlVic01XMW9TTGFHMG1TYzVidkg0MXB0clVB0gHnAUFVX3lxTFBWVnJMYkJIOTY0eFA4dFBoSmJXRzFGRjl5VHRWU1N5al9GZ0pYZkFuUWpMX2NERTRFdnB2RGpmdzYxUmpMcjJJQ1lJbWxxMm5zeFlocjRSMExjUnZQYXFGSVNIN2Y1cF9Md1ZWaXZwNU1pT1NLLUNTUWdBeXZ2dFdPNnN3NHhDVnJDLXZ4VENwbXVWMWFkQ2hzTDMxMXN5LW83SHpMS3U5WkZjUHdQN2d6MkdEbVpiOVhKQlBicHBsTnY3RWdzc2VhQ0NBTHJsUTJXVHd3ZVFrTnBMal91SHoxSVBkVGx0NA?oc=5"
+  },
+  {
+   "id": "gn-a2RVTkEb2M9NQ",
+   "fonte": "Giornali · Ravenna24ore.it",
+   "titolo": "Protesta degli autotrasportatori a Ravenna: presidio in centro storico",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-21",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-21T12:44:16.000Z",
+   "luogo": "Ravenna",
+   "citta": "Ravenna",
+   "regione": "Emilia-Romagna",
+   "coord": [
+    44.36406,
+    12.05901
+   ],
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc1ZySU5IbkNMckpYREFpNTZJZEtlU2g1V1lrbURNQURid0ZqeU5yNFlmMTBzX1dxNUc2RmxYWFBWOW1GeHFsbG1GeWFoX1NGd0JpR0ZZQjBLMHFUOWFMUTZKeVRGUkk4ZGpiWTNwc1FOQWhDcmRMT1VrTkY2aEFEdVQ5eXNJMXVsR1JLM1JPR2ZhSnBZc2pHVGl5WTRfYzRVVEhlVFN2a3RwLWNYeXlKakJCcTVXMFU2eWxjZkdUNA?oc=5",
+   "altriArticoli": 1
+  },
+  {
+   "id": "gn-VUdoYWR3P29jPTU",
+   "fonte": "Giornali · Tv Prato",
+   "titolo": "Tentativo di occupazione al Datini, poi la protesta degli studenti rientra",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-21",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-21T10:54:45.000Z",
+   "luogo": "Prato",
+   "citta": "Prato",
+   "regione": "Toscana",
+   "coord": [
+    43.93572,
+    11.09415
+   ],
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcGROTXlnalFGZG9WT3llc0N1bTI2V2JQY0VfSjlMYkE2Wm9qMGpJbmJaYnZOSWk2Si1UU0hEOTFqX1RLWExaZ3U4N3lxQ2RUaHpZejYyeEw1eWZ1dVRDc0ZMMGZPdkk5cHZOell0eENsdm9VeEdJcFpvOUtOaE10UnBCNlNrZmJ4eXpjU0dEaFdiYXR3Qi1Peml5UGhadw?oc=5",
+   "altriArticoli": 2
   },
   {
    "id": "gn-bDNaVkUb2M9NQ",
@@ -1768,39 +1946,39 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV1E4RVNlR3BwcW5GZ05aeWI0Q0ZoRHJreUMta0ZqWkt6WVAwSzJFcEtYS3NRWUNLWGdDNXY4Sm1Ec0pJbU9hRzFUNlhHSE9CYzJCRTFEb1c4OXNEay0wbXgwWHB0NXVxZlNwMEY5bVhuRk43R05keDk3REg2TzBzRXR6VTdFN3FjdGl1NDJQZ2hMNWVtQnZqWHItbEJCMVJEUktPOXhrLU91d3FabDFDUDl3ZVE?oc=5"
   },
   {
-   "id": "gn-azU1VVdWbj9vYz01",
-   "fonte": "Giornali · Comune di Palermo",
-   "titolo": "Avviso pubblico per la manifestazione di interesse e della documentazione richiesta per l’intervento di manutenzione ordinaria e straordinaria delle ciclovie esistenti nel territorio comunale di Palermo – Città di Palermo",
+   "id": "gn-SFIzUTI4P29jPTU",
+   "fonte": "Giornali · RaiNews",
+   "titolo": "Studenti in corteo a Trento, richiesta di risorse e appelli a isolare i violenti",
    "tipo": "Dai giornali",
    "inizio": "2026-10-21",
    "dataIncerta": true,
-   "pubblicato": "2026-10-21T06:20:41.000Z",
-   "luogo": "Palermo",
-   "citta": "Palermo",
-   "regione": "Sicilia",
+   "pubblicato": "2026-10-21T07:54:00.000Z",
+   "luogo": "Trento",
+   "citta": "Trento",
+   "regione": "Trentino-Alto Adige",
    "coord": [
-    38.11123,
-    13.35244
+    46.10295,
+    11.12974
    ],
-   "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNNzFIOExDNXR5WEllakVraEdzMHFHY1dxRzhQcGVNSTFabm1ITUVHbXdDdnJaZ2NVTlYzNkJZNEpISXJzYURIWmZjajhZZ2RJeVZYN3gybjB5OVlUOUozTEhzSHJjTWRJZ3JIcEFOYlBQRkNYTVlRZkZrRks2VzFfNHNFeF9IbFd0SXIzdF9UZ2ZTb1FrTkNvbG54eFltNDJrYXJPYzZQb2pBbklULUJ1Mkpwd19fNXU4eDk2QXVVTFZqYXV0cG10a3ZyUzYzOTRZdFh2b2dOckg5NS01Mks4YV9QZWI5WGtzUTdsV0x1andSb1pCcDYxck9kdC10WU9VTnBuR19oSGNkOFdBRWhwc0hKRVItcDRSZ2wydTZVczhBYV9fVVlWZ3hPd0drWHIwb1RKY0Y0VVJqLTVWeFpnSVpNMXI1NzBmV3huWXFrcUNMY3prVk55UWVn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTVJwR2gyZnZJQ0hHUnoxT25PUTZ0dFJLU2VRbXVreUxTUktPYzREeHpLY0hlNXZGUnc2NFh2SG9CTW5jT21FaHlsX1ZqUUEzeVR3dk15d2lGOGpic3NEVGZTWVlBak1vQWxYbmQyVTJoWEowalc0X0ZFdDd0YWpad1pKUDN6Z0tPZGJfZUJXcW1XNVZOWUxGMUdmRTNrM2R3VTQ4b2g5S0htek1YTmlHM2d3VWx5aklRWnFCSlo2enhLbGhXMHV4NDV1OFRRT3FoMWdBN2hwbVlMMDNpM3Izb2d4WWwwNVRmTVd3dUR6Vkw4YXZaNDZrb1o2UUhUSW1FMmfSAYcCQVVfeXFMT0xtd21mZlctallkOUtYVzNWU1FYU21HRF9OWjFPZTVnZHp6TF9TaXlwNVFlcl9fdHlyQlVRakd5bUhRTFA2V2F6V2dpSDFrMHJHOUM1RjRDbGo2ZTN4ZWJnMHhKM3JtSV80T0QxNXl3QVY4ODJHYmdiRUMtMG1mOURlTHZvVk45Wl9mZXFDNVdFdFgyRko5enQxaGRaOHp2NGdMTHg0a29IYXFKckZiNmo3SEJ2V3VNdWNtbGNPOWhZV0pNOUprZVBFcE5PZTJnbVRuN1hWN0lHT2RKRnZnYktYT2VDbmM4NUZMeFpaWWpDdjM1RTFzSG50MEx4SUxLWWZneHR3Q28?oc=5",
    "altriArticoli": 4
   },
   {
-   "id": "gn-emcyTTNOUj9vYz01",
-   "fonte": "Giornali · La Provincia Unica Tv",
-   "titolo": "Sondrio, allarme per le voci su una manifestazione domani: la Digos monitora le chat",
+   "id": "gn-V1Z3VTE4ND9vYz01",
+   "fonte": "Giornali · La Nazione",
+   "titolo": "Il giorno dopo l’occupazione. Pisa, scuola devastata, danni per 20mila euro: “Distruzione gratuita”",
    "tipo": "Dai giornali",
    "inizio": "2026-10-21",
-   "dataIncerta": false,
-   "pubblicato": "2026-10-20T15:07:20.000Z",
-   "luogo": "Sondrio",
-   "citta": "Sondrio",
-   "regione": "Lombardia",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-21T00:12:03.000Z",
+   "luogo": "Pisa",
+   "citta": "Pisa",
+   "regione": "Toscana",
    "coord": [
-    46.32337,
-    10.2584
+    43.47147,
+    10.67979
    ],
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVkF2bnpBaHhGR0VEeWVVZDdzXzBibnZmZWx3czJqSG1xTkhldUF4R1pOVU1nUk12SGREVmF3YTRiQkpUNm5STG5TeW5FaTdkVFltLU1YTEhzcW45MC1zeEdTbnkxUHBHUkxpaE1DMXVJQ3ZOZGRBUWdFd3BvVmR1UUdYMGtBREVWQnpYaGdmdEJvczd4UzY0djBZcjkzTFVVT2RSemFsa3NzQi1qVWcyRnhPdWd5MWNDeG5oRVY2Z0lfRURma093ZDkxb181dzBLV3FHS2ZzOERyYVhWRi03NWtnc1NrcDBsZkxWbVZKaDFqUzg2M3NR?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3ZPeVBVZWE1c3AwWE94Y0RJTE8xd3p1WmptakQyNkd6NzFiWmYwMEo0QktGSE93OXBxZDh3SjQ3WGEwbzBPMWJheWpVamRGNlA1NDNOLVd1MkJRVHVzRjhmRUtsbW1teFVuNHZqb2h2MGNsMEEyMmFhQThhMm8zc2hrN1BNZ1RqX0JYbi1jdjhxMGpOQndvU0dQZGxPdFBCSGNFVFRpb296MWI4Y2JlOGY1LVU1TFM4MHFBdC1YZG9CYzhfLTJlODlGczc5VWVwU184?oc=5"
   },
   {
    "id": "gn-bVpVVFV4bj9vYz01",
@@ -1820,6 +1998,23 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMnh3bl93a0RBUnIyUmcwMVNRMW1RR2xCbklHdEM0WGxNSm5tLURmR0xVUENhVm5xaEVVMWZiY1o5X0RQeDNKTUVrMkM1NjVIbFN4cmtwQTRBRXZLM0otYVRCZmdIR2RlRjM0WEVxbTVkd1FmNnRWaG5LcVE3MWNkR2lQRzI4c01HOElSUkZ2ZmZUTUxn?oc=5"
   },
   {
+   "id": "gn-MEZ2VkEb2M9NQ",
+   "fonte": "Giornali · FP CGIL Emilia-Romagna",
+   "titolo": "Sanità a Ferrara, il 21 ottobre presidio all’Ospedale di Cona: salari e contrattazione al centro della protesta",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-21",
+   "dataIncerta": false,
+   "pubblicato": "2026-10-16T14:27:17.000Z",
+   "luogo": "Ferrara",
+   "citta": "Ferrara",
+   "regione": "Emilia-Romagna",
+   "coord": [
+    44.76676,
+    11.82794
+   ],
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNREhpLV8yMHgyWExwSnQtbTV3d0wwMEZmNUFYV2lFX21PaHdNV2FHVmhvanBxVGo1QmtaR0RDMXAzeWZxTENkck9DYTJ2VjNsalRZTlJzWmctTU4yZXFoMUVDd1lPcnRqUTRhb3laSmlHMkd5Qm5wUkJwanZ2T0FvVA?oc=5"
+  },
+  {
    "id": "aip-1744479",
    "fonte": "Amicizia Italo-Palestinese",
    "titolo": "Firenze: assemblea cittadina verso lo sciopero del 30 ottobre",
@@ -1835,13 +2030,30 @@
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744479/-/firenze-assemblea-cittadina-verso-lo-sciopero-del-30-ottobre"
   },
   {
-   "id": "gn-VlRSdGQzTT9vYz01",
-   "fonte": "Giornali · Newsbiella.it",
-   "titolo": "Polizia penitenziaria, presidio davanti alla Prefettura di Biella: “Servono personale e dignità” FOTO e VIDEO",
+   "id": "gn-WXpKMFZsOD9vYz01",
+   "fonte": "Giornali · ANSA",
+   "titolo": "Studenti a presidio allo svincolo A2 di Vibo Valentia",
    "tipo": "Dai giornali",
    "inizio": "2026-10-22",
    "dataIncerta": true,
-   "pubblicato": "2026-10-22T14:50:22.000Z",
+   "pubblicato": "2026-10-22T17:19:00.000Z",
+   "luogo": "Vibo Valentia",
+   "citta": "Vibo Valentia",
+   "regione": "Calabria",
+   "coord": [
+    38.62666,
+    16.09869
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNWh6eG1Ra1BsY1pReDNvOXhBdF93TG9BUTVTWEZfQUFfaWg0RGR3amVsVXllWXBvY0VVZTBlZDM4RUE3RGQ0azhqT1FhWWNNU1RZUG5wTVJHY3BaRHY1c014V08tRG1ESmNtckpLYmZreFl3clE2SGJWdlNqZjh4Tzlyck9GanZqMS1pbFhiTjNjT05KVnN2cTFVNjdGaFZrRHpPaDJzeUgtUDExaDJEdzh1Rk14ZkRreE91YWFWNHg2a2pXUm5MejZDUnBRU3ZoT044dGxLUm9pb2_SAeABQVVfeXFMTmo4RVo0eGZONngwczVVc1E0T19VNWlSY3RLenBqcWNmYTgwelV0Nlp1SF85RU1kamdfcEo5YS1OeTlmNEVrZjlTSnJqcDBGQnVFZTAzdG1QTUNia1BNdDFNUnFCcUFPRGo1ckVXbHZROUhLZ0podlRBRWwtb0tWaUdTRENab1lwX2h5Z2hEdzVBX1NJZmluRHdBd1FLQlpnVm9Dc3ozS0hJMV91VDk3Z3k4Z0s0LWJPVlF6b21JQmRBbWVEM2lwRURjNnJxWF9pZnp1MldzOXJ0Vy1oYzJ0Vl8?oc=5"
+  },
+  {
+   "id": "gn-eE0zWmxVUT9vYz01",
+   "fonte": "Giornali · Virgilio",
+   "titolo": "Polizia penitenziaria, presidio davanti alla Prefettura di Biella: \"Servono personale e dignità\" FOTO e",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-22",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-22T15:18:00.000Z",
    "luogo": "Biella",
    "citta": "Biella",
    "regione": "Piemonte",
@@ -1849,60 +2061,59 @@
     45.56695,
     8.08691
    ],
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxORzhIWGdZZnJuOVRJTjhYc3pTbURlTVEyaDVBWUxBUHdIeWNzQ0hFLXFma0JoeDdVVFdSdW40c1lwdURfVHVLbmJNdW91S203Q0ZrbEhJdWpDNlRCRExsNElIaF9ZSXgzYzNNdFVMVjRFOWcySFRiOGFEVGlhdnlvOGlVS2d3V0JtQnVPMjVkUXFWZ0xhdGJXc0E5Y252cks3Z3FYaUw1QUtTX0FoV0ZSZjZMWmdMUWlVMkRtVFNHRW05eDdNc3AyeWJxLURxMlJ0Qi1KOUVCQmc5VTdvZk0yZ1dwdkc4MldQcmdwMEtIQW9YU0xpT3hONEVub1N6dm9hYUd4VXBDVTRtd3M?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNa1lwOFNadDlaWUVYbkNqS2Z5Vlg4TFdoRzZtajZ0V1VidERaU0Q3SzJIS2RUMy1yVjJVU1RlbVZ4Qk1yQkZDUU9kTUJuVHV0MXlqc0ZtcHhhVEEzSFctVWhtTnNfbXBpLThiZVhDalRHc19LYmtydTREY0Y2M3JIT3o3dnh0ZzJFQXpqdHo4TzNrUnA1WW00Vm5xNFkxMFVWWW1vQnJSczFfZnZqU3FpTWNWcENfTkVjTHN2dWJYZ1RlSV8zNXU2WFJhMzFPRnp3UWcwRU1HOEFwY09VNVV3Ukp5MGZ3UUlJQ1d1d0tjcDdIZjBnZi1N0gH8AUFVX3lxTE5LXzRYcmxiQjhxOXpxN1J2bUJteWt5bENHcDk3eTZTRFVqWUVlc0FzdDFoUHhtdWdVUXpRR3NQU3dTbkUyTXJERGcxeU12UzNESnNGanh5ZEtRcnBTQlVpVWs0OTB3cXlFYXlwVnNUcVpkU1lxOWsyRkpiTlhnaENzZi00VDRvVVMxN00zYzY3SlpMMnBDMm5xaFd5TF9sQmdfSWlzMWo0SzJ0bzZHZHE4bWJnZ2std0JBZHBRQXMzMk00blZiaEpvLS1lUVcwajRpZ0EyTEFrVUotTzgxM1ZFOWhSbnlteWtDOGlYNnZkWE14VFQ2eWIxM3ZlUQ?oc=5",
+   "altriArticoli": 1
   },
   {
-   "id": "gn-TUVoR1NRP29jPTU",
+   "id": "gn-bHB4TkVoTj9vYz01",
    "fonte": "Giornali · ANSA",
-   "titolo": "Tam tam su manifestazione a Pescara, vertice in prefettura",
+   "titolo": "Prima notte di occupazione di due scuole a Palermo, oggi sit-in fuori da istituti",
    "tipo": "Dai giornali",
-   "inizio": "2026-10-23",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-23T17:19:00.000Z",
-   "luogo": "Pescara",
-   "citta": "Pescara",
-   "regione": "Abruzzo",
+   "inizio": "2026-10-22",
+   "dataIncerta": false,
+   "pubblicato": "2026-10-22T08:27:00.000Z",
+   "luogo": "Palermo",
+   "citta": "Palermo",
+   "regione": "Sicilia",
    "coord": [
-    42.30976,
-    13.958
+    38.11123,
+    13.35244
    ],
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWlZPZWdzeVhrYmRQQjlTcXh4Nl9xakJRVXpHT2UydWk3RTdjTGJLZVV1RFgwWGlCUzFWamNuZzd2Q012NEVFTy1xWWF4a0tQNi1hdkZnZ2NyeEh1ZlhKbF9JWXpqSzIwWE1mU0ZvbjY4cWFyMUpQTHYtdm9URjVnN1hVRDNTUUZ6MkVaYkNLVzRhVVVYcFVvYWliMDRiTXZWR3YwUmNldVBtb05UaWFIdExBdDl2VnlRaVNzYnNPNFJWY1FiZW9VQklja1g2TWFITE1yOUhrTlZZTXplOFFz0gHkAUFVX3lxTE90U0lOVGMtbWRwdGgycW5ETmthWFk1SktJNjZIejlkWjR6eXlDWGpuNFNoZGxVSHlGVko2aGxzWnR2RVlzQ0dWQ1QtOEphaHpPdDVaUWJudndiWXh1eWlUUW5jQzB3RzF4bVp4bDBkYXB6aVlBYXpFdzZLWUFXUjRLRFFCOWNWNlV6VnpGbUdmTEpEOC1waEI1YktxMEJ6RTNoM2NqMXlKY1pnYTJFWVRQUGtTOGlhZ0otVDZCTV9aNVhEeWpsV0NRMjNnSjdadXRfMnY5c2tIWFU5WDlBNjhuMEhGSQ?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQb3A5MHp0WVVGLXJiRkRHNzNYQThIUlF2eXhsRnRnWWxNVXlHeVFxWEY5c0V0cXlJSVZodklZSmFtMHd5cHBwOERLSGxlRlpOcHozZ3Vhb3BjQmhJUVc2TTZ4ZGFYdDUzUjd2dFNzSktzeHFPUWlSVTFhX08yR293Wm9wNGhIY1NHVm5TM1ZlV0FPbjltZGNNYlVVdGlrYVVxMmZISmoxMXBFa1plcE1qZHNNSG5Jbmt2TDJNSVp1NVRfNjlUWXJta0h0QkVHTE9qUWdtOGpXRTgtMXRpTlJCZzY5bWlqdGRlcnlPenItc1h1bzRRT21MWmUtZWhPUdIBgwJBVV95cUxQSDVwcEVlU2I1RjBOdWg0TmtrMnVqVnVLaHJMeC1sbGFOYTJnSkw4akZHTGNPaTNOMVhmNEdZOC02TnhzaVg0NjF3bkJqdHI1QVlLeHFIU1dsUkc1eGxab3FrUjJnWGxVUXloVzlfQWJTRzV6NWdQNGVlWjExOXRWbGw1d3hGS1NOX0JlaTRVeTJOV1ZsdU45a0lNbTFQSjFrc09iVHJVcWJJc2g3cU50VG1jYUxCbGJKZVJoOURReVpqYlhMZXpDUi1Qd2YzWVd1NWlPMGJEVk9SRDc0WjNCX0hiOF83V0N6MjFXeFFndU5aRFhHVnpDRnBKVlZLelpxNEhN?oc=5"
   },
   {
-   "id": "gn-MDVMVVEb2M9NQ",
-   "fonte": "Giornali · La Gazzetta del Mezzogiorno",
-   "titolo": "Bari, il movimento annulla la manifestazione in piazza Umberto: «Sceglieremo il posto all'ultimo momento»",
+   "id": "gn-MDh3VFEb2M9NQ",
+   "fonte": "Giornali · Torino Oggi",
+   "titolo": "Incendio al presidio di Borgone di Susa. No Tav: \"Rabbia e delusione\"",
    "tipo": "Dai giornali",
    "inizio": "2026-10-23",
    "dataIncerta": true,
-   "pubblicato": "2026-10-23T13:57:00.000Z",
-   "luogo": "Bari",
-   "citta": "Bari",
-   "regione": "Puglia",
+   "pubblicato": "2026-10-23T11:23:34.000Z",
+   "luogo": "Susa",
+   "citta": "Susa",
+   "regione": "Piemonte",
    "coord": [
-    41.12578,
-    16.86203
+    45.13838,
+    7.04934
    ],
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORFJsUXpmV1Jmengxb2piQ0c5ZUhtMkZQTXlYTHh2Tl9GWlhrNUUtYld3S0JuNjEwa0NGN1dKLXE2ZU5VSzN2MTFVU2U0YUc1WjFpNGFlS2hTbTBqZEJGclhlRng3MVBqV1VLX2l5Ny1fU3Y0VmJCUXlqYkk3THN1WTZ0YnJiaU1KN2dyTXQyUnQ4aUNKVUQySnQwelVhVFVoUWNlNnptMUpXNmFjUFhNaHhFVGhGYVl6eExoN3RDQ2RFR1VXenRHNm9KbGpxRVU2YUVsQnhuX093R0050gHbAUFVX3lxTE5qQzBZOHM4VnZWV0hzZzdCVWhEcjB0aFl3T2ZrWGlXWmFwVk9Ma2J2Y1VVdjFWV0xDbUJrYUtISUJDRFZRLUpHbk9SRWlPMDJrcTN1ZVVUTDU3c2VqaDNPQUJIUlJwNEVhRVVzN0lfQ19aazRZTWx6akUwZVE1OS1xbzVzemF4OGMwZVBVWlFCdmJVSEdlYnFOQlRCbDVHWVFiQUlqQWRiQ2t0R21OcDhmemRMdXUzbmpHX2p6ZXBfMjRqYzJSdnFyV2ZxTlhDUzJxS3dKVHh3U05LUQ?oc=5",
-   "altriArticoli": 5
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVm82Y1Jhd1FILVlRZTQ0Z2xtU2x0UlNVN1ZnWkJDc3RiLWJ1eVFNZy12UlJNUzZIVnB6UkhEQng4cXJVa3oxSTdnWW14UFNkcTlYek0zZjNTbDEyVGNEYmdyVkZHRnltUmhSM0NZeFU4SllHcGNRT1FQVlFCOU1kWDZkLW5HWGk3aUpIUUhaYWJla0lqUk1DZTB6bTMydU1lb1FHZXhNamlYU2ZwZEdzSUhUdHFpcVhrZUNUWm5jOE5YdmwwMTFVb3VOWmk5eWtzNTJ6d08wTdIB1wFBVV95cUxOVm82Y1Jhd1FILVlRZTQ0Z2xtU2x0UlNVN1ZnWkJDc3RiLWJ1eVFNZy12UlJNUzZIVnB6UkhEQng4cXJVa3oxSTdnWW14UFNkcTlYek0zZjNTbDEyVGNEYmdyVkZHRnltUmhSM0NZeFU4SllHcGNRT1FQVlFCOU1kWDZkLW5HWGk3aUpIUUhaYWJla0lqUk1DZTB6bTMydU1lb1FHZXhNamlYU2ZwZEdzSUhUdHFpcVhrZUNUWm5jOE5YdmwwMTFVb3VOWmk5eWtzNTJ6d08wTQ?oc=5"
   },
   {
-   "id": "gn-YUhBM1N6Zz9vYz01",
-   "fonte": "Giornali · RaiNews",
-   "titolo": "A Genova presidio annunciato per lo sciopero nazionale dello spettacolo dal vivo",
+   "id": "gn-VFZsbE9BP29jPTU",
+   "fonte": "Giornali · LuccainDiretta",
+   "titolo": "Tentata occupazione all’Ite Carrara di Lucca, mattinata di tensione: agente ferito e un giovane in ospedale",
    "tipo": "Dai giornali",
    "inizio": "2026-10-23",
    "dataIncerta": true,
-   "pubblicato": "2026-10-23T10:34:00.000Z",
-   "luogo": "Genova",
-   "citta": "Genova",
-   "regione": "Liguria",
+   "pubblicato": "2026-10-23T11:08:00.000Z",
+   "luogo": "Carrara",
+   "citta": "Carrara",
+   "regione": "Toscana",
    "coord": [
-    44.40726,
-    8.93386
+    44.07965,
+    10.09775
    ],
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOakNuc28wcjFDYU9QWC1WMU9Ba29ZT1g4OHUycU9aS0ZheS1YTURUb2x6VWJBd2hhUldKSUo2SEtveWxqRkhWSG8zWnBiUEJMYTVsSGN0a1d2Q29aNVBhTjFQOVpHVlJnM24xdkppcjJfbGNkTjA0Z3JqaDBGZl9oMkRrT092SjEtdFQxZ19LcTFDWmtzUlhwSEFVeWNCNDlPRjdCcmNkNU9uay1GTkNwMEtPNC1uNDE2M2lvMEZnbUxkUDFtSEpjdndic2RER1JqYWJ5Umt1RWNhQWVyWWZITlVnSTdLQ3dzSTJqbGtBcWpUZnVTdWfSAfsBQVVfeXFMUHdaSEhpMjg4WTN6cXhGUC1sd3dsNlJuLWxWVnZCd01UYjFDUzBibHlBNFhLYWdualJxUWdFRXlXZEt0aTd2MWFwRDlCWEJmS2xCdm1yQXB5cnhpUzE0T1RIUnpFWm5wUmZXaWlDMTVTZEM0OHNoNy1KS1lHdnlicF90MXBCUlAzWlVEdE5EQnJ5Rlo2bW9BOTg0Y0g1bG8tSHpqZUZLano4aktVUzJEazdSWUxaM3RVUExyOGx0d0FzMGlscHpCTGVhWVdoM2llQm5SWVc2cnJNcnJiTU92cTRVMUVyWXF3dEo1TFpEYmx2MVNNM3M1aHA3Szg?oc=5",
-   "altriArticoli": 6
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMV95VnRqRjIxOW5DWUxwM2pzSFBuZUVYZW9ldnMxWmZEbnJrV2pnVVVhcDRPVGRqcEwzQm1YWFFZM05HNUdPc0pibnNQQVA2VHhwU0o5ZGZFTllyZFZtOU5ZZ3prTjkteWpMeTBYUTJ2b21LekdFaGRwd19xQWRUWnpRVWk3NFBHamVyVkFGcURZLXB1Q2M5VDZnckZ5VEc0SS1BUkxNZzhSVWhiU1A1TGZuNlFKbTB1aE0ybkh6clM0VTJPNUVtTVllOA?oc=5"
   },
   {
    "id": "gn-VktiRWgzP29jPTU",
@@ -1921,24 +2132,6 @@
    ],
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdks0Q0FNMThaTlR0YzhPX0habnJKS09lQnRuSXg0Q2VEMGZhWnNUQXl4N21Nd09XMmZ0UkhCRFhtYVV0ZkotTWJVWXh1VmxPZXpPSnZES0cyWEFjbl9YQm5HVm11YVJ1eHREVWdZZTQzc21vSFFJdTg5eVhNbzJhYTVxemYyNjRhQS02RjRsZGtqSFhkZExQOFhnaGxYRTdyeXhxTDBLWWt1bkZwOC1NT2VhQ0F4YVB0bkNqT2c1d1J1ZlZZX1FETldfSWd0YnhUMXlyMmhpSGfSAd4BQVVfeXFMTXA0VkJNR0xlNWl3YUt6Z2JIalFjczBJeTdNZEhua1BrYm5aSWpfcHV4SFZ0ZVhCYWlPZWR4MW5sU29OOV9pRnF3MXJMeXpRTWJydkY5MVJSTFQ3YUlNWW4yUTNTVVlYOWVWbU5zQmlJb2JKdDRGYzYyYVZwdHVMcFBTUm5mRmdqM3pxZHZWUFI5UUxvV2ZMd0lHT1VpbG00MGJJbHRhZ3pZUURmRzdhTF9IeUxRczVnR2k3SENYVjl0MUdDeE9QY0xJSUhQXzBKMWM0c0RXTDZfUnVKbEh3?oc=5",
    "altriArticoli": 1
-  },
-  {
-   "id": "gn-T1RkTE5XVT9vYz01",
-   "fonte": "Giornali · Firenze e dintorni",
-   "titolo": "Corteo annunciato sui social, i negozi del lusso preparano le protezioni",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-23",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-23T05:24:00.000Z",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPdDA5bnp6d21EOTIxRnJjOTlucU43eEQzMkprS181Y2JCRnlIbVh4dzJzWnZGZThLVi1RMjkweHZlbGZLRVkzdFhqS1BJZDRPVjIzT3FpMzFXZW9ocW9rTll3LUVTcHVMN0lUdEFXMlVoY2h5VmJNamxKN19MNmZyMDBhb0tvLUZVMHotODVJeG5acW9JNzRqeVFlUUF3SHJLMW9FWnNuUEFQSnZyRjh2OWZRdEtMbS1iMmVaWnlveFkxQ1NaZEc5NVdTSmljZFh3R3NPX1JLZXpvci1NSmZTMEhWR0RuakgzOVVVSlNOc1Jwc2ZLMHdnTEdLY1ptRy1MQ2R3aWJkYzVlVUNacjJKTlJXX1FhaDA2djRCN0VLOFpQMG1uQWxJWlFGZFBsckxpMTZRMGM3QWxvMDk4c2ZzaTROelRJY3lhcTd0a1pZenM5SHVKUmx2OTdLNWU?oc=5",
-   "altriArticoli": 14
   },
   {
    "id": "gn-UXhObVJ6P29jPTU",
@@ -2068,95 +2261,24 @@
     11.34263
    ],
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVFNdERvc1dPcUVLRzlpbkNZcUZkakJ2LVg1bnFyNVBfYm5Lbnhtb0xVeTk1N012cWNoS255c1JNc2U4cjQ4RmhReFpSUXQyNzJQRDY2eEVaRVJiVE9HMGktM0lSMVFmb2RQSUQyVW5YdjVFc3JWNWxxdjBjQjczOWZsT3dNX2lqbk5uSWQ0ZklxRVVPSVJVU3IzSGpLcVYwNUE?oc=5",
-   "altriArticoli": 4
-  },
-  {
-   "id": "gn-Vzg1ZEc4P29jPTU",
-   "fonte": "Giornali · Il Fatto Quotidiano",
-   "titolo": "Napoli scende in piazza contro il carovita: 500 in corteo",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-24",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-24T18:26:24.000Z",
-   "luogo": "Napoli",
-   "citta": "Napoli",
-   "regione": "Campania",
-   "coord": [
-    40.83588,
-    14.24877
-   ],
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaUoxZVR5VGtZN1BlTUluSjRqNnRjRGw0UXliQkthMjhVNU5vMWw1RDh5UEhPVVZyQTVIeE1iOE1ET1FWbW1nRlQ2ajR6cUN5T1E5MnhCMlNWTEJjRTJqX3pVSHhLM0pBc2dSWUYyR0RYUktIOVRYQWt0MmViWTk1aVZfOFRnRUlzRks1QjZLQjM1Q1V1ZGtCUW85dG8?oc=5",
-   "altriArticoli": 12
-  },
-  {
-   "id": "gn-TjNiV3RuP29jPTU",
-   "fonte": "Giornali · Corriere Torino",
-   "titolo": "Cuneo, il corteo contro il caporalato nelle vigne delle Langhe. In piazza sindacati, Caritas e Libera, ma si temono infiltrazioni",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-24",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-24T17:53:27.000Z",
-   "luogo": "Cuneo",
-   "citta": "Cuneo",
-   "regione": "Piemonte",
-   "coord": [
-    44.45807,
-    7.55814
-   ],
-   "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNWldqZVptRENVVVB4UTh1MGNxdWNHZTVNRDdGejlUcENid09kREJhWEJaa0FvUFR2Y3IzblU0b2k4NDV2SmZsaDNGU0kzcldTWWVGQzVDZ3Y0cFg4bFcyQzVJeVloSGFpUDFlV1FjRTI4ZHJMVGhYWmkwN1dyMzhlOE1ZUDBYTDlQX3RVYmkxd1BINkx4Qi01Y0VSUWFDX3hKcGFORXpRTXY1UmJNY0lScXJiMHlEWGJRUTU0QUlYZXlpb2h5Q3FDRURWV2hOSThPaHJqUDhtMWtHcWdvcVdDZXRzd2lQM3ExZW9LVlhZMTZXekdXSkpGVXl0Y0lfWEwySGFCYmkzZUJxRzRxaklKQmdnNzA0VktpM2hFeTJ3eHFkdzdSdTJPMFEzWDlvQ29RZC02XzN4Y3dMM0Q4M1J1SW0wQTPSAcoCQVVfeXFMUGR0TTlzSjM2U0ViQzI3YlBRTDlaX2U1Smg2cHQyQTJUS08xNnZGMmV3bU5EdGZfMndqM1VEdURxSXl6S24tMi1QVG1KOVMtSXNEMmMzdy1id0RkaGRwVDhrUGNuQ3JEQl9vNEEzQzhiM3hxTU1FZVRjbU5keXBsS1VyX0dZcGRNcEdZRWtXdzRfV1hRVGZubXNDTUt5SHlrQ3UwRENaMTNBcDEzV3Rub2F3Z1A4SVJnMlJnbW9PZ3I2VkhXNW1STXFuQnI4ajVOTHhoSFNaQWwwbktpVVpwVWlFREJZUUZVTzNXNUtyU01WeVh4Q0hSempLeXFlUkliVmItMnJ3UnM1YjZRNW1ZMGRNQkZ0bEUteTJKT2JkY1hKNzc0bGNLSFFtYTdkRVZuTEFZWGNlaDVlS05qeWd0THNUZ0U4ZTN3bWtn?oc=5",
    "altriArticoli": 2
   },
   {
-   "id": "gn-TlFValJPP29jPTU",
+   "id": "gn-cGIxWmsb2M9NQ",
    "fonte": "Giornali · RaiNews",
-   "titolo": "Alta tensione e timori, ma alla fine nessuna manifestazione a Trieste",
+   "titolo": "Il report di Veneto lavoro: luci e ombre per l'occupazione",
    "tipo": "Dai giornali",
    "inizio": "2026-10-24",
    "dataIncerta": true,
-   "pubblicato": "2026-10-24T17:32:30.000Z",
-   "luogo": "Trieste",
-   "citta": "Trieste",
-   "regione": "Friuli-Venezia Giulia",
-   "coord": [
-    45.64965,
-    13.77728
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYmZUOURHb0o1QXdPcVhnaEZWQ3h2bVlPaHFIU1MxMVV2US10NzVMV3J3QnhMdHFTZ3llNkNHV3FKRlFjalVKU0dxbndjNW5lbDJIUW1OR0NubHdTX1NrU2RaN0VVWTVTWWY2M0VPTW9GdEdOaDMxQmg3RzdXMUJsYzl2RHVvcXo4UHdPQ1ZVem1aMDBDZThTMXBsLUg1dkxlaF91WWZXNU9ESzR1WG1DN2JTSmpXc3RXek0zV1FJVUJDb1lhMWVTd0ttVlcwMzR1SU9vNkNfUFJDQVFVclpFRlRoTmhzbjB0MTZ3SmY2WdIB9AFBVV95cUxNSTZkVG41SGlUMm91QXVEYlI2NmlaVGRTR2s3aVp4TVBVdVpwaWRCT01tNW9rN3pCTWQ0NmNRbHI5UmVwLU92UklsSU1CYnJXYVotbkp2Q0tGWUtseVpuSFRnaGFmZExCMGVxcWI5RW1ISk1RblJnZ0VTRUVWYnZKajZIZ29faDZRUEhNZnFfejNGN0I3RVcxZmVUR2h2ZXNQczM5azdTUU43b0V5UkVtOWF1eERlWlRrN210MVBJV2FlRzZGOTI3MGVCWXhPYXN3TjAtTTVOeW91dlhYRFlWTDVNS0ItT3dTZEFlMWZmdTNQUjRO?oc=5",
-   "altriArticoli": 2
-  },
-  {
-   "id": "gn-NWNuVkIb2M9NQ",
-   "fonte": "Giornali · Gazzetta di Mantova",
-   "titolo": "Presidio e raccolta firme: «Trenord: basta disservizi»",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-24",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-24T16:51:44.000Z",
-   "luogo": "Mantova",
-   "citta": "Mantova",
-   "regione": "Lombardia",
-   "coord": [
-    45.16926,
-    10.67084
-   ],
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUjZwSHVGRjhsQjRQTFJialh3TXNFRWZMdEtqeTZ3ak1HeWJyNW5lek1uWDFkdG9xLVZTUVNpWThTOU5JdHg0bVA3M2NVSllBTUlwajJza3d2QS1odkVPV0VDS3phd2xTeWVISFh3SHE3S1RONkk1TkRMX3dydWZXbE9iZURvZ1ljQUJRSzhxbWVGcVRqVzJ3VU1qbTjSAaIBQVVfeXFMTzVna3diNml3V3lSTWFQellKX0ZRTUxtelV0S0czUEZCVi15eko2UWhua29UdVU0cmF2RTQ3U1pwSmNSdUJ6TU5salJyeWFIQ3ZZTW5TeUR6YVYtR25jT3VjV0dDNWNhQzA4OHBUOUp6cVNIV3VBQ1IwanBqS3cxWEZaMk1EbHNZeEIzOVdCcEFra1A5ZHpzaWlpQ01CN0l5cnVB?oc=5"
-  },
-  {
-   "id": "gn-VFExUVd3P29jPTU",
-   "fonte": "Giornali · L'Arena",
-   "titolo": "A Verona presidio per Moussa Diarra, una sagoma bianca sull'asfalto",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-24",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-24T11:41:39.000Z",
-   "luogo": "Verona",
-   "citta": "Verona",
+   "pubblicato": "2026-10-24T12:09:00.000Z",
+   "luogo": "Veneto, Italia",
+   "citta": "",
    "regione": "Veneto",
    "coord": [
-    45.4425,
-    10.98574
+    45.64767,
+    11.86653
    ],
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUExNLVhUSXFEYkdmdjItZHNGdGFGbGs3clV0bmxQRTRuNVpXbDUyamhHMlVIbnpDYy1MUm11dDZSZ0xjZ1YyZTc1ZnVXQ0ZBMWI3WDM0cnQxYWdSMVNPUjVLREpDS3hnbUVLUHRsd25aYTNKVWN1ajZ5bXdOeXZrcU1lTFRXYXhPWTJURzgyWDRabl9BdkRER3E0aThpLXNTUW1LYVhBd005Qlk2Q0ZiTmYtV2FkTFhnSW9sc2htXzdxcmfSAcgBQVVfeXFMUFBsTXFLb2ptdDNzM0RqbWhwWS1KcVZGMkZSeno0YTE4WFBoVUZzVXBDVXQ1NjZRSmZMRG55U0NWT1ZwVTRubzhnWmdUdDdOMW5yYXFtOU13aF8xbWR0d0JIU1d6SVFpa1luVXA5NDhrNjRwMWkxMkpnUl91NUtuY3V1emc4WFFZLXlYY0haRjlrQWkyLUZ2Rlp5anVId0lFZTdyVGJZTl9hczNPTklic0k1ZkpMUUpRcTYzVzdYSzNHQk44RTQ1QWw?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOGZTTl92VVRXdDNrNnE0Z2dtYUR1amhQdm9IRTg1TFU0aHRlY1I0d2pWakwyNktYbnBVSmRPMTNFWjROOUlpMXBSVmFaTGNtam9sbHlTR0FLQXAzXzVpWTBhMWFqakl3LS1HUldGa3ZPMkFfX2dRODJCb0hLUUZhdjdEb1M2Yk5McXg5aE9jaEtEZHJnWUx5bzB3RWsxZ3NraHlFN29fM0RLNlkxUUQwdExKc05sTzR4MEMyRlVGdXZIU0pFejI5WnNiSTROTXpWNlVKYXpwY9IB3AFBVV95cUxNOGpNckVaVDFOelEyZlhWalFEUk9PVzNLT3F3QlVMbWhodEZsMVFNM2ZCOHQ3b0trUjdJWWpjeDl1V0RhbHFRMXlGczY3MG1vRmJFa3paQmlldmdSRnNDNnlsMkl4cjhJVzQta3RTenpjQzVDV2JJRlc4Um1XU3N5TmN5Y2xvUzAxTHJNWkNHWEpHT2lZSU9admJfMmhhV1M0VXFjeHkxbGtXWXpRUW1nenEyMjZLT2ZxV29nazVLVjNZY3FKRlV5S05naVY0RnhfQXcxclJtZTFpb1Zk?oc=5"
   },
   {
    "id": "gn-Q1RtOURTUT9vYz01",
@@ -2176,13 +2298,13 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUk04MmFGcG5zQnhfcnNnZHlpcWg2bVJ3Y1VvVkQ1dUZyZnQ4RERORkVJcU9ZNVdMU1JlWThJRWF6ZWh4TG1PeGtTQUZpM3A3RHFZV1Z5ZDRXODFrak1Iem94NlpHX25WemdfQ1hkbW40c09RN3NkVmdieUd1dDlnMlRmSFY0OVZQMmtDMm03TDBoemRJTGhJWlF1WUdwSHp1TEJEdTRVYmR1dGFQc09CTm9DSQ?oc=5"
   },
   {
-   "id": "gn-VE5LZVRJP29jPTU",
-   "fonte": "Giornali · Sky TG24",
-   "titolo": "Proteste Italia, da Milano a Roma: il piano sicurezza per le manifestazioni del 24 ottobre",
+   "id": "gn-V0VsZlJ3P29jPTU",
+   "fonte": "Giornali · Virgilio",
+   "titolo": "Paura per la manifestazione di sabato 24 ottobre in diverse città da Milano a Roma, negozianti terrorizzati",
    "tipo": "Dai giornali",
    "inizio": "2026-10-24",
    "dataIncerta": false,
-   "pubblicato": "2026-10-23T10:56:09.000Z",
+   "pubblicato": "2026-10-23T10:44:22.000Z",
    "luogo": "Milano",
    "citta": "Milano",
    "regione": "Lombardia",
@@ -2190,8 +2312,8 @@
     45.46419,
     9.18963
    ],
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQVFsVXpMTGVBN1lHcDh1VWFZRTZURElRWi12WDRkdWxmYTRWaFBSaVlZN3Zic1VQSHZPLV9QNVhLemdFVHdSY0drX0prOVVOYjBPMk5LaWZ6dWpYd3JvendxU1hiMVRMTE85cDc4T3JNdUNaN3ZyYi0wemt6bU9VdWVxWkVZMi03WndsY1p2Q01rS3VUZHJsRTNKeTI?oc=5",
-   "altriArticoli": 3
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTXB4b3ZnRFQ3UEt1TzQxMXpsVTgxZmhUSlhaVEdYLWUydUVQNkJlakVRUjBRcjBYd29QUXRrTVRfUHB4RlRaZ2NMU2VOVXpiQklHSW1iQzFYTjk1eUFuZkw4blIzOGJqbk5tNkYtODN0Q3pKc3pwd1RpS29IWFM1cVBNaE1hQ1Z0X1ZRV042b1hENW16ZHRDa3c0ZENJWlVIQnhtX2ZxUGlHV1VsWjJaQmYwaGFiTDJocE81Q2RnQXd5X3lrbVJiMFZkc3JGSHNabnRDVksyNjdENW1ZYnBF0gHkAUFVX3lxTE0wY2hwTTVDbEtGdHozN2FVWWdzbVg2MWdRLTlzR2hYcnZTVDlEM1Bfek5sTkVva0hELVhyRHNXS0ZzbVQtUUdSTktwcEJaY1EzSGNqT3Y3emZQcnRKd1BDM3JUM0M5dUFJTTE2OXR3ZjBuRDBReUloVlptMkhXaURfaW9mcjhaSF91cjd2NzJabzBkcE5wQ1AxRTdYSlFQZVlGcWgzRk41SmRwRWFwOTc3X0ZXVUFzQnBpV0ZCWmN2NE5wdDdYVHdPQlhGdElPSWtQRlc3ZzNpMUdyTzlYMktNWElfRw?oc=5",
+   "altriArticoli": 2
   },
   {
    "id": "gn-RUYwU1VoUj9vYz01",
@@ -2211,23 +2333,6 @@
    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZXlnZzE4b3VuYk80ZEZINldZRHBiVGZPQzFkU19NdmNPQkJuWWFlSkx0RlBIZVNVY1pYdjgwZ0pqaTVucUpiTUVXZEJGZURqQnI0NTJqV3dYM1c5X2xCZ1VuSFlJTnhnZUx6S25Idlo3bGFfU2xjSldvNWxNRVByN1BaYW51cnRBVTh2RmRNRDJUdHotRVFUTDBFcXExRHlNTE1nTVJzcUt2MF9qY3NfUzNJS0RYU3NCVE90U3ZZaE1HWjFsU3N3X3Q0RUdYYlpRbzFORlpPalpGTmlsRkZheThyZ2J1UlpYelBnSDBsQU9GU1ViNm1zc0RsN05reThKWS1kS0xqVkVRbTdoUEF0SUhR?oc=5"
   },
   {
-   "id": "gn-MnhwYldzP29jPTU",
-   "fonte": "Giornali · Corriere Del Mezzogiorno",
-   "titolo": "«Caro vita»: sabato manifestazione a Napoli e si temono disordini come a Milano",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-24",
-   "dataIncerta": false,
-   "pubblicato": "2026-10-23T07:00:00.000Z",
-   "luogo": "Napoli",
-   "citta": "Napoli",
-   "regione": "Campania",
-   "coord": [
-    40.83588,
-    14.24877
-   ],
-   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPMXBqV2ZuQmZ5TmdiTmc1TkRhVmgwZVlhWDVvZ09WTDI5NjZMZVlsWEk4UjhxOFFteTRqc3duUHpwN2xLcGZvVTIteEdySkFvWXhzN1dVOW00THJJaXJoc1dOMXp6U09FSm8tdUxzZkJ1Nm5BS1V4dnp3X3YzbVFxVUZXMVVtZVJRYWtBTjBoVG5YM1pJaE9nUlBsOUhQSzBEQ0M3d2NzTnV3RldZcU9YX1hKZjhDaXNvd0tBbzNuNVAwcFQ1NDNnTDU3MWlFTW1jU1BZSWlNZGdxdVNHOWs5b3plWXk1VFhBa3Z4S0E0ZHFJbEJ1LXVyb290LVJIcUU0RUsxVWJaalI2MGRlQ3BIcDF1MEplSzk4cS1KS0lGWENKbm9CMWfSAasCQVVfeXFMTVNVMXlacGVpSS1sUFNHMkVxdUxtaE0wSzJGWmZNQ2RJWmREeGJZRnh0QXVOSFBHMlg0azlRZXhOUFFOZzk3WVE5QU5ndjJDYnBnUzFlcVU1UDc4MHUtdXptajZ0ckg5a3JhSGdqY01CYnRrcE8yWlRNU3hqb3pDbXJZbG5NX2piODlWdnlYOU92YllsQzZLMjNIMHZpSTQ0SHA3ck1VZW1ZSXo5anQ1VW5XZDdnd0lFamVpS3g5dzd4RFdnMml2WEh0MjRVQzRQbTduN000LWlYaUFydWl0d0gzR3diOWwycmVGZ0xEVjlnY1pnZC13Qzd0dTc2VkV0NHhHb3E2eDdGMHdXUU1WTUc1eDlkODVOdjFEMW5vTUVQR2tPckpBQ2xpbWs?oc=5"
-  },
-  {
    "id": "gn-Y0ZOcFp3P29jPTU",
    "fonte": "Giornali · la Repubblica",
    "titolo": "Corteo di sabato, Roma a rischio disordini: Tridente blindato",
@@ -2245,13 +2350,13 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1VuZVo5aFl4T3FyTXMyZEhRN1FmaUJhU2V5dXg3eFZvZW1FY1d3Z0pNeEdMS0FZNW5IXzJhNXd5TFlXTUZxUEZta0NmNXVVZUFNLVU1SXM5YXl1QmhlV2lCcFVmcXdrUFFWTXh1djFneVFrRTlDc1NFZGFGcHc5SDFFbTBKQkNmYWprRUhyWHJYTXNtZU1xNlAxMTU4SnlnOG4xMERYald6RTVBcUdIM0Vn0gG3AUFVX3lxTE9Dd1c3NG5QVER6Q2FnWWFVRjhxeGNsVnNUMUxBbGJzOXVodUt4OFlhVndWeXdsa1FLSUkyX0lJbjUyX3kwVlpOTEw4bWNiOTlTcmFVYkRBUk81MVRyNU5aZHVmVVpoeWhSZFZwU2FFZFNHb2RPVjVFWVNHWjNSSlpjS2JBQjR6SmJlM0lQZTJTcnBaaWpGNzJ6SGJUaWplT0tPdkVqbUdRLUNaRkcyUHpNNWRYcFNpZw?oc=5"
   },
   {
-   "id": "gn-WFlrZFQb2M9NQ",
-   "fonte": "Giornali · RaiNews",
-   "titolo": "Trento, misteriosa manifestazione sul carovita annunciata per il 24 ottobre",
+   "id": "gn-WkV0UWR3P29jPTU",
+   "fonte": "Giornali · il Dolomiti",
+   "titolo": "Una grande manifestazione in piazza a Trento il 24 ottobre? Misterioso tam tam social. I sindacati: \"Noi non c'entriamo\". E la prefettura rassicura gli esercenti preoccupati",
    "tipo": "Dai giornali",
    "inizio": "2026-10-24",
    "dataIncerta": false,
-   "pubblicato": "2026-10-22T16:02:37.000Z",
+   "pubblicato": "2026-10-22T15:22:16.000Z",
    "luogo": "Trento",
    "citta": "Trento",
    "regione": "Trentino-Alto Adige",
@@ -2259,8 +2364,7 @@
     46.10295,
     11.12974
    ],
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNi04M3RGdl9KYnVMRjBOZTVXbU5CWkpJZmpMTFdyWEpFYW5lc0ZVSXpxal9OemtEbEpyVFdSc0ZRVmt0SklYUGRDZ09fU250eGUzYnFWaE9zSzdnNVc2akIwem5PdWQtbnVsUDRoY1F6VGVVQjFmRjliMUNCODFQbmVZV1k5UjVDVDVvcENvV21vbGhDeVhhZHRJaGhCN0FTeGgxVUJIb05FbTZ1TnQ4U1NxMjNKSzdER3AybEJuWHNPSVhCMEV2Q0JiR1pFT0FWYVVHOWJqVTZELWtKc3A3UlRla3M5XzJXeTZXbXRJLUhLR3hpeWFWR0hWb9IBgAJBVV95cUxPYzJaM0g0OHR1VTR1aDR0ZEljOV9US05oYTRuOHF4VTF6UGQ5QmNjR1dUdVZlSGVITEpDQllEWEFrWGllamtwbzNnWm1WVk5wSTN5c1E5azZhVnRzZFItMkVydjFPcC11b2dkYjR4SUxNRlcwZmZ6SjBaZmZXeTZhd3Rkc295VkY1akhXclNLVnhhQnR3X08yU1lTd2dMRmR1QWJzM0phakgtTzNuUGlaRld5c2dJNjJyMnFpdFQ2X0Zsb21BajhUY1RhUjJpUHdjRG95ekJuakpuY3JFRW8wQS1PQ25idnhGTWZuckwxb1lLQkliV19ORERtUGtXYkdT?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOZ05MYTN4blRPNjFPbC1mMjlvUWIwMmkzTjJlcXNoZG1tNUpGeEh4bDVncWJXMFNoS2ZZSklRLUY0VmhiX1RFQ2c1dTdMWkl3TjFyZW1SSnIxNnF6dGtxeU9Ob1hmeEZBNmdhMUFyQUlqeXBUbkRNY3d1c2pVdGRaWm5ET3NBWmxicHNuRXZyTG03dUYzMlpVUlVtSWVGRThVYkZuNXBCaEhSdlBpeExYRVlmcXZ6bkQyNXdVamc0N1VMYXZ6TnlYYlF4THExeEFicVFNcVFLMEVRNWdjdkdRZGVXQUJsT2U4Mnk4Y0ZFNldLZWlueDlaODJ0WXRIVDNBbUVzdEZ1bHI3cXc1X2dtOE1OSmlWVlBlN2hwU2ZDVTVYcGJXem10ZjBtZEtQdw?oc=5"
   },
   {
    "id": "gn-eElWM1Eb2M9NQ",
@@ -2389,23 +2493,6 @@
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744290/-/firenze-nazra-2026-palestine-short-film-festival"
   },
   {
-   "id": "gn-SGVYbFIb2M9NQ",
-   "fonte": "Giornali · Il Mattino di Padova",
-   "titolo": "Corteo dei giovani a Padova, 4 anarchici arrestati: «Volevano bloccare i treni»",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-25",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-25T06:33:45.000Z",
-   "luogo": "Padova",
-   "citta": "Padova",
-   "regione": "Veneto",
-   "coord": [
-    45.39141,
-    11.80585
-   ],
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWl2UXU1b1VPMmU1UGNKaGhtRjFQbF8zVXBjZVFkbnhCT1J1YUhDZVoxQzZnenZ1bzFobG5najVnWGlMQ2xFQU9zeWxiQjlET0hCTEIwaHE0Y2xQcWxwUnEwTkJEbTRSQmF6OFYwRW5pdFB5Q3p5eVE2b0lIV2VxRnN2djJLYW5mOXB1aWFvOXN6Z2ctY0FkVDlGSk9oMTFGRmNvdDRQdTlrRTBTWVRHeXlR?oc=5"
-  },
-  {
    "id": "pl-13493",
    "fonte": "PeaceLink",
    "titolo": "Dialogo e confronto con Gideon Levy",
@@ -2531,23 +2618,6 @@
    "link": "https://www.invictapalestina.org/archives/55281"
   },
   {
-   "id": "gn-a2VERkpSUT9vYz01",
-   "fonte": "Giornali · Telenorba",
-   "titolo": "Potenza, torna la maestra indagata all’asilo: presidio dei genitori davanti alla struttura",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-26",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-26T18:36:12.000Z",
-   "luogo": "Potenza",
-   "citta": "Potenza",
-   "regione": "Basilicata",
-   "coord": [
-    40.51731,
-    15.82161
-   ],
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSFNlZ2daT3RQcGVnRE02S2owcjhYVlA4NGt0cHFSNTJ5SzhPUncyMGgzN254SE9qeTluN3hyZThnQXNOMUxQOXN2NGhONVJMU25wWjdWUFZ2eXM4YXFIR3c3aEFJS2UwQUpCMGcyV0gzQzdjbGVQd0RyRzRtOTNYTnhGbmNNbHV4NUU5aEpubHpxMzBQdzNQeko3VG5HOE5rX2F4N1U5N1hSVG16dzViWUhZTWh5YnVkeDFJRQ?oc=5"
-  },
-  {
    "id": "gn-MDRWakZuP29jPTU",
    "fonte": "Giornali · RaiNews",
    "titolo": "Manifestazione a Isernia",
@@ -2579,94 +2649,25 @@
     43.94654,
     12.63075
    ],
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVXlodWg3bnpaOWpjaDJPYUIyZmpsaXUzeG9SM1BJVkxaZ3NudkZoT0dKZDhJOENFZVRhS1NxMmI0Q21Ic19iNXcwUk9IbFRlc0JVR1FNSmNxVzRFVk5xeE9hR1A2WVIxUURsejh3NFVPdHBvd2M3RXlYX0d5QnExeEs2d2l3aFB1bUVxaUZZeHhRaUtuV0k5LXhvNzNQUHZFQXR4NXpiRWI?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVXlodWg3bnpaOWpjaDJPYUIyZmpsaXUzeG9SM1BJVkxaZ3NudkZoT0dKZDhJOENFZVRhS1NxMmI0Q21Ic19iNXcwUk9IbFRlc0JVR1FNSmNxVzRFVk5xeE9hR1A2WVIxUURsejh3NFVPdHBvd2M3RXlYX0d5QnExeEs2d2l3aFB1bUVxaUZZeHhRaUtuV0k5LXhvNzNQUHZFQXR4NXpiRWI?oc=5"
   },
   {
-   "id": "gn-a1pDYncb2M9NQ",
-   "fonte": "Giornali · Comune di Messina",
-   "titolo": "Manifestazione di interesse per la selezione di esperti esterni della Commissione comunale per la valutazione delle donazioni di opere d’arte e beni librari e documentari",
+   "id": "gn-OWlabkJSP29jPTU",
+   "fonte": "Giornali · Primocanale",
+   "titolo": "Cinque giovanissimi denunciati dopo la manifestazione studentesca a Savona: tre per istigazione a delinquere",
    "tipo": "Dai giornali",
    "inizio": "2026-10-26",
    "dataIncerta": true,
-   "pubblicato": "2026-10-26T13:50:49.000Z",
-   "luogo": "Messina",
-   "citta": "Messina",
-   "regione": "Sicilia",
+   "pubblicato": "2026-10-26T13:49:59.000Z",
+   "luogo": "Savona",
+   "citta": "Savona",
+   "regione": "Liguria",
    "coord": [
-    38.19376,
-    15.55421
+    44.23342,
+    8.25257
    ],
-   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOLUtlNTRiblhMcmlLajJaNXoxWHhjc3ZsWDhGdnNZM2tkeFhMS3RVbEpzU2s2TEtSNU04dnlmR2xjY3hDOFZLcnNERXhDbDliU2lfX0lGTHhNQWZQd21QeEp6WWVNel91WjJ4N1BzbldIeEJPMlUwQkVyd09UeUp5QjY0M09UQWdJTFZFVU9RTHZyX05LY05HNkZDemd4ZFk3aG9FazdEdjhWWVcwU0tUVFB6S1NOZEh5cUJmZEk2aDJ5aWtSMVRIZm5DUlZRUkd4N0VQbjdLaXZfNVdycHRhVUxJQ2dTcmdqeGJfMG9ubGN3MXZFRGhfclVPR1JQYmhtTExNYW5PWDBBcGlNcWd1eGZhY2s3MWxMSlBaT29lcDJQZ3oxemo3SkZCbw?oc=5"
-  },
-  {
-   "id": "gn-cU0xZzNadz9vYz01",
-   "fonte": "Giornali · Corriere di Arezzo",
-   "titolo": "Caro carburante, la rabbia di autotrasportatori e agricoltori. Protesta e presidio al casello di Bettolle",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-26",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-26T13:37:51.000Z",
-   "luogo": "Arezzo",
-   "citta": "Arezzo",
-   "regione": "Toscana",
-   "coord": [
-    43.51714,
-    11.76393
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRzFETmtuZVluVF9yU2UtQ0pFWEN3SzVZSldfckNrUnpPenlpT25Bb195YmlZTG9lN19MdTN4bWZWM294MzloOVM2R0hDVVdacFdjVFRydVR1bDBvUVh5bllaODU4M3F5NHlzYUtRaUhSVDkzeXlkUHNnV3dpZU95c0hKcUk3Mk4xUjQ4aGNiY0FiVnBHWlk5amZpN3hQTmN4enQ2MXhnRjBPMzZNa000SEJjX0M2WDB4SDFCa2tfYVJPOTZ2d2xMRVFWa2I3dktYaWxGYWpNY1FfMDNzbk5NNXk5bll2cUx1QmJ3MUpqM1g3Zw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSXh1M1doRllzLTEySXFyVVdjYk85eUdPT1d2dTlxTzhIRVlfNUJxbXRSNWJHLXNDUjVValg0UTFSSURRZlB6cVBYckdPV01faUZsTmJSQldOaXg3UFFWN1QxQjQxSzM0QUp0RjNGZ1BKd3Eyb0ROTWhZcS1EWEc4a1R4ckhnWFRuV3hZQ3ZEZUhVODRncGtkYjFXYVNmTnp2UkFMTEFOOEJudERKaExuNnI1RURNbDUycXowdHhVUHpfaGJJVXAweWFYONIB0AFBVV95cUxQOU1XclpXMnlLY1h1cjVpaUtHck5zWDNTckJTR0t6VmgtNjl5dzB5SHBaZ3Vmc3ZxQ2kwSy1ZbG4wSktJR0k3VkdJZnpiVllJTVlSNmxHSk0xRlFXbkp0R0pDY1UzclNoWFlvTDlCX3ZiN2lmVzJCY0R6LVNjbVVxUWtLTkZmZDdXeHkzTzhYbVZEWW9GdURZN0ZDVnVRclpGRmNMUHk4TV9lQ0traGlLcS1ZcUFwR3FTWE5qU0o2QUh0RWZCTzZBNUlhVV9iZnBR?oc=5",
    "altriArticoli": 2
-  },
-  {
-   "id": "gn-M00zU21scD9vYz01",
-   "fonte": "Giornali · Rete55",
-   "titolo": "Varese: Beko, presidio in Provincia: “Ora le risposte!”",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-26",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-26T12:18:01.000Z",
-   "luogo": "Varese",
-   "citta": "Varese",
-   "regione": "Lombardia",
-   "coord": [
-    45.83991,
-    8.75418
-   ],
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV2lNakNWU2JGbDhKMDlJRmRvRExOUHIyRHE3aDQ0LURGOEF3dDRwWVY5c2NJVm1KMGpEbzFpZ0V5UjIyZElCMG9TMG1vM1AxVlhrVzcyeHE3N0l2OTRaalF0Yi11TG4wa3kxOWVLRGROUGdLLWpVU0VYU1dqTFYyX0JQaWxlTUdSYURtX3dLc3M3Smlp?oc=5"
-  },
-  {
-   "id": "gn-MDB6VUVoaT9vYz01",
-   "fonte": "Giornali · Basilicata Digital Channel",
-   "titolo": "A PALAZZO SAN GERVASIO IL PRESIDIO DEGLI STUDENTI",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-26",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-26T11:49:26.000Z",
-   "luogo": "Basilicata, Italia",
-   "citta": "",
-   "regione": "Basilicata",
-   "coord": [
-    40.50057,
-    16.08195
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdE42Q0ZiZzlDQnE4Wk5EbENwWEpOajVWNVNoZ050dVNET1RIOUhWZVRDRVFMSXpsbGd6RHhJeHJzQmtWWndyRkx3WXhsX2ozOFNYZ29DYUNiblV5TWJqYkc3UTRiNG50R0N5a0hvLVJ1RzFqWmZHSVp3bWRmV3MxdThqQUcyWWdWdURIdDl0RFktZUtUU19seThwZFM4anF2RGU5eFpuVlhVSF9JZ0xEUG4wT00zUEhi?oc=5"
-  },
-  {
-   "id": "gn-SjRibkpuP29jPTU",
-   "fonte": "Giornali · AostaNews24",
-   "titolo": "Aosta, flop della manifestazione contro il carovita: in piazza Chanoux si presenta solo una giovane",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-26",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-26T11:03:15.000Z",
-   "luogo": "Aosta",
-   "citta": "Aosta",
-   "regione": "Valle d'Aosta",
-   "coord": [
-    45.73731,
-    7.3204
-   ],
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQTFfZHZOYUthWEU1TGFrUldtaUJhRk5iS05CNFo5dU9iejBqbUxlV2J2a0loUHJJRWhJWWpRaFRkbVpEaUlfbWV5bFJhN0R2SEN6MjlEdHVraEl6SW5tQVYwSTJpbmhLZ0tVUWdJRC1oZWRIeF9yaWJ4RnZfN3p0OEJqRTlDeTJ5VkxhWlg2VmFKUmVLUlpTWGtyXzk4ejNiZTc1cUpwbWVKX045UVNSbDdieHZpMnluclJ4bnJn?oc=5"
   },
   {
    "id": "gn-VVl3Y2xFP29jPTU",
@@ -2686,21 +2687,22 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0NaRm1RMThKS25seUYtakxubWNnd19BQ0RDVG1adEN1bWFMLV8xeVZVVzBnZFBMWGhZVHJuWU5iNlZjX3g1UnN0aURGS09yNnM5SXBkS3d1Q00ybHhQa0h0STcwUjdsZXNEOUhHZS1VQ0hvWFUyUTZjWWpKX3lyOFB5U0lnUUhtSDdTTXFobi1vRTVCbjBwRzRILWdHZkwzWHdDRDV3cDJIdUYwclE?oc=5"
   },
   {
-   "id": "gn-aFJhekUb2M9NQ",
-   "fonte": "Giornali · La Nazione",
-   "titolo": "Copernico occupato, la protesta degli studenti arriva anche a Prato",
+   "id": "gn-VjlyZHcb2M9NQ",
+   "fonte": "Giornali · Il Secolo XIX",
+   "titolo": "Imperia, presidio degli studenti del liceo Amoretti in via Berio. Continua l’autogestione",
    "tipo": "Dai giornali",
    "inizio": "2026-10-26",
    "dataIncerta": true,
-   "pubblicato": "2026-10-26T09:57:51.000Z",
-   "luogo": "Prato",
-   "citta": "Prato",
-   "regione": "Toscana",
+   "pubblicato": "2026-10-26T10:06:00.000Z",
+   "luogo": "Imperia",
+   "citta": "Imperia",
+   "regione": "Liguria",
    "coord": [
-    43.93572,
-    11.09415
+    43.95838,
+    7.86674
    ],
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWjdTcGtrMW5RbnZzdnNNNWZHM1FrNlZ0WFdxTEJqYlptMEJjNk5SS2x0THp6UGc5WjhzZ0cyYWswYWVLZ0dfOFgwakk2U3dQRllVd3FWdVVJbG9WOUFody1DMFhoVWM2YW13Y1A0OGhiVXloSVQ4Zzd1M0czNVRhQ0NtUVBGR2dtY2tDQ1hRUXUtem1UWjFOcUtuSUJvb01UeHhkN1BqVU5TSFVQaExLSmhRazE?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWkoxRHphVHBjNnZseWJZMkZIRmZBd0hvOFR1eDFOQU1DWDFDQzJhS0owN0dySnczTjcwYmZ2T0J5dVFvMEpTbThCdGFBQVk0QUo1b0FkUFQtOGlCazlGbzhYYnM3Zm5pcFY2cFVWTTlWUXpUM2QxNms4ZlVQLWlZWENEb1ZrYUxpdTZDcVF6emp6b0M2MGJ5OV9rdw?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "gn-OUpXWGt4P29jPTU",
@@ -2718,6 +2720,23 @@
     14.70571
    ],
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTWw3Z2hyU3NNN1NjMzhSWjBTcng5N0Utd0dOY1RDbnluMlZuZk9kT3VrenBLQ3ZYc0VITVBzcE5mdHVzT29UcGU0czlNdzdpZ1M5WENKcWVsREc0TVM4V2UtRlZFWGdpa0tLQkdLZS1lVDJuWGplTWFnZWM5NDhtWkh3aWloTDdEOFhwUmUwSGk0a29pdVIxLThiYzNGM2drRmR5c1Z2LW9JWXkx?oc=5"
+  },
+  {
+   "id": "gn-QlJUa3RuP29jPTU",
+   "fonte": "Giornali · Città della Spezia",
+   "titolo": "I giornalisti tornano in piazza: rinviato al 26 ottobre il presidio sotto la Prefettura di Genova",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-26",
+   "dataIncerta": false,
+   "pubblicato": "2026-10-17T17:11:00.000Z",
+   "luogo": "Genova",
+   "citta": "Genova",
+   "regione": "Liguria",
+   "coord": [
+    44.40726,
+    8.93386
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdlM2TE50YkFGZjlTcmo4bW9lQm1FTHpFdHpZclFwMmt2VmNpVUd4bFV0cExUenNNX2NRY19IbzBNWFMtUC0xV0pmQk13c3JIMmpqVUY1M2lQenc5VENtWjk5Y201X0RNTkg4b1p5d3Zrc3ZKUDhxc0gzeXlxeld0aE5ENC1tTVgtcFFwbDJfQkVfRDNsMzMtd3dPcXZaSHV2OEVCY3NuSDFDUmgycXh2aFZPR2ZJRlIwRnkwOF92eHROdGFIVWtXaEVVdjVKYlIxRXIxV0Zldi1wQzVKaTBRTktn?oc=5"
   },
   {
    "id": "pl-13483",
@@ -2799,41 +2818,6 @@
    "online": false
   },
   {
-   "id": "gn-TFYzRjAb2M9NQ",
-   "fonte": "Giornali · malpensa24",
-   "titolo": "Barilla, sciopero a Novara: due ore di stop e presidio davanti alla fabbrica",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-27",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-27T22:54:35.000Z",
-   "luogo": "Novara",
-   "citta": "Novara",
-   "regione": "Piemonte",
-   "coord": [
-    45.58425,
-    8.546
-   ],
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OeExDVU1odVctb3NrT2dnSE5MUTlmM3NBOE1LQ09aV2hrbWNXTzY2eUx3T3F6TWlzXzluOFBBbFI4ZDFlbDhzb3hhRW5QaUh6aHU4WU9uZmkzZHE5eXhfaTd5ajYya205ejFoTDY4aHpLV3F0?oc=5"
-  },
-  {
-   "id": "gn-ZWpOc0xWTT9vYz01",
-   "fonte": "Giornali · Pressenza - International Press Agency",
-   "titolo": "Presidio per la Palestina anche a Savona",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-27",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-27T21:15:44.000Z",
-   "luogo": "Savona",
-   "citta": "Savona",
-   "regione": "Liguria",
-   "coord": [
-    44.23342,
-    8.25257
-   ],
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUNYREIyQzhKRjZ6QjFjdVpSZ1d0T2F5akVOd1YzTU1RdFVFVTNZNGFyTWstNS1qdUpWSDg5cmpnWnoyU1FsUXhBclU2WnFmU2FuR1o4aHUxQzhDMlZ3OFVMc0huSG1QZ3N0TUltV0FVM0tMT3FWRDNNVnRjN19pejNsLVM?oc=5",
-   "altriArticoli": 1
-  },
-  {
    "id": "gn-Ym05eVlYYz9vYz01",
    "fonte": "Giornali · Cronache Ancona",
    "titolo": "Sciopero generale: il percorso della manifestazione",
@@ -2882,84 +2866,34 @@
     43.10703,
     12.403
    ],
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONFdYZ2tEdkZYY1J5TGxGeXp5c2tmeGp0ZWNlRXBpOVdMVkJzaGl2dlVnaVhVbjA0S1BWdGdsMFllVjBSZ19VU0cwS0VPR1RlblR1MmNZbXZEQ2ZiekRnYjRzLUhmUkpnUU9NZ1hMeDBFaHpUMkwzUnFwVUR6cE5PdDNxaXJJcHVmbUJheVF4dmppdl8tVnJURDZmRTNvbkU4RjBYNTVQVDJSRk9QNVcxX1FZTGxsLVNLVjhYRjBOc2tGakQzc2ttcDdfTWlzUlFwWGV6d2MyODl4WDJvaEhSLVBoWHgxVXNa0gHuAUFVX3lxTE9VbHRWNjZwOUEzZmx6Y0lZODJhSGVBbldsNWZjQlVoT24ybTYxcW1ZVFFrVl9xRVM3eEs3UE1wS0JvY1VPd3JWczBsN1VZWDJhNHJuRmhHRmFpclJiTXdXRGNwSzRBSGg0VXlKX1pOMWN6UDdvdEpYYVRvZ0o3VVVCWW5FR2JaekFlYzZGc2RzZXhHN0x2by1qME03UVlBSXA4cHVXWHZvWGtkZndqM1ZOMERkYnJXNk1lZ3JvUkpycUx2eU1ENlQ0TC1jTnJkczRSVUJ3VC16U3FFQlRvelNPakZOWFJvUFd3YUFhWVE?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONFdYZ2tEdkZYY1J5TGxGeXp5c2tmeGp0ZWNlRXBpOVdMVkJzaGl2dlVnaVhVbjA0S1BWdGdsMFllVjBSZ19VU0cwS0VPR1RlblR1MmNZbXZEQ2ZiekRnYjRzLUhmUkpnUU9NZ1hMeDBFaHpUMkwzUnFwVUR6cE5PdDNxaXJJcHVmbUJheVF4dmppdl8tVnJURDZmRTNvbkU4RjBYNTVQVDJSRk9QNVcxX1FZTGxsLVNLVjhYRjBOc2tGakQzc2ttcDdfTWlzUlFwWGV6d2MyODl4WDJvaEhSLVBoWHgxVXNa0gHuAUFVX3lxTE9VbHRWNjZwOUEzZmx6Y0lZODJhSGVBbldsNWZjQlVoT24ybTYxcW1ZVFFrVl9xRVM3eEs3UE1wS0JvY1VPd3JWczBsN1VZWDJhNHJuRmhHRmFpclJiTXdXRGNwSzRBSGg0VXlKX1pOMWN6UDdvdEpYYVRvZ0o3VVVCWW5FR2JaekFlYzZGc2RzZXhHN0x2by1qME03UVlBSXA4cHVXWHZvWGtkZndqM1ZOMERkYnJXNk1lZ3JvUkpycUx2eU1ENlQ0TC1jTnJkczRSVUJ3VC16U3FFQlRvelNPakZOWFJvUFd3YUFhWVE?oc=5",
+   "altriArticoli": 1
   },
   {
-   "id": "gn-MXZWbWhCP29jPTU",
-   "fonte": "Giornali · isNews - Molise",
-   "titolo": "Carabinieri, il generale Castello in Molise: “Le Stazioni, presidio per le aree interne”",
+   "id": "gn-T1VKV1luYz9vYz01",
+   "fonte": "Giornali · ArezzoNotizie",
+   "titolo": "Sciopero generale: ad Arezzo la manifestazione a Campo di Marte",
    "tipo": "Dai giornali",
    "inizio": "2026-10-27",
    "dataIncerta": true,
-   "pubblicato": "2026-10-27T16:01:41.000Z",
-   "luogo": "Molise, Italia",
-   "citta": "",
-   "regione": "Molise",
-   "coord": [
-    41.68467,
-    14.59561
-   ],
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRmhmYzJvZ2Uzam03MmY5ZXBlbWJZYmlxRkN5SzRzUERqeTJlN01HZlFHaGlNTTVROUs3Ri1OYThScGpCM1p2cTFtellLWHp2bXBzeGREODgzU25ELUFGbkJZSDN6MmQ2SVpLVnpaRzZOZTVmRWtsMmNMUUU2ampwUFZ2bENBOW9hdHlBSS1LZzRFdkFJVVVhN0JfWWdpa242TzN3d1FXTEVWNjFFV1o2U2VldEXSAboBQVVfeXFMT1kzYXNZeWRxT21NMlFVYlM5UFFOOUJCRHRQUHNuZ29wZFRxejR1THZocEU1OGY3Yl9CTmhZN3ZwdXEzRlh2QVJQRmdVUzR4YUdQTDdVYWNfQkdhNjV2ZmctYk5HbllHOUpxZVN5Tmg5U1VJQzJPcHRMaGhSdEtLaEtmeHYxVFEzMzE1ZFBMNnpxSWRwM3Z2YTViWVd0d1FxZC15YkstZmxyTEtYWV9MMGFRZVNHcy1vVmhB?oc=5"
-  },
-  {
-   "id": "gn-MDVSYm1zP29jPTU",
-   "fonte": "Giornali · Telegranducato di Toscana",
-   "titolo": "Konecta,disponibile continuità occupazione fino al 2027",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-27",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-27T15:49:27.000Z",
-   "luogo": "Toscana, Italia",
-   "citta": "",
+   "pubblicato": "2026-10-27T16:54:33.000Z",
+   "luogo": "Arezzo",
+   "citta": "Arezzo",
    "regione": "Toscana",
    "coord": [
-    43.45865,
-    11.13892
+    43.51714,
+    11.76393
    ],
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb0ZSVkYxMUcwTHR6ejFSR0tzTlJqaEpjUlM1N2xpcjl4RnR4VkU5aVpVZ19KdjdKRXc2TnRqQldHTjR3SVAzVzlEazVaV0h3amtIbnQtMG9SRE1BakFMME54ZEJnbUE3eVg3bDR3MC1fMDIwajE5aDE3WDdNZ0wzWTZLMUE3ODE5MFZ2bFVUdjRNMHlFVGNYV05Rbms?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOakVaS25fV1c3WDR0bk1jdW9RMnFUcTdVVDdIbVdoWmJPc0R3NzlieGNTQzB3X0lvVDJrVjd4SWJ4dDVGQ3Bkb1BIVzVDTDdQeGllenh3MjRrbVBSbm80aHVCRm14MVpmYktBcmt3SWFWc3ZacWs5STNPRzl2eTl3bDdYVjVyS1ZrMXpvdmxJcFd6OUJWYnc?oc=5"
   },
   {
-   "id": "gn-MEpqZHcb2M9NQ",
-   "fonte": "Giornali · Corriere dell'Economia",
-   "titolo": "Friuli Venezia Giulia, le donne trainano la crescita dell’occupazione",
+   "id": "gn-RnZXa0kwP29jPTU",
+   "fonte": "Giornali · ANSA",
+   "titolo": "Presidio degli oss a Cagliari per chiedere la stabilizzazione",
    "tipo": "Dai giornali",
    "inizio": "2026-10-27",
    "dataIncerta": true,
-   "pubblicato": "2026-10-27T15:20:00.000Z",
-   "luogo": "Venezia",
-   "citta": "Venezia",
-   "regione": "Veneto",
-   "coord": [
-    45.43719,
-    12.33459
-   ],
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGY4aWgyWEM2dGFWZVVfSGZMaUpDY2dRdTFyRExTQ0tBbDNWMEhlQ01jd3ZxU3ZBRWxkVWY4OWJkenhkcHMyX0cyd0d4cTlZdjN6UDZ2OEJaTlpRelhWRGU2S0gxLTNRVUw3M3dwbFRhdzBHdS1nc0tkZVpqUjI4VVRUR2k4amw4RXJZRWlWZk4xbFNmTkNKWWh4M1c5NG5lYkJqWkg0NFRHT29sZzJxMDJxd0Jjdw?oc=5"
-  },
-  {
-   "id": "gn-Tm1kNlJFWT9vYz01",
-   "fonte": "Giornali · Risveglio Duemila",
-   "titolo": "Ravenna, protesta degli universitari contro il caro affitti: presidio a Palazzo Corradini. Le foto",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-27",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-27T13:12:13.000Z",
-   "luogo": "Ravenna",
-   "citta": "Ravenna",
-   "regione": "Emilia-Romagna",
-   "coord": [
-    44.36406,
-    12.05901
-   ],
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcE1oTm5JeFlMTlM3ZzhWZS1CVXRNNVhxN1ZEa3VRT2lCMy1iZnF1ankxOVpBZXhCczFLZS1GaUIyUGtjVGRxWUxaNVRGaWxyNFQ5a1QxM2gxQmhKS1FhenpUZlBIVnljd1VNeTliR3JMcjRKQ0tPZ2dSbkhmUE5wZlBxbk5FWXdjOVJOMGpBZlVWMGExeTkwX2lPMG1mVlgyMzFLZU5qUWJ4V0d2Y09wc2h0VUZHdmtNWkZGd2tNc3JOUjJVU05kNmd6REY?oc=5"
-  },
-  {
-   "id": "gn-Um05NmRnP29jPTU",
-   "fonte": "Giornali · Sardegna Notizie 24",
-   "titolo": "Oss in presidio a Cagliari: “Stabilizzare anche per chi ha lavorato tramite agenzia”",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-27",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-27T11:53:25.000Z",
+   "pubblicato": "2026-10-27T09:51:00.000Z",
    "luogo": "Cagliari",
    "citta": "Cagliari",
    "regione": "Sardegna",
@@ -2967,43 +2901,7 @@
     39.2172,
     9.11331
    ],
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR0pvNDhiZjEzSW0tQjhGRkVQMDBfYS0xNGZPUHBoVmQxNmlLc015NXhCZk4xMFFEY20tNGNRMkhISWFLMXhuZDVyTURLUy1aVG85am1NOTRTZThNMmV3c05xMWlsZjFOd1hwRTl5a3U5SUd0Q0pUeF9aSzhPRGtrUG81LWdtb1AydTdieGstT18yNHBnMXRwc21Hd2VHTDBnRWQ5LVFJd2RyRFhNRm96dg?oc=5",
-   "altriArticoli": 1
-  },
-  {
-   "id": "gn-SEJ5UlEb2M9NQ",
-   "fonte": "Giornali · Corriere dell'Economia",
-   "titolo": "Turismo, in Puglia oltre 96mila dipendenti nel 2025: occupazione in crescita",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-27",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-27T08:54:00.000Z",
-   "luogo": "Puglia, Italia",
-   "citta": "",
-   "regione": "Puglia",
-   "coord": [
-    40.98425,
-    16.621
-   ],
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPell5MkNyZ3V2Y19qWnp5a00tTHZlMmlzbHc5Uk5XTTZnUUxZU2ZITm1qY2JLTDAtRkV2V2NYZmVnekR5U2ZGZ1NoM0ZiWkE3eFRKWW9yMnprRFQ5ZmNFMlJickdjbzBXTlRrOWpNZ1NVbWVodWp2YWROVDJjWUNiY013MHB2WTlWRjNiZEZ2MFBNd3c1QU1iT3NEMlJCZ2t2SGV1SzlORGZadkt5aHBnNW5xcW1MdkFHSHJDTHByRQ?oc=5"
-  },
-  {
-   "id": "gn-UTBkV00b2M9NQ",
-   "fonte": "Giornali · Il Giorno",
-   "titolo": "Lombardia, i dati sull’occupazione: otto giovani su dieci lavorano. Il terziario milanese è il primo in Italia",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-27",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-27T02:01:11.000Z",
-   "luogo": "Lombardia, Italia",
-   "citta": "",
-   "regione": "Lombardia",
-   "coord": [
-    45.57037,
-    9.77325
-   ],
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQME9wNm56cnpYdEJIM3dqR0c5QnJaRkJzTVowX0sxQWlDT3U3Y2c4eWNUN1dFUVRtVG55b1Q2N1k1eUtLZ2dacWltVENxeTN4bm1CTlE0bmwtWk9UUGhJMV92Tk9sOUYydFBIeE5TYS1fN0M1V3h0SHdEaWwtUUZQZEhtaEQ0dWM?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZlg5SWVlaGVPTWl1OHp3MkItNkxxb1dnZE10WFhPT0FXcWRfcHVJS0VJQjUtN3Z2dWFabndGTTRCeHR3OUY2VE9UX2FwVDI1ZHlHUl85QnI0RE5aQ04wV0Y4QTVLUUtZOUdSR3U5TWVJSlgxa2Y0eEZUZTV0NVhZQWxjMVRFS0gtT1NEQjhrMm5lSG40dE5sWHZ0dHZxVXRNb0Z1aHhOcXVqMkZsS1pOdnZPNFZYSHdTTUtmd2hTR1lnRWpjNEFGaFd5dm56dC1PS2NFYXlwUjJuT0xqa0lvUEVrRzNzd9IB6wFBVV95cUxPUGl0SDE1MjlEOTVIYTZnaUxUOHhYU2h5SnhBdF82aEd5OVRrcG1ySm9UVHJwaW5UaFpPYkxudVRzXzN6UUp4cllNbkRBUUlkc0l2cndiRkpSRVJfMHRQZ2h2UkdMRkZKblZYeGdqcTlnc0V1cHJJVWY2eFFQUDR5Y2MxemJvaEZwazY3c0Z5RlVGZk5CRHBXZEVTRkRScmNobFdUWFRxU1k4LXY0by0zUlJzb0tSSDNTOGF1MENTLTh5WjFoRS1fZjZYZHdZYnZWNHhiamtWUTB6djlrN3AxTVBnSlZ0ODFvWkI0?oc=5"
   },
   {
    "id": "gn-SEI1ZHcb2M9NQ",
@@ -3020,7 +2918,8 @@
     46.65593,
     11.23018
    ],
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdWYwRE9SZ2dGaU5YSldwaFNaN1cwS1Fqd3NiTElDc2hHQ3BaeU8xS2lzSG5OYXlQTUpHS05aaU11ZmhrcjJid21aeUlucXJWd2ZTWEJPcTlZTUhzTXliQWVDa2N1dlQtUTZDUmN5VnBHb2g2U2NIRWJzS2xZOU5TUG1aa2ZiZ0thTTZRVEpPODNDcXFYSW1ySWxsbWdPbGtpVlNxTHVuR3B5NnJDLXBHNEVpNXdQQm9iMWViSzFqNkxTZ0dKQjlYY1hkX1VvYVQ3eHVfYVdESHB5dw?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdWYwRE9SZ2dGaU5YSldwaFNaN1cwS1Fqd3NiTElDc2hHQ3BaeU8xS2lzSG5OYXlQTUpHS05aaU11ZmhrcjJid21aeUlucXJWd2ZTWEJPcTlZTUhzTXliQWVDa2N1dlQtUTZDUmN5VnBHb2g2U2NIRWJzS2xZOU5TUG1aa2ZiZ0thTTZRVEpPODNDcXFYSW1ySWxsbWdPbGtpVlNxTHVuR3B5NnJDLXBHNEVpNXdQQm9iMWViSzFqNkxTZ0dKQjlYY1hkX1VvYVQ3eHVfYVdESHB5dw?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "gn-TkRocU9IYz9vYz01",
@@ -3057,23 +2956,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekduMTdfWmNNSE5maV9heVhFOENBbzNXNUpYY3NfbV9UR3RENG54RlJ4OTdXTWlKNTRBaW1ycUJrZS0xb0lWVmhyTFRVZ19SN0FrUElXRHdlNnlQQkoyam5LbWtnVl9zeFV5TTBhNlVrczFDYTdNYWlQTWoyZUNGZXFuTXQzb1lFOEduZGJFSzA2Y3pRUG1NQjNueGJwS0dJbkQtMVp2RHdRUkhSNHpqMHN6dnk4TEhydjRLU2VlX3B3Q1HSAcgBQVVfeXFMT3lEQnJ1Z1hCaFVFY0JPN09XY3FDZVp4emxqN1BqTTJzXzBLR19NN0c2TGU1VmNlU1hub0ZFcXZwV0JBcDI0NWdONEV1WnlSQV8wc3JITXgzTkgyS1kzVHlWZ1VqNlVWa1JIYXo0dHFTLUVnZk91d0tBakxFU2xkTU02eE9iVElqWWVkaEZiX0NpWjNxX08wa1RvWlB2bk5jNmFqX09ZRWdXR04zTFFNZGlJRWZzSXhsYmxMYmI4Zk5mUEtUN3phYTE?oc=5"
   },
   {
-   "id": "gn-amEwaDMb2M9NQ",
-   "fonte": "Giornali · dialessandria.it",
-   "titolo": "Coldiretti: l’agricoltura deve avere e dare futuro, domani manifestazione a Torino",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-27",
-   "dataIncerta": false,
-   "pubblicato": "2026-10-26T09:07:57.000Z",
-   "luogo": "Torino",
-   "citta": "Torino",
-   "regione": "Piemonte",
-   "coord": [
-    45.06776,
-    7.68249
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOalZwUGhUNUdrTGRIb0t1UjBULS1qenY0dFN1SFRrTnA4a09nd0N0N0JLY2NMRFV2M3pMRzFiSzV3RldfWklfcnE3NzZsUXF2ZTBWYk5CWUhucHlGaG1RQ0lTcGFwMWZvUU5WXzVFUTZFRjRSb1VZYjdlNnpOcThJVjB1VUd0YzRNZnVEZXhmdEFqZzF3S05IaVJjSEl3WG1vaVAwanJEN29PQTJtRVdla1pZUEhEUGJkS08yQWVBeVF0bVlJbFBfS3UwekRzOUFQVkFja0h3?oc=5"
-  },
-  {
    "id": "pl-13449",
    "fonte": "PeaceLink",
    "titolo": "Necropolitica migratoria",
@@ -3106,23 +2988,6 @@
    "online": false
   },
   {
-   "id": "gn-NlZEVm8b2M9NQ",
-   "fonte": "Giornali · Il Corriere di Alba Bra",
-   "titolo": "In Piemonte 7,7 milioni per le scuole dell’infanzia paritarie. Cameroni: «Sosteniamo un presidio essenziale",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-28",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-28T18:35:35.000Z",
-   "luogo": "Bra",
-   "citta": "Bra",
-   "regione": "Piemonte",
-   "coord": [
-    44.69768,
-    7.85427
-   ],
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT0cwamV4Wk9OUjRocGpHU1pxYlI3em9WeWdKM0RPRDliemZNN2lfQzVZZkFnY1o0VTJDbUZ0R05IMl9TTzN0cTUwbzFBLTkzZmJSMC1DbVdtQVFxNWxWMmZOTDVGVXhJaEVqaWlMVm9nc0pOZkR5QTYxT3NwX3I1VlFmV2tkRmhLNTRkWFlLaFk3N1FMbkxyMG5URi1EQ042a3F3WmM2TVVNb0E0Q0FqNE1fYm9ydjRpR3hudXB5WEp6VDVo?oc=5"
-  },
-  {
    "id": "gn-cFlSbmMb2M9NQ",
    "fonte": "Giornali · SalernoToday",
    "titolo": "Trattori in corteo da Battipaglia a Salerno: parte la mobilitazione di Altragricoltura",
@@ -3141,23 +3006,6 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-SHBxVldjP29jPTU",
-   "fonte": "Giornali · LabTV",
-   "titolo": "Air Campania, sciopero di otto ore e presidio in Regione: Anzalone (Filt Cgil) «La vertenza resta aperta",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-28",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-28T10:55:51.000Z",
-   "luogo": "Campania, Italia",
-   "citta": "",
-   "regione": "Campania",
-   "coord": [
-    40.86067,
-    14.84398
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMUJaREs5RzE4Z0szRDNWaXBfY2FpTExnbWdYX1I3Q0NhcnpPazJDUzFCSm42TlRLcmFNR0QwdmRJV3gza1J2UHh0ZnNWRWo0b1FfRlBpeXU4ZXRua1RfNFF5Q2VzeS1QZjRRTjM5amNJcXZ1UjRKT3kwVlNBSnN3U0ExRUc0SGV2TUNBMm1leWt3dW1HaXZ5b1NNMVkwbm9pRHVFMkJ0MDROODQ1MG1lX21sdnNMR0M4R1MwT204YURkSjRYMC05QnlxR1NfazF1MlhpY3hEaHpqVWc?oc=5"
-  },
-  {
    "id": "gn-ZVcwMlp3P29jPTU",
    "fonte": "Giornali · Reportpistoia",
    "titolo": "Venerdì a Pistoia corteo degli studenti",
@@ -3173,6 +3021,23 @@
     10.86871
    ],
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WSFVhTWdXOFJLWks2cVpfTTFjdXZUbjFQV0FidTlvQmprZUY0VmhnR0pfZ3A2VHhFNXpub1V2eTA0NDhrbnRnSnhZNHloRnBJUTB3Ukt0X0N0RFQtRXVEWHFYbEVYaFhhYTlyVDRMS0xCQXFpekdHeW02Zw?oc=5"
+  },
+  {
+   "id": "gn-VVc5SFdIYz9vYz01",
+   "fonte": "Giornali · Radio Lombardia",
+   "titolo": "Sciopero dei lavoratori dello spettacolo, presidio davanti al teatro Strehler",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-28",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-28T07:19:12.000Z",
+   "luogo": "Lombardia, Italia",
+   "citta": "",
+   "regione": "Lombardia",
+   "coord": [
+    45.57037,
+    9.77325
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0wzSlk4SUM1ZmdKUzczTjhkRHM4UW9SWERPSkwyTldRTVRQbFIyNmxvUjlnakZ6QVBMcGxyLWp4ZUpvU3VsNktsdVB3bVRGRTN3RGJCLU9ZcUVkVTJCVi1xaFp1ZDN4VTBybzctcWZHbFM4UWFKVGVjZTBUZndWdE1uRHJxUjRCZ1pqOVUzTm9wWVBWWDlKTFMwOERRV3FnVjVDTGd4U2hfTm9SZG5aS1gwS1VqUW9HWHc?oc=5"
   },
   {
    "id": "gn-V00ydG5lZz9vYz01",
@@ -3247,7 +3112,7 @@
    "tipo": "Dai giornali",
    "inizio": "2026-10-30",
    "dataIncerta": false,
-   "pubblicato": "2026-10-28T16:31:42.000Z",
+   "pubblicato": "2026-10-28T19:34:32.000Z",
    "luogo": "Torino",
    "citta": "Torino",
    "regione": "Piemonte",
@@ -3257,6 +3122,23 @@
    ],
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNXFNalJDOGNMWWZRT0EtYVl0Mm85NHN2c3FNUGpjbTB0bkRBQmZ5cWtGWEJXa09qV2xfQk9zaUFpUEpwSFp0MkgxdUpmZjg3Y0I3TzVPbGplOVZsRzNja0lUc2xLSXFBYUxLaDR4YVc4X3hFTVZVVlYwM19LWGlicmlWLVRQVUJ6RHJpT3h2ZGlOdzl1YzVmUVA1OGthYzdlMEdycDRsR2tDRzAxenI3NmRpbDFQbWpkOEgyNWNjRXNYV2pwV3FPNS1qajZDOEx6U3NmcmpWMEE4UQ?oc=5",
    "altriArticoli": 4
+  },
+  {
+   "id": "gn-VTBiMmRqP29jPTU",
+   "fonte": "Giornali · Genova24",
+   "titolo": "Carovita, lavoro e armi: il 30 ottobre è sciopero generale. A Genova corteo e blocchi in porto",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-30",
+   "dataIncerta": false,
+   "pubblicato": "2026-10-28T15:21:00.000Z",
+   "luogo": "Genova",
+   "citta": "Genova",
+   "regione": "Liguria",
+   "coord": [
+    44.40726,
+    8.93386
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ1ZONnpmTTNWTE9pcWYwd20zcEpZdHQyTHN6Tnp1YS1CLTREclltZzdpREs1a1NkZmthdGIzR0xYdHd4WnkwTjlGX0VXa2JGdFlyWFFwYXI0Zmp1V05uaDNvMjBrd0NpdEJzWVEyNVNGSEw0bDN5Y0lCTmQtZlJPcnpzcmU0b2dj?oc=5"
   },
   {
    "id": "gn-alEyVWpnP29jPTU",
@@ -3408,13 +3290,13 @@
    "online": false
   },
   {
-   "id": "gn-MHQxYXcb2M9NQ",
+   "id": "gn-SlFSVlUb2M9NQ",
    "fonte": "Giornali · Il Giorno",
-   "titolo": "Milano, la mobilitazione continua: ora i timori sono per la manifestazione di venerdì 30 ottobre",
+   "titolo": "Sciopero venerdì 30 ottobre, due cortei a Milano: le piazze e i percorsi. Attese migliaia di persone",
    "tipo": "Dai giornali",
    "inizio": "2026-10-30T10:00",
    "dataIncerta": false,
-   "pubblicato": "2026-10-27T01:12:53.000Z",
+   "pubblicato": "2026-10-28T18:58:36.000Z",
    "luogo": "Milano",
    "citta": "Milano",
    "regione": "Lombardia",
@@ -3422,8 +3304,8 @@
     45.46419,
     9.18963
    ],
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXIxcnRPUUNjSXVrVm1Nc0E2dXJmNkk4SFFGSkUyYy00SW9WVUpLV2tKbHltQklQYnA0c1oza1N2TGY1RFNwbm9hSFVlbTlMbVJsRkRnZ2dtaFVKNVRELVhld3pRMDNNZUloMEJGM001elZSUExoMVVZc3RRT3Z3d2R6ZFBtSnRpNC1PcUN4UXBnMGlXaldFV0t1aw?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zR1FpdHhzZjJCNUxrVmZtVG1MRkNQV2RLaEVFbWVvR1RUeDdINm53eGhITGFGS21XR3NBd2FiVHRxRXNyMVJtYk01RlNablFpbkFGUm4xV3RQbXh1Y1Y0anU0Q21xWFVSU1FFWHB1UlIzNE94aFh1ZFVjdWJQRVU?oc=5",
+   "altriArticoli": 2
   },
   {
    "id": "pl-13469",
