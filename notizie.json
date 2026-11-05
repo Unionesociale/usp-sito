@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-05T17:26:13.923Z",
+ "aggiornato": "2026-11-05T19:07:42.178Z",
  "notizie": [
   {
    "titolo": "Gaza: raid israeliani uccidono 4 persone, tra cui un bambino",
@@ -436,6 +436,36 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "Falerna, il presidio prosegue. «Gli agricoltori calabresi non mollano»",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ05FZDhkSm5VQnE0VU9NY2NDd0VMOTBOVUgtQ1pwN0ZvVkNqYWJMYWl0S1NJV2hybk55cVVucDRnLVdtQUNsNzQySlhtc0U4ZXloRWQtcUFBX05Kei1sQ1doREFwTEpxR3Jmd2Z4WTJTcUhjaGhGcE9TUHR4UUlQNVo0aDV0RDhlS1hLWmZoSTh2bzdKbnJfOHAtTFR0Sm56Um13UGE5dUtWR2VoVjB0ckxxTGJNZw?oc=5",
+   "fonte": "Corriere della Calabria",
+   "data": "2026-11-05T18:45:00.000Z"
+  },
+  {
+   "titolo": "Coppa Italia Master 2027: pubblicato il regolamento della manifestazione",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVnlndnZJYTFmNUFUTGR0V3BycjZLZ20xQXh4X2lMZFo5S0NhVGRUNm15YW8tVno0UzFlZHl3VTBfUkRuSl9mQVpUbjNzTmJsSU16dTNBNVZlUGxLclFPY3dEMm9HRmZDQ0c4SGE2bmxkNEpmeWNsYXhpZU1HR3pzT1NOVHZYOGZtaHZGcmNfSnlhNmF2RG1ZMTd1QjNBcjRKOE5kZE1UMXh1MWlCc0ZYS0U4VmthVmpJQnpxT2RKZlFBOU95OFZWTVpjX2ZEZllqUHNxR1BUMGlmb1ozU0E?oc=5",
+   "fonte": "Fitarco",
+   "data": "2026-11-05T18:36:21.000Z"
+  },
+  {
+   "titolo": "BBT: preoccupazione dei sindacati per occupazione e sicurezza",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZC03SkpzVFZ4ZHdkR3ZJX0Etd0s5OEVWc2dGemlGVkpYendfYkN1SnA5Y2JiWnY5NGVlZENMSFBzZ2IzSFdRbFdtQ1ZSeFJ0dmNienQ5QXJfeWZiazdwY0JlSy0tWnB1cGJlaU0zd2s2RUtlamRWVEV1WWRWNlY0SUxfQ0JzY3NYNmNPTnVR?oc=5",
+   "fonte": "www.tv33.it",
+   "data": "2026-11-05T18:25:57.000Z"
+  },
+  {
+   "titolo": "Palermo, nuovo presidio di emergenza 118 in via Oreto",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY0hWNW5rRzZZS0VyVFgxdTFYaGE2QjVxeUR6RXJZd29NV0tkRUFzTHV4WmJtZGw5X1hLaFl3eG5WRkRjMGEzMl9iLTdiUnhJcExVS3Q1TkVGejg0RV9OdmhvZkJlRHlwTVJjRE5YY1N6NHlqai0yWmViOGVTTVdKX0U2VmVGQnFuUGMtd3ozLTd0MXcwOTdqay0zOTVoTllKcjh1bXJKOHlBczRnREwwVXNJSFRiZw?oc=5",
+   "fonte": "in sanitas",
+   "data": "2026-11-05T17:59:31.000Z"
+  },
+  {
+   "titolo": "Marsiglia, l'orchestra suona l'Internazionale in piazza: il corteo canta in coro",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRG9FcEgxdUkzeGdTT1R2Njg2NWRlb3JCS0JXUmZ4dTZCNkdDQVZ3d2R5RDRvOXpKWHJuYmtFQ3BPMEVDZEd0eFdlczlJY19QZWJUVmNwbXU5NXRScGx4S2RVcXU4Mkk0a0ZvX240c0I4bjVTYUZhc1BtMnRIYnA3Q2N5TF80alV3ZklmZHZ0S3pKM0Q0OTdka2toQmcxaTJJQUEycVh2Tm8xX1djeFFRV0dFcFQzWE9YNWR0aHJ1QnZIam8xM1dNTHFDcHo2WUdmUUo0?oc=5",
+   "fonte": "la Repubblica",
+   "data": "2026-11-05T17:49:00.000Z"
+  },
+  {
    "titolo": "Dopo la manifestazione del 24 ottobre contro il caporalato, l’Ente turismo: «Non possiamo accogliere i visitatori senza il rispetto di chi vive e lavora sul territorio» – Gazzetta d'Alba – Dal 1882 il settimanale di Alba, Langhe e Roero",
    "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNX050b1k3N1VMdElhLXZsZ0RSMDJGdVpLNHZObm5KM0w5blJPaFZLWUdfZjVhZHVxOXoyVUFvbV9YSmFUTlBZVnNfNXp4VzN0d0txSEhuUWYzTWxfalVmVzlQbUg2ejJraTMtdm9LN2RHZ0Q5RFJlS3JiY043RDVOOFNVREtIQ2V4Tl9MNnBMX3pNX2hwWGllUjlfdm5OZzFiOXg3THdIbEdmUGVRalZ6cGNrdnVpcUVPMHVXODl2eHhUQnpKUUZqN2ZfUmJUa2JBZzNXR21pTGpkNWsyVHRWT3FtRGRHZVZuYXNDSE56SXJmX3hwdWdPc3NBai1Zc3FrMXd3VFBBTW1TOVRTcjlrRTd4LWZHdHlfYVVTa28wZklZWERGcUNFMQ?oc=5",
    "fonte": "Gazzetta d'Alba",
@@ -451,7 +481,13 @@
    "titolo": "CNP ASSICURA RAFFORZA LA STRUTTURA MANAGERIALE E IL PRESIDIO DELLE PRINCIPALI AREE OPERATIVE DELLA COMPAGNIA",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRHAtQTJERWZ0Ync2cjEtYjJJQWRyWk0wQ296Q2d4S1F2YmJ6WW5fdDRnVjRFNjBYVDFNeTNmNUpyZVQyLVBIeVZ6a1FRbmRuYlc3eEo3ZFU4WUZ4V0kyOU50bEJ5RFJkT2xrUmJiX1d1ZUpoUkVEZFl5RHgtZ0lLWmR1MC1lb3NHN202R05fUUx1WlBCWXA5c0g5VHJPem9FTDl3dTlFeC1yT0h6UXJLRENDaTRmQnQzSUNscVFvZml2VWV6MUg4TEtUTjA3anBIeThSX19sS2lxdw?oc=5",
    "fonte": "TuttoIntermediari",
-   "data": "2026-11-05T17:03:18.000Z"
+   "data": "2026-11-05T17:02:55.000Z"
+  },
+  {
+   "titolo": "Bologna, nuovo corteo il 7 novembre: cresce la tensione, si temono altri scontri",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYTUtbEZnNE83MVplZ1lIdWJoRnExX1VNbVRvT3dJTXl4S2x1TC00US1zMHRYQWp2ZkZQWW9BYS14VjlQMmxtbnhkLXoxUktrTVFNeHMxOXZvdXJEaUN2a1ZYRGhRaG1KQV84d1l1SlhkMVdZRUx1dEU0QWplLW50bzA4U2V6NEUtb1dtbzZEZmJ1Zw?oc=5",
+   "fonte": "24Emilia",
+   "data": "2026-11-05T16:41:05.000Z"
   },
   {
    "titolo": "Sciopero e manifestazione del 5 novembre a Parigi: trasporti, scuole, percorso, tutte le informazioni",
@@ -472,16 +508,22 @@
    "data": "2026-11-05T16:07:03.000Z"
   },
   {
+   "titolo": "Colf e badanti, cresce l’occupazione. Ma salgono anche il nero e i costi",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdUVJaDF3MVpNNUJBeGF2RldDUkp2SDhiQ0w4RFp4UVhTbmlXcGdXbjVLUy00SWxUVDVxUy1oZzZfbE1HaXU4cVV2TTRxbDNzQ0h3OGFJZzJfNVlmUXBiVjJGUEtyY0Q3VGlCLS1zUFNrQ21pVVFoMFVuSjlXZTZWVTdmakY2YkFycFRPWGNQQTh1eW1iQ2FNRFhJclQ3Y1FxS3A5cnF0NzJjQXI4UjVKUVBvMlR2YVEyYVhueXJaa2FsbWJGeUpHaUUtZGY2emd6UzRiMFFnOA?oc=5",
+   "fonte": "ItaliaOggi",
+   "data": "2026-11-05T16:04:50.000Z"
+  },
+  {
    "titolo": "Torino, scontri al corteo per Askatasuna: 16 misure cautelari per militanti antagonisti",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRGVmR3psMGlya19hYVZPdG56YWcwWER2SzVHdUY5eFowNlJKcm4xaWZaY29Ndk9xcFBmZEVhMWI1ajJURHhFcWRxUmxEX1BrN0U3THJHcmFDZWlnc1Y5aGtOaG1YbXdsV2YzakV0UHFiN2RSSk0wdDRtekZ0LW4zbzMyeXNQS2x6MENpR3pQNFRDdkRZbGN1eEZYLVZkdUNMZm1Lel9MTndEanBSa2ZfUVJxbw?oc=5",
    "fonte": "La Milano",
    "data": "2026-11-05T15:52:23.000Z"
   },
   {
-   "titolo": "Sciopero generale Francia, 260 manifestazioni: incendiato liceo",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BMkpiRHdCdktqTlV0SDVCblZiVE1QQ2haclRvV0Q5TlFXLU9OOGNIRUpya2EyNVZqVF9mVXhNbXdfM2hpOTJraWJ5WjRtZVZQM1RWTnBBUFZIaVpubzlaTnR4Ym02aFBDZzdSSG42WEVuTWNRbnlNU3JrYkxkdw?oc=5",
-   "fonte": "Sky TG24",
-   "data": "2026-11-05T15:29:28.000Z"
+   "titolo": "FOTO | VIDEO | A Bologna occupazione all'Università: \"Ci stanno portando alla guerra, diciamo no\". E lanciano protesta 20 novembre",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOUxDclk3TFZabDRaWEFzTDktdzNPckctNXdmSklRaFpBMGNJODA1OFN2am93YlNxRjBCT25qV295ck9YVG5jci1QQnZjTEI2VDA4VEVkZ2lZZXRDQm00b3lUU2pVcm1EdnRIYmdjSmJFR1lhSTNEVFZGNzRrM1I1SFdPWXlpOS1xVjA1ZDFqbWN2UzVJM3ZUaU1pRDB2RUJkZWxRVlF2Q0J3bWpmTGN0Um43ckJib0t6aGhKd0xub1N6Sm0zcUdhMmVOZ2t4VFRoNFZzLXB5TktXQVltTTZaVmg4bkxoN2hSMzlCNUo5aTByUQ?oc=5",
+   "fonte": "Agenzia Dire",
+   "data": "2026-11-05T15:26:53.000Z"
   },
   {
    "titolo": "Turismo, ottobre positivo: occupazione all’81,9% in città e stagione sempre più lunga sul lago",
@@ -625,7 +667,7 @@
    "titolo": "Cremona: sabato 7 novembre manifestazione “Adèss Baasta” contro carovita e riarmo",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkhNOXNSenZucEdUeEVjMkV0T0RULWp3Tl9CRzlWcVBpOEtIRWN4akt6ZWF3QzhzQjhrUWxyWnBFOUxoVnUxNnJQaWFiVnlrY1J2anQ4NjlXZFZsQUxRNTRUdzBFaTh5bUZkTUUzVDM3R2hJWmRGTFRLbHp0eFBYbi1UalJaMmlieVgwSXdDTzgtUF9pWXI3clFjeEsxQXFmeFZJamktdDBaWEpzaUZN?oc=5",
    "fonte": "Infoaut",
-   "data": "2026-11-05T11:10:49.000Z"
+   "data": "2026-11-05T11:23:10.000Z"
   },
   {
    "titolo": "Cisl, al via sabato 7 a Genova la mobilitazione “Il Patto che unisce”. Ultima tappa a Roma il 12 dicembre con la manifestazione nazionale",
@@ -778,6 +820,12 @@
    "data": "2026-11-05T08:44:00.000Z"
   },
   {
+   "titolo": "Sciopero generale in Francia, 260 manifestazioni. Incendiato liceo vicino a Tolosa",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BMkpiRHdCdktqTlV0SDVCblZiVE1QQ2haclRvV0Q5TlFXLU9OOGNIRUpya2EyNVZqVF9mVXhNbXdfM2hpOTJraWJ5WjRtZVZQM1RWTnBBUFZIaVpubzlaTnR4Ym02aFBDZzdSSG42WEVuTWNRbnlNU3JrYkxkdw?oc=5",
+   "fonte": "Sky TG24",
+   "data": "2026-11-05T08:41:04.000Z"
+  },
+  {
    "titolo": "Misure cautelari per disordini a corteo contro sgombero Askatasuna a Torino",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbHBMUVR3N1pQN3RfN2VLV2lOQVZ0TWJfSUFNeW5QbkhFZTNOYTFhS1lBY0JqRnNEVXVDWTBVTXpPckltNEVvQVdfNXF2c3U1T1AtSG9uaUlmR2MtelVGeGJiS2xiX0wybGxPajZWNXlST0xXc1B0NmxZVE13V0VFSVRzNnlObUxQNFdySmZ6V3VjczhYLWEyeWx2WjhtNFBQaVNOYw?oc=5",
    "fonte": "Italpress",
@@ -794,12 +842,6 @@
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54TGZRZ1pUaHMzX0toN1pRNldBMzVGd1ZYWnh2RWJyYmFlZ0hXeUVGTjhaN0RZMTA1SF9lYjBJMXYxVWxndmE4bW13UktJZjlVbm9Mc1J2bTJENkw3Y2dfTC1DOU9IZ0VGa1dxTGxYZTRQV2dhMGw0?oc=5",
    "fonte": "Mole24",
    "data": "2026-11-05T08:08:28.000Z"
-  },
-  {
-   "titolo": "Bologna, nuovo corteo il 7 novembre: cresce la tensione, si temono altri scontri",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYTUtbEZnNE83MVplZ1lIdWJoRnExX1VNbVRvT3dJTXl4S2x1TC00US1zMHRYQWp2ZkZQWW9BYS14VjlQMmxtbnhkLXoxUktrTVFNeHMxOXZvdXJEaUN2a1ZYRGhRaG1KQV84d1l1SlhkMVdZRUx1dEU0QWplLW50bzA4U2V6NEUtb1dtbzZEZmJ1Zw?oc=5",
-   "fonte": "24Emilia",
-   "data": "2026-11-05T08:08:05.000Z"
   },
   {
    "titolo": "Comacchio, celebrazioni del 4 novembre con deposizione di corone d’alloro, alzabandiera e corteo. Presente una delegazione di studentesse e studenti.",
@@ -872,48 +914,6 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcUNOeEw5UWpVZWdfVFlYX01YVWVldHUwNUQycS1PUDNHVHlqSTJFbmQtUUIxSzhZTGJTZ3hGeEVIbTNYOFFObzhhN01CRFo0ZU8tcmpPbDdXNVpETHZnNlhqeXMxZjVDSWVNQTZ1alUwVDZBaXdxSDFfNnNJQ3A2Mm1hU2d2X2FvNV9VNzYwMUota1BYb2pIMmhkb2JBMDhZZDB5TXhNRUE0MEF0c3VzYy1lZzNkT1lHRFY0ZzFMdkdBdHFkUWdMdw?oc=5",
    "fonte": "Torino Cronaca",
    "data": "2026-11-05T07:01:57.000Z"
-  },
-  {
-   "titolo": "Il Liceo \"De Liguori\" di Acerra devastato durante l'occupazione, il preside: \"Ucciso anche il pesciolino nell'acquario\"",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPejN1bHQtUkRoMWpfSlRpWEZJQlluWXFHaEpXZmpwMUhtaDctY1FHS3puN0UxdjBLX0tYS25lRGhJZXBaUjFCLWVCR0UyR3JlTkVKdWNWMFNNdG5wcVlGM2dMVTJsVWFDQ1NLaVdmU2FGOUZ0SktfVFdTdkJKel80RkZCNXBVTGJmS1BzRUx5NTVnWXppWXpPTl9yUHVRU2NRcEVzSDE5bEw0S2J1bEw0MUNfcEZhdUJPUk50cHhVaXpzdWg2anA2UG1VMUdqMXkzU29VTE9IVUVJdw?oc=5",
-   "fonte": "Fanpage",
-   "data": "2026-11-05T06:44:29.000Z"
-  },
-  {
-   "titolo": "Roma al lavoro\", torna il job day del Comune per chi è in cerca di occupazione",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xbjRNeUpTVDZ2OERjU25vRlhWUzZDVW5PeXZyc1duWFlqbWZVMWVjdkdubnh4RHczSnhzQUNkMHJkTTh2VjNKQjA5dEFLb3I3SE5QajFIaEt2bmhJd29saHlZaTYxMnJULWpOX1ozQ01VVEluRzlv?oc=5",
-   "fonte": "RomaToday",
-   "data": "2026-11-05T06:11:30.000Z"
-  },
-  {
-   "titolo": "Trapani e la manifestazione in piazza. Miceli: \"La città si è atrofizzata\". Patti: \"Prendiamo atto del malessere\"",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPb1c3RlpBeHF6dWliSWlTT182VFhjME84bzBtSVNzdGpuNXR0eDBRQUl3cVRocVVXTWQwYkF5OHRhQ0RISDBDMGVCeEZic1dzS0gxaVNDMnJUQlpsT3EyNGQwVmlKQTUydGlSUWVLeVA2Z1JKelZ1VDJOdTlJQ3REbEwtUlBEZU1hYWVMaDZNOFp1bjRkZWM3NjNYVnhOdThmWGhNNGpSN2FjRlkwM2I5QXJac0IxY1huXzE0YjRKVVhXd3NnYjlqb01vZ2JCejZqR0xYWVlRbG41LU9TdWxVbVZMYzJEbHZ0aXBPaA?oc=5",
-   "fonte": "TP24.it",
-   "data": "2026-11-05T05:33:47.000Z"
-  },
-  {
-   "titolo": "Sit in e corteo sotto la pioggia: la notte di protesta dei residenti di parco Sempione",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbjlOcGZQNktBMlF0b3Y0dHZVaDFQSEs3eG5jN0M2T1ZGSEtVaUN1SGxzd0VTeXF4QW1mcGFqMkhpUlJuQkczOWtTNmQ5TkVxUEpGbFlBeVRQWTZUTGtQVGZtdEVrX3RIcjdFZ3BzdTIzUHBSZ2pGRnFWVDZVLXl1UjNwZXlJRmNxNXJYbWt0TnpPRlNzeEZYLWFxVDRWYlRSLWstTU9QM25wdVh2OWI5SlR2am5mc3ZhWEk5TDNNRkMwUTEwUWtLRTNub09YWGQ5SlNaQ0tLSXlJS3lON3BDMzhsS2RlcmEyNzEtNTNZR255RVRtNUM4dXQ3OUpidFZGcDdKbkVQWlBpX0NW0gGSAkFVX3lxTE9jX1RCTndKU1c2WFBzX1ZFeHFZUUNBZDZSd2NuZjlTaDVZcDNvNXlGbW5XS1JNNmRzbVY5YldHVzVOVnkxQWFHaEgtaERfdWtueVpPczhKWnJyTnM0dGM4WjcxenNSbWIyZ3Z3c0VGMDNvMUdNUjVSeEs2UE9GN1dIVnpyay1ad3MxWHo5R21jOEl3MEptRnZaT1FhT2M5WnJmMVZNbUpKengzZ0pxTkJfVGFrNldCYnFwWHVnSGhBYmgyTk1nTDNiZ2hQclo3NjhzTklUOGdmSmlwQV9Ta0FlOXRoR0xTZnlncEVYbGlEWVVNelV2aVJlWS1WamFLTGVKOHJxNVVqT3pMRjJDT1ozN2c?oc=5",
-   "fonte": "RaiNews",
-   "data": "2026-11-05T05:28:08.000Z"
-  },
-  {
-   "titolo": "JobsAcademy, il presidio della Cgil",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RZklXWHNmVUZkXzRvTXVQS2RwNWlyd2ZPLVJWbC1PWmZCZENPb3ZJdWRjbDFaOGxkRmczOXMzUW40NkUzb1NNa21XQWUxb0lPaWhCNERGOFAxTC1INnJaa2pfZThMRWNQNXBpQ1Q3aFJ0VFNPbTNsMlp2LWs3cDQ?oc=5",
-   "fonte": "BergamoNews",
-   "data": "2026-11-05T05:02:00.000Z"
-  },
-  {
-   "titolo": "L’occupazione del tribunale costituzionale polacco",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdjRtN0FJWHRSNGlSQkFCU3hWMjNYZHduN0pKcUFUY21hWkY1ZW1kbC1ZcTBKQmVoSEYxVVJDZGMxS09tX0lWTFpuV3Z1ZGVXM2ZyUHRTcnZ5OWhrTW9ydGJKU2c3cHV4R0I2Rk5iZlJyTi1MZmx3TGZxTmtHM2swS3dldXBtZV9iV0lOZHZn?oc=5",
-   "fonte": "Centro Studi Rosario Livatino",
-   "data": "2026-11-05T02:00:41.000Z"
-  },
-  {
-   "titolo": "Salerno, cancelli sbarrati al liceo De Sanctis: ma l’occupazione dura poco, proclamata l'autogestione",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2RRcmczMDRmS0pHMUxiZWJFejhpcUdQMzcyWmdhQThESWphZFdOSnV6Y0lYQTFEdlViZmVCdUVyRXdZb2I0NV92dEVaVklfckttYkViN0xXSG9Nazl4V2VBYzNMb2tNTkQ4eER1M0lJalhiOFV6YW5WallQTGU2Rmpra2VQeVNaWEluX0N6V1NweFZDSUswWHhJMNIBoAFBVV95cUxPeWdXZVE1VW16VkEwbGJqYkJhcnF6al9PcEhlMmtLRzd2VV90MlFvSThCYUxHQnpyZ0Rkc3RQMlU4Q3Y0TkV5aGw5U3BKemgtWVRzaXUwV0lxaDdPVFFTRWpnMWowR2J2MjVjWFIweGRDTTRqUUl2S2RpYnI3N19FQ1ZHTmVJQnhZd2NVSFAydGRyUDlwWUVSblVPWER2ajVp?oc=5",
-   "fonte": "Il Mattino",
-   "data": "2026-11-05T00:20:04.000Z"
   }
  ],
  "eventi": [
@@ -985,7 +985,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb21ZZ2JZRmpTZzRoMnR4TEljanplR04wR0ZmNk9weGdoVkpKU1BjcDJGTWJmU1d1ZTZJSGQ1UktoNDZhSVpKLUZzNlRZMUpPaTg2THJTNVlCWXk5c1QwV1lBRzBMbjdhUjUyVlA5YURKQXFXcF9hYnJFQXNuSWNFeXNBZFZ6SC1faUtBdzNCeFZZZUptUFNzS3JleVJGVHFHeWg1X0p3?oc=5",
-   "altriArticoli": 47
+   "altriArticoli": 46
   },
   {
    "id": "gn-MDVMVVEb2M9NQ",
@@ -1115,7 +1115,7 @@
     7.55814
    ],
    "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNWldqZVptRENVVVB4UTh1MGNxdWNHZTVNRDdGejlUcENid09kREJhWEJaa0FvUFR2Y3IzblU0b2k4NDV2SmZsaDNGU0kzcldTWWVGQzVDZ3Y0cFg4bFcyQzVJeVloSGFpUDFlV1FjRTI4ZHJMVGhYWmkwN1dyMzhlOE1ZUDBYTDlQX3RVYmkxd1BINkx4Qi01Y0VSUWFDX3hKcGFORXpRTXY1UmJNY0lScXJiMHlEWGJRUTU0QUlYZXlpb2h5Q3FDRURWV2hOSThPaHJqUDhtMWtHcWdvcVdDZXRzd2lQM3ExZW9LVlhZMTZXekdXSkpGVXl0Y0lfWEwySGFCYmkzZUJxRzRxaklKQmdnNzA0VktpM2hFeTJ3eHFkdzdSdTJPMFEzWDlvQ29RZC02XzN4Y3dMM0Q4M1J1SW0wQTPSAcoCQVVfeXFMUGR0TTlzSjM2U0ViQzI3YlBRTDlaX2U1Smg2cHQyQTJUS08xNnZGMmV3bU5EdGZfMndqM1VEdURxSXl6S24tMi1QVG1KOVMtSXNEMmMzdy1id0RkaGRwVDhrUGNuQ3JEQl9vNEEzQzhiM3hxTU1FZVRjbU5keXBsS1VyX0dZcGRNcEdZRWtXdzRfV1hRVGZubXNDTUt5SHlrQ3UwRENaMTNBcDEzV3Rub2F3Z1A4SVJnMlJnbW9PZ3I2VkhXNW1STXFuQnI4ajVOTHhoSFNaQWwwbktpVVpwVWlFREJZUUZVTzNXNUtyU01WeVh4Q0hSempLeXFlUkliVmItMnJ3UnM1YjZRNW1ZMGRNQkZ0bEUteTJKT2JkY1hKNzc0bGNLSFFtYTdkRVZuTEFZWGNlaDVlS05qeWd0THNUZ0U4ZTN3bWtn?oc=5",
-   "altriArticoli": 2
+   "altriArticoli": 1
   },
   {
    "id": "gn-MVZtU0hwMz9vYz01",
@@ -1456,7 +1456,7 @@
     13.35244
    ],
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV3dNYWtvbGctRWt2VHFULThlNUkxNG9HVUw5OURjX19QTkdocXJVSHpJejJmd1RaVDJIWkxEeXd3SU9ZVDhfWE5JSVREZHFUci1TOWpQZUlncTBNTGVPNmktOEZ4ODJUZHZKTzdzWVg1LWhzbmhqWGZfSmNrQnZSWE0xTFYtdzRqdlhUTTBlaVdIeDU3QVpuLS11QUZJX1llVVlGQVZ1Yi1Ra3FrTXNlVlhsWV9USHlnUmlJcV9KQXJDNlVsRlY2VEh0aFZOMGg2a1RHcl9rcUZuLWRrWi1rag?oc=5",
-   "altriArticoli": 2
+   "altriArticoli": 3
   },
   {
    "id": "gn-MXBIYzI0MD9vYz01",
@@ -1756,7 +1756,7 @@
     12.48293
    ],
    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPY0dZNWhEWVJINHBJOWZqYzZjMjlJWUtGVEtDWDgtRUtUdEVkTjNfbjJZMDVzQzZEckh3cnRldzgybkRmb1pQX015RVRHOFJSdkk5aThtdENfTkNKSTVISXQzT3h0Z3RLTXlfblJOUGRSLVllekhsbVExbi1RSXQxaWxNN1habkpWdGdMQXdjMk5abVVVVDIyNE1WT0I1b202N01hU2c1emljREJtS0tRNTItcHU3dG9iamkwcWlfSUxwNUpjZ2VKbDVjZ3c5NzlOeFJJYkh5TkpQVmlUTllNdVAxQ3hXT2VycmlEdThpR0lqd0dVQ1d2eUdjSlBWMUxqVDVrY3R4Wm1xZ2vSAZACQVVfeXFMTUJvcDc3bllPXzJFY2hWU3JKVWlSSWt5cGFWcGw4Nzc0Q2Y5Vzl6el9UWkJLaUlTc2lad2RpRlpnZWE5M2VOLXhra2U0M3BxVmVTLUxCQXY5WV9nRTBLdkFONmpYQVRRVzJYUEhHTlBzcm0xd1gya0FUSXAwc25KVXZJMHEtZ2ZoNmpxTGVRSVdQMk9IdG9FRHdfYmVuMVZJa2s3eUdlR1Y1eXAzZmtkQk5BWGFjZUhzaHJXNXZXOTNzT3J5S0Fsc3RoYXl6YkpWTVlUSzdHbFRyVlg3UkxFTjdmOTZ4WmEyS0JtZGVTdm1kRE0tM0RQRGpmT0VieGZGMnVVQVdwMzVOYW1YaTFoelY?oc=5",
-   "altriArticoli": 14
+   "altriArticoli": 12
   },
   {
    "id": "gn-VzVEVUZVP29jPTU",
@@ -2035,23 +2035,6 @@
    "altriArticoli": 2
   },
   {
-   "id": "gn-VFZGZHcb2M9NQ",
-   "fonte": "Giornali · Veneto Orientale Informazione",
-   "titolo": "San Donà, Crescono occupazione e servizi: si rafforza il ruolo di polo del Veneto Orientale",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-02",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-02T15:35:26.000Z",
-   "luogo": "Veneto, Italia",
-   "citta": "",
-   "regione": "Veneto",
-   "coord": [
-    45.64767,
-    11.86653
-   ],
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaThqcXNZbFcwbVJRcEk1X3JYQlpDWXNfV0g2SEZyZm9ydGVHTXJxX1oycFFWcndBTjJaMndVd2V2Nkh6eDNickhtZjQxbUc0dDdnYlUzNl9Fb2dsR2ttek9ta0JQOXVWUUQzZzJjUEh2SFVhVEhIM2NpbUlKWlJFYzh3blpoWlpGN0ZZM1JpY1JNUGhYU29mTjlDaUtBX2pHOTZadGJqa3E4cWVwcDBUMS1VOTVFdw?oc=5"
-  },
-  {
    "id": "gn-Rk5FRnZWdz9vYz01",
    "fonte": "Giornali · Hotellerie Pambianconews",
    "titolo": "Estate 2026, Adr in Italia a +6,2%. Rimini prima per occupazione upscale",
@@ -2309,8 +2292,7 @@
     40.41944,
     15.31061
    ],
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUDJSalpxeVZIY1k5bUJQWklpZ3JIZ3A1YmhqR0hPYUZwbkh1a3c4bnJMUmhxR3VzSnRPel9SakFrTnRNVUgwczRKTjBhNWl3R3JDRjBxR0E2M3FZTkJsMUhtUlRocHE5dzRuM0V1cDIyS28wb0JVTHFHbXhoMFhpMElVSTdSZlZpY05Fd21LOFVaYnp2amZWZHNmOVc1TFFjNGNYR19oRnZWQ3dPeU1jS2xWNDZRNlVLQ3Rpa3ZGMzZxeDlrSHc?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUDJSalpxeVZIY1k5bUJQWklpZ3JIZ3A1YmhqR0hPYUZwbkh1a3c4bnJMUmhxR3VzSnRPel9SakFrTnRNVUgwczRKTjBhNWl3R3JDRjBxR0E2M3FZTkJsMUhtUlRocHE5dzRuM0V1cDIyS28wb0JVTHFHbXhoMFhpMElVSTdSZlZpY05Fd21LOFVaYnp2amZWZHNmOVc1TFFjNGNYR19oRnZWQ3dPeU1jS2xWNDZRNlVLQ3Rpa3ZGMzZxeDlrSHc?oc=5"
   },
   {
    "id": "gn-aWJGSjMb2M9NQ",
@@ -2473,6 +2455,24 @@
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1745700/-/livorno-presidio-contro-i-traffici-militari"
   },
   {
+   "id": "gn-R0pOWncb2M9NQ",
+   "fonte": "Giornali · Corriere della Calabria",
+   "titolo": "Falerna, il presidio prosegue. «Gli agricoltori calabresi non mollano»",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-05",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-05T18:45:00.000Z",
+   "luogo": "Calabria, Italia",
+   "citta": "",
+   "regione": "Calabria",
+   "coord": [
+    39.0566,
+    16.52499
+   ],
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ05FZDhkSm5VQnE0VU9NY2NDd0VMOTBOVUgtQ1pwN0ZvVkNqYWJMYWl0S1NJV2hybk55cVVucDRnLVdtQUNsNzQySlhtc0U4ZXloRWQtcUFBX05Kei1sQ1doREFwTEpxR3Jmd2Z4WTJTcUhjaGhGcE9TUHR4UUlQNVo0aDV0RDhlS1hLWmZoSTh2bzdKbnJfOHAtTFR0Sm56Um13UGE5dUtWR2VoVjB0ckxxTGJNZw?oc=5",
+   "altriArticoli": 1
+  },
+  {
    "id": "gn-VEhaR01UYz9vYz01",
    "fonte": "Giornali · Torino Cronaca",
    "titolo": "Chieri, bus deviati per una manifestazione: stop ai percorsi abituali per le linee 1, 2 e 30. Ecco tutte le deviazioni previste da Gtt",
@@ -2558,23 +2558,6 @@
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNajhSMmt2VzJ0ZVlyV0tGWWszRzZLR28zcXNvaG9nTHlRYkVvMGxzOTZCRUJfS2piaWZ4emVBaXVDTmhzSWJ2eGx2c3VoU0VwX01PNGpVeGE4V2N3TlBuRGVXNTVfdFhwajR3ME55czEtMGVuRHA4YlZULXZyOWNvbWozWXQ2dTcyWG5CZnlac2xoSjJLcDFYdnZHbVJGYXlqUE1KRHJSbTVGaTBVSHJVZXVPREFkcDVTMV9zX3dtR0V2aGhHdU92TFB1OF94RUdacTRWX2h5bEVkNkgtM1pvYndCNjJrdUh0NWtpOXIxNXgxWmpSQzRhYkxNbkkxYm1q0gGGAkFVX3lxTE5UeUxKZWZhbDZuWjZvajNKMm45VzRvLTlqQjlNajNKLWFydFZNcGw1U3d0S28xY2w1Y1dEVldzbzU3V2FwX05IZUl2Vmd4aWdldVFSa1U5S2FLTHhTNlhWT05WVU9WMk5ESmRySzg3dlZaNHptazdqU2hlVEdqMkg0Q0ZXcGQwbjEwLURybENmTzdpQk9mUlNGUFJoMmtWODRQaUN0RWRxNW9HUlpZckl2SXlpMzBsTkdQbThJZTBWU21lTmZyU0pvbEFjQS1OVkU4NkRLeEQ1NVI4SkFnNC11Qmhoa0kxZ3d1VG1XTmc4ZnR0VzVUSWFSNmtxcWpNemdYZF9LU2c?oc=5"
   },
   {
-   "id": "gn-UTVPSFpSP29jPTU",
-   "fonte": "Giornali · Corriere della Calabria",
-   "titolo": "Autotrasporto calabrese, ecco la Consulta. Un'alleanza strutturata e un presidio stabile a sostegno delle Pmi",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-05",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-05T07:47:00.000Z",
-   "luogo": "Calabria, Italia",
-   "citta": "",
-   "regione": "Calabria",
-   "coord": [
-    39.0566,
-    16.52499
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPb2w2QWxaS2N2cExHaVVrVC00VTlHTjJ0aUdSdjVnckdUVi1qYkJZQzZMcS05c2Q0LS1aZVk3Znl4VmF6aGd5U0tVRUtyN2RDUGJkMWlmeDBiY3NLdmd2UmJxeHlUSmVnQVMzR19ZdFlKUEdJMDJPVTB6MHNxS21DRGhnaUk3UE9fNGppY1k4aVdwTl8zdU5ZaGxmSDB3SzlGcU40ZWZqRE5JRFFiQk00WDJMNEk3ZjVQTFp1NkZaRXRLRUE5d2JSSUpnXzFFMFFuekdobUtZYjZucUJadDd3NlQxLWpHb3Q5OHZR?oc=5"
-  },
-  {
    "id": "gn-WEJQYUEb2M9NQ",
    "fonte": "Giornali · TP24.it",
    "titolo": "Trapani e la manifestazione in piazza. Miceli: \"La città si è atrofizzata\". Patti: \"Prendiamo atto del malessere\"",
@@ -2590,23 +2573,6 @@
     12.71163
    ],
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPb1c3RlpBeHF6dWliSWlTT182VFhjME84bzBtSVNzdGpuNXR0eDBRQUl3cVRocVVXTWQwYkF5OHRhQ0RISDBDMGVCeEZic1dzS0gxaVNDMnJUQlpsT3EyNGQwVmlKQTUydGlSUWVLeVA2Z1JKelZ1VDJOdTlJQ3REbEwtUlBEZU1hYWVMaDZNOFp1bjRkZWM3NjNYVnhOdThmWGhNNGpSN2FjRlkwM2I5QXJac0IxY1huXzE0YjRKVVhXd3NnYjlqb01vZ2JCejZqR0xYWVlRbG41LU9TdWxVbVZMYzJEbHZ0aXBPaA?oc=5"
-  },
-  {
-   "id": "gn-azFPZVdjP29jPTU",
-   "fonte": "Giornali · LetteraEmme",
-   "titolo": "Una persona su due non lavora né cerca lavoro: il dramma dell’occupazione a Messina",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-05",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-04T23:04:57.000Z",
-   "luogo": "Messina",
-   "citta": "Messina",
-   "regione": "Sicilia",
-   "coord": [
-    38.19376,
-    15.55421
-   ],
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV2dLVGRtcU04S3NMQTdCT0w2cDQ3cjNfRXh0N2hxVmJYc0t4RmY4bDhtdDlQN2RJaFFxcmNnWFlXZFZObzdNR05OLWN5M3dGMW1sSnp4c2lONUYwT2R2dktjLVRvLWtoVjJkRHM2T0p4S3Z5UjRyNzQzRDBOZk8yUnZ5SmRRbjZfZHBPZ1ZKMGdrekhVNGViUVdBVkJSVHpYTFUwMEUwQnNjbk1OeWc?oc=5"
   },
   {
    "id": "gn-M3B0VjFKaj9vYz01",
@@ -2755,13 +2721,13 @@
    "link": "https://www.invictapalestina.org/archives/55281"
   },
   {
-   "id": "gn-WTNOM2hQP29jPTU",
-   "fonte": "Giornali · Radio Città Fujiko",
-   "titolo": "Sabato a Bologna la manifestazione contro la crescita dell’aeroporto Marconi",
+   "id": "gn-bUoxWncb2M9NQ",
+   "fonte": "Giornali · 24Emilia",
+   "titolo": "Bologna, nuovo corteo il 7 novembre: cresce la tensione, si temono altri scontri",
    "tipo": "Dai giornali",
    "inizio": "2026-11-07",
    "dataIncerta": false,
-   "pubblicato": "2026-11-05T10:17:40.000Z",
+   "pubblicato": "2026-11-05T16:41:05.000Z",
    "luogo": "Bologna",
    "citta": "Bologna",
    "regione": "Emilia-Romagna",
@@ -2769,7 +2735,7 @@
     44.49382,
     11.34263
    ],
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObENRTU5uU1p0SjNKN1owOS1rcTkyY2hBXzBwbWVqWEFXT2dkNXFRX1pZVmNINlBXSTlpN2tmSGVwYzE5ODJKWDlOdkIxZnJ4UDVvWm0tUlpKZlY4X0JnX3FHN3g2cVlRZ3k2QXJPcWVyZW5ETzRZWkxJY29GQlZmZjY5OEVEbFZzTGMyZjBCUElWNkRyUXBiZHFlTmFFMldsRGZnZmJVdHY3N3hP?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYTUtbEZnNE83MVplZ1lIdWJoRnExX1VNbVRvT3dJTXl4S2x1TC00US1zMHRYQWp2ZkZQWW9BYS14VjlQMmxtbnhkLXoxUktrTVFNeHMxOXZvdXJEaUN2a1ZYRGhRaG1KQV84d1l1SlhkMVdZRUx1dEU0QWplLW50bzA4U2V6NEUtb1dtbzZEZmJ1Zw?oc=5",
    "altriArticoli": 3
   },
   {
@@ -2862,7 +2828,7 @@
    "tipo": "Dai giornali",
    "inizio": "2026-11-07T15:00",
    "dataIncerta": false,
-   "pubblicato": "2026-11-05T11:10:49.000Z",
+   "pubblicato": "2026-11-05T11:23:10.000Z",
    "luogo": "Cremona",
    "citta": "Cremona",
    "regione": "Lombardia",
@@ -3126,6 +3092,23 @@
     11.76393
    ],
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744259/-/arezzo-moni-ovadia-al-cas-tortaia"
+  },
+  {
+   "id": "gn-NWFUQnlVUT9vYz01",
+   "fonte": "Giornali · Agenzia Dire",
+   "titolo": "FOTO | VIDEO | A Bologna occupazione all'Università: \"Ci stanno portando alla guerra, diciamo no\". E lanciano protesta 20 novembre",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-20",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-05T15:26:53.000Z",
+   "luogo": "Bologna",
+   "citta": "Bologna",
+   "regione": "Emilia-Romagna",
+   "coord": [
+    44.49382,
+    11.34263
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOUxDclk3TFZabDRaWEFzTDktdzNPckctNXdmSklRaFpBMGNJODA1OFN2am93YlNxRjBCT25qV295ck9YVG5jci1QQnZjTEI2VDA4VEVkZ2lZZXRDQm00b3lUU2pVcm1EdnRIYmdjSmJFR1lhSTNEVFZGNzRrM1I1SFdPWXlpOS1xVjA1ZDFqbWN2UzVJM3ZUaU1pRDB2RUJkZWxRVlF2Q0J3bWpmTGN0Um43ckJib0t6aGhKd0xub1N6Sm0zcUdhMmVOZ2t4VFRoNFZzLXB5TktXQVltTTZaVmg4bkxoN2hSMzlCNUo5aTByUQ?oc=5"
   },
   {
    "id": "gn-bXBOTkdaMD9vYz01",
