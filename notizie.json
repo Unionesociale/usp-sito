@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-06T06:10:56.235Z",
+ "aggiornato": "2026-11-06T07:28:36.332Z",
  "notizie": [
   {
    "titolo": "Hebron, laboratorio del controllo militare sui palestinesi",
@@ -447,6 +447,12 @@
   }
  ],
  "mobilitazioni": [
+  {
+   "titolo": "Presidio “no Maga”, in 250 contestano il raduno dei trumpiani italiani",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOEM0ZVRHRWxnWVVBZWhFZXlOWDhIRnV1eVFyTkFjam1MS2JvdEZVR2c5cHlPMVpyMUFNLWhmU0hBT1ZXUkJUd0JkWVYtRXBhSF8zeHEyMy1EVmx3cXJPeG1IVzN4WlM0YTZLd0dmWmVYZlQyVUFmOXV3T3V0bGpjVnhKU0dWT3BGeW05MTZHdEp4TEp0d3RrZGRRUUZ4RnZRS1BGY2N4LXg?oc=5",
+   "fonte": "Estense.com",
+   "data": "2026-11-06T06:18:44.000Z"
+  },
   {
    "titolo": "Manifestazione di sabato 7 novembre a Bologna, torna la piazza contro il carovita. L'appello di Lepore: «No alle violenze»",
    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNX3MxeXdqX2RaQTh5aVZCX2JWbU1uQnJMVy1ET3BCWkF6ZTB4TENCMV9LVjdZOEM5b0VxQmhSd1diQzhKbUZ1UC1VOEVuNkFfekhRUHpGR0NvbVpEaWNXMDFocGsxY0hfZkxZTE5VNGt6WHNpd0kyZjZxWmUxcHZUdDljaGZYVkp4cWJkaHRSMzNUdjRDR201XzcydnR4S1Y5Ukp2b2s4R3FMYUxVU29qVnVYUU1ZcjhGVmxWOXJSSXhKYmRJVlJtSnZockVyZm0yOTJYUUJSdG5EelNobUJaaVNqN3dFM1FuYVhFckFUaUZFZzVvQ3g4WUdySGdRWDhfYk03UE00UUpodTNSRHAwMXVnMUt3anNBMkxxT0tnZ9IBpAJBVV95cUxQdVJCZGQwM1hFcFBvdlNVLXR1RXlkN3RydHFEVjk1U19BbTFBdHB4bEI5NGRwWXhQLUtSSWZoZ2t6TTlTODBueVYtRS1CUG9raXpITGcxYndURWRjVEIxdjdKYi1ZTHpBU0lia09lMUczWGt3bzd1cUx3LVBVRmZLWFNGakY4c1JqUVhjRDF3V2o0MlN5ZTBYSEpEcTRiNDhRYzFvN0stQWMzeW5pZC1FOHRsN1lNcHBPeTBSLU95aTJXVVhLWG9xN0ZvVzhUb1BacVFkSjdULU9waEI0ZXF5Skx0YzVOMlp6RlN0c0tUODZycHpUV2JTWTROM3RaSHFZT2JadnRiX0dRcjRSY3JOemFnR3JOMHQxcmRqODVUaXl2czRR?oc=5",
@@ -920,12 +926,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWTJLdENHeVE3MHZRckpEamt2WUVQcDlqVm1aSGt1UlNCWGtFYUxnblhSTHk2RERMQ0ZIWmNWcjd5ZVBPaDFvX3ZGaHc0OGlHY2kwVnZlakZFd0ZPQmtUVlh0RVhaZ1FoQTNBRnVxcWtfNU1NYl8xQ3NGemdyY1pkMGNjbklGV3pZazdLMzRSNXZEQkdiMFJLN1BFRVl4dGlfSU5EQlMxWXI4NUhVOWhfUXhDMkFUWmY2Y0VwcXJKQWZEbzg?oc=5",
    "fonte": "Doctor33",
    "data": "2026-11-05T09:45:00.000Z"
-  },
-  {
-   "titolo": "La polizia ha eseguito 16 misure cautelari per gli scontri alla fine del corteo di gennaio per l'Askatasuna a Torino",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5faC1mN2p2N2VvUmg1NXEzanQ1OVJFei1PcVJzYXZmb1NaZDh5clFqSUJOamVaZkJYU0UwY2pLbnlYT21LMngzSDh6SnFBZjhLT0V6NjN1eEN5YXBxWWQ1UllVbjQ1X19rNlZGM2d2WTl4cUQ2UGl3?oc=5",
-   "fonte": "Il Post",
-   "data": "2026-11-05T09:42:15.000Z"
   }
  ],
  "eventi": [
@@ -1547,24 +1547,6 @@
    "online": false
   },
   {
-   "id": "gn-RlJMT1RNP29jPTU",
-   "fonte": "Giornali · Comune Savona",
-   "titolo": "Avviso di manifestazione di interesse per individuare enti del terzo settore disponibili alla co-progettazione e successiva gestione di un centro socio educativo per minori",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-28",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-28T09:46:05.000Z",
-   "luogo": "Savona",
-   "citta": "Savona",
-   "regione": "Liguria",
-   "coord": [
-    44.23342,
-    8.25257
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNUXZJbWNseUFyeG9BT0xrLXJKLUFaWWthc2JpcmxtVnduQU45a3FKcVR0MUNOLVV1Y0s0aVBCNkM5OVNYX0UxdnNzWWw0LU1temtOOUU2Ti1iQmYwR01MVTdmeXBZVWFrTXVwdWlPZ1h1YXBEc1BuYU5tTG9pVjlYYnRyNVA3NmplNi1HVlZiUDlEemRoTWdpN1VtVjR0aFNTR28xdWxUYWM5MWI2Qm11NldxYmcxcUZocjBrYUlWbGc1ZmxYX2pfNkRXZERDZG9tLXd1NklQZnVocTlzNWdjZW95OE9RdFpUZkZXTTAyU0xqZDVLV1FUOV9BcHFvYk9QTG41SkFUQk1GLVRKNkhhVlpaa2xwblg1TXBVc1ZLMi1EcFJTQmxZUnlYejQ3SlNpbURwcXpfOEoxT1ZyU3RBNDRMYWYyYVJDSkZuVFRLOTM?oc=5",
-   "altriArticoli": 1
-  },
-  {
    "id": "pl-13514",
    "fonte": "PeaceLink",
    "titolo": "Traffici di armi",
@@ -1651,6 +1633,23 @@
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdWYwRE9SZ2dGaU5YSldwaFNaN1cwS1Fqd3NiTElDc2hHQ3BaeU8xS2lzSG5OYXlQTUpHS05aaU11ZmhrcjJid21aeUlucXJWd2ZTWEJPcTlZTUhzTXliQWVDa2N1dlQtUTZDUmN5VnBHb2g2U2NIRWJzS2xZOU5TUG1aa2ZiZ0thTTZRVEpPODNDcXFYSW1ySWxsbWdPbGtpVlNxTHVuR3B5NnJDLXBHNEVpNXdQQm9iMWViSzFqNkxTZ0dKQjlYY1hkX1VvYVQ3eHVfYVdESHB5dw?oc=5"
   },
   {
+   "id": "gn-R1UwazVOUT9vYz01",
+   "fonte": "Giornali · ASL Roma 1",
+   "titolo": "Giovedì 29 ottobre 2026: chiusura temporanea programmata Presidio Salute Mentale via Boemondo, 21",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-29",
+   "dataIncerta": false,
+   "pubblicato": "2026-10-28T11:57:19.000Z",
+   "luogo": "Roma",
+   "citta": "Roma",
+   "regione": "Lazio",
+   "coord": [
+    41.89332,
+    12.48293
+   ],
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWJOVS10cDdWZkFadWdwbmE5WUwtTVBJQlRHVzJua01HNHdDNU1INGJvZFhBQWJTUFhPOElwcGxpMDhEanh5NmZybUdydjlkYnZjZDNxcUktWVNnajNyZDYyTlRzdk9RbjRWQURxSGJ0MXBZekt1NlB2Z0JNZUtaUFJjMjJGZzdTdUM2VHpIdHJQZzlGU0k5NQ?oc=5"
+  },
+  {
    "id": "pl-13489",
    "fonte": "PeaceLink",
    "titolo": "Fermiamo le guerre, costruiamo giustizia",
@@ -1718,7 +1717,7 @@
     8.75418
    ],
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaVg1NEFZRU1mcVkyV3dxclFrTUdBeVNkNm90bE1fR01US09FMlk0WS0ySXRWS1E5SXhGM3NsekE2OTU0Q2N4WVlSellCNEpVYzNDVEtZQ1RRTnRmeWdmNHRkclAtS3Fpb2ZyYXBOVTJ5SGJ2WjI3S3AwS2R5VzFNWmJXcE9zdmdtZXZlMmxQelU2RHY3QUJJelNCWlVuOFhCbmVyR3JobDR5MXNiT1ZoU05JLW5DUFU?oc=5",
-   "altriArticoli": 2
+   "altriArticoli": 1
   },
   {
    "id": "gn-WGcxV1RJP29jPTU",
@@ -1752,25 +1751,7 @@
     45.64965,
     13.77728
    ],
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZGV3aW52VGwxQzFialVXWFJ2UzNjLTRrdlhnY1VyM2xzU0xDUGNuOFItb0MtRUxpaEtQTUk5RWNYT3RrMmpLeEtXM0xwaFVYY19qbGN1aDFNMk5UTU1NZkM4dE5JRS0wLWlyQ1NsZ0YzT0VIQk94Rl91YzJucndIb2xXZnRyZi1q?oc=5",
-   "altriArticoli": 1
-  },
-  {
-   "id": "gn-VkZoU2Eybz9vYz01",
-   "fonte": "Giornali · Controradio.it",
-   "titolo": "Sciopero: ufficializzato il percorso del corteo di Firenze. La diretta di Controradio dalle piazza toscane",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-30",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-30T05:41:00.000Z",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZXpUQmZsUXp6LU1VU2xuRzdtd3ZaU2dxYzJGTHR1MEFPV24tX3lrVTUyMHAtY2xWVkY0TmRiX3duSnpmS0JmWW9ycFoyV0N6VlV4UlV2ZGRvOTdLb1VjVDJOajhseWNkNjdnRGtDYy1JSWg4X1RXaXRNaXhPSy1iUDBVWWE5Nzh4d2g5WmtxdWdHSmVkaHplc1U4RTBnMFVUM20yYUJvR2hIaDhQOXlYRHp4aWJWaDFlaWhCREVpX0RuM2JUWTNnVFhSa2o?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZGV3aW52VGwxQzFialVXWFJ2UzNjLTRrdlhnY1VyM2xzU0xDUGNuOFItb0MtRUxpaEtQTUk5RWNYT3RrMmpLeEtXM0xwaFVYY19qbGN1aDFNMk5UTU1NZkM4dE5JRS0wLWlyQ1NsZ0YzT0VIQk94Rl91YzJucndIb2xXZnRyZi1q?oc=5"
   },
   {
    "id": "aip-1744910",
@@ -2079,7 +2060,24 @@
     45.46419,
     9.18963
    ],
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdS1NY2VXNmFVNC05Z2RQY0txTGhDQWVsMnZGT2E2eXhsQlc4TnNqVHlqa2t6RFhaemtzbUxvT3V3bl9HLTRWb0lTUEE3R0VDb3JYdFhHQjYwdFMzd3BnbUM2bHNCOWNGSUt4czJhbWh1aFpjX1Nna2dqdUR6TWJ3TmJMcllQc3BxNGl1SmliM3gtRWVfR2R4bldNdHJqcXc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdS1NY2VXNmFVNC05Z2RQY0txTGhDQWVsMnZGT2E2eXhsQlc4TnNqVHlqa2t6RFhaemtzbUxvT3V3bl9HLTRWb0lTUEE3R0VDb3JYdFhHQjYwdFMzd3BnbUM2bHNCOWNGSUt4czJhbWh1aFpjX1Nna2dqdUR6TWJ3TmJMcllQc3BxNGl1SmliM3gtRWVfR2R4bldNdHJqcXc?oc=5"
+  },
+  {
+   "id": "gn-a3AxUm01Mz9vYz01",
+   "fonte": "Giornali · - Umbria 24",
+   "titolo": "«Per la pace e contro la corsa al riarmo»: presidio in piazza a Terni",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-03",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-03T17:39:33.000Z",
+   "luogo": "Terni",
+   "citta": "Terni",
+   "regione": "Umbria",
+   "coord": [
+    42.65395,
+    12.43965
+   ],
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWndXbGEtQXhYTEdiVTJOT2JnVWlseGxzRGVKaFRBMFFISDlRRVUwVzVBWUktWmhCYU1BYjdTdVAxMjY5UlY3dWN6Zm1aUWZHeWVrbEp5THNxMVl0RzExa0d4NW9pblZCYkRmMjJ3bV9kalhXaTRHdDFodzhfUFRnMjQ4ZDctMno2Um5Ya25najVEVjNfRWYtd01MSWduNW1VQkp1Rm53?oc=5",
    "altriArticoli": 1
   },
   {
@@ -2131,7 +2129,8 @@
     38.19376,
     15.55421
    ],
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ2pBQnRHUk1wX1hRUktDYXB1SHprMVVlTlF6MTRCOGc1M3phMlJZZEI5aHdpRngtaEtsVnJQU0lHTlRUaFVFM1JaT3F1bWFfMGp1WTdvVW8xd1NaYmJqOHNGTFlFNzJXdkU3dHc4Q2I0c2NJVVFpdU5veURuLTIyNEJKbU51dVA3VE5wN1FtTWl1ZDRrQTQzR1VCanZSQm8yMTdoSG1SWEtFM1RVQ1NwVFVUQjJkYjdrdzNhMjFoY1Qtb1BDX3h6a0N0b21nSXdiLWhSRVpEblE3M2wyQXlIaNIB5gFBVV95cUxPT3k0aUROUWhMazl5elRMUjFIWTczdklXRDliUUhJeG8wLTZpUjdCeUZxdV9ZU20zMjlqeEZQRzNlYzJsSmFKR1RBSnV1LWV1MzJTTmFaRVRESmhYbWctUmY4S3hGWGdYR1dZT2dxMTRBX29SWmI3Q2RPZ1ZMWHR6MHNmeXd4VjBDck1pLXJGWG5ZLS1SX0FLXzBRY0NZdE1IWklQUjRwQmFJXy14Z1Fmd0tiWjJ6bmVZQnhZRDlBMmFCeEdvb2RzOHRZZk1vR04xdjZIOHJxOVZxUzM0UzAycmVMS2hpUQ?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ2pBQnRHUk1wX1hRUktDYXB1SHprMVVlTlF6MTRCOGc1M3phMlJZZEI5aHdpRngtaEtsVnJQU0lHTlRUaFVFM1JaT3F1bWFfMGp1WTdvVW8xd1NaYmJqOHNGTFlFNzJXdkU3dHc4Q2I0c2NJVVFpdU5veURuLTIyNEJKbU51dVA3VE5wN1FtTWl1ZDRrQTQzR1VCanZSQm8yMTdoSG1SWEtFM1RVQ1NwVFVUQjJkYjdrdzNhMjFoY1Qtb1BDX3h6a0N0b21nSXdiLWhSRVpEblE3M2wyQXlIaNIB5gFBVV95cUxPT3k0aUROUWhMazl5elRMUjFIWTczdklXRDliUUhJeG8wLTZpUjdCeUZxdV9ZU20zMjlqeEZQRzNlYzJsSmFKR1RBSnV1LWV1MzJTTmFaRVRESmhYbWctUmY4S3hGWGdYR1dZT2dxMTRBX29SWmI3Q2RPZ1ZMWHR6MHNmeXd4VjBDck1pLXJGWG5ZLS1SX0FLXzBRY0NZdE1IWklQUjRwQmFJXy14Z1Fmd0tiWjJ6bmVZQnhZRDlBMmFCeEdvb2RzOHRZZk1vR04xdjZIOHJxOVZxUzM0UzAycmVMS2hpUQ?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "gn-emM1Yncb2M9NQ",
@@ -2150,6 +2149,23 @@
    ],
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU09faUpScTJXUzJRRWhlMVFhZklrS1BVNEVWVXh6UjVfQURsSWp5Sm04cmFwQ2FEcXEyLTczWndKbmNjbk9oUHltZG9fWDktUHpTelBTMDhIRUZaY21MbExITUotTk8zZWxzQVpLWjZCajVwMjB4dUxzbTk0d2xkQks3VEtUeFRnOUtYYlFhQVYwek9yV0dBZ1ZFMnBhWVpfSzc5bw?oc=5",
    "altriArticoli": 1
+  },
+  {
+   "id": "gn-UjBaSGMb2M9NQ",
+   "fonte": "Giornali · La Stampa",
+   "titolo": "\"Il Sudario arriva a Savona\", manifestazione in piazza per Gaza",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-03",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-03T10:42:00.000Z",
+   "luogo": "Savona",
+   "citta": "Savona",
+   "regione": "Liguria",
+   "coord": [
+    44.23342,
+    8.25257
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT1VkUndNUUNCbWJfY0Y1T1hnb0ZibnZha0dmc1J0M0ZVazhvYlZNNmJtUmRuRlh6UHhSREpfdVZJLVBZNFpMQWlicVJKZ19pZUhIc0IyVGpqTHVfeFJFV0hqNHdVQ2I3VFYydWNMYXlVRUN2VXRhbGFZRFhwYW9pZ3VBMGJGLW43TEFOTzNfU0hpRkp0SzEyT2Q3WXJtdDFXVEVLNHVGU2NlZXpjZWluM2hvODYtLXRH0gG-AUFVX3lxTE1CcXRxSm05NTlYMVJqaTAyWFJQNndKcHp4TjRzcEpTYlQzUFNnRnBJQXNJaGxIMTBYbzZRbGdSN1RGY0ZFeUxpU3ZRQ2ZXUHZNeEJ6V3JQUGI2SEtUTkxWNkhGMEVuN21tVFhDbmU1WHhxSHlMTWcwV0VaODg3SDFkYWEwZlBoaG5BUnQtaFlibUtuM2NMamRxb1VaWTBSWU5jVDFLd281Z24ycnJHYU1xdm1tUkh3V21yRnR0ZHc?oc=5"
   },
   {
    "id": "gn-UzFWVFEb2M9NQ",
@@ -2184,23 +2200,6 @@
     10.67084
    ],
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORndzbk5FaWItM2Y1cjRFUzVjeTZWajU0cDNLb1F5SVdtcDRZQ3QtUkV2V2Q2bmFBc2lYTjRJczdfVUV1eUlWZ2ZKZU5NVTdDVG9FdGJUTEp5eWVReEFuOTNFRmwxV2pTQXUwcE5HYklyLWUzSEI5TG90Rzk4ZWZaRXF6OXp6N0g5ajFkRVpEd05CZ9IBlwFBVV95cUxPd0hVQ0s2OFdYTExnSkpGS2NkaFV2aThERnZrMXNqLXJiTmFTV2VHMFFkRGItbG5vaVE3VERPQlFlZ3Y0bFZ3eGRhYlN1OFQ4Q3B0VVRuSVhEa3R1QWdiWHFXM0E3LWdpQlUtM190MG5BQTVURVJZWlBRRVNQY0YzSmxGMzJ3X3doWmNaekJueFhUVjR6aGNJ?oc=5"
-  },
-  {
-   "id": "gn-eDVORmxCP29jPTU",
-   "fonte": "Giornali · Comune di Terni",
-   "titolo": "\"Le forze armate presidio di libertà e democrazia\"",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-04",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-04T16:46:00.000Z",
-   "luogo": "Terni",
-   "citta": "Terni",
-   "regione": "Umbria",
-   "coord": [
-    42.65395,
-    12.43965
-   ],
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOek5KTmdpdEhSbmNtTlZ0cHB3Z0FzUGE3bkZJRHc1TlB4LTFhMHJXOEZXVUlxaUNtTVJLZDlCckRWWU1GNnBacGlCUlBrUWhyWHFvMlBLbFBmMkxZOXJCUlptc3E0Zjl2SVh4bmRqNlY0RmNCelg5aEkwZTZ1Uy1wQ3lXUVRRZGNhZWRFVW9jS29vUXNXUUx5NFlB?oc=5"
   },
   {
    "id": "gn-MU5YZEgb2M9NQ",
@@ -2718,6 +2717,24 @@
    "altriArticoli": 2
   },
   {
+   "id": "gn-TlZYRk1hUT9vYz01",
+   "fonte": "Giornali · Radio Onda d`Urto",
+   "titolo": "Cremona: sabato 7 novembre manifestazione “Adèss Baasta” contro carovita e riarmo",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-07",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-04T16:05:00.000Z",
+   "luogo": "Cremona",
+   "citta": "Cremona",
+   "regione": "Lombardia",
+   "coord": [
+    45.22086,
+    10.03704
+   ],
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSE94MmkwRU1sZlRTTkwybWc0SmJqbU1wTUhJSkZBYkE2YzdfSExqSkR2OElSQ3gzMUp6V0VNTE11YXBhbGo2bFp0Mm5CWDh1R0p5Rmo4djJYajBDYU9acVBBaUEybzZlS1kxeGU5X2xZMlBxQ3lkQmREbGZrdHJ1bGpCdF9rb3VXNTV3SDJhYWNmaUtiR3o3SXZoU2xRZFBBRlMwZ1NnU3UyWVV2Z0l3RE1PTU1saHFNVXFMaQ?oc=5",
+   "altriArticoli": 2
+  },
+  {
    "id": "gn-WjZUMDgb2M9NQ",
    "fonte": "Giornali · Telenord",
    "titolo": "Genova: \"In piazza contro il riarmo\", nuova manifestazione sabato 7 novembre",
@@ -2781,24 +2798,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13502",
    "online": false
-  },
-  {
-   "id": "gn-TlZYRk1hUT9vYz01",
-   "fonte": "Giornali · Radio Onda d`Urto",
-   "titolo": "Cremona: sabato 7 novembre manifestazione “Adèss Baasta” contro carovita e riarmo",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-07T15:00",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-04T16:05:00.000Z",
-   "luogo": "Cremona",
-   "citta": "Cremona",
-   "regione": "Lombardia",
-   "coord": [
-    45.22086,
-    10.03704
-   ],
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSE94MmkwRU1sZlRTTkwybWc0SmJqbU1wTUhJSkZBYkE2YzdfSExqSkR2OElSQ3gzMUp6V0VNTE11YXBhbGo2bFp0Mm5CWDh1R0p5Rmo4djJYajBDYU9acVBBaUEybzZlS1kxeGU5X2xZMlBxQ3lkQmREbGZrdHJ1bGpCdF9rb3VXNTV3SDJhYWNmaUtiR3o3SXZoU2xRZFBBRlMwZ1NnU3UyWVV2Z0l3RE1PTU1saHFNVXFMaQ?oc=5",
-   "altriArticoli": 3
   },
   {
    "id": "pl-13486",
@@ -2896,6 +2895,23 @@
     10.13955
    ],
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1742358/-/massa-colpevoli-di-palestina-presidio-davanti-al-tribunale"
+  },
+  {
+   "id": "gn-akJFUXcb2M9NQ",
+   "fonte": "Giornali · LaPresse",
+   "titolo": "Manovra, tagli alla scuola: i sindacati lanciano una manifestazione a Roma l’11 novembre",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-11",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-05T08:48:52.000Z",
+   "luogo": "Roma",
+   "citta": "Roma",
+   "regione": "Lazio",
+   "coord": [
+    41.89332,
+    12.48293
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ05BWE9ZYVVzeDRSVVJNYTlzOF9FZjZ1dVNrckVKb0gwY3dKV2ZoLUFJc3FUVzlPbU94a0VxVks4cWRYQjVRNXExczU5NDNMMndaSFloRGZBZUYwR3dEemM2UzBNcFItQ0xsbkxraW5lR0FKWjZzNTUzUnliUUtmQWhTeVdublRHZUh2V2Y0MXcwN1ZVRkhKeng3amZ0My14cHJITGRiMjlxTnBEcXgwMVRhZFc4SEtIY2NvMUpOS0VUWTc0cjBEQw?oc=5"
   },
   {
    "id": "pl-13428",
