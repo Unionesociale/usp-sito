@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-07T01:12:50.207Z",
+ "aggiornato": "2026-11-07T02:06:38.951Z",
  "notizie": [
   {
    "titolo": "Cisgiordania, i frutti dell’apartheid",
@@ -472,6 +472,12 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "Occupazione Usa in forte crescita a ottobre: 165mila nuovi posti trainati da servizi e tecnologia",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY3p3VHdQdGVUTFcwVXVxMHhqZ0FGNGZjdkg0ZkhWVzUxQmNvTDEyaEhBVVQ0TEdzS2dwQ2V0WkY0MmlsYXRkTkNxYk1URDBNTnFFY2NDSWVuenFhOVNic1ZwWWE2d3BlNldzLVpxR0xUeWwwbEh2VEJuRHZKbDZ4Uzhtcy1iblJWV1A3Z29BeEZ6b0VVR2dHNWRmY3lRZVU1Q0ZVYU5qdDZWMXhwbHVXX0lLWm04OGxmZWoyQWxmdmVqT1RBNjRDZw?oc=5",
+   "fonte": "Il Sole 24 ORE",
+   "data": "2026-11-07T00:46:46.000Z"
+  },
+  {
    "titolo": "Tensione a manifestazione Trieste, feriti tre poliziotti, fermata una donna",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeno0YldiX2xEaXNTRDFJcEh5emxkajZkMm5jdzRmS3ZPSXhBblN2a2lLRkhUNkExSkdOVU1PbF94dGdQbnM1aUxpaWdWMHRVTTJzWVpRUTRDdTJGZ0lZRHM3Wl9hUjRQS1FrZ3NqMzNIMkNDZzM4VXJ6T29ncGdGUjB5ckswbGZoY2tOSGRRZUljaXA1dDRMa1pQbkRBb0hxRFNud0xJV25KQ1FNNEkwcmstNzdwWFk5cmc?oc=5",
    "fonte": "Il Mattino di Padova",
@@ -494,12 +500,6 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZVIwek1NWU91N3UycDNBOXhla3dnQlY0YVpuVk55NlNpT3ZmYWlIeUFqaTBCOEFORnNlSXF2dUhXblZxTXZOZkpPY0JZZ0s0SmoxVC0tRTQwVXhMWjgtaDRORkNUSHVrLUMtQmlpQVVMR3k3clg5LUtJcjBSejhaMTZsUE5wbE1Zc25kVnl0ZkpQazNER3ZtZVJsaw?oc=5",
    "fonte": "Il Piccolo",
    "data": "2026-11-06T20:50:11.000Z"
-  },
-  {
-   "titolo": "Occupazione Usa in forte crescita a ottobre: 165mila nuovi posti trainati da servizi e tecnologia",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY3p3VHdQdGVUTFcwVXVxMHhqZ0FGNGZjdkg0ZkhWVzUxQmNvTDEyaEhBVVQ0TEdzS2dwQ2V0WkY0MmlsYXRkTkNxYk1URDBNTnFFY2NDSWVuenFhOVNic1ZwWWE2d3BlNldzLVpxR0xUeWwwbEh2VEJuRHZKbDZ4Uzhtcy1iblJWV1A3Z29BeEZ6b0VVR2dHNWRmY3lRZVU1Q0ZVYU5qdDZWMXhwbHVXX0lLWm04OGxmZWoyQWxmdmVqT1RBNjRDZw?oc=5",
-   "fonte": "Il Sole 24 ORE",
-   "data": "2026-11-06T20:40:24.000Z"
   },
   {
    "titolo": "Campus occupato, Nallo (IV-SUE): \"Contraria all'occupazione, ma Regione ed Edisu devono intervenire sulle cause del disagio\"",
@@ -736,6 +736,12 @@
    "data": "2026-11-06T14:16:00.000Z"
   },
   {
+   "titolo": "Torino, occupazione al Campus Einaudi: la Regione offre aule alternative",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLXp3N3BtYXNtWktsRVhpSzh1QkRDTDVEbk5yUHIteXZvVlY4Sm9OWWlsUkw3OTZXMUU1cXRHRTJpdjl3ZWxmdzRVQ1NKN0xfOTR6Nkd0ek9xNTZ6RUpnZ3ZJNnA0OTctWEJpeFBiTG9PZU9iaVA1SnVuN3p5YzFReDZZOTUxMXNBSkt5MS1nNTl5dXBhSFVUTTM3TUJTdUhnQ3hHUg?oc=5",
+   "fonte": "Il Quotidiano d'Italia",
+   "data": "2026-11-06T14:10:11.000Z"
+  },
+  {
    "titolo": "Domani a Torino un nuovo corteo contro carovita e riarmo: ritrovo alle 15 in piazza Castello",
    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOTUd2UnVzakJ6ZjlTWWxTb2ZSSVRxaTJDQ2ZoWVhoQ3FaMWk4ZDZoWjlIMUIyZXZiZmlwdlNlNzlCcUtTYW1qaHBTdHpJYjlQU0YyODh4WV9YNWYzYnZkajJNMm0tSXRtNFZ3Yml1cVBsRWNoanFrdGhBbzJhOVZJT0hORzM3VXVMOFBlakNXUFl5ZWF1LTlfVUVrS0E3VXVoT01xTVBHLWFpbHh4THVVSG5TZlgtNVJOOHdyOGswOGhrdFpBVzVqaEFneV9hWFd1NlFqVVNNeFlCRThKUW8tUlU2M0xReWh4eHdvNk9hZzZCdXFnSmE2Nm1pNVZTWU5abE45SEVhZ1dJWWdoMVZoaXg3OE9NOXVIOW1PZ05IZl9Tdw?oc=5",
    "fonte": "Corriere Torino",
@@ -944,12 +950,6 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0FPS2xfajdZX0VCLUFTUktGN29kR2VMVkw1bWdLX19BVlREbE8ybFBVUlhoX2UzN0szY3VEWGNvTWpSRVREcGhWamtnaWdYXy1lZUVoT2NkMFFoRTBDNWVoNFNBTU1CM2Z4SHkyZlNWU09OZHNBV0dLSXNXYml5WndNdy1SUE9PT3JJNjFvWXhhQUJwVk8yRjE1MA?oc=5",
    "fonte": "UdineToday",
    "data": "2026-11-06T11:32:13.000Z"
-  },
-  {
-   "titolo": "Corteo contro il carovita, Udine torna a scendere in piazza",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbzVkMi1SMVJUVDJxMFlIbWJIWUtYOHlaZ2VoUEZGMDNPUDhobmtoOVlYUEhMTEg5Nmt5SE5rSE9HN1gtcDZ5S2JkbkF5dmU5OFVnMXcxM1ZZV0tGbG5LSU1sbUdtVDRKWDZNdC13YzhyLUE3b3NwQm8zaE5Yb2plQTE1TDhaZVJsU2c?oc=5",
-   "fonte": "UdineToday",
-   "data": "2026-11-06T11:31:24.000Z"
   }
  ],
  "eventi": [
@@ -987,7 +987,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc2hVLURMRWtyNzlEWVBQcXlVMGtIWnFpVUJmM2lhb2VWeUZjY25ab2dHQi1mdkRZTjI0YS1tR3haOHJWV1dxamNObG95ZENlWERtRk5SZk9lQjRJb05rcWJpeHZsc1ozak9HalNhSlpVekpuNUYzWUVZRl84cElvR21LYk1hQlFPSl9JOUw3N1hBa3JMMlFJdTc5bmRkTTZ0?oc=5",
-   "altriArticoli": 47
+   "altriArticoli": 49
   },
   {
    "id": "gn-SFF6ZHcb2M9NQ",
@@ -1313,6 +1313,24 @@
    "online": false
   },
   {
+   "id": "gn-cldpMXJhZz9vYz01",
+   "fonte": "Giornali · Comune di Palermo",
+   "titolo": "Avviso pubblico per la concessione temporanea di occupazione di suolo pubblico per il commercio di alimentari",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-26",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-26T09:40:42.000Z",
+   "luogo": "Palermo",
+   "citta": "Palermo",
+   "regione": "Sicilia",
+   "coord": [
+    38.11123,
+    13.35244
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV3dNYWtvbGctRWt2VHFULThlNUkxNG9HVUw5OURjX19QTkdocXJVSHpJejJmd1RaVDJIWkxEeXd3SU9ZVDhfWE5JSVREZHFUci1TOWpQZUlncTBNTGVPNmktOEZ4ODJUZHZKTzdzWVg1LWhzbmhqWGZfSmNrQnZSWE0xTFYtdzRqdlhUTTBlaVdIeDU3QVpuLS11QUZJX1llVVlGQVZ1Yi1Ra3FrTXNlVlhsWV9USHlnUmlJcV9KQXJDNlVsRlY2VEh0aFZOMGg2a1RHcl9rcUZuLWRrWi1rag?oc=5",
+   "altriArticoli": 1
+  },
+  {
    "id": "gn-MXBIYzI0MD9vYz01",
    "fonte": "Giornali · Ordine Dei Giornalisti - Consiglio Nazionale",
    "titolo": "Genova: Stop alla censura, presidio dei giornalisti contro l'oscuramento delle notizie che \"creano allarme sociale\"",
@@ -1328,24 +1346,6 @@
     8.93386
    ],
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdU53TkNMUlNNcEFaeHJyaDhSSXMxcEhNWFVzTFJvZ3p3VUU5MnUwRGVrRnlFWUs2SnpTQndpeEpCdHBpckU4YzJxaEtIN3lqQ0hza2t0a2E0OFczeEJzQmo3Umcyb29BanRGVFFybzBXbG9JUDdUT0RQNUt6c1AwMUcyQWVGc01mcGNtWEpsZnMwdVJxLVk1RUl4MU1wQ3lScGZnYmNITE5vUDhSdFBRNmpwX1pHc240?oc=5",
-   "altriArticoli": 1
-  },
-  {
-   "id": "gn-cldpMXJhZz9vYz01",
-   "fonte": "Giornali · Comune di Palermo",
-   "titolo": "Avviso pubblico per la concessione temporanea di occupazione di suolo pubblico per il commercio di alimentari",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-26",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-26T07:00:00.000Z",
-   "luogo": "Palermo",
-   "citta": "Palermo",
-   "regione": "Sicilia",
-   "coord": [
-    38.11123,
-    13.35244
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV3dNYWtvbGctRWt2VHFULThlNUkxNG9HVUw5OURjX19QTkdocXJVSHpJejJmd1RaVDJIWkxEeXd3SU9ZVDhfWE5JSVREZHFUci1TOWpQZUlncTBNTGVPNmktOEZ4ODJUZHZKTzdzWVg1LWhzbmhqWGZfSmNrQnZSWE0xTFYtdzRqdlhUTTBlaVdIeDU3QVpuLS11QUZJX1llVVlGQVZ1Yi1Ra3FrTXNlVlhsWV9USHlnUmlJcV9KQXJDNlVsRlY2VEh0aFZOMGg2a1RHcl9rcUZuLWRrWi1rag?oc=5",
    "altriArticoli": 1
   },
   {
@@ -1851,7 +1851,7 @@
     14.24877
    ],
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTm9nN0lSVFVsNmpXYkE2a3d2WndIdmtWeGxseUZSYXc2SW13R3BzLURZTVZuaTJpNS1zYXJTY3BWNF9JRE5Od1pTVVlDa044eWpLOEp1UHZwRVFpc0d4Q0VSZ2lsY3JiZEk0RWF2YXQzWHZ0UF80cUJmdGNoS1BqLTdSTk5rTGhscjdkQUdVcWc?oc=5",
-   "altriArticoli": 2
+   "altriArticoli": 1
   },
   {
    "id": "gn-VVpzUlhkQj9vYz01",
@@ -2289,7 +2289,8 @@
     40.86067,
     14.84398
    ],
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRFpfdVUzcDNENkdpMTRxb2gwdmNIM0VuSjR6RjMzeURsTFY0NGhmQzJTOWdjbnVxXzJ1UlJKNjQ3ZjY2X2tpdGxFeFdZdnhhdzhkSk85Qkw1M19ENVJhdjNsYUVBTVBJZm5uenVyNm5KYl96LVlnNlMyTDN5U1Z2SDJ4MXdiamlub3pJekNXVEdQNFVwOVVHNjV4cG5qZFZXUDBBNkM5Wlc2YkRiNkJWWmNqcVItVDhTQXItb01FWEpwNlcxbFl5andOS25sM3RROVZLc0NRVkFTLU5qTF9HQTJhcGFWLUlE?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRFpfdVUzcDNENkdpMTRxb2gwdmNIM0VuSjR6RjMzeURsTFY0NGhmQzJTOWdjbnVxXzJ1UlJKNjQ3ZjY2X2tpdGxFeFdZdnhhdzhkSk85Qkw1M19ENVJhdjNsYUVBTVBJZm5uenVyNm5KYl96LVlnNlMyTDN5U1Z2SDJ4MXdiamlub3pJekNXVEdQNFVwOVVHNjV4cG5qZFZXUDBBNkM5Wlc2YkRiNkJWWmNqcVItVDhTQXItb01FWEpwNlcxbFl5andOS25sM3RROVZLc0NRVkFTLU5qTF9HQTJhcGFWLUlE?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "gn-akp3ZGtVP29jPTU",
