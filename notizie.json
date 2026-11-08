@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-08T17:46:26.874Z",
+ "aggiornato": "2026-11-08T18:55:52.357Z",
  "notizie": [
   {
    "titolo": "A Gaza ci sono decine di migliaia di tende allagate",
@@ -514,6 +514,12 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "Flauti, tamburi e danze: ad Albate il corteo dei buddisti",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObDZfbjdPM04xNnhvZXJwN2I3NHk2T1BVQldUOVlPRkoyNVFhNUV2bUJOajBRY3lxOHlrcWtMd0l1MFNtZmpHMGVqS2NuYVl1TzVSQ0J6NnBDOFVOaEdDYVp6cWdvUXlJcWcxZmctcFFYdk53bmhJVzVKZFZLcllWemRibjI0U0Z0QkdDV21iLS1pc2gxUkhLbXY2enZKRTVHb01pNk9ZamI4M1BZbDlqMi1zNU9mMEdoOFU2akRlNnd5M3F3MDl3Nw?oc=5",
+   "fonte": "La Provincia di Como",
+   "data": "2026-11-08T18:09:49.000Z"
+  },
+  {
    "titolo": "Torino, al corteo bruciate le bollette",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNTlsR2JqUUNPZ1pQUnU1N0ZQS2pjWlFXY2FoMVdJMy1CMGJIQ2dUejlINURHWDFDT01FY0s1ZW51Qk10Wmc4RWMwSmNQMy04SUlDcHJvaml1RjU5YkM0ajRqZ09scDU2d2JNZFMwUTk0SDVNV21WOGZNVDk2U3JnUkhsVXRpb1BZNERMTVJEM2Z2LWZ1Q01ZNzlUU2FsZVo2M3BTcjlGZS1OMjRfRWQ1dHhWb0dIOFE?oc=5",
    "fonte": "Corriere della Sera",
@@ -559,7 +565,7 @@
    "titolo": "Le canzoni delle proteste: cosa canta la Gen Z in manifestazione? Da Maledetta Primavera fino agli Hunger Games",
    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWTEzV2xicVZ1MmdJUVJJWEV1WmRhcTJDbm1CODE1WTBROVZKeERoejdENklqRE4zX1FUaEt4azBUS2FRSHM5cWRZdVlRS3ZfUTVqOGhSM0JBTDF6cUFtcGxXOG5GbFVtanZlOXRUUTNydmVLZ2o2dkc5dEozd2M3QXJQSFlNMmVFVnNRSmduTFR2czZmeV84bGxCblEtdnNka1RxNkwwMzh1Yk12MGx2eVdjbVlZZFk2MlFfeVg1R2E3OVNUOHZhT3YwSXVTZzNadWFVSWQ1WmZsczNGamZkTXI5eEQtMDVZTl9IQWo3b1kzanotX2JlSGowSWJtcnFOWGZmdDJOVnE?oc=5",
    "fonte": "Cosmopolitan",
-   "data": "2026-11-08T12:01:34.000Z"
+   "data": "2026-11-08T12:03:46.000Z"
   },
   {
    "titolo": "Sanità in Puglia, il 12 novembre sindacati in presidio sotto la Prefettura di Bari",
@@ -986,12 +992,6 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRTZNWlRZUkZqb3RCUjdJcXcwYThLVW4xa2REQTV1SGNWRDRibTJPOUFXVkUyWVhla3N4MXhrQUEtV0hIUDV5STQ0SmMyZjRXeEt3VkZieFA3S0ZuQjNnRHhjZ2lVcHdER1VuX01tdFVMZU56MV8tTmNwbjVIQ3BuNGJrQ2tsV1VUNzhuWUFoVEM3OWFFai1rUk1wMnFULVFRQkcteGpiQzR6dkZ0OUNEVWVvT3k?oc=5",
    "fonte": "Il Sole 24 ORE",
    "data": "2026-11-07T16:54:21.000Z"
-  },
-  {
-   "titolo": "Genova, corteo Italia in piazza: esigua partecipazione, percorso ridotto",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTlgtT2l3dTFqS01wanUzV21XVE5mOG1vY2JVYnZMa1NmbXcxU3ZMdDBuZ1ZYcmExTlBzU1F3Uk5vcktTenZJN0E1OUppVHpDV0N0LTlzdTN2YXRZd0Y2UXFLeC1vMVVCbklDdy03TVBZLWRvLTJ2LWxHZFNkaGRoSW4wNDVRTC1GR0lXTVd3?oc=5",
-   "fonte": "Telenord",
-   "data": "2026-11-07T16:51:54.000Z"
   }
  ],
  "eventi": [
@@ -1424,7 +1424,7 @@
    "altriArticoli": 4
   },
   {
-   "id": "gn-V20xeFoycz9vYz01",
+   "id": "gn-VEZvZWxZP29jPTU",
    "fonte": "Giornali · ANSA",
    "titolo": "Sciopero generale e cortei in tutta Italia, tensioni a Roma e Torino. La cronaca della giornata",
    "tipo": "Dai giornali",
@@ -1438,7 +1438,7 @@
     41.89332,
     12.48293
    ],
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPY0dZNWhEWVJINHBJOWZqYzZjMjlJWUtGVEtDWDgtRUtUdEVkTjNfbjJZMDVzQzZEckh3cnRldzgybkRmb1pQX015RVRHOFJSdkk5aThtdENfTkNKSTVISXQzT3h0Z3RLTXlfblJOUGRSLVllekhsbVExbi1RSXQxaWxNN1habkpWdGdMQXdjMk5abVVVVDIyNE1WT0I1b202N01hU2c1emljREJtS0tRNTItcHU3dG9iamkwcWlfSUxwNUpjZ2VKbDVjZ3c5NzlOeFJJYkh5TkpQVmlUTllNdVAxQ3hXT2VycmlEdThpR0lqd0dVQ1d2eUdjSlBWMUxqVDVrY3R4Wm1xZ2s?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPY0dZNWhEWVJINHBJOWZqYzZjMjlJWUtGVEtDWDgtRUtUdEVkTjNfbjJZMDVzQzZEckh3cnRldzgybkRmb1pQX015RVRHOFJSdkk5aThtdENfTkNKSTVISXQzT3h0Z3RLTXlfblJOUGRSLVllekhsbVExbi1RSXQxaWxNN1habkpWdGdMQXdjMk5abVVVVDIyNE1WT0I1b202N01hU2c1emljREJtS0tRNTItcHU3dG9iamkwcWlfSUxwNUpjZ2VKbDVjZ3c5NzlOeFJJYkh5TkpQVmlUTllNdVAxQ3hXT2VycmlEdThpR0lqd0dVQ1d2eUdjSlBWMUxqVDVrY3R4Wm1xZ2vSAZACQVVfeXFMTUJvcDc3bllPXzJFY2hWU3JKVWlSSWt5cGFWcGw4Nzc0Q2Y5Vzl6el9UWkJLaUlTc2lad2RpRlpnZWE5M2VOLXhra2U0M3BxVmVTLUxCQXY5WV9nRTBLdkFONmpYQVRRVzJYUEhHTlBzcm0xd1gya0FUSXAwc25KVXZJMHEtZ2ZoNmpxTGVRSVdQMk9IdG9FRHdfYmVuMVZJa2s3eUdlR1Y1eXAzZmtkQk5BWGFjZUhzaHJXNXZXOTNzT3J5S0Fsc3RoYXl6YkpWTVlUSzdHbFRyVlg3UkxFTjdmOTZ4WmEyS0JtZGVTdm1kRE0tM0RQRGpmT0VieGZGMnVVQVdwMzVOYW1YaTFoelY?oc=5",
    "altriArticoli": 5
   },
   {
@@ -1682,24 +1682,6 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-a3AxUm01Mz9vYz01",
-   "fonte": "Giornali · - Umbria 24",
-   "titolo": "«Per la pace e contro la corsa al riarmo»: presidio in piazza a Terni",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-03",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-03T17:39:33.000Z",
-   "luogo": "Terni",
-   "citta": "Terni",
-   "regione": "Umbria",
-   "coord": [
-    42.65395,
-    12.43965
-   ],
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWndXbGEtQXhYTEdiVTJOT2JnVWlseGxzRGVKaFRBMFFISDlRRVUwVzVBWUktWmhCYU1BYjdTdVAxMjY5UlY3dWN6Zm1aUWZHeWVrbEp5THNxMVl0RzExa0d4NW9pblZCYkRmMjJ3bV9kalhXaTRHdDFodzhfUFRnMjQ4ZDctMno2Um5Ya25najVEVjNfRWYtd01MSWduNW1VQkp1Rm53?oc=5",
-   "altriArticoli": 1
-  },
-  {
    "id": "gn-WHkxdWJ3P29jPTU",
    "fonte": "Giornali · Cuneocronaca.it",
    "titolo": "A Bra torna il presidio per la Palestina al grido di \"Giù le armi, su i salari\"",
@@ -1802,6 +1784,23 @@
    ],
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWDNTLU54VUQ3M09XSTlmbVNjYk1nV1FkRHBoSWFMa1dwMXBENGNmXzRkMEI0MkYxSWtfbk14X01qTFdoTjJLdDFucW9keTZCWlZ6aHdxZ1JGUXhEWGxIYVVsMi1qTnhVSmljVlRrQmZuZlRDa2lEblVzbXBXaFJvR2lnanRJdEwyRVg1YU1R?oc=5",
    "altriArticoli": 1
+  },
+  {
+   "id": "gn-eDVORmxCP29jPTU",
+   "fonte": "Giornali · Comune di Terni",
+   "titolo": "\"Le forze armate presidio di libertà e democrazia\"",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-04",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-04T16:46:00.000Z",
+   "luogo": "Terni",
+   "citta": "Terni",
+   "regione": "Umbria",
+   "coord": [
+    42.65395,
+    12.43965
+   ],
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOek5KTmdpdEhSbmNtTlZ0cHB3Z0FzUGE3bkZJRHc1TlB4LTFhMHJXOEZXVUlxaUNtTVJLZDlCckRWWU1GNnBacGlCUlBrUWhyWHFvMlBLbFBmMkxZOXJCUlptc3E0Zjl2SVh4bmRqNlY0RmNCelg5aEkwZTZ1Uy1wQ3lXUVRRZGNhZWRFVW9jS29vUXNXUUx5NFlB?oc=5"
   },
   {
    "id": "gn-MU5YZEgb2M9NQ",
@@ -2150,7 +2149,7 @@
     11.25564
    ],
    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSWlXV0VheUtJNW5Ocnpjal81NjNWSmo5d3lOaV8tZWhieHlOT1hEbFoxRnNEZzhjRkFOWUxYSEppbHJrZnhOMVRqNGpDT1ZGcG5YTXhrUWM0SFJqRG9sSHNfa0NJME9ETk4tNDFnd2Qta3F3cFBXa3htYUJSVlIxOVFfaUhfWlVKR05BOHo5al9zNVNYYVVKVWZwRmtUbGFPaGIySVhUOHRucEd3T2FtZThpeFJvVVlKeW9tMWQ1Nl9Dc0cwb1JsRFVNS0R3cEliaUhkeDJWRHVkTWNEY19HNUtzRlBnX0p0SWZjbE5QSnJSc1JUTWcyd2dpUW1na3BLMzY0VlBKLVBidEhyejRoQVN30gGXAkFVX3lxTE9aTWhMOGwzVkVLV1dLeVZKYWpmNTZwNFJuMk1qbGRIRV9Wb21pcnJDM1FtVHE3RmJ3TndDY0phZVZwSGVySjFaVWVfSGh3YjdOdlY2dzQxR2EzRWJYNHRrVTB4RzkwZnhPOHp5bWpHTm5LVGhWUzRGZVdid1JkN1J3MWlsQ3FxVy1aUjhGcng2SEVGNHItaE5uMXkxVnphVWdCUlNWamU3S3hHUFc0S05BbnNybWdPTUxUcnhpUzJCZ2pJb3libmllVU1VMmg3TEVYdmdTOTJxOTBibVFfY1I2MTVzTXU4R2FidXRiSm5hYnB0QkVjaGZQb0F0MmEwcEFoNlF5ekZ1V2l1LWpfUU04dDYybWwwVQ?oc=5",
-   "altriArticoli": 4
+   "altriArticoli": 3
   },
   {
    "id": "gn-a05GVVEb2M9NQ",
@@ -2184,7 +2183,8 @@
     45.93959,
     9.14936
    ],
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQzJWblpVQ1luYVRjbXdsY2tuTUx1QklVSUtSWDFOdWtTY1h1Z2ZtQUZmSUc5RWtvUzJkejVPOW1XdUIyUHJPdkppMElCZjdHdFgyb3pIa3N4blBsZkVkb0VTZVZqY1F0YmJGczA1ZjBoRzNsNndpdGJrYkRRQUVrVkJseGMwSmc4eFQ3ZmlId0psd1hwUmlzTXk1RDkzMDEwVXNxU0VjSk9jTGx5Y1VXMnpnMHBkYjBRWWtVdDFvUkhpcUJXU05rbzBn?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQzJWblpVQ1luYVRjbXdsY2tuTUx1QklVSUtSWDFOdWtTY1h1Z2ZtQUZmSUc5RWtvUzJkejVPOW1XdUIyUHJPdkppMElCZjdHdFgyb3pIa3N4blBsZkVkb0VTZVZqY1F0YmJGczA1ZjBoRzNsNndpdGJrYkRRQUVrVkJseGMwSmc4eFQ3ZmlId0psd1hwUmlzTXk1RDkzMDEwVXNxU0VjSk9jTGx5Y1VXMnpnMHBkYjBRWWtVdDFvUkhpcUJXU05rbzBn?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "gn-aERkRjlPP29jPTU",
