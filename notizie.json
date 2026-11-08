@@ -1,6 +1,12 @@
 {
- "aggiornato": "2026-11-08T16:50:11.379Z",
+ "aggiornato": "2026-11-08T17:46:26.874Z",
  "notizie": [
+  {
+   "titolo": "A Gaza ci sono decine di migliaia di tende allagate",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2xMWklhWFNockJoLVZjOThxX2Rza3M3VW5wTktSaDdiSXR6WlRCcjMwVGV1MjNMSlJNNXo5VXNIM1lpb0xhX3RnSGZ0MElISllnRVowY3A4YV8zdzJ6ekVkcUx1UEdibWpzS05ZcXRtc2FxWkE2dEdwLXltNVpJOTJoUjNOc3Z1LV8zT1M0cmNnQQ?oc=5",
+   "fonte": "Il Post",
+   "data": "2026-11-08T17:32:18.000Z"
+  },
   {
    "titolo": "Sono stati rimpatriati sei italiani che erano stati arrestati in Cisgiordania",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ2JWbGVBaGgxT0FMMHZYVTkyYmhlaUl5ekVYd1RacW9tNXpaVTRlMkdwVnZOb08taHZzbXlKT2NlNFllcXdQTkxtSGJ4T3hFNTQ0eWl0LWUtSFhfT014TVFPTUkybjg0ZExDcjhRdFQteE5mckJOWGRzWFU0aVJmSndfQnlLY2hFZW1PS0c1NGhJemdoQmc?oc=5",
@@ -595,7 +601,7 @@
    "titolo": "Rinnovo Ccnl farmacie private, il 13 novembre presidio sindacale di protesta a Rimini",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN3g0dGZWNDg4MF9ZM0RxeWNkNDZlTEpCSHAwZVo1MXFSQWVkWVVDLS1MWXlzY2thNmlGczZNRVBLc2VJcFNhaEd1ZTFhX3ZmVTRrVDlGSHhRTDNJSm90elR1cG9rMklKRDFsdkFQN3N1S3hBTG5YLWpqWTRMLTF4RDlLOXZSeWJxcVBkYmVYLUNPc1pNdW9wNlVfTUdNbFNrSFJiVHhObXdxX2JOZEFnZWpRMlF1ZHI2VkE?oc=5",
    "fonte": "RIFday",
-   "data": "2026-11-08T11:00:34.000Z"
+   "data": "2026-11-08T11:00:55.000Z"
   },
   {
    "titolo": "Sì, l'occupazione è (già) finita",
@@ -802,6 +808,12 @@
    "data": "2026-11-07T19:38:01.000Z"
   },
   {
+   "titolo": "Milano, manifestazione dei pro-Palestina: \"Con Eisenkot non cambierà nulla\"",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPLTZxamlkb2N3andJR2hDaFg4R1BxM0FXZ3ZkZkY5ZEI2R2ZiSnExMTZmNXhrTWNwanc1Yy1ZQWRmZWROS1lsbmFGT1F4U0J3dkR3cHo1U2NzQ3VLVUdVaTVWakk4ZExNSzNWWndqYVc1S1NxLXRlbnhBNy1DN1dRandXNVR3d1p1NWFJYWY0blgxazBxV3Z0bHl4WUF0U3FyanJsYjZva3NpRFRhNm5wY3FuUHhDMVdtSHQ1TEdTZ0xBRjFvQ3RMTEpKQXliT0x0aTIxc0MzMEYtM3diR2JxYlFSZlJOLVRGMFZFc1BISEVWYWNsc3JnZFd5RjVyQQ?oc=5",
+   "fonte": "ANSA",
+   "data": "2026-11-07T19:20:00.000Z"
+  },
+  {
    "titolo": "Torino, nuova manifestazione contro caro-vita e riarmo",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRFgtbDhPYW8xZ3BZVUN2QkJmaWpuMC1LUjBqNUxsMkwtM096SFc5VlJVaDdrd2ZCd2hlek9sejhYaVdQak5aUUNQMzNKX0dZVEJkdVNTel9wZk9GQVExU3BEQlYzc0ZKYVV1N1JVTkpqM0FEOTJydzdRejBfeDNnVFBmZU5NNmtXVUl1aWhsV1Q5U09zU3VSZEZMalBGYTZzQUZRS1BfVlBHa1BlY3ZZc1RfSUEydGZGc21hYmtlMA?oc=5",
    "fonte": "Gazzetta di Parma",
@@ -949,7 +961,7 @@
    "titolo": "«Adèss baasta», corteo contro il carovita e le disuguaglianze",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRkxQMjdielNXMmJYZnRLODRDWnFEVWRkU2toUlVfZU5KV3BKRUV1M09HMkpYZXNla0x4ZFpIOF9HZHdncmFvendadVZsbGw4LUpETjZMUHdEQkFYY0dWbGM4Z0dBbU84QVQ2M280YXFMVlg0di1zVVVUejVLU2J5QWx1TFlqcjRQMTF1ZlFCU0k5WC1ZSTRCMUtzTjlpNEdMbERWUmQwV2xUWkI0QjhCeHM4S0lKNnZzSjZXQl8yalFidjUyQkFUdE9PSUI4UDFzNzF4N01xTDFhQQ?oc=5",
    "fonte": "La Provincia di Cremona",
-   "data": "2026-11-07T17:05:00.000Z"
+   "data": "2026-11-07T17:05:13.000Z"
   },
   {
    "titolo": "Torino, corteo contro caro-vita e riarmo: in piazza anche gli agricoltori",
@@ -980,12 +992,6 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTlgtT2l3dTFqS01wanUzV21XVE5mOG1vY2JVYnZMa1NmbXcxU3ZMdDBuZ1ZYcmExTlBzU1F3Uk5vcktTenZJN0E1OUppVHpDV0N0LTlzdTN2YXRZd0Y2UXFLeC1vMVVCbklDdy03TVBZLWRvLTJ2LWxHZFNkaGRoSW4wNDVRTC1GR0lXTVd3?oc=5",
    "fonte": "Telenord",
    "data": "2026-11-07T16:51:54.000Z"
-  },
-  {
-   "titolo": "Torino, in migliaia in corteo contro riarmo e carovita: in testa un trattore",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRWdoX3ItQ0t5YUhnSmxKcUZKOG5KUkh6N1VOMmdjNVRuV3VYbHNVVU51STNuc0VoV1Z1WEhwTnd3djJwMG5pNWxOdGlwUWo5ZkdzQy1oWUhWU2hDT0cxcWxxal8tZkhyQm9CTmhRdjhOQWpDY1poakRCMlI0WEU4RXZOSEYyNEVYZ1dQRHhYaWpTMHhG?oc=5",
-   "fonte": "Il Fatto Quotidiano",
-   "data": "2026-11-07T16:45:57.000Z"
   }
  ],
  "eventi": [
@@ -1023,7 +1029,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOVNGeDRpek16MjBoWXNKZ1JKa1J5bFJCeVlxRXFFS0VfMHhTRkpzZlREZ1ZvbkpVQ01WNWVRa0FKaVBUNi0tOWRod1EycTB6MkxLYWdsVlhKcF80UGdORVZMQl9za3EzZFdnN3NYcWdMT3FiVlRjUDIzLUJ1XzY5VlgydVE4RzNiTjlCbGdrS3d0Y0JPRWlGZnZkZ0pYZWFLQ3ZJSHFOa0wwNW5IenZEamN2dUltZ2xnUFhPS1RXcWRkWkFEampUbUt2aTlFUkMyR1VQQW1pVHR3WDFEbGZNLUpWQjNCQjN1RXdUZHBwUHJaZ1p5dllvcDh3c9IBgAJBVV95cUxQRWlqdG41V0llUkc5bjNPZ2NTdTdmM1AxaHd2X0VncVhleHBSNXRwRThmOVFjRmpSU0paa1oxbm5oNDF1a01qTDBXV25FcFIyRnVKZFFhMzdsUTU1aURkNU1xRUItejBmVTc3eW9lajBzV29XZ3ZCZGxHRnAwNjk4bGQ1WDI2bUhDYmtRT0w1WW5KNlk2LXlvdkRnTEZqR3lvMENyal9Vc3dtQ3Y4QkZySEM1cUlteDYwYU9zUWljUEp5N0lQRzdCS2dMbl9LSzF2QXpMY19VUmNPbEZ0ZExWVkJTa3huWVhvM1g5V0RraUJUU1BwOXN5MlluTTFDZXNR?oc=5",
-   "altriArticoli": 64
+   "altriArticoli": 63
   },
   {
    "id": "pl-13493",
@@ -1189,22 +1195,6 @@
    "altriArticoli": 6
   },
   {
-   "id": "pl-13507",
-   "fonte": "PeaceLink",
-   "titolo": "La Militarizzazione di Formazione e Ricerca",
-   "tipo": "seminario",
-   "inizio": "2026-10-26T17:00",
-   "luogo": "Firenze, Via San Gallo 10, FI",
-   "citta": "FI",
-   "regione": "Toscana",
-   "coord": [
-    43.77759,
-    11.25675
-   ],
-   "link": "https://www.peacelink.it/calendario/event.php?id=13507",
-   "online": false
-  },
-  {
    "id": "pl-13483",
    "fonte": "PeaceLink",
    "titolo": "I luoghi della cultura, dentro e fuori gli spazi di produzione culturale: partecipazione, contraddizioni, comunità di riferimento",
@@ -1218,6 +1208,22 @@
     14.25672
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13483",
+   "online": false
+  },
+  {
+   "id": "pl-13507",
+   "fonte": "PeaceLink",
+   "titolo": "La Militarizzazione di Formazione e Ricerca",
+   "tipo": "seminario",
+   "inizio": "2026-10-26T17:00",
+   "luogo": "Firenze, Via San Gallo 10, FI",
+   "citta": "FI",
+   "regione": "Toscana",
+   "coord": [
+    43.77759,
+    11.25675
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13507",
    "online": false
   },
   {
@@ -1415,7 +1421,7 @@
     9.18963
    ],
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUTJ6d0xVQXdGZDYzWjZqWWEwLUJWbkpBZTlrQ2RmQ0dONGlDRHN6N1RwWlBKYmg0a05vUGF5U09ZUzJ5M3RQRU9TSVhvdE1CT3dxdE5RT0dQWkJQY0VwWFd0akoyRlFEM210RWh6eXpGdDFIZEk5dlZERF9kWTlkYTdCR2JkSTE4M192anJMb0xOSU9RQ1J6bHU2RDR4eTJ2UDlvc0NVQ2lwbEhYWjRjMGNtSFNYdDRiR25XNzNYY2xJV1U0MTZCaU9lT3NWUkJWZlR5V05iSU9TSjFMSzRlRjlQRXd0MV9sY2c1VNIB8gFBVV95cUxPQ3luR3dSWEp4UWFvWnY0TEVTbWVSQjZHYjEyVTlhT2NUaE5QWHR2anhKNmtvMDJvQjQydGxHN3RNcFF5Mk5RSTJucHlvTlhjZUxCY3l4T3BSM3hQd0NGVWRBMGNCZUtQUmtOVVRwSUdNUE9PLU5hSFlPdXlzU1R1ZjZJVmZnNTJNb1BmSHZxVWlBY043R2haUnN0NENTV2RXYmFJNU1jVEk2TkNKdF9SYmVZM0ZwUHBFY2RmU1BXQl9TZ2xKaGk0clJqLVV3dXpJMUd6YWxMdlpOTFJRYURFWnFsdGtPajhYaW96OElMVDhTUQ?oc=5",
-   "altriArticoli": 3
+   "altriArticoli": 4
   },
   {
    "id": "gn-V20xeFoycz9vYz01",
@@ -2418,23 +2424,6 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-UnVSa1ozP29jPTU",
-   "fonte": "Giornali · Gazzetta di Mantova",
-   "titolo": "Appello di 18 sigle per sciopero generale e corteo del 20: «Riprendiamoci il futuro»",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-07",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-07T07:16:32.000Z",
-   "luogo": "Mantova",
-   "citta": "Mantova",
-   "regione": "Lombardia",
-   "coord": [
-    45.16926,
-    10.67084
-   ],
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXdlc2xFQ0pNU3E2eXVWMDBBRlFudV8zUTNVYi01OHFISmV5cVVZWldyYVl2YmVjMUV2dkEtaWVKU0tmNHhLX000Tk52N1U2OFhRMzJ4dXlJdFNpVU40ZWR4QVNoYm9MWmYtajRXbF9KUHlQWWV3LXNmQWtwa1VnS2pLbXItR0cxd3pqNWtkeThCb2doTkZndG1UcDdPZVVpZG9NRGhwR3A2UGgxVklLZmQzMlXSAboBQVVfeXFMTTZ2RDRyYjRjVURya3MwWURqVVh0QldsbFI3alBZMjFVSE91eWpqZnEySGtLMmcwdW84LTRFT3p2THlhMWVjWEM1ZS00UW1wZEtTYmpQTTdxbVhhak0xSFdSZ0pwWXJVeGcwMzZ4RHlNSWhPdHNPY0dPTGtnRmNQR0JjZkY0SHg4OThXX3R0NEo5Z0dNRlZiNjVXa0k2ZkdfWUVveEE3ZTk5REt5SWstNnU3THg2LXRuRkZ3?oc=5"
-  },
-  {
    "id": "gn-Um5Wb1ZRP29jPTU",
    "fonte": "Giornali · La Sentinella del Canavese",
    "titolo": "Studenti in corteo a Ivrea per un futuro migliore: «Noi, voce di una protesta che parte dalla scuola e riguarda tutti»",
@@ -2468,23 +2457,6 @@
    ],
    "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQbG9JMmVta2pjRlhEclp1VXotNFNXS0xGN3FteDFjQkdIc2RlTlF1clFueWowdTBuSWdIdzhrc0hCWHFscGpjLVVGRGtTWk1VdXF4ZHZBRm9sZU9QdXRKcnJUWXBHWXpxNzVOUF9BS1pMcjJleGJ5bWdDZHBLM2ZCLTVHNHJ3MG8tT3ZGRks1V3U3UmZqRVRxU2FodFBUX2VjZzBGNlZTdmtyUUFkVjZ0Y2dBV0ltNWQtS0F6Rm9FeTlZWUNrVUV3eEgyY3RaX20yaFYzM0lRWGdrek1VSEZzaFdrYjdfc1dKNUNtaFJod3BwQ0VBSENXQnRJTy1UTW9aMi13N0FJV1k2TXN0N1doUURKWDIwbTd2Ymx5cTItXzRGekIyRk5ILXI1SDR4UExiUjl3ckdzUDFvMUY2WWlMeC1GQTFtU2VuZnFQem9wQ2EtMU5BdXVJN2g4d9IB4AJBVV95cUxON0xtel9ENlA4SVo5N21GanUwTERmd0pkek5ZeTVlWElpbUk4VmJHVGVjM3VwYTdVa001NTNGWUM3RUFhTk40c3pRN09ycGpRRUhuTmFHZnNockZTVWE2UEZSNXlkY2hNWjFHMGpnN1Z3OVVnQ0lVVzFKNS1RbkRxaF9oSWhKZTE2T1NUTWZaTmszT2ZKajV3YWNjTkQwWElNbVN6dHN1ZnpvS1hFbk9wMGN1dzRLRkUwOGg1VEVSUzh5ZXVIQllFSG14cGJtcXRBc2dRcWp6RVlYMXM5OTI1OWVMRjZfRUVkS0xwV25xeWZJLVZfM1plS3RILTlSRVduVzN2VVc3SkRMMFhhMUNXZ1VVSGpYWUdUV05KeDlsWjkxVHpEUktmQXJORjJETmJpV1BfV3poU3dIQzA0M3NaQjhiWmlQZ2xtTHk2endIMGJZX1UzSEhfbEk5RDNuZE04?oc=5",
    "altriArticoli": 3
-  },
-  {
-   "id": "gn-R2MzRlIb2M9NQ",
-   "fonte": "Giornali · Giornale di Brescia",
-   "titolo": "Quando il corteo è l’ultimo spazio davvero rimasto",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-07",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-07T04:00:00.000Z",
-   "luogo": "Brescia",
-   "citta": "Brescia",
-   "regione": "Lombardia",
-   "coord": [
-    45.77958,
-    10.42587
-   ],
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlZHN1g2bHBzLXpEbzBlT3dOb0tOdWJtOU5HREp0czgzVTVqRVlIbE9OcnJoWEhqeUctY3FhSTRzSW9LeHlaeGRxUUR6TGFNemdsNThGT3JxakFMYlFBZ2VreWp2Q0w2V3E3NjFTVXFwX1IxVVdHMGE0WlNCOUZEVGJ5LTFRR18xOVBia3lva0lQQXZOMHhkc0xudkc0OFZTS0lza0JvbGhtS3o3d2NGc3FR?oc=5"
   },
   {
    "id": "gn-TjNjbkZuP29jPTU",
@@ -2521,22 +2493,6 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTjhHUzgzZEdHdnZYRS1wY0R4amFkOFg3QnJiSEZNZEVYLTVsMkJsWjBkcjBKT081czlxQkZYVlUyZlAzak55UUs1VENMRlQyYnFTeEwzUTR5eDNnV3VMWDJNb0M1akZldU16R3NCZGdkREdOazhIMmg2bkVrRnJfUnJUS09EUXNzZXIyVXh2WlAxVG5MYjJIallFQ1lnc1pCS0FjVnFLM18zODVzYkRsMjV0Um5YUzRYQl9fN085X05UdXRvWlE?oc=5"
   },
   {
-   "id": "pl-13497",
-   "fonte": "PeaceLink",
-   "titolo": "Il Poliedro della Pace III - Europa: radici e prospettive",
-   "tipo": "convegno",
-   "inizio": "2026-11-07T09:00",
-   "luogo": "San Giovanni Rotondo, Centro di Spiritualità Padre Pio Via Anna Frank 8, FG",
-   "citta": "FG",
-   "regione": "Puglia",
-   "coord": [
-    41.70623,
-    15.70696
-   ],
-   "link": "https://www.peacelink.it/calendario/event.php?id=13497",
-   "online": false
-  },
-  {
    "id": "pl-13457",
    "fonte": "PeaceLink",
    "titolo": "Smile Meeting: Incontri che lasciano il segno",
@@ -2550,6 +2506,22 @@
     11.00606
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13457",
+   "online": false
+  },
+  {
+   "id": "pl-13497",
+   "fonte": "PeaceLink",
+   "titolo": "Il Poliedro della Pace III - Europa: radici e prospettive",
+   "tipo": "convegno",
+   "inizio": "2026-11-07T09:00",
+   "luogo": "San Giovanni Rotondo, Centro di Spiritualità Padre Pio Via Anna Frank 8, FG",
+   "citta": "FG",
+   "regione": "Puglia",
+   "coord": [
+    41.70623,
+    15.70696
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13497",
    "online": false
   },
   {
@@ -2786,6 +2758,22 @@
    "online": false
   },
   {
+   "id": "pl-13530",
+   "fonte": "PeaceLink",
+   "titolo": "Animae Loci - Il cielo della parità",
+   "tipo": "incontro",
+   "inizio": "2026-11-11T18:30",
+   "luogo": "Fiesole, Via dei Roccettini, 9, FI",
+   "citta": "FI",
+   "regione": "Toscana",
+   "coord": [
+    43.80253,
+    11.28303
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13530",
+   "online": false
+  },
+  {
    "id": "pl-13500",
    "fonte": "PeaceLink",
    "titolo": "Narrazioni di pace per il disarmo nucleare con Ican",
@@ -2871,7 +2859,7 @@
    "tipo": "Dai giornali",
    "inizio": "2026-11-13",
    "dataIncerta": false,
-   "pubblicato": "2026-11-08T11:00:34.000Z",
+   "pubblicato": "2026-11-08T11:00:55.000Z",
    "luogo": "Rimini",
    "citta": "Rimini",
    "regione": "Emilia-Romagna",
@@ -2881,23 +2869,6 @@
    ],
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN3g0dGZWNDg4MF9ZM0RxeWNkNDZlTEpCSHAwZVo1MXFSQWVkWVVDLS1MWXlzY2thNmlGczZNRVBLc2VJcFNhaEd1ZTFhX3ZmVTRrVDlGSHhRTDNJSm90elR1cG9rMklKRDFsdkFQN3N1S3hBTG5YLWpqWTRMLTF4RDlLOXZSeWJxcVBkYmVYLUNPc1pNdW9wNlVfTUdNbFNrSFJiVHhObXdxX2JOZEFnZWpRMlF1ZHI2VkE?oc=5",
    "altriArticoli": 1
-  },
-  {
-   "id": "gn-VkZFeWR3P29jPTU",
-   "fonte": "Giornali · Arci ecoinformazioni",
-   "titolo": "13 novembre assemblea aperta/ 20 novembre manifestazione a Como",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-13",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-06T11:53:50.000Z",
-   "luogo": "Como",
-   "citta": "Como",
-   "regione": "Lombardia",
-   "coord": [
-    45.93959,
-    9.14936
-   ],
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ2hETWpPQk9Bb1FSbW9VSk1sS3FZZkVRbkQ0MXBhNDJOQWxJS1lpTWZ2WjdBNTZjelU0WDVFWHFGRFVLdU45LVNXaTdJZktZVXVYdll5Y1E5TVRTdlowTHRrejJUM3lyX202YUpJMnVUakNxck5VTlV1LVhyb0JHYTRPUU9EdE1HYWNWQmRBVE1zc05ab3FWa2VDeVZxM3ByQ0RhOdIBqgFBVV95cUxNRkJkczhKQzJkR0FoOXRsSHBBdjk1dkdoNmhvTGV2R0VPVlFsTEt4QUt5ZDRiNXJSLWo2RWEwMDdURGpCOUVTa1MtYjRTdm5oT0d6S0ZKN0NKUG45REpUUS1qUWhLOERtY1kyNHhON0Y1cC0tVmVUcVA1a2szQ20wQkdtRC13UWFwUC11NE9LcDBnaFVwcjI4LUtjS0JOVm5iNW5NZ0IzVFEydw?oc=5"
   },
   {
    "id": "pl-13510",
@@ -2981,6 +2952,22 @@
    "online": false
   },
   {
+   "id": "pl-13529",
+   "fonte": "PeaceLink",
+   "titolo": "Verso la giornata di mobilitazione generale del 20 novembre",
+   "tipo": "assemblea",
+   "inizio": "2026-11-16",
+   "luogo": "Bari, Missionari Comboniani - Via Giulio Petroni 101, BA",
+   "citta": "BA",
+   "regione": "Puglia",
+   "coord": [
+    41.0971,
+    16.86753
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13529",
+   "online": false
+  },
+  {
    "id": "pl-13525",
    "fonte": "PeaceLink",
    "titolo": "Dual Use: Il caso UniMORE",
@@ -3026,6 +3013,23 @@
     11.76393
    ],
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744259/-/arezzo-moni-ovadia-al-cas-tortaia"
+  },
+  {
+   "id": "gn-NE5GcFIb2M9NQ",
+   "fonte": "Giornali · FP CGIL Emilia-Romagna",
+   "titolo": "Sciopero generale 20 novembre 2026: tutte le piazze e i cortei in Emilia-Romagna",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-20",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-06T11:41:49.000Z",
+   "luogo": "Emilia-Romagna, Italia",
+   "citta": "",
+   "regione": "Emilia-Romagna",
+   "coord": [
+    44.5257,
+    11.03944
+   ],
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSkNpWE1pV0ktYmdWeVN1ekgyUGxucHhDOGtCRmNvQ29xNnZ4RjQ2cmkzV0lFNnlRQTdBbTZ2eFZJRzIzSmVCR1hMdTRvQm1jRjNqWFR3NXRXald4SmZnendhZmJ4c3hYektVMzdCN1hTemhwUnh3YVZkREY5dGpaOXJEak81S1ZsMFE4NFpR?oc=5"
   },
   {
    "id": "gn-bXBOTkdaMD9vYz01",
