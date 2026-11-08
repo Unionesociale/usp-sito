@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-08T03:09:29.577Z",
+ "aggiornato": "2026-11-08T04:02:39.310Z",
  "notizie": [
   {
    "titolo": "Tempesta sulle tende di Gaza. Via al quarto inverno nel fango",
@@ -856,12 +856,6 @@
    "data": "2026-11-07T15:21:00.000Z"
   },
   {
-   "titolo": "Cremona, manifestazione “Adèss Baasta” in corso: corteo pacifico contro il carovita e il riarmo",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUkVQOWU1T1VGdDVnXzhMRDcwNjJkZnRaRlZsUUhrYk9xZ25ualRWTXBEMGNiTm1zZDF1RFk0b3VfTmJ0eXJtTC16aXB3WHl0cTJsYXNZR3l2b0hXS1ZoN3ZWeHlRUmp1aUJWajhmUWR6NVdadGZaWS1JaTdneHVKZ3RvVnc4UGNEUUVzdmxEUEM5dWZJdFkzV3d2MlIyRlRVTFZVLWxvT0s3WnE5bmd2QUFUc2pPVFFiQlNESnlzVFpad0pnQk9oLTZn?oc=5",
-   "fonte": "Cremonaoggi",
-   "data": "2026-11-07T15:18:59.000Z"
-  },
-  {
    "titolo": "Bologna, manifestazione dei giovani contro il caro vita",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0pwSE9WY3dYSWNidmNUd3lhOHJZUXl3TEZsbzdZdHp1ck40TXR6TVY3MmlGSnBLSEpKSG0wT3VxQmJOUy1OaFJ0aGlzV2ZmRlFsVDUyeGJrbk41MllHcXJNUmhxYThCM1R6UjllRDdxUFRjdkM4XzVaTk5PTi1Lc1czRHoyVk9oaWlkWFNXbmpEQ053UVFFQVhFSUFtWEJPYzZ0WDVzVkRVRWM?oc=5",
    "fonte": "Sky TG24",
@@ -898,10 +892,22 @@
    "data": "2026-11-07T15:09:29.000Z"
   },
   {
+   "titolo": "TRIVIGNO: DOPO IL CONSIGLIO SULL’EMERGENZA SP16 ULTIMATUM E MANIFESTAZIONE SOTTO LA PROVINCIA",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPanNkVzZfWU1QVHo2SkhOTHM5NUZuVUctZmpjd2U3NXQtdWo1MEFJbmpDUmFMeWF5TGZvZ29tU1pfQ0Z4bXdKSjVDb0tMb0hjQzVQWDRCVGJieW16dVRGLUxlUGc5QUNBY3ExdFdadGJSNjhYOS1UQkpWRF9QUXdGQkZLLU54a0NEa0VTaTRXY193dGEyaDhtS3RhenJXVnh4WWYtTk0tQUtjaGp3bTRLRWUxcHctRTU1WUlEeVBMRUVIcDlZR1pYVlh6d0FHM1d2?oc=5",
+   "fonte": "Le Cronache Lucane",
+   "data": "2026-11-07T15:08:51.000Z"
+  },
+  {
    "titolo": "Corteo per la Palestina tra Affori e Maciachini: \"La solidarietà non si arresta\"",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uWHVacWF6SUxHV2VwOUJWaDktbl9CNVBxS3NTNGg2WTNiWUlwOV9MTnpYdFVsUnA3R1NiRGk5cU1kby1ZM0FkYVpOZU9lZ29sRW5lZVhvQjM0RzZZcjIzY0phenp3bmFtMEgxQ3V5NGI3dlF0clVlNDc3MEk?oc=5",
    "fonte": "MilanoToday",
    "data": "2026-11-07T15:04:00.000Z"
+  },
+  {
+   "titolo": "Cremona, manifestazione “Adèss Baasta” in corso: corteo pacifico contro il carovita e il riarmo",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUkVQOWU1T1VGdDVnXzhMRDcwNjJkZnRaRlZsUUhrYk9xZ25ualRWTXBEMGNiTm1zZDF1RFk0b3VfTmJ0eXJtTC16aXB3WHl0cTJsYXNZR3l2b0hXS1ZoN3ZWeHlRUmp1aUJWajhmUWR6NVdadGZaWS1JaTdneHVKZ3RvVnc4UGNEUUVzdmxEUEM5dWZJdFkzV3d2MlIyRlRVTFZVLWxvT0s3WnE5bmd2QUFUc2pPVFFiQlNESnlzVFpad0pnQk9oLTZn?oc=5",
+   "fonte": "Cremonaoggi",
+   "data": "2026-11-07T15:00:00.000Z"
   },
   {
    "titolo": "Milano, corteo Pro Pal tra Affori e Maciachini: “Fermiamo il genocidio. La solidarietà non si arresta”",
@@ -962,12 +968,6 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnh1RHBZM2toZDBtVnl6TVNZa0NOdkxKWnc4bVRsQ2NDVnozSElpTml4bVNWU2NmbEltNHp1d05CYkphb3lTVm90T1NnRDNRanhLc2hLRWJGSkVpVkRHaWQwSGMxMldpbFZLZ3RvVm43VE52Rk0xNjBqWUs0RzdicEFxZ0wwQUxYcjFqbFB0d3JmY2NyM3lvRnBWRUozb0Y5SGVnZQ?oc=5",
    "fonte": "Cremonaoggi",
    "data": "2026-11-07T13:48:51.000Z"
-  },
-  {
-   "titolo": "Lavoro. Fumarola alla Manifestazione de “Il Patto che Unisce” a Genova: «Il futuro non si aspetta e non si appalta, si costruisce insieme»",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vV0tETGdWNFZOV05iNC1zS1AwZnRyM3NNbzlvOHV1MC1md1M5SGpWQ05kRVFlaDRMeFhHVXlpalU1WUdfUTdQMkVtV21JZXJwS0dUVEJXTFgzTl9wMVJNMDdQTnQ?oc=5",
-   "fonte": "CISL",
-   "data": "2026-11-07T13:46:49.000Z"
   }
  ],
  "eventi": [
@@ -987,7 +987,7 @@
     11.34263
    ],
    "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNT2tGaEZtSnlES3ZjV1llTGhGZ05iWkU2MzFzckNUOUFSWmZfdGw3Ni1qVF8wcmFTSDkwSFRaVmRGQ1Z6XzYxX0M0bWhLMm94allWTWkzS04wNlBxenh4TGVOS3BpMFFJZm5WUXd0b2VkdGdvUThMRDVtNnh6TnRfcWhESmhTcnJrNVFFNDFPZ3V2WlF4eDBnN3BETWFveE1JMk1KdkNycTBqTXp0T1BwWTMxSGNqQjJaWW5LekxoN1hreXRhUDRiVkRJTHROejFjdmxuekFIVGxDQXBYd0sxRDQ1TXFrc0JidjU4UWF4QmhiTWxuamlYTkFjLVhfQkVnUWpiSGdiLUJ1clY2T2NwSHd4SFlqeEtsWEMxV0JrVE5aa2RzZTBpQlJaQjJ5VGEyVVE0VDRlSURUSTBTRjRVT0tVTjg4dzdHWEM1cW5ucTlsT1JyeW9iNFZR0gHfAkFVX3lxTE8xR3BQWXRJUGc3YnBGNmpGVE9CTjlqbWZxbDBCeGhxa3o5Q202OS1uWEw4T3ZyYlZWNXplTzN1X19OX20tRklvTmlYZUk1VEFRUXlQRVlQcHNFOVZSaHpvMXl0Q25vbFJSdGtPbTkyZmMtOXZvdDlXRFJWaU1OZGU4eElHVXA4amlLTVFUY1BVWFA2cGpvMGZwUkVxbks3cHBIX0ZhM3Y3U3JYTXdqVVU0UFVZV2x6M1RsOFpUNUduekhwbnBNS1QxSV9BenZrbXVoUms5aFJnc3Jlb2tTWG1MQkxJZkdhczR2R0tqWWhRSlhsRnkwSTV5U052OVgwWElZV2FYSjhWYUpRT0NnT1dGT2x5N2tneDZMV2s2emtPRGdMN3d0YTh6NWVFdnFiRlZIUERQU0RjS0E2eGR1LW92TWdpb29icHNOWkhoU3ZwY0Jvb2ZiNzFxenhlRWJ3OA?oc=5",
-   "altriArticoli": 5
+   "altriArticoli": 6
   },
   {
    "id": "gn-RFpYTlIb2M9NQ",
@@ -1005,7 +1005,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOVNGeDRpek16MjBoWXNKZ1JKa1J5bFJCeVlxRXFFS0VfMHhTRkpzZlREZ1ZvbkpVQ01WNWVRa0FKaVBUNi0tOWRod1EycTB6MkxLYWdsVlhKcF80UGdORVZMQl9za3EzZFdnN3NYcWdMT3FiVlRjUDIzLUJ1XzY5VlgydVE4RzNiTjlCbGdrS3d0Y0JPRWlGZnZkZ0pYZWFLQ3ZJSHFOa0wwNW5IenZEamN2dUltZ2xnUFhPS1RXcWRkWkFEampUbUt2aTlFUkMyR1VQQW1pVHR3WDFEbGZNLUpWQjNCQjN1RXdUZHBwUHJaZ1p5dllvcDh3c9IBgAJBVV95cUxQRWlqdG41V0llUkc5bjNPZ2NTdTdmM1AxaHd2X0VncVhleHBSNXRwRThmOVFjRmpSU0paa1oxbm5oNDF1a01qTDBXV25FcFIyRnVKZFFhMzdsUTU1aURkNU1xRUItejBmVTc3eW9lajBzV29XZ3ZCZGxHRnAwNjk4bGQ1WDI2bUhDYmtRT0w1WW5KNlk2LXlvdkRnTEZqR3lvMENyal9Vc3dtQ3Y4QkZySEM1cUlteDYwYU9zUWljUEp5N0lQRzdCS2dMbl9LSzF2QXpMY19VUmNPbEZ0ZExWVkJTa3huWVhvM1g5V0RraUJUU1BwOXN5MlluTTFDZXNR?oc=5",
-   "altriArticoli": 59
+   "altriArticoli": 58
   },
   {
    "id": "pl-13493",
@@ -1380,24 +1380,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13489",
    "online": false
-  },
-  {
-   "id": "gn-VkRoVFVRP29jPTU",
-   "fonte": "Giornali · ANSA",
-   "titolo": "Dia de los Muertos, quest'anno a Milano niente parata, solo presidio",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-30",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-30T07:00:00.000Z",
-   "luogo": "Milano",
-   "citta": "Milano",
-   "regione": "Lombardia",
-   "coord": [
-    45.46419,
-    9.18963
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUTJ6d0xVQXdGZDYzWjZqWWEwLUJWbkpBZTlrQ2RmQ0dONGlDRHN6N1RwWlBKYmg0a05vUGF5U09ZUzJ5M3RQRU9TSVhvdE1CT3dxdE5RT0dQWkJQY0VwWFd0akoyRlFEM210RWh6eXpGdDFIZEk5dlZERF9kWTlkYTdCR2JkSTE4M192anJMb0xOSU9RQ1J6bHU2RDR4eTJ2UDlvc0NVQ2lwbEhYWjRjMGNtSFNYdDRiR25XNzNYY2xJV1U0MTZCaU9lT3NWUkJWZlR5V05iSU9TSjFMSzRlRjlQRXd0MV9sY2c1VNIB8gFBVV95cUxPQ3luR3dSWEp4UWFvWnY0TEVTbWVSQjZHYjEyVTlhT2NUaE5QWHR2anhKNmtvMDJvQjQydGxHN3RNcFF5Mk5RSTJucHlvTlhjZUxCY3l4T3BSM3hQd0NGVWRBMGNCZUtQUmtOVVRwSUdNUE9PLU5hSFlPdXlzU1R1ZjZJVmZnNTJNb1BmSHZxVWlBY043R2haUnN0NENTV2RXYmFJNU1jVEk2TkNKdF9SYmVZM0ZwUHBFY2RmU1BXQl9TZ2xKaGk0clJqLVV3dXpJMUd6YWxMdlpOTFJRYURFWnFsdGtPajhYaW96OElMVDhTUQ?oc=5",
-   "altriArticoli": 3
   },
   {
    "id": "gn-WGcxV1RJP29jPTU",
@@ -1957,24 +1939,6 @@
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1745700/-/livorno-presidio-contro-i-traffici-militari"
   },
   {
-   "id": "gn-R0pOWncb2M9NQ",
-   "fonte": "Giornali · Corriere della Calabria",
-   "titolo": "Falerna, il presidio prosegue. «Gli agricoltori calabresi non mollano»",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-05",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-05T18:45:00.000Z",
-   "luogo": "Calabria, Italia",
-   "citta": "",
-   "regione": "Calabria",
-   "coord": [
-    39.0566,
-    16.52499
-   ],
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ05FZDhkSm5VQnE0VU9NY2NDd0VMOTBOVUgtQ1pwN0ZvVkNqYWJMYWl0S1NJV2hybk55cVVucDRnLVdtQUNsNzQySlhtc0U4ZXloRWQtcUFBX05Kei1sQ1doREFwTEpxR3Jmd2Z4WTJTcUhjaGhGcE9TUHR4UUlQNVo0aDV0RDhlS1hLWmZoSTh2bzdKbnJfOHAtTFR0Sm56Um13UGE5dUtWR2VoVjB0ckxxTGJNZw?oc=5",
-   "altriArticoli": 1
-  },
-  {
    "id": "gn-VEhaR01UYz9vYz01",
    "fonte": "Giornali · Torino Cronaca",
    "titolo": "Chieri, bus deviati per una manifestazione: stop ai percorsi abituali per le linee 1, 2 e 30. Ecco tutte le deviazioni previste da Gtt",
@@ -2114,6 +2078,23 @@
     14.41591
    ],
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0pOWEhnaHRycnJzb3RBUHRpb092LXJJYUhxbk9BWmtXNFhHSHlSMFRJaE5WMk11MWdKNlJ4clI0MTk0MVlYMElkWGVnSXB4QS1CMzFSUk9KZ0s1OHdZbVNSd3BULVlUQ3Q2emVBU1JXc1ZjWUxsRmhib0JoNzRGaEFlSUx6R3VPSklHX3RRbkF1dmhzaWR5Q3l0M3ZPdw?oc=5"
+  },
+  {
+   "id": "gn-UTVPSFpSP29jPTU",
+   "fonte": "Giornali · Corriere della Calabria",
+   "titolo": "Autotrasporto calabrese, ecco la Consulta. Un'alleanza strutturata e un presidio stabile a sostegno delle Pmi",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-05",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-05T07:47:00.000Z",
+   "luogo": "Calabria, Italia",
+   "citta": "",
+   "regione": "Calabria",
+   "coord": [
+    39.0566,
+    16.52499
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPb2w2QWxaS2N2cExHaVVrVC00VTlHTjJ0aUdSdjVnckdUVi1qYkJZQzZMcS05c2Q0LS1aZVk3Znl4VmF6aGd5U0tVRUtyN2RDUGJkMWlmeDBiY3NLdmd2UmJxeHlUSmVnQVMzR19ZdFlKUEdJMDJPVTB6MHNxS21DRGhnaUk3UE9fNGppY1k4aVdwTl8zdU5ZaGxmSDB3SzlGcU40ZWZqRE5JRFFiQk00WDJMNEk3ZjVQTFp1NkZaRXRLRUE5d2JSSUpnXzFFMFFuekdobUtZYjZucUJadDd3NlQxLWpHb3Q5OHZR?oc=5"
   },
   {
    "id": "gn-WEJQYUEb2M9NQ",
@@ -2265,7 +2246,7 @@
     11.25564
    ],
    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSWlXV0VheUtJNW5Ocnpjal81NjNWSmo5d3lOaV8tZWhieHlOT1hEbFoxRnNEZzhjRkFOWUxYSEppbHJrZnhOMVRqNGpDT1ZGcG5YTXhrUWM0SFJqRG9sSHNfa0NJME9ETk4tNDFnd2Qta3F3cFBXa3htYUJSVlIxOVFfaUhfWlVKR05BOHo5al9zNVNYYVVKVWZwRmtUbGFPaGIySVhUOHRucEd3T2FtZThpeFJvVVlKeW9tMWQ1Nl9Dc0cwb1JsRFVNS0R3cEliaUhkeDJWRHVkTWNEY19HNUtzRlBnX0p0SWZjbE5QSnJSc1JUTWcyd2dpUW1na3BLMzY0VlBKLVBidEhyejRoQVN30gGXAkFVX3lxTE9aTWhMOGwzVkVLV1dLeVZKYWpmNTZwNFJuMk1qbGRIRV9Wb21pcnJDM1FtVHE3RmJ3TndDY0phZVZwSGVySjFaVWVfSGh3YjdOdlY2dzQxR2EzRWJYNHRrVTB4RzkwZnhPOHp5bWpHTm5LVGhWUzRGZVdid1JkN1J3MWlsQ3FxVy1aUjhGcng2SEVGNHItaE5uMXkxVnphVWdCUlNWamU3S3hHUFc0S05BbnNybWdPTUxUcnhpUzJCZ2pJb3libmllVU1VMmg3TEVYdmdTOTJxOTBibVFfY1I2MTVzTXU4R2FidXRiSm5hYnB0QkVjaGZQb0F0MmEwcEFoNlF5ekZ1V2l1LWpfUU04dDYybWwwVQ?oc=5",
-   "altriArticoli": 2
+   "altriArticoli": 3
   },
   {
    "id": "gn-a05GVVEb2M9NQ",
@@ -2366,6 +2347,24 @@
    "link": "https://www.invictapalestina.org/archives/55281"
   },
   {
+   "id": "gn-WktZa2N3P29jPTU",
+   "fonte": "Giornali · Corriere della Sera",
+   "titolo": "Centinaia di partecipanti a Milano al corteo pro Palestina contro guerra e carovita: il video",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-07",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-07T18:46:08.000Z",
+   "luogo": "Milano",
+   "citta": "Milano",
+   "regione": "Lombardia",
+   "coord": [
+    45.46419,
+    9.18963
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOFRSS2hxODN1M1YyTWc5aDcyaEdLWl8teXNwTUVPSFRPTU9DRmtKX25LRUNvb0lDcm9JcmwwZkstS0NwdmM3RFZzZFk0NElrdmY5MGFRLUxqNWxNY0ZBSnN3Rk4tVkFvRkxFNDloU3N6T0JqU2wtX0pneE5fOThqTzRyVE85Vy1PcHM0Uk4zZ2ZnNE9NZGhuaHdDOG80OFo2czhPS09qbUJla2Z3bVJmSGJSZUtHU0hBQ3JqWDBNTFVEN3o4Z1dNRjBPY2hraWdIRHFvTTBsWUNnRmhld3ZfdXZHT1BFNEZKYkcw?oc=5",
+   "altriArticoli": 2
+  },
+  {
    "id": "gn-VjNSWlFXYz9vYz01",
    "fonte": "Giornali · La Provincia Unica Tv",
    "titolo": "A Lecco il corteo antifascista: nel mirino caro vita e decreti sicurezza",
@@ -2451,6 +2450,23 @@
    ],
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNFJBZThMMHVyZGhIeWhSU2lpM19ka1ZmRThERExDNHI3RXJab09mbGtLSm9maEY4UWFoX0lhekVYZ1ZUVWRyRmNnOWNsQi1vS0xRNWRYSjNXcF9HdEpkWW1OVHdJbWhHVWwxaElWc0otYWdiTkhoTWdWZkVMTmJYUndoMnFFSHVMTUxMSkM3Wk8xdWRicTd6NmlFM091aGtCel9iR0J1a2RYdm1CQXc?oc=5",
    "altriArticoli": 1
+  },
+  {
+   "id": "gn-UnVSa1ozP29jPTU",
+   "fonte": "Giornali · Gazzetta di Mantova",
+   "titolo": "Appello di 18 sigle per sciopero generale e corteo del 20: «Riprendiamoci il futuro»",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-07",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-07T07:16:32.000Z",
+   "luogo": "Mantova",
+   "citta": "Mantova",
+   "regione": "Lombardia",
+   "coord": [
+    45.16926,
+    10.67084
+   ],
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXdlc2xFQ0pNU3E2eXVWMDBBRlFudV8zUTNVYi01OHFISmV5cVVZWldyYVl2YmVjMUV2dkEtaWVKU0tmNHhLX000Tk52N1U2OFhRMzJ4dXlJdFNpVU40ZWR4QVNoYm9MWmYtajRXbF9KUHlQWWV3LXNmQWtwa1VnS2pLbXItR0cxd3pqNWtkeThCb2doTkZndG1UcDdPZVVpZG9NRGhwR3A2UGgxVklLZmQzMlXSAboBQVVfeXFMTTZ2RDRyYjRjVURya3MwWURqVVh0QldsbFI3alBZMjFVSE91eWpqZnEySGtLMmcwdW84LTRFT3p2THlhMWVjWEM1ZS00UW1wZEtTYmpQTTdxbVhhak0xSFdSZ0pwWXJVeGcwMzZ4RHlNSWhPdHNPY0dPTGtnRmNQR0JjZkY0SHg4OThXX3R0NEo5Z0dNRlZiNjVXa0k2ZkdfWUVveEE3ZTk5REt5SWstNnU3THg2LXRuRkZ3?oc=5"
   },
   {
    "id": "gn-Um5Wb1ZRP29jPTU",
