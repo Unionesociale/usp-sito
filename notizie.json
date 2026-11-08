@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-08T09:00:28.255Z",
+ "aggiornato": "2026-11-08T09:56:44.996Z",
  "notizie": [
   {
    "titolo": "Tempesta sulle tende di Gaza. Via al quarto inverno nel fango",
@@ -1005,7 +1005,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOVNGeDRpek16MjBoWXNKZ1JKa1J5bFJCeVlxRXFFS0VfMHhTRkpzZlREZ1ZvbkpVQ01WNWVRa0FKaVBUNi0tOWRod1EycTB6MkxLYWdsVlhKcF80UGdORVZMQl9za3EzZFdnN3NYcWdMT3FiVlRjUDIzLUJ1XzY5VlgydVE4RzNiTjlCbGdrS3d0Y0JPRWlGZnZkZ0pYZWFLQ3ZJSHFOa0wwNW5IenZEamN2dUltZ2xnUFhPS1RXcWRkWkFEampUbUt2aTlFUkMyR1VQQW1pVHR3WDFEbGZNLUpWQjNCQjN1RXdUZHBwUHJaZ1p5dllvcDh3c9IBgAJBVV95cUxQRWlqdG41V0llUkc5bjNPZ2NTdTdmM1AxaHd2X0VncVhleHBSNXRwRThmOVFjRmpSU0paa1oxbm5oNDF1a01qTDBXV25FcFIyRnVKZFFhMzdsUTU1aURkNU1xRUItejBmVTc3eW9lajBzV29XZ3ZCZGxHRnAwNjk4bGQ1WDI2bUhDYmtRT0w1WW5KNlk2LXlvdkRnTEZqR3lvMENyal9Vc3dtQ3Y4QkZySEM1cUlteDYwYU9zUWljUEp5N0lQRzdCS2dMbl9LSzF2QXpMY19VUmNPbEZ0ZExWVkJTa3huWVhvM1g5V0RraUJUU1BwOXN5MlluTTFDZXNR?oc=5",
-   "altriArticoli": 57
+   "altriArticoli": 59
   },
   {
    "id": "pl-13493",
@@ -1282,6 +1282,23 @@
    "online": false
   },
   {
+   "id": "gn-RlJMT1RNP29jPTU",
+   "fonte": "Giornali · Comune Savona",
+   "titolo": "Avviso di manifestazione di interesse per individuare enti del terzo settore disponibili alla co-progettazione e successiva gestione di un centro socio educativo per minori",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-28",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-28T09:46:05.000Z",
+   "luogo": "Savona",
+   "citta": "Savona",
+   "regione": "Liguria",
+   "coord": [
+    44.23342,
+    8.25257
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNUXZJbWNseUFyeG9BT0xrLXJKLUFaWWthc2JpcmxtVnduQU45a3FKcVR0MUNOLVV1Y0s0aVBCNkM5OVNYX0UxdnNzWWw0LU1temtOOUU2Ti1iQmYwR01MVTdmeXBZVWFrTXVwdWlPZ1h1YXBEc1BuYU5tTG9pVjlYYnRyNVA3NmplNi1HVlZiUDlEemRoTWdpN1VtVjR0aFNTR28xdWxUYWM5MWI2Qm11NldxYmcxcUZocjBrYUlWbGc1ZmxYX2pfNkRXZERDZG9tLXd1NklQZnVocTlzNWdjZW95OE9RdFpUZkZXTTAyU0xqZDVLV1FUOV9BcHFvYk9QTG41SkFUQk1GLVRKNkhhVlpaa2xwblg1TXBVc1ZLMi1EcFJTQmxZUnlYejQ3SlNpbURwcXpfOEoxT1ZyU3RBNDRMYWYyYVJDSkZuVFRLOTM?oc=5"
+  },
+  {
    "id": "pl-13514",
    "fonte": "PeaceLink",
    "titolo": "Traffici di armi",
@@ -1432,8 +1449,7 @@
     45.06776,
     7.68249
    ],
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUVAwY2E0cGVITWk0VXdEang0RXNpTHo3OEJKU0hmOTU3LVZYR0Q2aU1UejR3azl2X3Z3ZGZwaXVKWFpYMmdiMkhGQ2lEQlRQZWZzTFVJVTA5TS1mOGpVOW5nVWZJaGFLSmtMZ1dwR2JGY05HNGdNMmJxR3d3Y1Nkb0drUVBqN2FvU1V6dFdxNjAyeDhZX0cxQXFIRFdTRnBhOU5YSExWQW1EcV9nZ0ItTm0tNG1BRmlxWlJxU2tBd3M4bUZxOU5BcG9Xa3RHYkdnbXhuUzdITDFwNXgteGVXd0VBb1lfVjVkVkc5R9IB8gFBVV95cUxQTTdxeXBhMW9CTGRsWGRJNGpoRTlSZmxxRURoTTMxRXVLRkM3LXlXREJkTFpBV2dJaW1LTXZyTmRfS0luRW5BZW9EUjYtSWVBeU9hOHc1Q1ZMem5uXzJmYkFIZE9jYnFrX1JXS1RvVzRDdWd4T1JaRkhLSEpPTGRYaGFSMk9WdGF2OXNkR1B2YmRJQ1hqZXBtcWY2bm5XaHJmRE92SXZUdEVWZ2ktVkJTdDFHLWNUSUNKc21LSG12YmpGSlNBOEZISEloTG1wN3pUd1dxRHpyRkViUXgtSUhYWHROWlVxTnJJZWJoUlFIcVFYdw?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUVAwY2E0cGVITWk0VXdEang0RXNpTHo3OEJKU0hmOTU3LVZYR0Q2aU1UejR3azl2X3Z3ZGZwaXVKWFpYMmdiMkhGQ2lEQlRQZWZzTFVJVTA5TS1mOGpVOW5nVWZJaGFLSmtMZ1dwR2JGY05HNGdNMmJxR3d3Y1Nkb0drUVBqN2FvU1V6dFdxNjAyeDhZX0cxQXFIRFdTRnBhOU5YSExWQW1EcV9nZ0ItTm0tNG1BRmlxWlJxU2tBd3M4bUZxOU5BcG9Xa3RHYkdnbXhuUzdITDFwNXgteGVXd0VBb1lfVjVkVkc5R9IB8gFBVV95cUxQTTdxeXBhMW9CTGRsWGRJNGpoRTlSZmxxRURoTTMxRXVLRkM3LXlXREJkTFpBV2dJaW1LTXZyTmRfS0luRW5BZW9EUjYtSWVBeU9hOHc1Q1ZMem5uXzJmYkFIZE9jYnFrX1JXS1RvVzRDdWd4T1JaRkhLSEpPTGRYaGFSMk9WdGF2OXNkR1B2YmRJQ1hqZXBtcWY2bm5XaHJmRE92SXZUdEVWZ2ktVkJTdDFHLWNUSUNKc21LSG12YmpGSlNBOEZISEloTG1wN3pUd1dxRHpyRkViUXgtSUhYWHROWlVxTnJJZWJoUlFIcVFYdw?oc=5"
   },
   {
    "id": "aip-1744910",
@@ -1725,7 +1741,7 @@
     10.34022
    ],
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU09faUpScTJXUzJRRWhlMVFhZklrS1BVNEVWVXh6UjVfQURsSWp5Sm04cmFwQ2FEcXEyLTczWndKbmNjbk9oUHltZG9fWDktUHpTelBTMDhIRUZaY21MbExITUotTk8zZWxzQVpLWjZCajVwMjB4dUxzbTk0d2xkQks3VEtUeFRnOUtYYlFhQVYwek9yV0dBZ1ZFMnBhWVpfSzc5bw?oc=5",
-   "altriArticoli": 2
+   "altriArticoli": 3
   },
   {
    "id": "gn-SkRWbm8b2M9NQ",
@@ -2026,7 +2042,7 @@
     10.98574
    ],
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPR3ZTZTR4d2liNWdJVEN5OUJiOTVkUzVmNk4wekxRNlhlV0xoZk1JdTNHZTNQUUt1SHJfa1pqU0dTWlB3SnN2THdCQkt2T2cwN0NHN2doU3FseHhTdHNUSkFuUHJyMHJ2NzVMTzl6SjhVSm5fcVlBYzhTM3hpU2FXWmZkQXpoMGw2LTRILXBReW1ra3JSa3M2ajNGeVhINk9sbnFNUGtJZVBzRFZ1WHoyS3FTdldsQm1TcjJWaTRGYzJWd0UyaXRIM1lpTHlCb2oyaS1kMjUwdFc0bDVwTUJpZTlEd1hFZlhtcWtvNU9CSmtqZw?oc=5",
-   "altriArticoli": 2
+   "altriArticoli": 1
   },
   {
    "id": "gn-c2F6aEIb2M9NQ",
@@ -2098,23 +2114,6 @@
     14.41591
    ],
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0pOWEhnaHRycnJzb3RBUHRpb092LXJJYUhxbk9BWmtXNFhHSHlSMFRJaE5WMk11MWdKNlJ4clI0MTk0MVlYMElkWGVnSXB4QS1CMzFSUk9KZ0s1OHdZbVNSd3BULVlUQ3Q2emVBU1JXc1ZjWUxsRmhib0JoNzRGaEFlSUx6R3VPSklHX3RRbkF1dmhzaWR5Q3l0M3ZPdw?oc=5"
-  },
-  {
-   "id": "gn-WEJQYUEb2M9NQ",
-   "fonte": "Giornali · TP24.it",
-   "titolo": "Trapani e la manifestazione in piazza. Miceli: \"La città si è atrofizzata\". Patti: \"Prendiamo atto del malessere\"",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-05",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-05T05:33:47.000Z",
-   "luogo": "Trapani",
-   "citta": "Trapani",
-   "regione": "Sicilia",
-   "coord": [
-    37.90037,
-    12.71163
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPb1c3RlpBeHF6dWliSWlTT182VFhjME84bzBtSVNzdGpuNXR0eDBRQUl3cVRocVVXTWQwYkF5OHRhQ0RISDBDMGVCeEZic1dzS0gxaVNDMnJUQlpsT3EyNGQwVmlKQTUydGlSUWVLeVA2Z1JKelZ1VDJOdTlJQ3REbEwtUlBEZU1hYWVMaDZNOFp1bjRkZWM3NjNYVnhOdThmWGhNNGpSN2FjRlkwM2I5QXJac0IxY1huXzE0YjRKVVhXd3NnYjlqb01vZ2JCejZqR0xYWVlRbG41LU9TdWxVbVZMYzJEbHZ0aXBPaA?oc=5"
   },
   {
    "id": "gn-aE1qSkYb2M9NQ",
@@ -2235,24 +2234,6 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-eWJXd3dWUT9vYz01",
-   "fonte": "Giornali · RaiNews",
-   "titolo": "Firenze, tentata occupazione all'Agrario: studenti denunciano pistole puntate dai carabinieri",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-06",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-06T18:17:38.000Z",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSWlXV0VheUtJNW5Ocnpjal81NjNWSmo5d3lOaV8tZWhieHlOT1hEbFoxRnNEZzhjRkFOWUxYSEppbHJrZnhOMVRqNGpDT1ZGcG5YTXhrUWM0SFJqRG9sSHNfa0NJME9ETk4tNDFnd2Qta3F3cFBXa3htYUJSVlIxOVFfaUhfWlVKR05BOHo5al9zNVNYYVVKVWZwRmtUbGFPaGIySVhUOHRucEd3T2FtZThpeFJvVVlKeW9tMWQ1Nl9Dc0cwb1JsRFVNS0R3cEliaUhkeDJWRHVkTWNEY19HNUtzRlBnX0p0SWZjbE5QSnJSc1JUTWcyd2dpUW1na3BLMzY0VlBKLVBidEhyejRoQVN30gGXAkFVX3lxTE9aTWhMOGwzVkVLV1dLeVZKYWpmNTZwNFJuMk1qbGRIRV9Wb21pcnJDM1FtVHE3RmJ3TndDY0phZVZwSGVySjFaVWVfSGh3YjdOdlY2dzQxR2EzRWJYNHRrVTB4RzkwZnhPOHp5bWpHTm5LVGhWUzRGZVdid1JkN1J3MWlsQ3FxVy1aUjhGcng2SEVGNHItaE5uMXkxVnphVWdCUlNWamU3S3hHUFc0S05BbnNybWdPTUxUcnhpUzJCZ2pJb3libmllVU1VMmg3TEVYdmdTOTJxOTBibVFfY1I2MTVzTXU4R2FidXRiSm5hYnB0QkVjaGZQb0F0MmEwcEFoNlF5ekZ1V2l1LWpfUU04dDYybWwwVQ?oc=5",
-   "altriArticoli": 4
-  },
-  {
    "id": "gn-a05GVVEb2M9NQ",
    "fonte": "Giornali · ASL Cagliari",
    "titolo": "PNES: apre alla Cittadella della Salute un presidio dedicato alle donne più vulnerabili",
@@ -2268,6 +2249,24 @@
     9.11331
    ],
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3IxaXdZdTdyM0NUMnphZlM1OE51WVlRTmZSTDBsSXA4MHIwOHl3bjJYZFNmX0dxZWZjdVFkYnBQM2dCanV6cEc5d1BtRVA5NnpwdGpsM3d6eWhtN0lYaHcyQVlmal9hanpDT1NITGNwOGtLakhQb2NydnVCNkhOaS0zcjA0OVlCYm1LdllyaG1Kd2RxVnhHQm1fRnpIZ2xueVJqY3hvZDdGZ081TmZ2c2tZekNFUQ?oc=5"
+  },
+  {
+   "id": "gn-Sk0xVnob2M9NQ",
+   "fonte": "Giornali · Cgil Firenze",
+   "titolo": "Commissariamento P.Pepe e Dixie, Filctem Firenze: “Tutelare legalità e occupazione”",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-06",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-06T12:34:43.000Z",
+   "luogo": "Firenze",
+   "citta": "Firenze",
+   "regione": "Toscana",
+   "coord": [
+    43.7698,
+    11.25564
+   ],
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMjdiTzJob0dWUlhkZjRtWDN3RnM3QkdQOTVCbnA0RDhJaGRTSjY3RWZlb2xaWll3R2dJTTBXdHRvS2JFeVR6ODBBUXdKdTA0VG9aSVhMSkZSTGxtRVN5cVFUckktdzdEWkVHcWVlOVdVQ19Td3ltTlVCMVBmUGhFVHJ6N3pRaThIZ0pnZ25YWVBvOHFMcE1UZHNaMGF2YmQxek1lcG5WeWYwa0xiaUNucktrcl9WZllLR1hCcGJZeWZJM1Vz?oc=5",
+   "altriArticoli": 3
   },
   {
    "id": "gn-VVJYWkdvP29jPTU",
@@ -2931,6 +2930,22 @@
     11.29345
    ],
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744698/-/grassina-fi-florence-for-palestine-giornata-per-la-palestina-e-concerto-di-samaabdulhadi"
+  },
+  {
+   "id": "pl-13528",
+   "fonte": "PeaceLink",
+   "titolo": "Un ARSENALE dietro CASA",
+   "tipo": "assemblea",
+   "inizio": "2026-11-14T17:30",
+   "luogo": "Pisa, via sant'agostino, PI",
+   "citta": "PI",
+   "regione": "Toscana",
+   "coord": [
+    43.70264,
+    10.39788
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13528",
+   "online": false
   },
   {
    "id": "pl-13525",
