@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-10T01:14:39.849Z",
+ "aggiornato": "2026-11-10T02:17:17.467Z",
  "notizie": [
   {
    "titolo": "Passate le elezioni, il Board of Peace si risveglia all’improvviso",
@@ -592,6 +592,12 @@
    "data": "2026-11-09T20:05:00.000Z"
   },
   {
+   "titolo": "Università occupata, ora gli studenti si prendono Palazzo Nuovo e chiedono sostegno ai prof",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTGhIWF9lYUhrcy0wRnlGc042alpJQlNrTWFNRkN0RjZWaDQwSC1SUFJZaGVROFZGUldOaHc5M0dwREZPMkVJR1R2S2FNTnNyZkxSd2RNRUF2MFpOeGtmc0JrSHU4OWNqSElSb1hYQXM4R194VHN4cFhBRFZoVXcwYzBfclBsQdIBiwFBVV95cUxObVR2LXFtalB3SXhVYk5zUTdKM3VFdEZ0YUN5NmxiWXduRHg4dDUzWlFOb1l4ZzVDZllUR0ZmTDJPUG1YREJMVVdmYno0WUtDeVFLZkJpVVB5M1kwTi1HVF9MS3gwZHpzaV9NRV91Y2FKQk5aLXEzZENid0M3T29VZm94cmxRSGsxNmo0?oc=5",
+   "fonte": "La Stampa",
+   "data": "2026-11-09T19:10:23.000Z"
+  },
+  {
    "titolo": "L’occupazione dell’Università di Torino si sposta a Palazzo Nuovo dopo due settimane al Campus Einaudi",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeU0tYVZXbXlfYTItYVJWXzMydXZDVDFJcTktNU9tX0tSNGJCNGlHRUpLYTNlOEx6MktxOWFiWklVOFNkTG1PV2UwYWNfR2RVMm9sbU9PZFNBbVJjbUYzX2tNeU1fVHprSXlHSlBfTHcxT3I1Qm1HWnVZTmdqWXVtRGlDa0NpZzF2M2VNV2Jvb0RfNzA?oc=5",
    "fonte": "Quotidiano Piemontese",
@@ -1034,12 +1040,6 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0NCMHVlOF9DNHhxNHhfcFVfX0NTbkZlR2VhYzVtYVpDMDVmbGtvRU5hdW1NN1M0blhNRDdJTmdkZTRGbG52RnhDbU1ZcEtXZlV6WWdXMWNIT2lOOHhvZ2twSVdDaVBkNXZxYUpBcnJFUnkxdFhDNm82X2tEam9pR1JXdFhXb1pKUXYxQ3lxQ09QTFpIWm5mSVhXTXNFQU5QOGlBZkRFN3B3cU9JTERSNw?oc=5",
    "fonte": "PalermoToday",
    "data": "2026-11-09T08:50:00.000Z"
-  },
-  {
-   "titolo": "Nuove opportunità per chi cerca un'occupazione: in paese apre lo \"sportello lavoro\"",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTnJfYTJYTjNOOTllbXBYWk4wUXVHSFBuWkhQTmM2aUxIM3hxYW1DYi1kSERNTGdGNm1JXzJUa292RDJadlRJY3RaUnNWVEtrckpRb0VCMUpJNmFXb2J1R1RxYTRHcDNWN1JzVVZGaVI1Z1B4WUh5WlFORVNTUnlEUGFmOTEwMmd2LXZHQ2tPc2Y2cmREbmVlaVhxOUx0a1B2M09fSFh4OW10ZUZYdmxxTWhhTHZXN25nMTR6NkRnQjhMV2hYaVJpQkYxeGtyVEE5bTJvczJGLVc?oc=5",
-   "fonte": "Unione Monregalese",
-   "data": "2026-11-09T08:31:55.000Z"
   }
  ],
  "eventi": [
@@ -2464,6 +2464,23 @@
     10.42587
    ],
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUTNWSWdLQnhKbzU5RkY5RXRyVXZSTjZwTmplX0VGeUVOTlRSMGtjaVlmV0RUVFBreUtld0d1djh1T1V3YXl3TkRGWE5XajRuaGRQZVdHT1BBSnZIelF2NmhiNzd1UUprZXlmd2lyeU1pV0RyVGxReTdyVGNweDZ4RlZZNGR6cVNKUXRpdS1VQ0FTcDBuU3VVcGpIaTJzNGF0Ukl5WlJNcDlielBJQmVzQ0lVVzNhQlRpZFZWcXlab0hsbjBnbW11YjY0SXAzNWszV3ZDQmlyYw?oc=5"
+  },
+  {
+   "id": "gn-T0d0bFdnP29jPTU",
+   "fonte": "Giornali · Oggi Treviso",
+   "titolo": "Sicurezza stradale a Castelfranco: cittadini in presidio come “strisce pedonali umane”",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-09",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-09T14:25:00.000Z",
+   "luogo": "Treviso",
+   "citta": "Treviso",
+   "regione": "Veneto",
+   "coord": [
+    45.80669,
+    12.20632
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObEtxOVlsdUduUHVSSFpZTzYyRnJoYWxibWUyNXNwcl8xd0tTdDhYWVhTN1F1ck9lOXVCSDA3dWhEbzNhRDFqX0xVWmVuSnZGS2FFYm5HV1ZrMUk3aGxuUVBUZXdXVGg2TFJMYWR1Qk5sVW5tdTlzMDE5YjdOVXBtbGRsSkRSeW41TFlGdzIyRGVzcHFmWmZ4dy1jU3hWRHRnVmV3ckI0S0NTX0NkWE1LWE95U3pRc2VCaTJQcU94ZUcxbjhTcDJPUFhCM3RsWUtYOGtlWg?oc=5"
   },
   {
    "id": "gn-NlJIQlpTUT9vYz01",
