@@ -1,6 +1,18 @@
 {
- "aggiornato": "2026-11-10T22:53:48.837Z",
+ "aggiornato": "2026-11-10T23:47:01.984Z",
  "notizie": [
+  {
+   "titolo": "La raccolta delle olive, strumento di pulizia etnica",
+   "link": "https://ilmanifesto.it/la-raccolta-delle-olive-strumento-di-pulizia-etnica",
+   "fonte": "il manifesto",
+   "data": "2026-11-10T23:02:20.000Z"
+  },
+  {
+   "titolo": "La svolta di Londra è durata due mesi: appalti a società coinvolte nella colonizzazione di Israele",
+   "link": "https://ilmanifesto.it/la-svolta-di-londra-e-durata-due-mesi-appalti-a-societa-coinvolte-nella-colonizzazione-di-israele",
+   "fonte": "il manifesto",
+   "data": "2026-11-10T23:01:26.000Z"
+  },
   {
    "titolo": "Il parroco di Gaza, 'con le piogge tende distrutte e aiuti insufficienti'",
    "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/10/il-parroco-di-gaza-con-le-piogge-tende-distrutte-e-aiuti-insufficienti_1727e4ed-2ced-41fe-b434-fc80fe39485b.html",
@@ -568,6 +580,18 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "Difendiamo uniti la Sanità Pubblica. Manifestazione nazionale. Roma 5 dicembre 2026",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb3k5b2NjaFpWWXdQZ28yaUR2UFd3QXZ1NWRLbFNFa2V3NHdXYXdGejl2Ri12VlJ2bTdlbFg3bUhVSHJzQ1lvbDJJWTl1ckJLZFJndHJEMFZQcWZfZDBadEVWSy1zdkZYWEJpaDU1WG9FSnZibzBiR3ZHYmNNdUtUVHY1UXlMY3lmZjExdVA4bFI3NHBNRnFaTTlqZjJ4X3FsVDFhQmxHRHhTMGRLajVwYjJEUDBIRE5VU1hGWGpxRENKSy0taHU0?oc=5",
+   "fonte": "SaluteInternazionale",
+   "data": "2026-11-10T23:35:12.000Z"
+  },
+  {
+   "titolo": "Sicurezza stradale, presidio in piazza Municipale per chiedere la Vision Zero",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZE5uRU9oVi1wZ3Iwa3gyMl9CMVRFb2hMY1dRLUNWcWVUR3VTMDdaVzJHdVViblhTX19qc2ZkQk5VWURIWTQ2TUVVTXVYc3JxNkFqM3p6bEMyMnk3TlJvZ3lXem1DTHVUTWVTNnVHZnpUZVZtME1GMFV3QXdleWt4WmVIUnkwdkpOUFR3cGxDWEhxVXdWY3VqbGZ4RUFHWXZZcnZiTlJoVk9JNnVrSE1yNVVuV2E?oc=5",
+   "fonte": "Estense.com",
+   "data": "2026-11-10T23:06:25.000Z"
+  },
+  {
    "titolo": "SAN DANIELE DEL FRIULI | GESTIONE SCOLASTICA: TRECENTO PERSONE IN CORTEO CONTRO LA DIRIGENTE SCOLASTICA",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZW5hVDRXN1cyZXFva0dIT3AwdHpaVnN0MC1FQWxuSVlFT2MwcHBnVnNzTk9Wd2NtTzU1cTlLY2k2dlkwR3p2Wk5veERld1BPZmp0R0kyQU8tNEFVWkhTTktKRS1oRFhWQnR0ZkdNbEItLUk0VGY1YjllRTM4UE51X0t0bGN5VWtPX2d3THNwdWZjZzNwaFFXMVM1OThiWWJ4UjVkSFFsUGZocWZiR2xZcUc1dF9SR3pIVnE3ek9JeFVwd21sM0N5TlpsSkJUMG5XQXZ0RdIB1AFBVV95cUxPZW5hVDRXN1cyZXFva0dIT3AwdHpaVnN0MC1FQWxuSVlFT2MwcHBnVnNzTk9Wd2NtTzU1cTlLY2k2dlkwR3p2Wk5veERld1BPZmp0R0kyQU8tNEFVWkhTTktKRS1oRFhWQnR0ZkdNbEItLUk0VGY1YjllRTM4UE51X0t0bGN5VWtPX2d3THNwdWZjZzNwaFFXMVM1OThiWWJ4UjVkSFFsUGZocWZiR2xZcUc1dF9SR3pIVnE3ek9JeFVwd21sM0N5TlpsSkJUMG5XQXZ0RQ?oc=5",
    "fonte": "TV 12 | Medianordest",
@@ -590,12 +614,6 @@
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVkR4OG9xNU5JUmJsbTQ4Vm5lRTkzM3BNaVhhakMwQi1QWEwzN1R5YUVpaVpPLUxpYTYtOER5SURuOXJWcV82eGN6TDFXR3JDVFdaX1NhWldvaVVKeU5ITnVVNlJSdkE1UHJmNnMtVEgzYlE0NndNWDZVMG1jNm92azgyQS16eHFSR1dxZDdwckUzYnpKNzNwLUpJWDhGS1Y2WmxMdkNITHdvR050WDNFZjhDdThHODJCSVYxNmZ5dmFUWjFxaGZ0dTd1aEZoM2p0TGFGV2Z6aThyWVptazlMb2JOa1BXdw?oc=5",
    "fonte": "Vista Agenzia Televisiva Nazionale",
    "data": "2026-11-10T19:32:00.000Z"
-  },
-  {
-   "titolo": "Studenti universitari in mobilitazione, occupazione a Palazzo Nuovo e blitz in Rettorato: \"Prandi fatti vedere\", contro guerra un corteo anche al Politecnico",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNWZuWW5SY1k4c1NTYVlUbC0xU3Rab0l0V3BFSDMycHY5RzlUaF9TcWVWeWx6bGQ1UDlzanZoZ0Zkdk5QSGtibUJYSnV0NU1OMy10TEhNX08xT3hqSDlxd1d1d0xlak5tTlJyb2licFRXNVc3aGFqaHlzVTgwLXBMNHdMMnVJWmExWno3Vi1jbXVHVWgwNUtKaWtOQTFBNG1rS0V0d3diNzZnRnFuVm1McF9fblp3TEU2Vk41Z2stTXBkcXpTamk3RU1feTdha0t1X1ZQSld3bWYwZw?oc=5",
-   "fonte": "TorinoToday",
-   "data": "2026-11-10T19:22:15.000Z"
   },
   {
    "titolo": "Il tasso di occupazione informale sale nel trimestre luglio-settembre 2026 - Notizie e Statistiche",
@@ -632,6 +650,12 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12YlpVdjVnXzY3bzFDTE12c1NSRlVrOGRSNFJoMUNyWVBRbmJaTFRGNzZMXzI0a3UwbFFXNXBxMFhEZS1QbmFpZEV6Uk1CemJuNUNDLXJ5VE9uTUFaR3FxVXFZWmZCS2RqNVZXd1pvVWstQU9XaVE?oc=5",
    "fonte": "Il Filo",
    "data": "2026-11-10T18:03:16.000Z"
+  },
+  {
+   "titolo": "Studenti universitari in mobilitazione, occupazione a Palazzo Nuovo e blitz in Rettorato: \"Prandi fatti vedere\", contro guerra un corteo anche al Politecnico",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNWZuWW5SY1k4c1NTYVlUbC0xU3Rab0l0V3BFSDMycHY5RzlUaF9TcWVWeWx6bGQ1UDlzanZoZ0Zkdk5QSGtibUJYSnV0NU1OMy10TEhNX08xT3hqSDlxd1d1d0xlak5tTlJyb2licFRXNVc3aGFqaHlzVTgwLXBMNHdMMnVJWmExWno3Vi1jbXVHVWgwNUtKaWtOQTFBNG1rS0V0d3diNzZnRnFuVm1McF9fblp3TEU2Vk41Z2stTXBkcXpTamk3RU1feTdha0t1X1ZQSld3bWYwZw?oc=5",
+   "fonte": "TorinoToday",
+   "data": "2026-11-10T17:51:36.000Z"
   },
   {
    "titolo": "Grugliasco, torna il Salone del Lavoro: oltre 30 realtà per incontrare aziende e trovare un'occupazione",
@@ -710,6 +734,12 @@
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOTd4MnRPSERYMXNBemJOM0dJcmFZRGIwSm96ck9nVWh1a0UxZnVVQVJqT3ltQ0JiLXRMMW9vdUhIYl9wWHNrQjc2UUpLd19ta1VLdUY1cWtvV3JWOUVjc24zNlMyTGJRdUhtV2txbUlCU2FQVDQzTXZfQVJOYm5RNUQwNThRd0xzLUx5Q2lVM2pDUEN6M0lyQ0YySy0yVU5jNzdkZF9zTFRJcGNJckI3VHJvbEhKMWRiUEZnTDF2LS1RMUJYX2paTnZqZ2VZS0J5TUE0?oc=5",
    "fonte": "Radio TSN",
    "data": "2026-11-10T15:56:14.000Z"
+  },
+  {
+   "titolo": "In Abruzzo cresce l'occupazione, ma persi 69 mila giovani dal 2006",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmxaRFZPZ1ZteFRZVS1PNGEtN0s4bGp6R09CNUMxMDdzTElYOVRZcHlHcjJIX1dkN1NLdjRSU3owaFRBVnBFYV93T2NfaDRfbVRmd0NlNy0tQlVNZDhNT1pwdlpDQXJIb09YLWkyakwyTlR2WktOZGZRcHhLMjZwZ19EYXNnSWM0MGt3dmlwTnA0NDBVbkh6bENNWGlyT0hGMEYwQmhnYXdCREhiZjFiTGdPSXRLdzZWSW4yOUZuT2E0SG1mdk4wcnFpYWEzRmNLOTV3OWo3dlpENFVSbDlIeWpMWnc0Wktn0gHuAUFVX3lxTFBEeUtYMFpLVDBEblNacGpETy1CbE54VlNhVGxsNGpIXzhBU3ZHbkRZendLaEJMWGVjdWd6UkcwVV9ocXFEcDIxMnotQ05jc0t2ZHl2UkF5cDM0Y1N3X0plbVZQU2pyUlF5anczTjRhVWpCcEV4WXpXNTY5UEYzN200RVphWDVWVmFucHNESUJMekR0dXY0dWpoNTJrSjVIWGtwUG13Q1M5c0l6ZG1XQ2ZrZVlDMXJyaDJSc3pLQUxUeE1mNXlaNWdxX3ktTjQ5dzB1N3RYMkZtQmstaWZrQkpMWmVrSkxkd3JwVGdHU2c?oc=5",
+   "fonte": "ANSA",
+   "data": "2026-11-10T15:50:00.000Z"
   },
   {
    "titolo": "Il sindaco Pozzi sull’ospedale di Menaggio: «Un presidio indispensabile»",
@@ -1028,59 +1058,9 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBySjhaMmZ0bzVKWS1FNnhmUDNvTnFnM3RVaHNHVEJVSUd1clVtYl9meHVxQTRtTG15dU1IeTJ3THdBb1RSX0swX29KQWtoem9vbFJFSklCbGFsWnBXR1I1T0oyeDB4UUswWEJVOWgzM0hWNXR4TTZHUjAyd0QxMUU?oc=5",
    "fonte": "Collettiva",
    "data": "2026-11-10T08:56:22.000Z"
-  },
-  {
-   "titolo": "Verifiche post-occupazione al Campus Einaudi, lezioni a distanza a Palazzo Nuovo con esami ricollocati",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa2Q1VW8tSHpwbHk1YWRIU1cyaTBYX2ttcHVFQk4xQzZDalY4NzQ4N2dMWG16ODlfR2JBR0hiVnczeUUtNFFhWkZvOHJMWG1xSFJZQzZuX3hTTl9tLVR0TFVNNlhXaXZ4QUNHcVV0cGhPY3lTUmxGNXNmdnU1bmdmdGp4VkF2UURLbFY3N1pRRjFCaWl6RG1KRmFoUUpZQ3U5VVpEcmZoNTFnU1IyQkRzOWZ6Q3hmQWNuQU42c0d3?oc=5",
-   "fonte": "TorinoToday",
-   "data": "2026-11-10T08:53:34.000Z"
-  },
-  {
-   "titolo": "Chieri, martedì 10 novembre tre linee bus deviate per una manifestazione: ecco i percorsi alternativi",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONDB6VG5sbWc2WjNvT2RQZVlvckhDaTEyUVN2bDNMelJpX0JkWEwtYzBpVlNHdWdta0RqNkgwUkh1UDNxS1cyTXhaY0w5c29RV2k0bkR2eHBaUENIY1JYTGREY25TemdhQXBJQ3NJWmJGMTljaWJvYWdnbXp2WWNSUW4tMHktTGFaVFNMSVl2X1JCYnVxNnhZamJyNkpUa3pGMXJ1akEtUGVDU3JndDFDU29mM0NKMVpqNGdkR01uWFh6Z0pnSzZnNGhHQm9IUHZtZHluVGpVem5CN1RsVjN3MGlQanViem15SkY4?oc=5",
-   "fonte": "Torino Cronaca",
-   "data": "2026-11-10T08:45:00.000Z"
-  },
-  {
-   "titolo": "Corteo per funerali pregiudicato: arcivescovo Palermo, 'aprire riflessione'",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd0VkUUlwRnQtVlRFN182SVAyQjdUbDdnQ0dRSFlVZE1hbFhnVHZDcWtLVlBiR3RDZ0dxak9JMmRKV013c1FqSC1rbm5CWHJDY0dVSGE4NENCSjhFOTQxaHpFNU83RnpobmphYjlNbzltNEhnWTZubUYtSUVvVlFhc0Z6OElRUHZjNl9IZTd4MWk2WjBJNTlucjlZR2k3VU1BOUVBV044emZDb0xFUjk4N19XOFZULXM?oc=5",
-   "fonte": "Il Mattino di Padova",
-   "data": "2026-11-10T08:38:16.000Z"
   }
  ],
  "eventi": [
-  {
-   "id": "pl-13449",
-   "fonte": "PeaceLink",
-   "titolo": "Necropolitica migratoria",
-   "tipo": "incontro",
-   "inizio": "2026-10-27T17:00",
-   "luogo": "Roma, Via San Francesco di Sales 5, RM",
-   "citta": "RM",
-   "regione": "Lazio",
-   "coord": [
-    41.89401,
-    12.46365
-   ],
-   "link": "https://www.peacelink.it/calendario/event.php?id=13449",
-   "online": false
-  },
-  {
-   "id": "pl-13505",
-   "fonte": "PeaceLink",
-   "titolo": "La zona d'interesse",
-   "tipo": "rassegna cinematografica",
-   "inizio": "2026-10-27T20:00",
-   "luogo": "Lecce, Via Vecchia Frigole 36, LE",
-   "citta": "LE",
-   "regione": "Puglia",
-   "coord": [
-    40.36547,
-    18.18103
-   ],
-   "link": "https://www.peacelink.it/calendario/event.php?id=13505",
-   "online": false
-  },
   {
    "id": "gn-RlJMT1RNP29jPTU",
    "fonte": "Giornali · Comune Savona",
@@ -1149,24 +1129,6 @@
    ],
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUW1ON2hJX2pkemR5WWZlOHgyem9SbldXZHRzbUZxOUNUajFHRW9URkNkU1hWZ0xpTXd4Q2JOUkNPZVR2UmpUU2NicnVPWWh4OXVOcDRhbFFiU1otc195NjRHTkMxTFlORWtwRVdLOVhSWWtORHp4SVlCVEN0bWRockl6Uy03eTlnRUYwNnlBNEVWQlJra2lwSkp6cjYtQm44bmQ0MjFtMlJ5V1Qwak1ZbU1jbXlhRUxQS19tWTJrTk5rVHp5VTZXN2doOG8wemhORTZlMHk4M3JKb0xRNXN5TDNBdVh1MVJJeGVN0gHwAUFVX3lxTFBnVXQ5cklLMXlnV202LXU0QXhzYU8yVGtBS29KUVhpNU1GOFE5dXpNRUM2T1lZRlhGeW56Z015blhaU3NSZG04ZmpqWC1jcVJ0RDNZbTl6NGdCSkZPWmpycG9HV3JnNWJtbFpYUDBFQ0FYOFdsZTlmUUVTLS1jZ0w4OWMzU0hMRkx5bk5jZDJhSHItUTk4bE1VU0JoX0JIbFpjZFNZekFMZi1rcjR0a3J3eDBDRHQ0dVhUa0VKcEFiRUFRT0ZCTF90cWlCeWY5eFBoTkNfTTVTVTZEdjh3SkhVc1pTc1dmUm5qYlktbFZVNw?oc=5",
    "altriArticoli": 5
-  },
-  {
-   "id": "gn-M1ZzUlZOQj9vYz01",
-   "fonte": "Giornali · L'Adige",
-   "titolo": "Corteo a Trento, commercianti preoccupati: «Fiducia nelle forze dell'ordine»",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-29",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-29T07:00:00.000Z",
-   "luogo": "Trento",
-   "citta": "Trento",
-   "regione": "Trentino-Alto Adige",
-   "coord": [
-    46.10295,
-    11.12974
-   ],
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRkNlbUNLSWtYcXhzb1NzNjN5cnRMRzFYSGxzZEI3dTZTSU9RcERMeGNRVzdybUpWcmJJQXVka2drMHA4eE15RjJyLWdzQmE2VUZER2VGWVEwUm80NzF1YjFvb1p3b1cwNGI3R3NDUzN2a0lLSE41TVBwNVIwd2dGTXA5eG4tY2l6dnR6WnIxdVpsZTJOZUh0eUtaTG5mZVJSVml0TFM0RGh0Y3VsRVNB?oc=5",
-   "altriArticoli": 3
   },
   {
    "id": "gn-SEI1ZHcb2M9NQ",
@@ -1370,22 +1332,6 @@
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1745243/-/firenze-sciopero-generale-manifestazione-contro-guerra-e-carovita"
   },
   {
-   "id": "pl-13469",
-   "fonte": "PeaceLink",
-   "titolo": "Per una pace disarmata e disarmante",
-   "tipo": "convegno",
-   "inizio": "2026-10-30T16:00",
-   "luogo": "Palermo, Villa Niscemi, Sala delle Carrozze, PA",
-   "citta": "PA",
-   "regione": "Sicilia",
-   "coord": [
-    38.16475,
-    13.33439
-   ],
-   "link": "https://www.peacelink.it/calendario/event.php?id=13469",
-   "online": false
-  },
-  {
    "id": "pl-13513",
    "fonte": "PeaceLink",
    "titolo": "Presidio di Pace",
@@ -1399,6 +1345,22 @@
     10.54569
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13513",
+   "online": false
+  },
+  {
+   "id": "pl-13469",
+   "fonte": "PeaceLink",
+   "titolo": "Per una pace disarmata e disarmante",
+   "tipo": "convegno",
+   "inizio": "2026-10-30T16:00",
+   "luogo": "Palermo, Villa Niscemi, Sala delle Carrozze, PA",
+   "citta": "PA",
+   "regione": "Sicilia",
+   "coord": [
+    38.16475,
+    13.33439
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13469",
    "online": false
   },
   {
@@ -1961,6 +1923,24 @@
    "altriArticoli": 3
   },
   {
+   "id": "gn-amRNY2xsQj9vYz01",
+   "fonte": "Giornali · Trentino TV",
+   "titolo": "Trento, nuova manifestazione contro carovita e riarmo",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-07",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-07T17:40:00.000Z",
+   "luogo": "Trento",
+   "citta": "Trento",
+   "regione": "Trentino-Alto Adige",
+   "coord": [
+    46.10295,
+    11.12974
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd2w0eGEyX0pjcDFPOXI1TFA3WTZUal80dzltZGVFaWU3OGZPWmh5MG5DY2RJSUZSWlhJaUY2aGx1RUtLZDQzYW5GLXhfMGJhU0tWNlZRZDVYMlIxOEdMc1ZyY2dUT3J3SmRWLUVPVDAzbE5vZTNzOHBNZWpwcm51cGJWdEFiYjdMcllB?oc=5",
+   "altriArticoli": 2
+  },
+  {
    "id": "gn-VjNSWlFXYz9vYz01",
    "fonte": "Giornali · La Provincia Unica Tv",
    "titolo": "A Lecco il corteo antifascista: nel mirino caro vita e decreti sicurezza",
@@ -2116,22 +2096,6 @@
    "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQbG9JMmVta2pjRlhEclp1VXotNFNXS0xGN3FteDFjQkdIc2RlTlF1clFueWowdTBuSWdIdzhrc0hCWHFscGpjLVVGRGtTWk1VdXF4ZHZBRm9sZU9QdXRKcnJUWXBHWXpxNzVOUF9BS1pMcjJleGJ5bWdDZHBLM2ZCLTVHNHJ3MG8tT3ZGRks1V3U3UmZqRVRxU2FodFBUX2VjZzBGNlZTdmtyUUFkVjZ0Y2dBV0ltNWQtS0F6Rm9FeTlZWUNrVUV3eEgyY3RaX20yaFYzM0lRWGdrek1VSEZzaFdrYjdfc1dKNUNtaFJod3BwQ0VBSENXQnRJTy1UTW9aMi13N0FJV1k2TXN0N1doUURKWDIwbTd2Ymx5cTItXzRGekIyRk5ILXI1SDR4UExiUjl3ckdzUDFvMUY2WWlMeC1GQTFtU2VuZnFQem9wQ2EtMU5BdXVJN2g4d9IB4AJBVV95cUxON0xtel9ENlA4SVo5N21GanUwTERmd0pkek5ZeTVlWElpbUk4VmJHVGVjM3VwYTdVa001NTNGWUM3RUFhTk40c3pRN09ycGpRRUhuTmFHZnNockZTVWE2UEZSNXlkY2hNWjFHMGpnN1Z3OVVnQ0lVVzFKNS1RbkRxaF9oSWhKZTE2T1NUTWZaTmszT2ZKajV3YWNjTkQwWElNbVN6dHN1ZnpvS1hFbk9wMGN1dzRLRkUwOGg1VEVSUzh5ZXVIQllFSG14cGJtcXRBc2dRcWp6RVlYMXM5OTI1OWVMRjZfRUVkS0xwV25xeWZJLVZfM1plS3RILTlSRVduVzN2VVc3SkRMMFhhMUNXZ1VVSGpYWUdUV05KeDlsWjkxVHpEUktmQXJORjJETmJpV1BfV3poU3dIQzA0M3NaQjhiWmlQZ2xtTHk2endIMGJZX1UzSEhfbEk5RDNuZE04?oc=5"
   },
   {
-   "id": "pl-13457",
-   "fonte": "PeaceLink",
-   "titolo": "Smile Meeting: Incontri che lasciano il segno",
-   "tipo": "incontro",
-   "inizio": "2026-11-07T09:00",
-   "luogo": "Verona, Vicolo de Pozzo 1, VR",
-   "citta": "VR",
-   "regione": "Veneto",
-   "coord": [
-    45.44794,
-    11.00606
-   ],
-   "link": "https://www.peacelink.it/calendario/event.php?id=13457",
-   "online": false
-  },
-  {
    "id": "pl-13497",
    "fonte": "PeaceLink",
    "titolo": "Il Poliedro della Pace III - Europa: radici e prospettive",
@@ -2145,6 +2109,22 @@
     15.70696
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13497",
+   "online": false
+  },
+  {
+   "id": "pl-13457",
+   "fonte": "PeaceLink",
+   "titolo": "Smile Meeting: Incontri che lasciano il segno",
+   "tipo": "incontro",
+   "inizio": "2026-11-07T09:00",
+   "luogo": "Verona, Vicolo de Pozzo 1, VR",
+   "citta": "VR",
+   "regione": "Veneto",
+   "coord": [
+    45.44794,
+    11.00606
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13457",
    "online": false
   },
   {
@@ -2367,7 +2347,7 @@
     11.25564
    ],
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGxUbklVSTJLdXVHdjdyTVl2Qk9rWkQwRDRrbEY0eTM3NzhkR3FxWG1OemJoYXdyVHhwQzJLZ1lXelR2aVlINDFHSHZ3N2RhSEtrb2JvVmFnQk42d0F3bXBhZy1QOElya2t5dmozNGx0ekU3UEE4Z0lmTDNudC1CREVIdGkzZUlvbm5RTy1UWC11dXJlcnk3WllBcUw0T1l2Vlp0bk1rX0x3aWh4?oc=5",
-   "altriArticoli": 5
+   "altriArticoli": 3
   },
   {
    "id": "gn-bHBLWncb2M9NQ",
@@ -2469,6 +2449,23 @@
     7.57762
    ],
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVHRYVWw3YWNfcnROeUFXOVlzNlg0SEdrSzlXUE5EMV94ZUVYYjkyZnJBUmZISzVjLW56amY4OEh2a3dYWk9VNkpGdHhkUWZ1RHNobGpHM3NJUE9TcjdyVXE4QzZMUnNaZDYyTXdncHd5RldiQ3dMd2xaVHRIbjFMeDFQR2VmQjNtT2lxT3VqT0dyWEw3ajJuOU5EUEJQamhtdUxWNzNkUld1UTBySmo1TlhDZW9uSllrRm1vRzFoUmFTdUJPck5FckVvbkZkbnJkcDJqT1JFaU9yb1k1eHA2ZlR5QlRXQk5sb0haLWln?oc=5"
+  },
+  {
+   "id": "gn-VkdkSFUyYz9vYz01",
+   "fonte": "Giornali · ANSA",
+   "titolo": "In Abruzzo cresce l'occupazione, ma persi 69 mila giovani dal 2006",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-10",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-10T15:50:00.000Z",
+   "luogo": "Abruzzo, Italia",
+   "citta": "",
+   "regione": "Abruzzo",
+   "coord": [
+    42.22768,
+    13.85498
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmxaRFZPZ1ZteFRZVS1PNGEtN0s4bGp6R09CNUMxMDdzTElYOVRZcHlHcjJIX1dkN1NLdjRSU3owaFRBVnBFYV93T2NfaDRfbVRmd0NlNy0tQlVNZDhNT1pwdlpDQXJIb09YLWkyakwyTlR2WktOZGZRcHhLMjZwZ19EYXNnSWM0MGt3dmlwTnA0NDBVbkh6bENNWGlyT0hGMEYwQmhnYXdCREhiZjFiTGdPSXRLdzZWSW4yOUZuT2E0SG1mdk4wcnFpYWEzRmNLOTV3OWo3dlpENFVSbDlIeWpMWnc0Wktn0gHuAUFVX3lxTFBEeUtYMFpLVDBEblNacGpETy1CbE54VlNhVGxsNGpIXzhBU3ZHbkRZendLaEJMWGVjdWd6UkcwVV9ocXFEcDIxMnotQ05jc0t2ZHl2UkF5cDM0Y1N3X0plbVZQU2pyUlF5anczTjRhVWpCcEV4WXpXNTY5UEYzN200RVphWDVWVmFucHNESUJMekR0dXY0dWpoNTJrSjVIWGtwUG13Q1M5c0l6ZG1XQ2ZrZVlDMXJyaDJSc3pLQUxUeE1mNXlaNWdxX3ktTjQ5dzB1N3RYMkZtQmstaWZrQkpMWmVrSkxkd3JwVGdHU2c?oc=5"
   },
   {
    "id": "gn-UzFmWTNOMz9vYz01",
