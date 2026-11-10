@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-10T15:59:03.332Z",
+ "aggiornato": "2026-11-10T17:02:51.275Z",
  "notizie": [
   {
    "titolo": "Il parroco di Gaza, 'con le piogge tende distrutte e aiuti insufficienti'",
@@ -568,6 +568,36 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "Sciopero-presidio a Firenze Nord per l’operaio morto in autostrada (video)",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzFGUk5yaEY0TGlCOVRBRmY4WHVlejdJanAzOFZLNjFGU2UxX29DTnJVa3pvcHJfaWhKSGVGQXpjTGZfcFFEYWxfX1k3X3h1MjdaUjZna2NHY0Y4NE9XVzBYZkk1WWxxTUhRa3E3U2tMM1NlLVM5dDFGb2ZrTmQtdVpsUlBrV2cxVVRGVFZPYU1RZXR2ZE8tZEVxcUFSdDRsdEdmYnF3SXd4UQ?oc=5",
+   "fonte": "CGIL Toscana",
+   "data": "2026-11-10T16:49:32.000Z"
+  },
+  {
+   "titolo": "Torino, blitz al Rettorato: «Prandi dimettiti». Dopo l'occupazione di Palazzo nuovo si alza ancora la tensione all'università",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVXA0cGFtcDhsXzltcTVLbXV3ZUJaR0JKSnZwVGEwa0NVUnVhTnl4ZWRqYXZ0NlhtbUhrUklua3NzVExPLVVrVHpWV2xFLS00OVZRMzBrQkpGRFZ1NnhjN0Zrbm4takdFcUJTN1NRZWViRnZIVm80Qll2blVUZWk5cksxUFpWVlVhNF9HTk1idDNoRXhxRDVDX01HTEtQek1PT3hZa09Kelp5bDJRUjRsUEZrNHREOWZrSGNweG83QXUzZ2hKOGxnbXB3Q0dzOGk4M3hUV1pHWm54Y3ZGQTlZbTQtX1luRmha0gHuAUFVX3lxTE1NaHFmWktOdzJMVThyczlCY3dTNkZhaHJpWDg4X3dDMUExX2hmYUxKT3hpaFJBTjlYd3YybEYxRUI2SktfWVNnLWJPWXBudWdYU21PcDlQUG8zMnRNVVktd0M0T0lRbFlKSWM3bVVWZ1R2RjBsRXo1QmFGTDZMSVNFOTR6SDBVVTJEdUdEX2lDd0NfVGFvMEVNemFHaEJmWnBEdlhjdWo2ZklOdUd2Y2NON3E5d2YxaHlxa3dIT0RJamVOZmotazktMXRJM3R0X0Rsc1RPNXBCMlRPc3l6dXdacm94TFRfeGc3X1o2Nnc?oc=5",
+   "fonte": "Corriere Torino",
+   "data": "2026-11-10T16:27:45.000Z"
+  },
+  {
+   "titolo": "Decreto Sicurezza, mille euro di multa per un presidio: a Torino il primo ricorso",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY3FHVjlVdTdlUF9lQ1BOQi1DNHNJOU5ZVFhJblNTVEczNEdqSy1fMVRMb2dyM1l0NVZTUnpBTE5NZHNZRm1SNEFmNnFnaFVoNEk2RVc3Zk1iNGpUVTFqYUVsUHBTOGM0dHBsdDd5X3hUanpkUnotN2s4WTVKNlVvOHRhZUh2bjFraHBnX0hxZGxwaURSblBDQmE4ZGkwbVFuR2RUWTd3YWw1TWVpQVRSUm1OSnVyc1BiWjVObmZTSy1CSFh0MXhqTlFScU9oUQ?oc=5",
+   "fonte": "Torino Cronaca",
+   "data": "2026-11-10T16:26:32.000Z"
+  },
+  {
+   "titolo": "Trentino-Alto Adige, record di occupazione giovanile e produttività",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNTFZNkhYU0FlMTEtMjhDS05oNTRwT1dabUFaMU94TDJxSTh0T2hnZ0NpbDdKS1RVTWdmT1VfeGFxTlQ4TlpOcTcyTDRTUWo5N2xFVmF0QmxnOUxXV2RxRy1ucUN2dW1VMGk1bXRvRG9MWW5UMDBpTWFlV0l4OUhKOHZzZ0VqVzZXZmtXa0d0MTV3OEdSMlF3X1BldTVWcHg4TjUxaFk4RXRoX1BGSHNpVEx1dGs?oc=5",
+   "fonte": "Corriere dell'Economia",
+   "data": "2026-11-10T16:23:00.000Z"
+  },
+  {
+   "titolo": "Sciopero generale CGIL del 20 novembre: manifestazione a Morbegno per lavoro, salari e pensioni",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOTd4MnRPSERYMXNBemJOM0dJcmFZRGIwSm96ck9nVWh1a0UxZnVVQVJqT3ltQ0JiLXRMMW9vdUhIYl9wWHNrQjc2UUpLd19ta1VLdUY1cWtvV3JWOUVjc24zNlMyTGJRdUhtV2txbUlCU2FQVDQzTXZfQVJOYm5RNUQwNThRd0xzLUx5Q2lVM2pDUEN6M0lyQ0YySy0yVU5jNzdkZF9zTFRJcGNJckI3VHJvbEhKMWRiUEZnTDF2LS1RMUJYX2paTnZqZ2VZS0J5TUE0?oc=5",
+   "fonte": "Radio TSN",
+   "data": "2026-11-10T15:56:14.000Z"
+  },
+  {
    "titolo": "A Torino arrivano le ATP Finals e Gazzetta d’Alba seguirà da vicino la manifestazione",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeUhNRFpaRVR0VzJhdEdXa052X1lMU3ROb1ZaQ2JNR0RqVVByb2RpcUtBNHNaM2ZYQ1p5YkhCbkZYelZwMjNJdWpLSXVEc280d1pJQ3c2MlNkVWQ5a1RWWEdmTVgxZmdPd1hJYTE2Y1NtWkYwZmJGNXJ6UkdpV0NFT3hrd1ZUUnJnazhXLVE4ejdTLUdkTlRfUU84TWhHYmVDN0NmTEhjNVE5enUzU3JJbmtEVWZoMHlSVFNUWVFvRQ?oc=5",
    "fonte": "Gazzetta d'Alba",
@@ -664,6 +694,12 @@
    "data": "2026-11-10T11:54:00.000Z"
   },
   {
+   "titolo": "Morte operaio sull’A11, oggi sciopero e presidio. Uiltrasporti: “Regole da cambiare, non si può morire per garantire la sicurezza agli altri” – ASCOLTA",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNV09aZGc0dUtQaVAtWW9WRlFMdm9XRmdlT1prLXVhbWprbjYyMnNjYlZXT3YwV1huUkNKM3h3SmVCYTIydjVoc3JuQ2tJbFZKUFVQTWJhdnByenI0UzcyZmw2MEhZb2RsYVhSb3g5V0tEWFhmZmVscS1va1JuQkt2SnQ4dGNWQ3d1aHEtb2lwUTdUZTFpRFJNY1Q3UXRyRm1fWXR6akdyLW9HdG41UU13QUxOeDBlc05hVlJ5T1BiTVhTU0pfSE9OM21Bd0VfVi01c3N4dVFXXzFRczVkQkRTN3NFckthSFV6YUFibkM2MlZneDJCS3VzVm80WE1QRnB3STQzbUw4Q1hnUzN3Mnc?oc=5",
+   "fonte": "Novaradio Città Futura",
+   "data": "2026-11-10T11:44:22.000Z"
+  },
+  {
    "titolo": "Sanità pubblica: il 5 dicembre manifestazione nazionale a Roma",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhaHZ1NnNrWHp5WmFLeEtHWkFwRi1MTUxxd1ZxWVlXYW9xQ3o2X3VxOG5yZzVudjlraktzbnNoMEhkY2pYRG1MNUY2UUxDaDd3ZTl6c2poVGhwWDRZOEVCR0ZtTEZhUmNIbV9kbkkzNU50bVp5N2c?oc=5",
    "fonte": "La Discussione",
@@ -724,6 +760,12 @@
    "data": "2026-11-10T11:03:00.000Z"
   },
   {
+   "titolo": "Corteo per pregiudicato: assessore Sicilia, 'anche Chiesa deve interrogarsi'",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRDlFSV9aSDlYOFBodGI3a2xOa0x2SXVLVnVsM3B5RG9zQzFrRXdRSjN2eHREVDRqTnI4cTc0N3ZBY28tTVRfM2UwWmJiUHg0blN3WERlcVkwandTZkxsVm1JNmk4SmJFSm1OTHZ1X0pWVDlIcWUzMnlpRFRKMjlJMnA3eV9NbHp6TGhGTTJGd2dCQ1dGVldydVF3VmJzNktFc3p4c1dtajRwaGlfMHdiMFBycE9UQ29mbXYzUzZzWTBJSGFZVW9sOFBweks3NjNrQi1QZExzMk9oSEg3N3RYQTZtYVBFSi1pWktnMW9aZURXbVXSAfgBQVVfeXFMT1hzd1JJYnFoak5aRkNyVXJ4U3kzQ1E1WXAxdVhpWHBnd3FBbElvZjZiVlUyellpczFjVXQ5eHdYdzR5TmFCY012TmhzUkNnbk1SbExZNXJCMU5SbHBXZGFHSk1Ga1dsYmZaa3Zza0lWQ3ZzYXhaSkFBdThjVm56dWlqNG5EUXlGeG5QQncyZlhkTk9WQlZyRWViLVU4T05UanFjMEZCUzBhNTZUajBfOGhaVjFJN2tFQXVOSzN1dTRSaWtXLUJEdnI4X3cwLUZHSmJGU18wdlJvcXd0Mjh4UExJVHRBYW1KZ0d5cW9WOFkweUMtbWhsNEw?oc=5",
+   "fonte": "ANSA",
+   "data": "2026-11-10T10:48:00.000Z"
+  },
+  {
    "titolo": "Sabato 21 novembre a Cervignano presidio di protesta sul peggioramento del Servizio Sanitario",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmN2Y0lwM1c2MmJsc0h3OHhiOFBRaXZYdWwyNWdYWUg3VkZUSm91V1VabDVycnp2MEoxTlhBTm5uNjBoSU1CWGdGOXl4ekNoNnpzRjN2SEZBb0lRUGxEQ0RiWDlyTWNHYm5za1dfT2Q4SXhSMDNVYUk4NTFjY3V6ZU9TUUQtemVvWU5ubWxzWEpkQUJyblR3UTczZVoxUUtxUTctSndqbWIyZmNLTXRHVG9qcDNDdWs?oc=5",
    "fonte": "Friuli Sera",
@@ -754,10 +796,10 @@
    "data": "2026-11-10T10:29:30.000Z"
   },
   {
-   "titolo": "Morte operaio sull’A11, oggi sciopero e presidio. Uiltrasporti: “Regole da cambiare, non si può morire per garantire la sicurezza agli altri” – ASCOLTA",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNV09aZGc0dUtQaVAtWW9WRlFMdm9XRmdlT1prLXVhbWprbjYyMnNjYlZXT3YwV1huUkNKM3h3SmVCYTIydjVoc3JuQ2tJbFZKUFVQTWJhdnByenI0UzcyZmw2MEhZb2RsYVhSb3g5V0tEWFhmZmVscS1va1JuQkt2SnQ4dGNWQ3d1aHEtb2lwUTdUZTFpRFJNY1Q3UXRyRm1fWXR6akdyLW9HdG41UU13QUxOeDBlc05hVlJ5T1BiTVhTU0pfSE9OM21Bd0VfVi01c3N4dVFXXzFRczVkQkRTN3NFckthSFV6YUFibkM2MlZneDJCS3VzVm80WE1QRnB3STQzbUw4Q1hnUzN3Mnc?oc=5",
-   "fonte": "Novaradio Città Futura",
-   "data": "2026-11-10T10:11:54.000Z"
+   "titolo": "Mammucari (Uila): senza buona occupazione non ci può essere una buona agricoltura",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1dJYWhyRlNtd0ozM2J6SXFkU0VuZloxRjhnRnlmTGRsVDdQOGQzTzlsVC1kYVVyZGpqRWlRV1dRVEh1U0FabWhrcHlpSXhKN0VLV0dldjJuSVQ0T0l5U2xPLVlBVkYwcUFNZ1E1RzZ4ZFpNYm04Q053N1JYUHhBeDYxUTBQdFhHakpVSFoycmhvcmFJaXpWVlpFQTRzZUVGaTAtNDV0d2pTaFk5bTJNcll3?oc=5",
+   "fonte": "Il Diario del Lavoro",
+   "data": "2026-11-10T10:27:01.000Z"
   },
   {
    "titolo": "Ddl bilancio: sanita' pubblica annuncia manifestazione in piazza il 5 dicembre -2-",
@@ -872,6 +914,12 @@
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX2JBbnYxQlZzVUVjUWRGejZmbDRDS3VxdlZJWVlqWG9Yc21RX2JaRWc4a3BqbkVHVXNfLWF0VnBnZU53cUFGWU0tQVV2ZlRhSl9pTDBiRnRMNWtVWXRjQUtSY2E4eWdJLXNNOHpSWXJxYXMyTFhjajBxWXlROTBfUXZBWlF4SWRWd2I1dHY1a0Ytd0l4TjZONlRuNkE5akh6NzdIa1RTZzZpdFVSbVFwTTJLQ21fYTZ6Y3ZUTVdXSVFDRzlTc1NEQnFqRzBhRm9vTzZhWmJEd2RiMmZIR0VF?oc=5",
    "fonte": "Torino Cronaca",
    "data": "2026-11-10T07:00:00.000Z"
+  },
+  {
+   "titolo": "Palermo, a Ballarò corteo funebre per il mafioso Emanuele Rubino: in centinaia con petardi e motorini",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNlFOMHFSVXc0Z0Exd0VCdVVUanFRSEhlQ3k0a3FiTktYUElRX0ZjeGRPeWhGY2o5R3l1QjNKcHNaem5NNTBwc2VXQTFVZDl6LVlpcmFBSW1LT3NTSzFjbG1jalU1dTB2c0h3SDFYZVNBZy13TWlzZlNDbzR6b0RIWkJHc2tZVnBMaTUyaGpBOTkteGJtZEtTUlJQY1I0Yi1xWHRBS2htRWdBRW16OG1PRkNjYXpHd05zQlNZRkVob2pQbWtSaHpwLWN5Zl9QZw?oc=5",
+   "fonte": "Fanpage",
+   "data": "2026-11-10T06:49:04.000Z"
   },
   {
    "titolo": "Occupato il plesso Berti-Pichat: \"Noi studenti diciamo basta al governo\"",
@@ -998,54 +1046,6 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2FiblhrZDFWaTJnZ1FtM1Y2T1pRelVtWHUxeU4weFRYR0VmZHVIaW5MaHJBUGpjeld3Mjl6TDFCdUs3Y2M4aGd0LU42Xzg4X2RZb2NCMUt4V0ZUb042MmRWRGlWRW14bjFhZ2ZvT3JtMFNvbmpJRkRzdFRVaWk3c2ZLQk04cjlGclNHRlJrcXFqOThpTHA1R3JCdnJQN3JnNnhUOW05TjQ2RE03dTFkMWZB?oc=5",
    "fonte": "Il Mattino di Padova",
    "data": "2026-11-09T18:32:28.000Z"
-  },
-  {
-   "titolo": "Cirio: 'La fine dell'occupazione al Campus Einaudi è una buona notizia'",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcHppWFRVWHAzX2RFU01TTnNQXzN3VFo4M0FEMUtzZUhqZWs3SW91bklyeWxtSm1WZTRyOGhzeVdmSEthYmFtZHY5UnZ0WVEySFFuOVcybTlkWW0wTDRmY2VPZlA5WDk5MDRHdDlINHZMdk9mMEhMZDdTcXRmcmEyMkc4YjdzVzJWaUxhZW1ZQ1JrTVF2OGU5X19tSHJzMnZybXZYa3ZuX1o0ejg4WE1EVnJuX0stLXZOWFk5UEpuelMzc0M4dVdOMlo5XzJhYWhWcnd1VllVRzZSMjJqalE4ME9acjNXcXY0eXZCUDBWQkxNOHVjRVUtSXM1Z0JXWGVNd05EeGkxeU43OG9mMGN3TThtQmhDUdIBmwJBVV95cUxOLXVjRFczTmg3ZHpXQUZzMkFmNFZvMlFReW5pZUFtVWdkaENlVHBVSUlmX1RVU3BGRW5DOWhYbU9zSkxUakZYeEE3UUY4SlR0aGxSbXZENncwd1RwMjEwcldzb2M0Q2xfaFdwZDRCc1h4ZEhNcFNsbFRHS2piTjhmVkpzbVRhTEx4Q1hXWGFHeGlzbGNESmpIX292cjlnNVdhdzRWUWRrLV9NLXVXRjlqRjFCNmE4bGVCLU1YR3BLMUhXUW05enNkVmYxVDRiN05EXy11aThTOGlmNkY5d2E3SFk2YzMtZy1Kb1EtU2F0TU5ib2JBNUhYOEdpRUJYRW5GX09mZTE4ZDRxOTVfMm03cVdudnRJM0kxTjJF?oc=5",
-   "fonte": "ANSA",
-   "data": "2026-11-09T18:31:00.000Z"
-  },
-  {
-   "titolo": "Roma, il presidio dei sanitari per Gaza: «Servono veri corridoi umanitari»",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXVfMUd0MXpEY1NsYVRibjZ6ZkpDamhaeFliLTBZM19iWll0eTctNjlYaUxid0cxV3ZFS05xNDBtTHZIaG4wWXhDUW9lZFFpNGRhUnJnS1h1c1loQm1vbmExWENLcGxHbGtQU0tfakQtSVpDYVBBdDRRR01PcVJkbWd6Mk80MDExMGpXRXpWZGx2bFJiX1lhT1JjcDkyS2xFTHJCYXRYYmZNc0ZBSTI1d2VJR2VVUl82YVBoTFoyc1lKMjFrRE1lUGttRVRwQQ?oc=5",
-   "fonte": "la Repubblica",
-   "data": "2026-11-09T18:09:00.000Z"
-  },
-  {
-   "titolo": "Milano propone un presidio ONU per la valutazione indipendente dell’IA – LMF",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZlFaRzRXNGRGQmZHbk1ZTGR3WWhoaEhyOVFZV3hZa29VbmV4ZFNCcU5GY1BqUmdCM1kyVEdYdTVQekZNN3pEajF6M3h3ZmU2Nmt3OXFhTmgzdjBGejVRUzZPRnVObHFScDFNMjdIYVgzR0szUkxVRWx2djA2TzVoelctYUlWWTAtbUpwcmtIWnN6TWdvVnladG9ONlp4QkVpUzlfZjBzQzJIdw?oc=5",
-   "fonte": "LaMiaFinanza",
-   "data": "2026-11-09T17:56:44.000Z"
-  },
-  {
-   "titolo": "Presidio in piazza Unità a Trieste, il confronto tra i manifestanti e il presidente Panteca",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPakktay00dHJPdEhHNjBObU9qSU9QMVllVVd5SEl1dnBhck0zdVpSSXVnUENrbm1qaDRPTTJKaXBibzFIMlBKMXp0MURfanh6X2FiQ2Z2b25uWU1yYzdDeDNzbjZBWkh1SUpmbXRuWXF4U2k5R3owRmg0Ul83cDJFUXlWR0hXX2xRSUZoQThoel9YQXAyTjhJd3B2TjBoeHlyM0Nsc3h6Z2h4ZWNz?oc=5",
-   "fonte": "Il Piccolo",
-   "data": "2026-11-09T17:50:02.000Z"
-  },
-  {
-   "titolo": "Ex Ilva. Fumarola a Sky TG24, «Servono garanzie su occupazione e decarbonizzazione»",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wanU1VE9hbm85STd2NW53aHpRM20xaEJPdHVyVXVsVEQybUoxMXVmdVBNd3NBdzFJQ3VocENuZW9PZVA4UERjV0ltczhfSUVJcUFQMXlnZHhCOVJadlAxMmV2NEQ?oc=5",
-   "fonte": "CISL",
-   "data": "2026-11-09T17:43:54.000Z"
-  },
-  {
-   "titolo": "Presidio davanti al Comune di Trieste dopo incidenti in piazza",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQX2oyS00tdWFGcTItcU9seFBscmRUWGdLVWlDbnRZcTg0ajV1SkFiSVVUZWwyOUxFc2xZaHA3MGpXQzg4Mk1WSGw3SG5XWldhYnhaSk5OY1JVM0w1S1B3UmdUQ003MnM2UFpOZ0VEdkpHT3FPckFhWlN4NkpxZlhkYjV1SzZSRjlUUEV2aDRNbjBKWVdNMDB4WFpZX0dqTC0yN3RIVjN5QjZYbUJQVUNsalJwZUdhTkRZR2Y3djFNbmpFdXQzWHBhdVVkVlFETnVudmg4QlVkb2VqMENtTTVJR1JseHhScXozeXhfTNIB8gFBVV95cUxPM0tDMlB5Z21PWjdFX3dNWHR4bVMxREVfU19QaThEWFpzUlBlVllXeUZtNllrVWJoYnNEcExGVXhYUThiTi16eTRxM0NtakpJdnJQQTJ3SENfUEJvWUxlR3NGQTJTa1FIc1Iwb1d0NnhUNVhTUFkzSThIWEhPcExqTHJoZUdSSjFFTWZodEtPVk81NkRRTV9aRGVCUUZZTk1uR2dtZDBMVXBSZlA4cHVKT1hMTEw5VlMxRG8teVdHVFBQMkFZM1hmWUN1TXFLMzctR29MejhTS0xxZEZDeEJRRGJIMmR1VW5nS0RxbF84TWRNUQ?oc=5",
-   "fonte": "ANSA",
-   "data": "2026-11-09T17:39:00.000Z"
-  },
-  {
-   "titolo": "Presidio davanti al Comune di Trieste dopo incidenti in piazza",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRjh1V0dlREpTTy1nZE1PbUh3a1VyNmo1M2xtU1l2NmtpU285a1JpZnJ5SHJrbFdrTGVLeVRtd201U3VObER4TkRQQThHb2k3U3RleFlid3Rhc3hXeEVOTWtIbE80WE95NzhVS1B4TmN4V1NmdUhEYnJCYUhPSkp6LUNlUlZUeDB2ZGd3cWd4ZTN1MzF6Y285cDNyOGRCX3pRNmU5UUVEcXNqQ283SEl5djQ3NDA4c3E4UEtDd1J0UDRHZTQzdzAtdUVDaHFZOE5jYkItRmdqV3M0dVZSbkJOaElvbzVEejNCQnFadVB1ZTVMcnhNMFHSAfsBQVVfeXFMT1FQWWZwTkZvYmJ4VlpzQ3VfVGEwZU03Y0xSTHd0VHNUOG9rTHEwUHBGbkt3LVlqdW9OdnYyVWNhcDRvWGxkQ2U1T0FxOExaRUNrMWsxdm5tM3MyOGRhYzB0Vks0akFQLVlVSGFQSE1sLUxkZ2hCUk9MSWFRN3QzVDhSdzVGMnNodzRFRWMtRERla2lYdjBMbWVCTEU5V01UWkFKbUc4VGdMQ2lPSHM0Mm1YZ2tFVEo4eUg3OXNVVnE3VWNVVS1CYUpPY3dFOHpEODJLbmpVbE1FMm1LdnRxM09lak0wem0zR1BGdDVadk9TZkRoWnpYMEs1SUU?oc=5",
-   "fonte": "ANSA",
-   "data": "2026-11-09T17:39:00.000Z"
-  },
-  {
-   "titolo": "Università di Torino, l’occupazione si sposta a Palazzo Nuovo e salta il confronto con la rettrice",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVZvTE8yVjUzQXVmQTN3eGZCWS1XXzMxY1BvVkU4NlVFdXdPZUNLdDN2MHJkQXBtM1ZkVTdiUGh2THJleGVZWjZhTDAtY2dzZ0wtVG9iX2tXODBtZ1ZxcXVpdUZwMWNBcjBmU1B1dXhjUmJIZUQ1UVd4SnZCdng5UDJtcldKUGJaZFZ6RnYzTkgwZFJvTE5EbjZOS1dIN05XcU5oN2twbWhIXzDSAbABQVVfeXFMTWtCWGxxdlQ5bVZ2ZEJlZjR4ZTdSWVNjS2FJUXVFUjJJeDBva05CYkg4T1U0Z2phNDlId1ViUEpDQTZja2l5dlRhcVZxQzRYVlpRbnlwR1RhamVuVFVJWHY4TWxpQUJlSU93MFVQaUZEZXNSRGticktEcXJEYngtZ3RqaGJCZXVKRUVzU0FzNlpZTFBVVWc2b2xxX3doVVUyYWJBcWkyZUt4U3FLelJVa04?oc=5",
-   "fonte": "la Repubblica",
-   "data": "2026-11-09T17:36:22.000Z"
   }
  ],
  "eventi": [
@@ -1114,7 +1114,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZXd0em95N0gySlpCa0V1LUlNMXNnaFhxNWRSV1FiejhSR1kxMXM3UGxDRUlXdmt4RGRjQ2RLbUxmUXFtbTNQNGs5bk5FbTZoMFBFS2tPdVNiRS1vX2VSMGxwcFRUSDFNUDdvVldENTRtaXNFbGw1aXlhVFdqRFlHX1R0MGZ2SEZyN3ZyYzhlNy0yOVZpWE5KZUFvcDM2bXFzcEdtV09IcG5MZzJh?oc=5",
-   "altriArticoli": 77
+   "altriArticoli": 79
   },
   {
    "id": "pl-13514",
@@ -1148,7 +1148,7 @@
     11.34263
    ],
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUW1ON2hJX2pkemR5WWZlOHgyem9SbldXZHRzbUZxOUNUajFHRW9URkNkU1hWZ0xpTXd4Q2JOUkNPZVR2UmpUU2NicnVPWWh4OXVOcDRhbFFiU1otc195NjRHTkMxTFlORWtwRVdLOVhSWWtORHp4SVlCVEN0bWRockl6Uy03eTlnRUYwNnlBNEVWQlJra2lwSkp6cjYtQm44bmQ0MjFtMlJ5V1Qwak1ZbU1jbXlhRUxQS19tWTJrTk5rVHp5VTZXN2doOG8wemhORTZlMHk4M3JKb0xRNXN5TDNBdVh1MVJJeGVN0gHwAUFVX3lxTFBnVXQ5cklLMXlnV202LXU0QXhzYU8yVGtBS29KUVhpNU1GOFE5dXpNRUM2T1lZRlhGeW56Z015blhaU3NSZG04ZmpqWC1jcVJ0RDNZbTl6NGdCSkZPWmpycG9HV3JnNWJtbFpYUDBFQ0FYOFdsZTlmUUVTLS1jZ0w4OWMzU0hMRkx5bk5jZDJhSHItUTk4bE1VU0JoX0JIbFpjZFNZekFMZi1rcjR0a3J3eDBDRHQ0dVhUa0VKcEFiRUFRT0ZCTF90cWlCeWY5eFBoTkNfTTVTVTZEdjh3SkhVc1pTc1dmUm5qYlktbFZVNw?oc=5",
-   "altriArticoli": 5
+   "altriArticoli": 4
   },
   {
    "id": "gn-M1ZzUlZOQj9vYz01",
@@ -1166,7 +1166,7 @@
     11.12974
    ],
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRkNlbUNLSWtYcXhzb1NzNjN5cnRMRzFYSGxzZEI3dTZTSU9RcERMeGNRVzdybUpWcmJJQXVka2drMHA4eE15RjJyLWdzQmE2VUZER2VGWVEwUm80NzF1YjFvb1p3b1cwNGI3R3NDUzN2a0lLSE41TVBwNVIwd2dGTXA5eG4tY2l6dnR6WnIxdVpsZTJOZUh0eUtaTG5mZVJSVml0TFM0RGh0Y3VsRVNB?oc=5",
-   "altriArticoli": 2
+   "altriArticoli": 3
   },
   {
    "id": "gn-SEI1ZHcb2M9NQ",
@@ -1269,7 +1269,7 @@
     12.48293
    ],
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaW1GbDdlVEtDOUJGQ0tZTzBRQTF2WS00LWtZMHlHcHdrTlYxd01aWWpYNzRiVVJ2OGxTTGRkajFpNjdEcVRyUXliMEVtODk4Y2RpdUNPOEJSN1RqTVYxY09WN0NpczhxMldDTFQtVUdHTmpOQ2dmNDJUT19PaUxHakYwS3BXVlpoQ05mdm05dWxtWXRBQU9ONU5vOHhtWHpLRVRuMVA2Z1hfTjZDOE8ybldEa0ItNnJxd0ZaUmVObmtxWW10LU5vMWZpbUUwdUdoXy1pNDNBd0dsa19BeV8w0gHkAUFVX3lxTFBUZUNwQ0tfNHdUMTZWQVpmQ0xFMnJYc2I1SWZ6ZV8wNjh2eWVLMzI2YVpZZ0szVHkzUGlMemgwSENhR2NLbEpPcWIwUlhCSzFJcFlnNW5mOWc4R2VPVDJmV3NMeHE4VmpqalBkX1dXNDBuSTM3NnNUUlRDU09MVFBDeE15VEJLSmVjbVR4MGxtR1VlUU9SQlZpYXVmOFBJMy0yWWJnSWZEaEtRMjZ3ZFUyUUVLYUlmTFVXcUJJbE5zWmpzaEhYc1haTXRPaEdMRXRvX1RQUllkOXRITEVSWFc0Ulh4eQ?oc=5",
-   "altriArticoli": 13
+   "altriArticoli": 12
   },
   {
    "id": "gn-Y1ZGWWR3P29jPTU",
@@ -1510,6 +1510,24 @@
     13.21873
    ],
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzd2bW1zLVpYXzVfX2hjdTd2QmRWdDVSWXNYZHJQdHdpS2RNRnhqS0Nvc0NxR2pQb1locE5QVjA2bm9DR05KWExVYjRSTW1sMFhyWWpnWDZDeGdUbng3SlhLc1NLSGtJZEFCOVdzSnNHRmNLd1lJTmd2RGtwVl8wM0FIbXM4UHY4eC1QYVdwRUZsRXdB?oc=5"
+  },
+  {
+   "id": "gn-SkRWbm8b2M9NQ",
+   "fonte": "Giornali · La Provincia di Cremona",
+   "titolo": "Sei in cerca di occupazione? Ecco le opportunità in provincia",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-03",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-03T10:50:00.000Z",
+   "luogo": "Cremona",
+   "citta": "Cremona",
+   "regione": "Lombardia",
+   "coord": [
+    45.22086,
+    10.03704
+   ],
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS1dYZXNKaHV4ZWNmc0RCZmxaOVpfYXZqUzRfb1ZCem9fNDdMM0RNUXZSc2x2ME9JUE5aSlp5eV9ic3RLMktKNVVpRHFXVW92TUVPQW5BNXppVlJ5blU2YXgybHFXTzNwSUszSy12ZHZvQnVNMkdIX0VFLWN0RUdMVDc0bGs1QjVFaTN3MDdUN2tDQXl0M0xQdEd6WWRSYWdPQVFSQW1zNTNmMDZudlBwNnJDVno?oc=5",
+   "altriArticoli": 5
   },
   {
    "id": "gn-UzFWVFEb2M9NQ",
@@ -1789,24 +1807,6 @@
    "altriArticoli": 5
   },
   {
-   "id": "gn-eFNXc3cb2M9NQ",
-   "fonte": "Giornali · La Provincia di Cremona",
-   "titolo": "Pronto il corteo: «Protestiamo per tutti»",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-06",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-06T20:16:02.000Z",
-   "luogo": "Cremona",
-   "citta": "Cremona",
-   "regione": "Lombardia",
-   "coord": [
-    45.22086,
-    10.03704
-   ],
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbnR3eFFoUUtfaUNmd2J6VTlfZ1FoMGZOcTRhNGczd2g4YWUxOEFjS0ZJWE9GYVRlZTQzUzFVVFFKZFUzWUU5aGl4VC1PMHNOd0tkcEdCMTI0U3pYVF9taHlsZ0pzeDFFVzZLWWdmRHlOOEh5cGxqS3FhZlV5Q1QtUmUyVm5VWTJCRkJ4UWFabXZnam5xSWsw?oc=5",
-   "altriArticoli": 5
-  },
-  {
    "id": "gn-a05GVVEb2M9NQ",
    "fonte": "Giornali · ASL Cagliari",
    "titolo": "PNES: apre alla Cittadella della Salute un presidio dedicato alle donne più vulnerabili",
@@ -2080,7 +2080,7 @@
     11.25564
    ],
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPODVEa3hmY1VtOVd6Y3lNeVJXMFQ3UlNXVFVDOG5wT0hQNXI4elVwclk1bjQ4ZW9MdmZMQTRlaklGaDlHUmZlcTJ0WHFWMkJINC12S19tbXZuaG1zekJEUTI5NGdUREVEUUtuWTNkbVhnNFBLZFdfV0hkTFZBbDYtU1dwU3N6NHMtY2FV?oc=5",
-   "altriArticoli": 2
+   "altriArticoli": 3
   },
   {
    "id": "gn-WE5FYXpabj9vYz01",
@@ -2185,23 +2185,6 @@
     11.34263
    ],
    "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQbG9JMmVta2pjRlhEclp1VXotNFNXS0xGN3FteDFjQkdIc2RlTlF1clFueWowdTBuSWdIdzhrc0hCWHFscGpjLVVGRGtTWk1VdXF4ZHZBRm9sZU9QdXRKcnJUWXBHWXpxNzVOUF9BS1pMcjJleGJ5bWdDZHBLM2ZCLTVHNHJ3MG8tT3ZGRks1V3U3UmZqRVRxU2FodFBUX2VjZzBGNlZTdmtyUUFkVjZ0Y2dBV0ltNWQtS0F6Rm9FeTlZWUNrVUV3eEgyY3RaX20yaFYzM0lRWGdrek1VSEZzaFdrYjdfc1dKNUNtaFJod3BwQ0VBSENXQnRJTy1UTW9aMi13N0FJV1k2TXN0N1doUURKWDIwbTd2Ymx5cTItXzRGekIyRk5ILXI1SDR4UExiUjl3ckdzUDFvMUY2WWlMeC1GQTFtU2VuZnFQem9wQ2EtMU5BdXVJN2g4d9IB4AJBVV95cUxON0xtel9ENlA4SVo5N21GanUwTERmd0pkek5ZeTVlWElpbUk4VmJHVGVjM3VwYTdVa001NTNGWUM3RUFhTk40c3pRN09ycGpRRUhuTmFHZnNockZTVWE2UEZSNXlkY2hNWjFHMGpnN1Z3OVVnQ0lVVzFKNS1RbkRxaF9oSWhKZTE2T1NUTWZaTmszT2ZKajV3YWNjTkQwWElNbVN6dHN1ZnpvS1hFbk9wMGN1dzRLRkUwOGg1VEVSUzh5ZXVIQllFSG14cGJtcXRBc2dRcWp6RVlYMXM5OTI1OWVMRjZfRUVkS0xwV25xeWZJLVZfM1plS3RILTlSRVduVzN2VVc3SkRMMFhhMUNXZ1VVSGpYWUdUV05KeDlsWjkxVHpEUktmQXJORjJETmJpV1BfV3poU3dIQzA0M3NaQjhiWmlQZ2xtTHk2endIMGJZX1UzSEhfbEk5RDNuZE04?oc=5"
-  },
-  {
-   "id": "gn-UVdwbmR3P29jPTU",
-   "fonte": "Giornali · La Nazione",
-   "titolo": "Toscana per i giovani. Tasso di occupazione fra i più alti d’Italia",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-07",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-07T04:28:57.000Z",
-   "luogo": "Toscana, Italia",
-   "citta": "",
-   "regione": "Toscana",
-   "coord": [
-    43.45865,
-    11.13892
-   ],
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOWJGb1FGQ2M4N1p1T0VXQTFmZ0JIY0ExQ0tPbDRmYVRvdVVrZjFhQW5ESDVVZ1kzYUJMMlp1MVpkc0hHbVFWMTRDc2JNS2k3V1NKS3E1LWFGNEpmb0ljc3JNdm5NbkdyVlAxVDEzcl9Dck9leG9BVjMwYVp1QVFYQWpndw?oc=5"
   },
   {
    "id": "pl-13457",
@@ -2352,6 +2335,23 @@
    "altriArticoli": 1
   },
   {
+   "id": "gn-RVVHcHYb2M9NQ",
+   "fonte": "Giornali · ParmaToday",
+   "titolo": "I Giovani Democratici alla manifestazione antifascista: \"Nelle strade di Parma per difendere i nostri valori\"",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-09",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-09T18:19:23.000Z",
+   "luogo": "Parma",
+   "citta": "Parma",
+   "regione": "Emilia-Romagna",
+   "coord": [
+    44.6952,
+    10.09799
+   ],
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOFZkdXNSeXFrYVVVakNtZzQwWDdVR3RGeG1hbTN1S2JpUzUxMzBKcUtndEdBbllNN19yeXc5dWdnUmdiSnVmSjdwUlhHTlF5bl9BODFqYmxSSXAzSE50T0pDWnZFa2c4MEtMYnVmQmpBaGkzWURxZHExZ1JmckUyVG1VRHFsZFZPZEZ4V1ZEUmpfZE9EUGpv?oc=5"
+  },
+  {
    "id": "gn-YWpsUE1uYz9vYz01",
    "fonte": "Giornali · Tv Qui Modena",
    "titolo": "ZONA AUTOCORRIERE, PROGETTO SICUREZZA: NUOVO PRESIDIO E PIU’ CONTROLLI",
@@ -2385,7 +2385,7 @@
     14.15505
    ],
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ3RJX1JaeWV6WWpXM0p3T0xPNmktNkI5bEU3VGtvSWVPeHlWRjVqOUpNZVh1Z1Q2TjJJbWw3MEZZajlFdnMwR19Kckt1bmtONlBOaGc3aGQ4ZzdnR25EWEc0Q0RqMm9uYW5EV0RRYkFQM1Vja2x3YnRYTnBWc3pkYUNMZjlLSG52cFVic3R2TzFXTnc1N3U2bnZCOVRWZy1OV05QYU9SVDdoZVpvUlZzN2JiN0NqMkxaM0xUNFN3TkljVmVzRTlJVzA0QXZrWUFHUGRsRFdCVQ?oc=5",
-   "altriArticoli": 1
+   "altriArticoli": 2
   },
   {
    "id": "gn-R3BNUWxKUj9vYz01",
@@ -2830,8 +2830,7 @@
     43.94654,
     12.63075
    ],
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN3g0dGZWNDg4MF9ZM0RxeWNkNDZlTEpCSHAwZVo1MXFSQWVkWVVDLS1MWXlzY2thNmlGczZNRVBLc2VJcFNhaEd1ZTFhX3ZmVTRrVDlGSHhRTDNJSm90elR1cG9rMklKRDFsdkFQN3N1S3hBTG5YLWpqWTRMLTF4RDlLOXZSeWJxcVBkYmVYLUNPc1pNdW9wNlVfTUdNbFNrSFJiVHhObXdxX2JOZEFnZWpRMlF1ZHI2VkE?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN3g0dGZWNDg4MF9ZM0RxeWNkNDZlTEpCSHAwZVo1MXFSQWVkWVVDLS1MWXlzY2thNmlGczZNRVBLc2VJcFNhaEd1ZTFhX3ZmVTRrVDlGSHhRTDNJSm90elR1cG9rMklKRDFsdkFQN3N1S3hBTG5YLWpqWTRMLTF4RDlLOXZSeWJxcVBkYmVYLUNPc1pNdW9wNlVfTUdNbFNrSFJiVHhObXdxX2JOZEFnZWpRMlF1ZHI2VkE?oc=5"
   },
   {
    "id": "aip-1746217",
@@ -3251,6 +3250,23 @@
     11.94881
    ],
    "link": "https://www.invictapalestina.org/archives/55281"
+  },
+  {
+   "id": "gn-cFJORkUb2M9NQ",
+   "fonte": "Giornali · Telenord",
+   "titolo": "Genova Carignano, il 28 novembre manifestazione podistica contro la violenza di genere",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-28",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-09T11:57:55.000Z",
+   "luogo": "Genova",
+   "citta": "Genova",
+   "regione": "Liguria",
+   "coord": [
+    44.40726,
+    8.93386
+   ],
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzluUW5MU2R6TEJPUTFINGFITGpReEpQVVVNa0N6T0lsZ2ZDc2M1cDU3TTFoald1MlFGcHI5ZmxodFpWdjlyVmtBWnZlVS1rN0NkaGQyMXFuYjFjLUpZRkZ2eGhkYjVNXzVIZm1LWVZHampzVzVZMWlVU1FPRkZIdWctRVpRNFE?oc=5"
   },
   {
    "id": "pl-13453",
