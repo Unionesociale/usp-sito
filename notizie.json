@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-10T06:02:48.692Z",
+ "aggiornato": "2026-11-10T07:23:42.836Z",
  "notizie": [
   {
    "titolo": "Passate le elezioni, il Board of Peace si risveglia all’improvviso",
@@ -562,10 +562,28 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "Call center, sciopero nazionale, mercoledì presidio a Torino sotto il grattacielo della Regione",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX2JBbnYxQlZzVUVjUWRGejZmbDRDS3VxdlZJWVlqWG9Yc21RX2JaRWc4a3BqbkVHVXNfLWF0VnBnZU53cUFGWU0tQVV2ZlRhSl9pTDBiRnRMNWtVWXRjQUtSY2E4eWdJLXNNOHpSWXJxYXMyTFhjajBxWXlROTBfUXZBWlF4SWRWd2I1dHY1a0Ytd0l4TjZONlRuNkE5akh6NzdIa1RTZzZpdFVSbVFwTTJLQ21fYTZ6Y3ZUTVdXSVFDRzlTc1NEQnFqRzBhRm9vTzZhWmJEd2RiMmZIR0VF?oc=5",
+   "fonte": "Torino Cronaca",
+   "data": "2026-11-10T07:00:01.000Z"
+  },
+  {
+   "titolo": "Torino e Chieri, bus deviati martedì 10 novembre: modifiche per manifestazioni e lavori",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVUlOaGZiX0V0X2V2S1hSSDY1TGJMZG5OMVZuYjFPYXV2ejlvT3Z5c0ZGN3RMNV9VOHBWZHluckRlUW1YSnhSZUpuMmp2SGp3OEhhUzJkR01yZWhTYXR3aVBMV0xSc2lzQjRVa1k5bDJ2c25VelN0eUp4TDUxX2toSlRFa2Y4ZklTSTBnakJkbTF6Nzc0dEUwa0NJc0taeDczQzRLV3hzenVqaE04UEN6Y0lKREV0VEs2SkVCVllqREszQmY3THNaaERFd25QVDFsT1hkZA?oc=5",
+   "fonte": "Torino Cronaca",
+   "data": "2026-11-10T06:30:00.000Z"
+  },
+  {
    "titolo": "Contributo di solidarietà, 25 miliardi per servizi pubblici e occupazione",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUDFxMmVnLXR3Uk9MUHFoLV92UlZEb1hhNDh5alFvNVFOU1dvdmRGTXVwU2p6bk41ckw1UVVab3hYc2d0YzdlWjFqNndtS0lZVmRHX0lOOVQzM3dLdDhlTS1tSFp5VUFyT0dfeWc5UWlsdlJNQmtJcUkwY2djenhDa1Z2QU5YNU1MN1lRUVJ6TFN4czBkWlBXdS1KRkM3NmpDQnM5NDNCeFBWYW1kelZ2clpOcGVFQ3R6M19RRmtfUmZVTFJ6?oc=5",
    "fonte": "Collettiva",
    "data": "2026-11-10T05:38:56.000Z"
+  },
+  {
+   "titolo": "Eolico sul crinale. Il presidio a Firenze per dire \"No grazie\"",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY05kNjRXYlA5dWNJeWs5Zm5QZVhfMmZBd2N4RTBDVlRBUFJZYWdGN3oyc1FZbWYyMzFiU2lKajloRlhYbEZZSXFmVmI4OTlrRFFjbW5JVENGalpNZjFVdER6djVCT3RvVVl2blBKWDR1VENEZHlSVWI2UFdKUWVBekRHdWZoWTg?oc=5",
+   "fonte": "La Nazione",
+   "data": "2026-11-10T04:36:35.000Z"
   },
   {
    "titolo": "Campus Einaudi, fine dell'occupazione dopo 14 giorni. Ora la protesta di Torino si sposta a Palazzo Nuovo",
@@ -578,6 +596,12 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc1l2MWVha1ktQ2xXRU4zcXhWSzIzbFQ0VlRHOWZrR29Ca0pEUW9jVWNxQVA4dURWRjJaWEl2XzZJNUxkYlV4ekR1Nlh2b1BGQ0kwVXJtdjV2aEhldW1FeEsyN19hR1ZxV3UxTGtka2JmSEwwMlh6Yk1kcFVlVmZwdzNZN2pxalphXzZRRWNrT1NPMFR2c1lVcGFnYw?oc=5",
    "fonte": "Radio Gold News",
    "data": "2026-11-10T04:30:00.000Z"
+  },
+  {
+   "titolo": "Hotel Elvezia, ancora presidio sociale a Pesaro: 19enne chiama il 118 e lo mandano lì",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTWFuVjd1Y0xBNFlwUWNwdkY5UHYwekJWMVN6V0F5cUdqSlkwWDBmYkwxb3NJVUlHN1R6b0VaZGtJTUI1Nmo3ZTZ5Sl9WaHBOWk5EenZhWkJramM4dl8wX1Vwd2lUX2N2SUJSRk1YZm9OVlQxUnY4aC1vRlRjY09IOFdxVTNYLW56T19KRDg4MmNmMkN4cWg4eXBoNVdWbm5UenNGZVJxdE5zT3lqNGRPMWMyaTZBSGktZUtoUUhjZ3ROOEdIUFdxWVdhRdIB0AFBVV95cUxPcEl5SWptanhmSXVvZFc3LWs4TzBuT3NCd09tZ093UzNTQnRmQ3ZIUS1uT2lhNFdFOU1sT2QyZjVUbEsyT3VUTWhyQlFxV1hNbzE2aXoyc2RpVG9QVGNNRGxqSWhVeUc4SFV4bHhPY1lEN2NMT1VWRU1xX1JLWGx1ZXZDclJwSHl3VUE0eC1ycmVtZ1BLNW9KVmIwNnU2YXhKZWRON1BLa1ZwZXUyWUNwY29acWtwU3ZhcWx6UUZ6T2dYdGJTQVpERHFpRkd0OWwz?oc=5",
+   "fonte": "Corriere Adriatico",
+   "data": "2026-11-10T02:20:03.000Z"
   },
   {
    "titolo": "Bologna, occupazione e caos nel liceo simbolo. Il Comune: “Ora fermatevi”",
@@ -608,6 +632,12 @@
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMXlyZ093Q0swbERwYTJsMUxOeWxNSEVySTlQUTVKa2dLaGlWaEVYQzVxNlZHZzB0NFpkLUllRmJNQ3BiOVRJVXNkX29SdGdlTzhSSVlfcU9iTVhzY3N3RjFzX2pScl9DR2s3WXFhTmxNeGJKUkhiYWlWTzhZRk1fYnM0MHBhTkJHYW9TTXg2QWxCZ1pnZDZRR1A4cGpySVhNaXRXcDBTajRaRFZoU28zVGs5dEhWSEdEX2pYbmFvNmVpOHh2azE1Zk04WVU0dFlTa05razUzalhFclJENDdIVVhrNFcybHhEWl9oTVhsR0hyUEFHUHJr?oc=5",
    "fonte": "ANSA",
    "data": "2026-11-09T20:05:00.000Z"
+  },
+  {
+   "titolo": "Lavoratori dello Spettacolo, il presidio anche a Brescia: «Basta stipendi fermi»",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMjlEazFrakFCVEdScXpXaXBfYkRvU1BWS19UN0sxQ0RFNHY0dVR1S244cnRLczBleXp6Z3Y3ZjEzTFpiQm1ZS1hCdWtNTVRueG1rUXR4a1RNM1F0dmg5U0Y0cVc1VjI1Ry1GRVBDcGtDOU1ld3pOQzR0cU9vSk05c05pZzZIUEZVMTlEclc4eVBCT3ZJa2FvWDRpbC15MWVDR1J2Q2h3TXNTWHdWS1BmVEgzWGZUbkN0c19zUnZQeTdRVXpUUE1FVmd3bThjbnpsQm1oQmNIZnpXUmPSAeABQVVfeXFMUEMwYUhXa29iU1dZbVd3T2plVDJHb0JJTlhfNHg3ODJqWHFCRVJ1VEtQUmE3MU9hdWV5TGd5R2pOMXJSNHdFYzNCYjZxelljblh4Y00tSzMwTVR0bGNDeTJsVlV4SjJ6azh4ckFDQWJiZEpKd1NxcngxWDM3ZEF0NzlaX2xfTzNrbDZIMnJnaWFieTFjbDJZQjQ0UjI0TmR4cHRQd1V5WVRYdk4teHhNMmE3QnVIYjBuUlJrbFdEMkszbEJ2MVlzbVZjd0pfVG5QVG1RaWlFSnotY1djeDlteFE?oc=5",
+   "fonte": "Bresciaoggi",
+   "data": "2026-11-09T19:31:58.000Z"
   },
   {
    "titolo": "Università occupata, ora gli studenti si prendono Palazzo Nuovo e chiedono sostegno ai prof",
@@ -856,6 +886,12 @@
    "data": "2026-11-09T14:25:00.000Z"
   },
   {
+   "titolo": "Campus Einaudi, salta l’incontro fra studenti e rettrice. “Polizia schierata, presidio impossibile”",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS3djbHhwYWgyRXMxYU5pRGRRVHV2UGFfa3Q4YzlHbF9GTEdObWRJVk9XVGdvSERtNFdsMzJLcVZMV3FoWUY1MU4xVlMwX3pzdk5XSTd4eXUwWXh5X3hmQzZNNnY1WkxicllVaU9uRXpBSkdCa1dRRHRfWE9YRWxzbzk2emJKTHQ5WkdZTTNCNVA1blZYVjdPRnE3WW1Pbm5talZNZk81YVZTd2tEZkUwNDFZTUtDWURTNUw2dDRjNNIBxAFBVV95cUxPdlJwSmQyUjFUWDNFS2hVN1plaElDM1NETmZ1RVhmRHpFcG1ocm15cGVKYUpqdVkzaTNDSUh6dTBUZFZERzJTTGE3ZnU3dW53UlY3SkZqZXd5eU96S1BWZUYxbVJxbFNXeXpKSHVXdHg4RlFGSzFlZ0EzMHI4VFBTdEk3TGplVm9VcU5ab3NUb0c2S2k0ZklNU1hCaGMzMVdDZG9uVEJOVUFPYzdXSjZNU3REUXg2SkpOMkxMM3FsRllkUEhu?oc=5",
+   "fonte": "La Stampa",
+   "data": "2026-11-09T14:20:00.000Z"
+  },
+  {
    "titolo": "Termina dopo 14 giorni l'occupazione al Campus Einaudi a Torino",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLURtN0ZILUJDZ0JBLS1ROHJvMW1wMW53LWk0bXBWWGpTYjFtbGZfYUVJQk54cTV6TWxZUXV4dnR2U09rVmdDYjJabnFpeGVCX1NqMHpwOU1DbFNPV1ZpWEpvTXY3VHU2X1JvcWktb0tVRFRJdTNFTGs4WUlQdkpPV3FsX0FyMlJ3UlVMWjM5SnJhR19ydmFSRGl2akY0aEVuYWMtMVRycVNLb1pMWHdwSzFsVXFWVy1tTi03SjFTeDkzSHdLNWIyLWk4M2V0T2NvZDd3d1RrVzVNWlhhd1ozX01aSzlWbWN0WFNzaNIB8gFBVV95cUxOdVVOdVhTcUp0X0ctamtreVlobV9BcU9wTHJRUXZsczRZR2wxZ3d2QnpTLWFSdjVBX1BnZ3oxX1Ffc2g1Tnk2aUF1U2tHeExYcjRyM1FsYkdxaXFsdWZPNEFWTks5eFQ5SzRZMDJfVUE1d2Z2aGU3VGRXRjlNWXVwZGVfRm55djJuZGlfdUVnNHlaRHNueldvSlVoNk82S1VxeVVRU1UyZ0VxWF9nMm9IUDRGSy1rRklQeDJnaC1CVkkzaFYtV1dmTHMtemlSS1VYMDhJZ3B5VXIyQ1lReVlVQzA5a2NoZ3pYMnA1TDAyLUtwdw?oc=5",
    "fonte": "ANSA",
@@ -1004,42 +1040,6 @@
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkozcjlDdURLUTVqZTZsVUE5OTdoT0d1RmM4bG5ZRDJmLWpNX0R6WmxNeE9RSUFTRE1qTXhGb1NORmEwZjAtaHhsMmlrODFaQ0lSX2I3elE0STZuYXZ5RWlfOVZrZm0yVS1UTE1xZFFkZTJNczh0SUZfTUstRGVkbl9MWDhoV3N5OWU4dw?oc=5",
    "fonte": "PisaToday",
    "data": "2026-11-09T11:17:27.000Z"
-  },
-  {
-   "titolo": "Italia – A Modica, dal 16 al 22 novembre, la manifestazione «Il Valore dei Teleri a Modica»",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMDZMaFdGYjE2QWZwLVlrYjBkb3FHRERVVDV2RVVQaXd3ZVA3OVROYTdrRmtxLW1ra0lrOHFDVlFvWVdzN2xQMVZLa1dqUEowaDlzbUZINTlPUkxFWTcxdm5zTVlFYTVtcG9WaGFnSWZQbXN6R29KVzk5TldIYU9Iamp1LUFBR1o1WlA2X2xYMS1KMXRsMDdnSVZFbURCXzg3SWFacEtOTEpNbW8xc1RuWXF4ZU0tQTNuOXVNZG96Mm5KbUhRZzJiaTlldTFialc1N2c?oc=5",
-   "fonte": "ANS - Agenzia iNfo Salesiana",
-   "data": "2026-11-09T11:08:45.000Z"
-  },
-  {
-   "titolo": "Scuole: occupazioni studentesche al liceo Da Vigo Nicoloso nelle sedi di Recco, Rapallo e Chiavari",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd2s2R0dsUy1MeGtqb1lDc2hCR2RBaXFMSUY5R3JoaDFaRW5sczctQS1tYmlOV2F1RUhYak1SeEJ5OC1iMFdVZXdZMXhucDVUUkFwX0FHb09RU3lzUi1aNFZYZ1BWbUZVbEtzanhYM3hqVlpxTmF6aWM4aWliRlkzUnNqblprTXRxYW9XNw?oc=5",
-   "fonte": "Il Secolo XIX",
-   "data": "2026-11-09T11:05:00.000Z"
-  },
-  {
-   "titolo": "L'istituto nautico Gioeni Trabia occupato: \"La scuola cade a pezzi, vogliamo essere ascoltati\"",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSWl3bGk3MXVzVkpPSWRhelR2UVlKTkFLOGpxT1VSeWpnZi1KV1JGOHp0a3NMLXh4ZDViZjRKeEVMdzJJZHNUcE84WWZua2pPTm5waE9kaXJvZTROODJaU25DeWxIakNFekd1SVVFYjZnS0VZdmpjcm9iSVdETUpSdlhlQWFQTjdVeGNraDVOcFEtN0tG?oc=5",
-   "fonte": "PalermoToday",
-   "data": "2026-11-09T10:54:39.000Z"
-  },
-  {
-   "titolo": "Vigili del fuoco in protesta: giovedì 12 corteo e sit-in a Bergamo",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWh2akJIcEwzRjlVWmRYeVQtbWdKcmExcVVPQk5xWklVNkh3ZndRZ0lGSU90Qkh3T3FqTGYyTldtdEctSWN1QVhfblJ1SmFXT1U3SkpKZTRZSVBXeW5CUlhLZGhxak5VcmpxZmRtTnNjbHUxeEdQaHJ1NUoxclBwZnhjYUdpQWQzQUVQS2lwUkhRTWRiN1ZtOU93aEFsSWM?oc=5",
-   "fonte": "Prima Bergamo",
-   "data": "2026-11-09T10:53:07.000Z"
-  },
-  {
-   "titolo": "Its Melfi, presidio di protesta sotto la Regione Basilicata",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZTcwck9wVmpGY0M4N3ZURkcxWkFLbk5fNnhHdTAwdmZJT1BhY0Zsd0ZMbmhucnEwWTZQNFE2MEdrU1Bsd0d5RzQxNS1kVnRSZTJxcGN2UkNWTm1XSVk4RHZDQUV6VFRLcjgxV1YtVklIQmNFY2xJQ0plUGkydWhsZ2NFekd0eTNBY3NibXpYZTlRMF9sMkNaVUwwVVJ5T1ZnMnZJMA?oc=5",
-   "fonte": "Basilicata24",
-   "data": "2026-11-09T10:23:00.000Z"
-  },
-  {
-   "titolo": "“Condividiamo la protesta, non paralizzare il Campus”: il fronte degli studenti contro l’occupazione",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeU5SYTdjcWhMMmV1STd4b1BheTBPTXpaN3BZOTkxendmMUpTeUd5djRaUU9LeVdTSXNhOURIWXJRNnV2M0Z1dXVnREs1c0h2SWN3QTM5Q1NTT0Y2RWtsZXJZVkxkVGx6V2JIa01mSWZac0wyUUlOdEZtMzF1RTU0a1BIOTQ5X2FucndFZnhDdllXMVFHX2ZiQzMtR1dVSktqN0dvYUQ1ZDV5bl9EUzZRMF9PRVRkeVdvUjRxbUZqQdIBxAFBVV95cUxOX2JkYXdJWGd0SlU2T1dPSGhlQjczSEpIN2dFaFBtUllSN3pGY001a1N4bnBVcjN4andpTFpNenZidHNHbFY1M1FMSmtfbElyYXJiZ2ZEVF9idG1IaW1xTjRXekJLSTBqLTAzQ0x3R05HM3lNMjJ6TE5XXzgycmtWUHFGYktXYXBwbmFsT3ZSZC01WWxqVktqZDBUeGM2RUpLUjl1aWtkNTdoM2JYUlR6TWtWa1lFRWg3TzE3Q29NeFU2Y1dI?oc=5",
-   "fonte": "La Stampa",
-   "data": "2026-11-09T10:22:00.000Z"
   }
  ],
  "eventi": [
@@ -1108,7 +1108,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZXd0em95N0gySlpCa0V1LUlNMXNnaFhxNWRSV1FiejhSR1kxMXM3UGxDRUlXdmt4RGRjQ2RLbUxmUXFtbTNQNGs5bk5FbTZoMFBFS2tPdVNiRS1vX2VSMGxwcFRUSDFNUDdvVldENTRtaXNFbGw1aXlhVFdqRFlHX1R0MGZ2SEZyN3ZyYzhlNy0yOVZpWE5KZUFvcDM2bXFzcEdtV09IcG5MZzJh?oc=5",
-   "altriArticoli": 74
+   "altriArticoli": 75
   },
   {
    "id": "pl-13514",
@@ -1831,7 +1831,7 @@
     11.25564
    ],
    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSWlXV0VheUtJNW5Ocnpjal81NjNWSmo5d3lOaV8tZWhieHlOT1hEbFoxRnNEZzhjRkFOWUxYSEppbHJrZnhOMVRqNGpDT1ZGcG5YTXhrUWM0SFJqRG9sSHNfa0NJME9ETk4tNDFnd2Qta3F3cFBXa3htYUJSVlIxOVFfaUhfWlVKR05BOHo5al9zNVNYYVVKVWZwRmtUbGFPaGIySVhUOHRucEd3T2FtZThpeFJvVVlKeW9tMWQ1Nl9Dc0cwb1JsRFVNS0R3cEliaUhkeDJWRHVkTWNEY19HNUtzRlBnX0p0SWZjbE5QSnJSc1JUTWcyd2dpUW1na3BLMzY0VlBKLVBidEhyejRoQVN30gGXAkFVX3lxTE9aTWhMOGwzVkVLV1dLeVZKYWpmNTZwNFJuMk1qbGRIRV9Wb21pcnJDM1FtVHE3RmJ3TndDY0phZVZwSGVySjFaVWVfSGh3YjdOdlY2dzQxR2EzRWJYNHRrVTB4RzkwZnhPOHp5bWpHTm5LVGhWUzRGZVdid1JkN1J3MWlsQ3FxVy1aUjhGcng2SEVGNHItaE5uMXkxVnphVWdCUlNWamU3S3hHUFc0S05BbnNybWdPTUxUcnhpUzJCZ2pJb3libmllVU1VMmg3TEVYdmdTOTJxOTBibVFfY1I2MTVzTXU4R2FidXRiSm5hYnB0QkVjaGZQb0F0MmEwcEFoNlF5ekZ1V2l1LWpfUU04dDYybWwwVQ?oc=5",
-   "altriArticoli": 6
+   "altriArticoli": 7
   },
   {
    "id": "gn-a05GVVEb2M9NQ",
@@ -2347,23 +2347,6 @@
    "link": "https://www.invictapalestina.org/archives/55281"
   },
   {
-   "id": "gn-RGwzTncb2M9NQ",
-   "fonte": "Giornali · La Provincia di Como",
-   "titolo": "Flauti, tamburi e danze: ad Albate il corteo dei buddisti",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-08",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-08T18:09:49.000Z",
-   "luogo": "Como",
-   "citta": "Como",
-   "regione": "Lombardia",
-   "coord": [
-    45.93959,
-    9.14936
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObDZfbjdPM04xNnhvZXJwN2I3NHk2T1BVQldUOVlPRkoyNVFhNUV2bUJOajBRY3lxOHlrcWtMd0l1MFNtZmpHMGVqS2NuYVl1TzVSQ0J6NnBDOFVOaEdDYVp6cWdvUXlJcWcxZmctcFFYdk53bmhJVzVKZFZLcllWemRibjI0U0Z0QkdDV21iLS1pc2gxUkhLbXY2enZKRTVHb01pNk9ZamI4M1BZbDlqMi1zNU9mMEdoOFU2akRlNnd5M3F3MDl3Nw?oc=5"
-  },
-  {
    "id": "gn-ZGpVMWFYST9vYz01",
    "fonte": "Giornali · Il Cittadino di Monza e Brianza",
    "titolo": "Monza: nuovo presidio delle Gev a Cederna, con la polizia locale",
@@ -2395,6 +2378,24 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13522",
    "online": false
+  },
+  {
+   "id": "gn-ZURsdGVGRT9vYz01",
+   "fonte": "Giornali · Bresciaoggi",
+   "titolo": "Lavoratori dello Spettacolo, il presidio anche a Brescia: «Basta stipendi fermi»",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-09",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-09T19:31:58.000Z",
+   "luogo": "Brescia",
+   "citta": "Brescia",
+   "regione": "Lombardia",
+   "coord": [
+    45.77958,
+    10.42587
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMjlEazFrakFCVEdScXpXaXBfYkRvU1BWS19UN0sxQ0RFNHY0dVR1S244cnRLczBleXp6Z3Y3ZjEzTFpiQm1ZS1hCdWtNTVRueG1rUXR4a1RNM1F0dmg5U0Y0cVc1VjI1Ry1GRVBDcGtDOU1ld3pOQzR0cU9vSk05c05pZzZIUEZVMTlEclc4eVBCT3ZJa2FvWDRpbC15MWVDR1J2Q2h3TXNTWHdWS1BmVEgzWGZUbkN0c19zUnZQeTdRVXpUUE1FVmd3bThjbnpsQm1oQmNIZnpXUmPSAeABQVVfeXFMUEMwYUhXa29iU1dZbVd3T2plVDJHb0JJTlhfNHg3ODJqWHFCRVJ1VEtQUmE3MU9hdWV5TGd5R2pOMXJSNHdFYzNCYjZxelljblh4Y00tSzMwTVR0bGNDeTJsVlV4SjJ6azh4ckFDQWJiZEpKd1NxcngxWDM3ZEF0NzlaX2xfTzNrbDZIMnJnaWFieTFjbDJZQjQ0UjI0TmR4cHRQd1V5WVRYdk4teHhNMmE3QnVIYjBuUlJrbFdEMkszbEJ2MVlzbVZjd0pfVG5QVG1RaWlFSnotY1djeDlteFE?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "gn-YWpsUE1uYz9vYz01",
@@ -2432,40 +2433,6 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-RFFtbHlZdz9vYz01",
-   "fonte": "Giornali · Confartigianato Brescia",
-   "titolo": "Contributi a fondo perduto fino a 3.500 euro per manifestazioni fieristiche in Italia e in Lombardia",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-09",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-09T15:07:18.000Z",
-   "luogo": "Brescia",
-   "citta": "Brescia",
-   "regione": "Lombardia",
-   "coord": [
-    45.77958,
-    10.42587
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUTNWSWdLQnhKbzU5RkY5RXRyVXZSTjZwTmplX0VGeUVOTlRSMGtjaVlmV0RUVFBreUtld0d1djh1T1V3YXl3TkRGWE5XajRuaGRQZVdHT1BBSnZIelF2NmhiNzd1UUprZXlmd2lyeU1pV0RyVGxReTdyVGNweDZ4RlZZNGR6cVNKUXRpdS1VQ0FTcDBuU3VVcGpIaTJzNGF0Ukl5WlJNcDlielBJQmVzQ0lVVzNhQlRpZFZWcXlab0hsbjBnbW11YjY0SXAzNWszV3ZDQmlyYw?oc=5"
-  },
-  {
-   "id": "gn-T0d0bFdnP29jPTU",
-   "fonte": "Giornali · Oggi Treviso",
-   "titolo": "Sicurezza stradale a Castelfranco: cittadini in presidio come “strisce pedonali umane”",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-09",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-09T14:25:00.000Z",
-   "luogo": "Treviso",
-   "citta": "Treviso",
-   "regione": "Veneto",
-   "coord": [
-    45.80669,
-    12.20632
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObEtxOVlsdUduUHVSSFpZTzYyRnJoYWxibWUyNXNwcl8xd0tTdDhYWVhTN1F1ck9lOXVCSDA3dWhEbzNhRDFqX0xVWmVuSnZGS2FFYm5HV1ZrMUk3aGxuUVBUZXdXVGg2TFJMYWR1Qk5sVW5tdTlzMDE5YjdOVXBtbGRsSkRSeW41TFlGdzIyRGVzcHFmWmZ4dy1jU3hWRHRnVmV3ckI0S0NTX0NkWE1LWE95U3pRc2VCaTJQcU94ZUcxbjhTcDJPUFhCM3RsWUtYOGtlWg?oc=5"
-  },
-  {
    "id": "gn-NlJIQlpTUT9vYz01",
    "fonte": "Giornali · RaiNews",
    "titolo": "In Emilia-Romagna salgono PIL e occupazione, ma il futuro resta incerto",
@@ -2499,6 +2466,23 @@
    ],
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNlFoSGZWLS1JbVdRS0w4WFNIZmI4V1ZPcFBUdXFCN0Y0cnBMV3ZBZ093cC03ZThLWEp0enU0eFZMYXNTMG16UXlIR0t4VWZrc1NfS1ZlQlZ4QlBvUE9wTnhXUzFRQjl0ZnZSb1JocmNJa01nakQ0ZlFKQ2dRcVVZYy1NSmt1UjlQMkV0S1lmYkxteHYxNG9NV2VXV3FneWVsN0xkSXdkZjUyRGNEVDZCaWppSWV4eGtVaDQ4UmdNNUNQWU9rNVZqc2YtcGhxMkhIcUZtcF93TlpKZw?oc=5",
    "altriArticoli": 1
+  },
+  {
+   "id": "gn-T1dVNGR3P29jPTU",
+   "fonte": "Giornali · PisaToday",
+   "titolo": "Occupato il liceo Buonarroti di Pisa: \"I soldi in armamenti vengano reindirizzati alle nostre scuole\"",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-09",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-09T11:17:27.000Z",
+   "luogo": "Pisa",
+   "citta": "Pisa",
+   "regione": "Toscana",
+   "coord": [
+    43.47147,
+    10.67979
+   ],
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkozcjlDdURLUTVqZTZsVUE5OTdoT0d1RmM4bG5ZRDJmLWpNX0R6WmxNeE9RSUFTRE1qTXhGb1NORmEwZjAtaHhsMmlrODFaQ0lSX2I3elE0STZuYXZ5RWlfOVZrZm0yVS1UTE1xZFFkZTJNczh0SUZfTUstRGVkbl9MWDhoV3N5OWU4dw?oc=5"
   },
   {
    "id": "gn-YUVGc1NXTT9vYz01",
@@ -2599,6 +2583,23 @@
     10.13955
    ],
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1742358/-/massa-colpevoli-di-palestina-presidio-davanti-al-tribunale"
+  },
+  {
+   "id": "gn-VDFoa1pBP29jPTU",
+   "fonte": "Giornali · Torino Cronaca",
+   "titolo": "Torino e Chieri, bus deviati martedì 10 novembre: modifiche per manifestazioni e lavori",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-10",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-10T06:30:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVUlOaGZiX0V0X2V2S1hSSDY1TGJMZG5OMVZuYjFPYXV2ejlvT3Z5c0ZGN3RMNV9VOHBWZHluckRlUW1YSnhSZUpuMmp2SGp3OEhhUzJkR01yZWhTYXR3aVBMV0xSc2lzQjRVa1k5bDJ2c25VelN0eUp4TDUxX2toSlRFa2Y4ZklTSTBnakJkbTF6Nzc0dEUwa0NJc0taeDczQzRLV3hzenVqaE04UEN6Y0lKREV0VEs2SkVCVllqREszQmY3THNaaERFd25QVDFsT1hkZA?oc=5"
   },
   {
    "id": "aip-1746213",
