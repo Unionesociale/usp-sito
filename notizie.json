@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-09T23:49:56.828Z",
+ "aggiornato": "2026-11-10T01:14:39.849Z",
  "notizie": [
   {
    "titolo": "Passate le elezioni, il Board of Peace si risveglia all’improvviso",
@@ -562,10 +562,16 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "Bologna, occupazione e caos nel liceo simbolo. Il Comune: “Ora fermatevi”",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc0twblZldnBvSVMyRC1BR2ZXZU9QaEl1SVNYR0RvM29xb0pveV9IMjNYMlVnaWpFTjlJaGNWY3FJZEl0M1N5d2xtVl9RZWZsZXlTWUMzSVJxZVBvdG5wVV94Um9mQUZVXy03WE4yN29oUlBaLUUwcUlYV0ZHOFVlUEkwS09aai1fSlhOcw?oc=5",
+   "fonte": "Il Resto del Carlino",
+   "data": "2026-11-10T01:10:00.000Z"
+  },
+  {
    "titolo": "Call center, sciopero in Sardegna: oltre 2mila lavoratori a rischio, presidio davanti alla Prefettura",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUVBLNERhS21TTHJoemdPZUhnUnJQMG11VXBEU2J1SHZnUmFnNkxrNDJ1MGl2TEFkY2JIRDViVG5XaEpqbDFyMjZTQ1NYbzJWSTBiOUpjYktCdU5FeEpWSHFvR1psQlQtNTk1bTFSNFJuWllCSmEwendqcjRuYThiUUtMblBWdWtqMHdSZTI1c0dUNm8?oc=5",
    "fonte": "CagliariToday",
-   "data": "2026-11-09T23:11:57.000Z"
+   "data": "2026-11-09T23:57:46.000Z"
   },
   {
    "titolo": "Palermo, corteo funebre con petardi in centro per un pregiudicato",
@@ -584,12 +590,6 @@
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMXlyZ093Q0swbERwYTJsMUxOeWxNSEVySTlQUTVKa2dLaGlWaEVYQzVxNlZHZzB0NFpkLUllRmJNQ3BiOVRJVXNkX29SdGdlTzhSSVlfcU9iTVhzY3N3RjFzX2pScl9DR2s3WXFhTmxNeGJKUkhiYWlWTzhZRk1fYnM0MHBhTkJHYW9TTXg2QWxCZ1pnZDZRR1A4cGpySVhNaXRXcDBTajRaRFZoU28zVGs5dEhWSEdEX2pYbmFvNmVpOHh2azE1Zk04WVU0dFlTa05razUzalhFclJENDdIVVhrNFcybHhEWl9oTVhsR0hyUEFHUHJr?oc=5",
    "fonte": "ANSA",
    "data": "2026-11-09T20:05:00.000Z"
-  },
-  {
-   "titolo": "Pregiudicato muore a Palermo, il corteo funebre diventa uno show",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQWFUUGpiejJMRlRaM2diRDhEMFVmOE85MFdKQTB6SF9qVnpNMlZfRDZESEVPNUtMQWNSSDFlRTEtRGR2QWRCRGlfOWFPYXdHdjZxVk5kRkJMUU5CV3BTdVdWaGJOa0xrS25WOU9TR3FOT2hBeThCQ1B4WGw1UnJ5UXJ6dTBBZS1LbGdqcWdSQmJZcHZxR1FFWHFic254ZzlFVmdCS0hrWUctNG1OYWYzckpHSnNKZXFDbTF0RF9iYVdUQ1JNY2NqS0ZialZXRlpCSWNPSmlKNnV3V3FHVE1sOXdZQURVeWVvMXF3R3lHVdIB9AFBVV95cUxNdER5TnhCazdMSmRxOTg1WUhXZXN3b3ZIdGMyUGRfcUZ4WFdLRkZLamYxS3M0QlNmVGVzMDNyNVVMR3pPWU51YXJJRVJFWko1d3Vna0RMdFQ0WnU5WkhhLW5vU2RrbUU3UXJwQ1BUM0ZGTmJIUW9PT0M2VzZINDNRMXZzMFdPUlIxX2JLMFpwSk5tWEpuT3lFZ2FqRFo3UTJwcHlWRmpSaGFad05JVHpTeG1ZcGJ0c2J4VVMzMzJuelFPR2k4c1pJSF9reXd4TUl5end4NTRfeDc3Y2ZFRDh4cHpsY1VxdEVIYV9hTkE1ckNyU1Ry?oc=5",
-   "fonte": "ANSA",
-   "data": "2026-11-09T19:00:00.000Z"
   },
   {
    "titolo": "L’occupazione dell’Università di Torino si sposta a Palazzo Nuovo dopo due settimane al Campus Einaudi",
@@ -808,6 +808,12 @@
    "data": "2026-11-09T15:00:19.000Z"
   },
   {
+   "titolo": "Pregiudicato muore a Palermo, il corteo funebre diventa uno show",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQWFUUGpiejJMRlRaM2diRDhEMFVmOE85MFdKQTB6SF9qVnpNMlZfRDZESEVPNUtMQWNSSDFlRTEtRGR2QWRCRGlfOWFPYXdHdjZxVk5kRkJMUU5CV3BTdVdWaGJOa0xrS25WOU9TR3FOT2hBeThCQ1B4WGw1UnJ5UXJ6dTBBZS1LbGdqcWdSQmJZcHZxR1FFWHFic254ZzlFVmdCS0hrWUctNG1OYWYzckpHSnNKZXFDbTF0RF9iYVdUQ1JNY2NqS0ZialZXRlpCSWNPSmlKNnV3V3FHVE1sOXdZQURVeWVvMXF3R3lHVdIB9AFBVV95cUxNdER5TnhCazdMSmRxOTg1WUhXZXN3b3ZIdGMyUGRfcUZ4WFdLRkZLamYxS3M0QlNmVGVzMDNyNVVMR3pPWU51YXJJRVJFWko1d3Vna0RMdFQ0WnU5WkhhLW5vU2RrbUU3UXJwQ1BUM0ZGTmJIUW9PT0M2VzZINDNRMXZzMFdPUlIxX2JLMFpwSk5tWEpuT3lFZ2FqRFo3UTJwcHlWRmpSaGFad05JVHpTeG1ZcGJ0c2J4VVMzMzJuelFPR2k4c1pJSF9reXd4TUl5end4NTRfeDc3Y2ZFRDh4cHpsY1VxdEVIYV9hTkE1ckNyU1Ry?oc=5",
+   "fonte": "ANSA",
+   "data": "2026-11-09T15:00:00.000Z"
+  },
+  {
    "titolo": "Torino, nove manifestazioni di interesse per l’ex Askatasuna. Scontro tra Marrone e Comune",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOThXSldkZzFRSWs1UG5NZnBTOEFFd2lTYkdoaEZ2Z2xDQmtyNzBSNjhRNXhXaFJ6YXBpbWdNWTlSZGtQd3RQa2hkWUZGVGdvd2hNa01xdHh2NHI2V09xcWZReUhXbW42bzZhbnZ3aHBjM2ctT3BNdzZKendfTGR4cGRaeDgxanBETVlfYUtZS3RGamRUd1FNbDZZcFdqWkViT09PUl9zdEdLTGhicGpsUi1PamVIZE1Zc2FwMW9qakJsd05aTVh1QWcybmN5ODFD?oc=5",
    "fonte": "Quotidiano Piemontese",
@@ -854,6 +860,12 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVzI5dGNzakJEaE1aV0JvWHpaTkpBcmE3T01qbkpIanE0QXRJYm90dEVUc1N1S01mXzdCOVF4YTJOWGR1WFE0RkRCemR1ZUdBQnVaMWN1S3RRUExsZmp3VWVtNmpxbjdwdlVKSWp6LXljZFM5NWI2d2xjZ1c4Zk5ENTRPdlI5MDRzQy1MbFVPNXF5Yl9TQWtYenNhbmZjMmRXZFhhVUJJcXhlSFI2MFhPcEoteG5JVFh3b0Ntb194cGhHczlONV9BS250amNpdw?oc=5",
    "fonte": "Corriere della Sera",
    "data": "2026-11-09T14:01:06.000Z"
+  },
+  {
+   "titolo": "Da Madrid a Torino, la casa è un diritto\": presidio davanti al Comune",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPb1dZNEVvTXpGeVFRSi1oQWRwei13cFN0MVV6bDBXSC1GZHdXU2M2REUxX2JKR0FReWVud01YTHp3QXYzREZBWFdmcXh1WjZtcTdTWUx0TWpnd1VNV29LbUJ4cnNqUHlKc0stS0tSU2xDcENpQzFkT3A5NkVnN29HWmRSRXJWR3JiOWQ5ekJhVzBLWkMxa1hYUkMtTDFhaWtyWGlWNTlmMmVlNjdJMWotdTNocTJmcVhmLWdFYmJKenBIalFmRHE4RFpyRXRBeGNYVjVtWV9TVDlJZWJaZnk4QndFUDV1UdIB2AFBVV95cUxORktnQWNUR1lHVEExTjBNVjdYTWtNaURXeTdrRUR1UnRONUQ3Tm5mWi13RjlGTFZ4X2hUVVhBTHZKQUZqVFZCUFVqRTNMRXAwZllnRk5fNW5DQXBFSEVnTzBJUEI0QVF2OWdQZng0UHh6X2xUTFA4aGZEY0JXaUc1YXN3MHlnTklVMVpMblNHSG1La01OV1Bsb1hyVk1iYW50UFJXX21jWmpwWFdWZkwwek9wb3U1SG5WWHo2cjJjTW9QYXpNbTN5T0tKSk10eExSR2lncERZV00?oc=5",
+   "fonte": "Torino Oggi",
+   "data": "2026-11-09T13:47:00.000Z"
   },
   {
    "titolo": "Da Madrid a Torino, la casa è un diritto\": presidio davanti al Comune",
@@ -940,6 +952,12 @@
    "data": "2026-11-09T11:47:00.000Z"
   },
   {
+   "titolo": "Morto sul lavoro in autostrada, sciopero e presidio. I sindacati: 'Tragedia che coinvolge tutto il settore'",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUm9NSmQyTlhHaTRSb1M4ZEdUeTktcm5wOFpJV2ZCUUotdVVFTm1tbFU3QWhVdi1VWXJRSldyeEVpM0dONTBtQ3BhdlpSZThjSzdNa29SNVVadWhocnFzb2JyN1JBZVFNTzJSdUlnbGsxdC1OLUZ5QTdGY25JcFZhSDJnUk1WeXNBV2NOclU0NGFwcW1tODRVNVJ1MlR2V29kaEdERmZWYUdrRU5YandRTHUwbnFiczBwNmRxRmtqb1dZS1Zucl9WdHRpSFRNZl9IcG5EWTd3?oc=5",
+   "fonte": "055 Firenze",
+   "data": "2026-11-09T11:33:00.000Z"
+  },
+  {
    "titolo": "Blitz notturni, estintori svuotati e barricate: nelle scuole di Roma continuano proteste e occupazioni",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd3ZDa196ZWdOQkFUV1lSVGhVVXBLVWsteHZ0a2pQOWhTZVhaR3R1ZTdXRFVwaWg2US1mLTg2LTlxMnZtTmQ3OGM2TEdZdHdPVnhOZGxkMTd1bndGdHJJRTFSOENLSkV6YVZYXy1pZjN5bzZFdjVhZEpROGhBb01aNjlhM3U3VkU?oc=5",
    "fonte": "RomaToday",
@@ -962,12 +980,6 @@
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd2s2R0dsUy1MeGtqb1lDc2hCR2RBaXFMSUY5R3JoaDFaRW5sczctQS1tYmlOV2F1RUhYak1SeEJ5OC1iMFdVZXdZMXhucDVUUkFwX0FHb09RU3lzUi1aNFZYZ1BWbUZVbEtzanhYM3hqVlpxTmF6aWM4aWliRlkzUnNqblprTXRxYW9XNw?oc=5",
    "fonte": "Il Secolo XIX",
    "data": "2026-11-09T11:05:00.000Z"
-  },
-  {
-   "titolo": "Morto sul lavoro in autostrada, sciopero e presidio. I sindacati: 'Tragedia che coinvolge tutto il settore'",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUm9NSmQyTlhHaTRSb1M4ZEdUeTktcm5wOFpJV2ZCUUotdVVFTm1tbFU3QWhVdi1VWXJRSldyeEVpM0dONTBtQ3BhdlpSZThjSzdNa29SNVVadWhocnFzb2JyN1JBZVFNTzJSdUlnbGsxdC1OLUZ5QTdGY25JcFZhSDJnUk1WeXNBV2NOclU0NGFwcW1tODRVNVJ1MlR2V29kaEdERmZWYUdrRU5YandRTHUwbnFiczBwNmRxRmtqb1dZS1Zucl9WdHRpSFRNZl9IcG5EWTd3?oc=5",
-   "fonte": "055 Firenze",
-   "data": "2026-11-09T10:56:00.000Z"
   },
   {
    "titolo": "L'istituto nautico Gioeni Trabia occupato: \"La scuola cade a pezzi, vogliamo essere ascoltati\"",
@@ -1028,18 +1040,6 @@
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTnJfYTJYTjNOOTllbXBYWk4wUXVHSFBuWkhQTmM2aUxIM3hxYW1DYi1kSERNTGdGNm1JXzJUa292RDJadlRJY3RaUnNWVEtrckpRb0VCMUpJNmFXb2J1R1RxYTRHcDNWN1JzVVZGaVI1Z1B4WUh5WlFORVNTUnlEUGFmOTEwMmd2LXZHQ2tPc2Y2cmREbmVlaVhxOUx0a1B2M09fSFh4OW10ZUZYdmxxTWhhTHZXN25nMTR6NkRnQjhMV2hYaVJpQkYxeGtyVEE5bTJvczJGLVc?oc=5",
    "fonte": "Unione Monregalese",
    "data": "2026-11-09T08:31:55.000Z"
-  },
-  {
-   "titolo": "Torna in Piemonte il Magico Paese di Natale: al via la ventesima edizione della manifestazione ad Asti, Govone e San Damiano",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ0lLemxPSjRkX1FHa1JYSjVxTFpad2c5QUJiVlpaa2xjOEZSX0FQY3ZtQkJDRDBOaUxfTmdybDhSNFM3a0VqWFJFd2hrUmx1SjBqVXVTUTJEWmV3VTBNVHZfbWNkc3MycEZEN1RhcVZ3dUVHWVFVUU42RDVFbk5hc01aYXVJVDM4TU5UYl9lM3dmMDVHQnFUY1RNSDEtQmxadDBfN2hGQ2lfZHdFaFEtUXBoTTUyM2Z5RWJfOVFVVUxjNnlBbVdaLUpPQVNWY0tldzYtS1NaSXpwYkJocGpSNmhlWTZrYXdVTEFmc9IB8gFBVV95cUxQWGM5NFJDV3pNN01iSDFKNG5lY1llRVdlbnBMeWhIbmZTN0M3Q1hDbGc4Nk5XUDRVZVp2V2FQTkZmSGM5X3dlYkdGanlITHRyaEtnaWp6TV9RaFJFNktFNWRnT0tLTW1GTTE4dXRaU2lBWXN0ZEZZRklqVExWSDFxODM0VVJnVzF2cVJ1eXZtbGcwLWRfczJ0emRPS0xqZ0RmeFlGUFlPbUh1c1FzYVJyUFJLQ3FvZUxaTjlaVXk0bFZHVklzUU5nTlVwa2F3OVhwN25VRXB0aWFZQ2RodDVBUkl1X2lNcGpJY3BTdUw4VjZFdw?oc=5",
-   "fonte": "Il Messaggero",
-   "data": "2026-11-09T07:51:55.000Z"
-  },
-  {
-   "titolo": "Livorno, tutti gli istituti restano occupati: «Ma ora la protesta cambi veste»",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa1lqaDJrVGNxTTRuTGVObFpxQjNIQmRWdXRtOGJvcjQxeVdKQ3k0dzRhNi0tb3BfalNuRFZEbVl5T0c4a2tzSGtkLXk4RUlaS2lfWjNFcFRqS01mN2tSSjZvMTRiN0VoMXIxejZwcnRYcWYzY0steTZDRmxPTjMwLVNTV0VZcUcwQjdNRlF6a2ROTnlHTjd1V1hlRFEteUVaMEJjbEE1dFAxeHRDUDNhQWNHNGZaTnp0TXE0RVNlczRSMmVJMlpIekM1d2hyTjZQTXhDYnM2R2lPMDA?oc=5",
-   "fonte": "Il Tirreno",
-   "data": "2026-11-09T07:18:00.000Z"
   }
  ],
  "eventi": [
@@ -1108,7 +1108,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZXd0em95N0gySlpCa0V1LUlNMXNnaFhxNWRSV1FiejhSR1kxMXM3UGxDRUlXdmt4RGRjQ2RLbUxmUXFtbTNQNGs5bk5FbTZoMFBFS2tPdVNiRS1vX2VSMGxwcFRUSDFNUDdvVldENTRtaXNFbGw1aXlhVFdqRFlHX1R0MGZ2SEZyN3ZyYzhlNy0yOVZpWE5KZUFvcDM2bXFzcEdtV09IcG5MZzJh?oc=5",
-   "altriArticoli": 72
+   "altriArticoli": 73
   },
   {
    "id": "pl-13514",
@@ -1142,7 +1142,7 @@
     11.34263
    ],
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUW1ON2hJX2pkemR5WWZlOHgyem9SbldXZHRzbUZxOUNUajFHRW9URkNkU1hWZ0xpTXd4Q2JOUkNPZVR2UmpUU2NicnVPWWh4OXVOcDRhbFFiU1otc195NjRHTkMxTFlORWtwRVdLOVhSWWtORHp4SVlCVEN0bWRockl6Uy03eTlnRUYwNnlBNEVWQlJra2lwSkp6cjYtQm44bmQ0MjFtMlJ5V1Qwak1ZbU1jbXlhRUxQS19tWTJrTk5rVHp5VTZXN2doOG8wemhORTZlMHk4M3JKb0xRNXN5TDNBdVh1MVJJeGVN0gHwAUFVX3lxTFBnVXQ5cklLMXlnV202LXU0QXhzYU8yVGtBS29KUVhpNU1GOFE5dXpNRUM2T1lZRlhGeW56Z015blhaU3NSZG04ZmpqWC1jcVJ0RDNZbTl6NGdCSkZPWmpycG9HV3JnNWJtbFpYUDBFQ0FYOFdsZTlmUUVTLS1jZ0w4OWMzU0hMRkx5bk5jZDJhSHItUTk4bE1VU0JoX0JIbFpjZFNZekFMZi1rcjR0a3J3eDBDRHQ0dVhUa0VKcEFiRUFRT0ZCTF90cWlCeWY5eFBoTkNfTTVTVTZEdjh3SkhVc1pTc1dmUm5qYlktbFZVNw?oc=5",
-   "altriArticoli": 4
+   "altriArticoli": 5
   },
   {
    "id": "gn-SEI1ZHcb2M9NQ",
@@ -2053,7 +2053,7 @@
     9.18963
    ],
    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPLTZxamlkb2N3andJR2hDaFg4R1BxM0FXZ3ZkZkY5ZEI2R2ZiSnExMTZmNXhrTWNwanc1Yy1ZQWRmZWROS1lsbmFGT1F4U0J3dkR3cHo1U2NzQ3VLVUdVaTVWakk4ZExNSzNWWndqYVc1S1NxLXRlbnhBNy1DN1dRandXNVR3d1p1NWFJYWY0blgxazBxV3Z0bHl4WUF0U3FyanJsYjZva3NpRFRhNm5wY3FuUHhDMVdtSHQ1TEdTZ0xBRjFvQ3RMTEpKQXliT0x0aTIxc0MzMEYtM3diR2JxYlFSZlJOLVRGMFZFc1BISEVWYWNsc3JnZFd5RjVyQQ?oc=5",
-   "altriArticoli": 4
+   "altriArticoli": 5
   },
   {
    "id": "gn-amRNY2xsQj9vYz01",
@@ -2141,25 +2141,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVzk5S2hEM25iYV8xdE5STUY1MDE2YThpaWE0TDBTM3dKMDJwdHEtV1BBdDByRXV2aXBwaXotcVVoMW1oWTBwaEJlNHBaVjVxcFkwcXJMeVJvYWRIeThKenAxTFdaeGdmS2ZLUjM5QWwzcHlTYkNnZmp0SjNmdG9ldTBQUnE3dFBlZHNFN1FYTlJOMk4tc0RVTUlVcmlYTXdFRHdNSU51RDBQOWxtTnZ0VUJGTmE5d1c5X1J1OV9B0gHDAUFVX3lxTE14S3FoVERNeUZweUhFaEFwRjVkSnBMaUdOYWVuZi1CTnI5NHhmNGhzb1dOV1AtT1F2MEFxSFZlTW90WUs5WTQwSTlsdjVvLXB0THFIOWlVYld1VmszVnBSNU5VRV9yeEZISGo2SHFiVmFkVjJlYVZLMHBHYnlLNnRjWUp5QWZnRFpsenVadlBDN0M5ZjVuOFVVWmkzZWdITkVWU0owa2Q4Y1duamptQmRRa0xzN3d4T1ZoVWpHSExBZVBiTQ?oc=5",
-   "altriArticoli": 9
-  },
-  {
-   "id": "gn-UlJXbFZJP29jPTU",
-   "fonte": "Giornali · L'Eco di Bergamo",
-   "titolo": "Vigili del fuoco, sit-in e corteo di protesta fino in Prefettura",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-07",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-07T12:54:04.000Z",
-   "luogo": "Bergamo",
-   "citta": "Bergamo",
-   "regione": "Lombardia",
-   "coord": [
-    45.75666,
-    9.75422
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaU5XSXNlUE42d3hLVVRxSzBMWFQzZkt0ck5GdVVtTmxfQ1RleUo4bTQzXzRIQjBMSjhCWDFLNTdwQi1laHlwRElIVmVFZVowa1Y5Mk02MGhtN3JDWkFKTDg3elNEVm91YU5POTljekpmV1g5U0N4S3ZuNjFhTk9KNlM3QktiMlZ1aE5XclBqOGZGTTljUnhONGxkeVQwNkt5eF9HcTM0ODA5QUFnVHpOamRWbHZxUzdCTnBfRWhOeEZWZlJreFFRUEs2RXRRWlVI?oc=5",
-   "altriArticoli": 1
+   "altriArticoli": 8
   },
   {
    "id": "gn-WE5FYXpabj9vYz01",
@@ -2484,23 +2466,6 @@
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUTNWSWdLQnhKbzU5RkY5RXRyVXZSTjZwTmplX0VGeUVOTlRSMGtjaVlmV0RUVFBreUtld0d1djh1T1V3YXl3TkRGWE5XajRuaGRQZVdHT1BBSnZIelF2NmhiNzd1UUprZXlmd2lyeU1pV0RyVGxReTdyVGNweDZ4RlZZNGR6cVNKUXRpdS1VQ0FTcDBuU3VVcGpIaTJzNGF0Ukl5WlJNcDlielBJQmVzQ0lVVzNhQlRpZFZWcXlab0hsbjBnbW11YjY0SXAzNWszV3ZDQmlyYw?oc=5"
   },
   {
-   "id": "gn-T0d0bFdnP29jPTU",
-   "fonte": "Giornali · Oggi Treviso",
-   "titolo": "Sicurezza stradale a Castelfranco: cittadini in presidio come “strisce pedonali umane”",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-09",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-09T14:25:00.000Z",
-   "luogo": "Treviso",
-   "citta": "Treviso",
-   "regione": "Veneto",
-   "coord": [
-    45.80669,
-    12.20632
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObEtxOVlsdUduUHVSSFpZTzYyRnJoYWxibWUyNXNwcl8xd0tTdDhYWVhTN1F1ck9lOXVCSDA3dWhEbzNhRDFqX0xVWmVuSnZGS2FFYm5HV1ZrMUk3aGxuUVBUZXdXVGg2TFJMYWR1Qk5sVW5tdTlzMDE5YjdOVXBtbGRsSkRSeW41TFlGdzIyRGVzcHFmWmZ4dy1jU3hWRHRnVmV3ckI0S0NTX0NkWE1LWE95U3pRc2VCaTJQcU94ZUcxbjhTcDJPUFhCM3RsWUtYOGtlWg?oc=5"
-  },
-  {
    "id": "gn-NlJIQlpTUT9vYz01",
    "fonte": "Giornali · RaiNews",
    "titolo": "In Emilia-Romagna salgono PIL e occupazione, ma il futuro resta incerto",
@@ -2551,6 +2516,23 @@
     10.67979
    ],
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkozcjlDdURLUTVqZTZsVUE5OTdoT0d1RmM4bG5ZRDJmLWpNX0R6WmxNeE9RSUFTRE1qTXhGb1NORmEwZjAtaHhsMmlrODFaQ0lSX2I3elE0STZuYXZ5RWlfOVZrZm0yVS1UTE1xZFFkZTJNczh0SUZfTUstRGVkbl9MWDhoV3N5OWU4dw?oc=5"
+  },
+  {
+   "id": "gn-YUVGc1NXTT9vYz01",
+   "fonte": "Giornali · Prima Bergamo",
+   "titolo": "Vigili del fuoco in protesta: giovedì 12 corteo e sit-in a Bergamo",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-09",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-09T10:53:07.000Z",
+   "luogo": "Bergamo",
+   "citta": "Bergamo",
+   "regione": "Lombardia",
+   "coord": [
+    45.75666,
+    9.75422
+   ],
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWh2akJIcEwzRjlVWmRYeVQtbWdKcmExcVVPQk5xWklVNkh3ZndRZ0lGSU90Qkh3T3FqTGYyTldtdEctSWN1QVhfblJ1SmFXT1U3SkpKZTRZSVBXeW5CUlhLZGhxak5VcmpxZmRtTnNjbHUxeEdQaHJ1NUoxclBwZnhjYUdpQWQzQUVQS2lwUkhRTWRiN1ZtOU93aEFsSWM?oc=5"
   },
   {
    "id": "gn-VmpaRmR3P29jPTU",
@@ -3225,23 +3207,6 @@
     11.94881
    ],
    "link": "https://www.invictapalestina.org/archives/55281"
-  },
-  {
-   "id": "gn-cFJORkUb2M9NQ",
-   "fonte": "Giornali · Telenord",
-   "titolo": "Genova Carignano, il 28 novembre manifestazione podistica contro la violenza di genere",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-28",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-09T11:57:55.000Z",
-   "luogo": "Genova",
-   "citta": "Genova",
-   "regione": "Liguria",
-   "coord": [
-    44.40726,
-    8.93386
-   ],
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzluUW5MU2R6TEJPUTFINGFITGpReEpQVVVNa0N6T0lsZ2ZDc2M1cDU3TTFoald1MlFGcHI5ZmxodFpWdjlyVmtBWnZlVS1rN0NkaGQyMXFuYjFjLUpZRkZ2eGhkYjVNXzVIZm1LWVZHampzVzVZMWlVU1FPRkZIdWctRVpRNFE?oc=5"
   },
   {
    "id": "pl-13453",
