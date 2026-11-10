@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-10T17:02:51.275Z",
+ "aggiornato": "2026-11-10T17:56:13.181Z",
  "notizie": [
   {
    "titolo": "Il parroco di Gaza, 'con le piogge tende distrutte e aiuti insufficienti'",
@@ -568,6 +568,24 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "Grugliasco, torna il Salone del Lavoro: oltre 30 realtà per incontrare aziende e trovare un'occupazione",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVHRYVWw3YWNfcnROeUFXOVlzNlg0SEdrSzlXUE5EMV94ZUVYYjkyZnJBUmZISzVjLW56amY4OEh2a3dYWk9VNkpGdHhkUWZ1RHNobGpHM3NJUE9TcjdyVXE4QzZMUnNaZDYyTXdncHd5RldiQ3dMd2xaVHRIbjFMeDFQR2VmQjNtT2lxT3VqT0dyWEw3ajJuOU5EUEJQamhtdUxWNzNkUld1UTBySmo1TlhDZW9uSllrRm1vRzFoUmFTdUJPck5FckVvbkZkbnJkcDJqT1JFaU9yb1k1eHA2ZlR5QlRXQk5sb0haLWln?oc=5",
+   "fonte": "Torino Cronaca",
+   "data": "2026-11-10T17:15:00.000Z"
+  },
+  {
+   "titolo": "Morto sul lavoro in autostrada, sciopero-presidio a Firenze",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc1pwY01zcTYtc2NfNXIwMFB2ZFVveVhCTldsR19GVlNyMHIwdGoySzA4YWxOTnZpeDNiSFhWODY2d01zbUtUdWNkNzFIWFZzLXVVSVR2WjIycXZnRWwzbUhZSmNwYllwX0xQRFRDamFfTkdrTWpmOGh1OWhLREtGYWY2S0drS0lOVDZKeEdVQTQ2akFN?oc=5",
+   "fonte": "Cgil Firenze",
+   "data": "2026-11-10T17:13:45.000Z"
+  },
+  {
+   "titolo": "Morto sul lavoro in autostrada, sciopero-presidio a Firenze (video)",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObExxbjFaaEpjeHRlU3RTUDNLWjJDbGtEQk5vOUFKaHdodElDWUY4V0xEamF5bVhBWlc3R2VWY21NYkJYVGJlYWdVbkU2Si0yZ1ktMWVzQlBLT0tsZjNHbTY1S1dfZ0hBVmFTT2lsTG90X2Q0X2VpODRsUm9qc3kwYzRtaWM4QkpGdkYtdS1wci1ZZTZiVnctNTZPUXpjV1Q3?oc=5",
+   "fonte": "CGIL Toscana",
+   "data": "2026-11-10T16:49:32.000Z"
+  },
+  {
    "titolo": "Sciopero-presidio a Firenze Nord per l’operaio morto in autostrada (video)",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzFGUk5yaEY0TGlCOVRBRmY4WHVlejdJanAzOFZLNjFGU2UxX29DTnJVa3pvcHJfaWhKSGVGQXpjTGZfcFFEYWxfX1k3X3h1MjdaUjZna2NHY0Y4NE9XVzBYZkk1WWxxTUhRa3E3U2tMM1NlLVM5dDFGb2ZrTmQtdVpsUlBrV2cxVVRGVFZPYU1RZXR2ZE8tZEVxcUFSdDRsdEdmYnF3SXd4UQ?oc=5",
    "fonte": "CGIL Toscana",
@@ -592,6 +610,12 @@
    "data": "2026-11-10T16:23:00.000Z"
   },
   {
+   "titolo": "\"Meno repressione più libertà di espressione\": manifestazioni e cortei, circa 30 multe in sei mesi a Torino dopo il nuovo decreto sicurezza",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT1pkTjgxZDNCU21EMEpkaTNKLUN0emZHb0lVU2RFRDZyeTdGX3dJWnV5OGtpbVR5OXFPc2huU01tR1R6a1JaeFRKZERCX0c5aE9DU0h5UVZ0YnM1Ql9MVDM1OUpxcXFYRVRrYldBSURQekdhQloxbGRDOExpa3lWZjRJWVB0bktmNkxwem9BNEZucWE2UkRQOHdqWjFjZmhFbHZyb0VBVmw2Q0xfV3oxWmx5QmlJM1psTm9jZmpRcmk0bmND?oc=5",
+   "fonte": "TorinoToday",
+   "data": "2026-11-10T16:00:00.000Z"
+  },
+  {
    "titolo": "Sciopero generale CGIL del 20 novembre: manifestazione a Morbegno per lavoro, salari e pensioni",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOTd4MnRPSERYMXNBemJOM0dJcmFZRGIwSm96ck9nVWh1a0UxZnVVQVJqT3ltQ0JiLXRMMW9vdUhIYl9wWHNrQjc2UUpLd19ta1VLdUY1cWtvV3JWOUVjc24zNlMyTGJRdUhtV2txbUlCU2FQVDQzTXZfQVJOYm5RNUQwNThRd0xzLUx5Q2lVM2pDUEN6M0lyQ0YySy0yVU5jNzdkZF9zTFRJcGNJckI3VHJvbEhKMWRiUEZnTDF2LS1RMUJYX2paTnZqZ2VZS0J5TUE0?oc=5",
    "fonte": "Radio TSN",
@@ -602,6 +626,12 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeUhNRFpaRVR0VzJhdEdXa052X1lMU3ROb1ZaQ2JNR0RqVVByb2RpcUtBNHNaM2ZYQ1p5YkhCbkZYelZwMjNJdWpLSXVEc280d1pJQ3c2MlNkVWQ5a1RWWEdmTVgxZmdPd1hJYTE2Y1NtWkYwZmJGNXJ6UkdpV0NFT3hrd1ZUUnJnazhXLVE4ejdTLUdkTlRfUU84TWhHYmVDN0NmTEhjNVE5enUzU3JJbmtEVWZoMHlSVFNUWVFvRQ?oc=5",
    "fonte": "Gazzetta d'Alba",
    "data": "2026-11-10T15:51:31.000Z"
+  },
+  {
+   "titolo": "Blitz all'alba, fumogeni e presidi barricati: nuove scuole occupate a Roma. La mappa",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTWxYZGJtRVBlcGllZnNHZHlKbzZyQ3ZLelFrTGN3Q1lYVVR5QTVUNWVBMWFIXy1GQURmbkZkWUhNMXFUQWVZS292dHJRV0psM2lITmN6dVFXY1FtcVp0WVcwODVPaUlVVXI2aVlURktZWGp4Z0N1ekowTnUyaC1kU2hxUEw5ZjUt?oc=5",
+   "fonte": "RomaToday",
+   "data": "2026-11-10T15:40:00.000Z"
   },
   {
    "titolo": "Call center, sciopero nazionale l’11 novembre: presidio a Torino",
@@ -850,6 +880,12 @@
    "data": "2026-11-10T09:29:46.000Z"
   },
   {
+   "titolo": "Monna Agnese, finita l’occupazione: decisivo l’incontro in Provincia",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ2NXSGpjX3VULTd1VXVkclR2UFdSSmVUN3VScmp2MEI0QWVXdE0wLW1neG5KX0lzS1pCeUktU2NrV3AtQ3hoNFc4QVhOMVN3cTM2Q19wS1RUeUgtTHJjTVFqV0Z1dG9JdVNTWmNDS0xGaFMwTDZIbEE4THNYc1dReFMyRDdXSjhkVnNmdE82T18zR2hoLVVfT3NlNkXSAaIBQVVfeXFMTThDNkFwWkVWd1BpLWhtc3NXRDNaM1d4dHNwUFhBOFktZk12cTFsMkZ1TEFJb3pNQ1lhaVhsYVkyXzBuenJmSEZWVHlmTTVzTk42dEMzMW53dFppM3hYa29pc1BVU3ViTWhoQzZydXFyYmtnNTl1YUVEZVNqenVDaWY4a3lGZHM5VVZwdWZVaTF4MlVSZklBSkdKSGpiek1ZMU5B?oc=5",
+   "fonte": "Gazzetta di Siena",
+   "data": "2026-11-10T09:28:02.000Z"
+  },
+  {
    "titolo": "Presidio lavoratori enti pubblici di ricerca",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb2wtdjcxcDFHVXpQWGZtWF9ZYUhYSlRQSTRJZ25xLTJyVFJBM3B4LUlhbnBiUDdxazdhNmJFS2plakhncF9QYlp1OU1JR21Tb3JyWDZQTGJRMGRVUXQxQjlGMmV3VzE5M18yZW83ZnlpbTg5Z2tibVA1UC03ZjFaaWpsWU5GQXc3QURLRGhKTTZ2aV8zZ0RaOA?oc=5",
    "fonte": "CGIL",
@@ -1010,42 +1046,6 @@
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQWFUUGpiejJMRlRaM2diRDhEMFVmOE85MFdKQTB6SF9qVnpNMlZfRDZESEVPNUtMQWNSSDFlRTEtRGR2QWRCRGlfOWFPYXdHdjZxVk5kRkJMUU5CV3BTdVdWaGJOa0xrS25WOU9TR3FOT2hBeThCQ1B4WGw1UnJ5UXJ6dTBBZS1LbGdqcWdSQmJZcHZxR1FFWHFic254ZzlFVmdCS0hrWUctNG1OYWYzckpHSnNKZXFDbTF0RF9iYVdUQ1JNY2NqS0ZialZXRlpCSWNPSmlKNnV3V3FHVE1sOXdZQURVeWVvMXF3R3lHVdIB9AFBVV95cUxNdER5TnhCazdMSmRxOTg1WUhXZXN3b3ZIdGMyUGRfcUZ4WFdLRkZLamYxS3M0QlNmVGVzMDNyNVVMR3pPWU51YXJJRVJFWko1d3Vna0RMdFQ0WnU5WkhhLW5vU2RrbUU3UXJwQ1BUM0ZGTmJIUW9PT0M2VzZINDNRMXZzMFdPUlIxX2JLMFpwSk5tWEpuT3lFZ2FqRFo3UTJwcHlWRmpSaGFad05JVHpTeG1ZcGJ0c2J4VVMzMzJuelFPR2k4c1pJSF9reXd4TUl5end4NTRfeDc3Y2ZFRDh4cHpsY1VxdEVIYV9hTkE1ckNyU1Ry?oc=5",
    "fonte": "ANSA",
    "data": "2026-11-09T19:00:00.000Z"
-  },
-  {
-   "titolo": "L’occupazione dell’Università di Torino si sposta a Palazzo Nuovo dopo due settimane al Campus Einaudi",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeU0tYVZXbXlfYTItYVJWXzMydXZDVDFJcTktNU9tX0tSNGJCNGlHRUpLYTNlOEx6MktxOWFiWklVOFNkTG1PV2UwYWNfR2RVMm9sbU9PZFNBbVJjbUYzX2tNeU1fVHprSXlHSlBfTHcxT3I1Qm1HWnVZTmdqWXVtRGlDa0NpZzF2M2VNV2Jvb0RfNzA?oc=5",
-   "fonte": "Quotidiano Piemontese",
-   "data": "2026-11-09T18:54:53.000Z"
-  },
-  {
-   "titolo": "Palermo passa il corteo del funerale del boss: motorini rombanti e negozi chiusi",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdU1paHdrM2JZUHhTVTVQOWFIVW5VcHZfUEJxeDlVYUhMaTRCUE1yZmVqV1I1ZkRGUTNtQXZHQjZOQkNmQVM1VWZsYThzTEtJSkNPbmVMWHllUzBlcTJHQklqcHBQUXJSQUswV1Z3ZnNIVTVkckloYWZIeDRXV3hadnVoUkk5QmdWYU1NT2todDNfVnRWSnhqOHF1MUpOelN4QllGZGZ6SkFacVlBOW1VRFNKaGlzT3Z1NVpsVWVUbENnRjhBRkVxWnItUEV4RS1qMW04cVlLYjdWUjk3U0E?oc=5",
-   "fonte": "la Repubblica",
-   "data": "2026-11-09T18:52:00.000Z"
-  },
-  {
-   "titolo": "Occupato Palazzo Nuovo. Dopo 14 giorni riaperto il Campus Einaudi",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd182bGx4TjdHdkR5M3QyaUlqVWp3cTBnQTNWSm9IRlBYeUZQU3NxTnRKM1llQ0xQcFY2NDZpRWw2b1lzM3NtZzRoaURZRXF2MFRlb0hfdlh2RTZRS0VzekJ1RlJZbG9kbGhJVUlQNnVoZjd6Q1c5Z0EzQjBoMU53LS1KTldqT2RFSFk2dXlhbWJDUE9VbnVoRzhndWpKcFlab1ZzYjNKQ1BocXJzWGtqazd3aENrd2hYa0Q0blVHSmpHR0pLbUxaSHduRk82eE9E0gHWAUFVX3lxTFBmMnNodkpsckdxaHhPQWtJYjVHNnYwb3VPZDVuZGc2MDVfOW1EQ2pfelg3dVl5NTNXR1piVV9sOGpxaDhvalJ2NWhxOEdxSkg3M1RPTXQ4QXdUTGR4QklvSlFvRWVBemhXNjN5bFplTldEa1hTeUJILTRXdWRKNDNfZW5OcU5ZdWl1aDF3QXJkOTZHODhVOU42ZVVOeHJxeDBmc1MxbUVFTjhXM2NPM3Vqb21NVWZIdVJxaUY3TUZ6ajRQLXV3T3RnV0JFQl9KWDF1NEpidVE?oc=5",
-   "fonte": "RaiNews",
-   "data": "2026-11-09T18:48:00.000Z"
-  },
-  {
-   "titolo": "Teatri e scritturati, contratto scaduto da 5 anni: a Roma la manifestazione nazionale",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX2pWRVRqalMyb3Bzb3RxM2o3eGdQa25fdUlQNWloTGY1MWJ3aTN6cEVNamx3VGtGdURZdmFZU2lLQlQzUklYYkRKTm84dHdIWUdmbGY2V0thUERnSHc1amRGdF8xa09ZbWRIc3Yza1dod1lVVmZaZjB0c0ZQNWc2Sm1KRVNUOG1Kejk5Y19yb0YxUmw5Y19QXzc5OXFkcDYtaEppUGI4VnQ1dldwUHFTdWkxUlFPWTZI?oc=5",
-   "fonte": "Il Diario del Lavoro",
-   "data": "2026-11-09T18:42:30.000Z"
-  },
-  {
-   "titolo": "Fine dell'occupazione al Campus Einaudi, ma la mobilitazione degli studenti continua: \"Occupiamoci di Palazzo Nuovo\". Marrone: \"Prandi lo impedisca\"",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGlYdDl2NnhaZFhyQUZiUWZxbzhRVWFjNFVwTDhhamFXd0pZOTVJd19XbC1jTF8zUDRESXp0dDNpdGlsZTdjRnVxc0pvV1NCdkp3R0xHdF9jOTEtaWF0YmxEX3hvdF9DUG52Y3lxZFphZDVxTXR5UnRucTMzcUtGc2s3Q2xIbXlfWmxTVTN2aTdCajM5UVo5eV9HaVBHX2dkbXBoYXVWOFlfWVdzZzloNC04QnJqTkg2M2N3Tk5QOTlLTGlVaURURkRkMGtld0c0aS15MnVLZWRMclhyYzJfbjljTE9yYTNkTEN6R2pn?oc=5",
-   "fonte": "TorinoToday",
-   "data": "2026-11-09T18:40:00.000Z"
-  },
-  {
-   "titolo": "Cirio: \"La fine dell'occupazione al Campus Einaudi è una buona notizia",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2FiblhrZDFWaTJnZ1FtM1Y2T1pRelVtWHUxeU4weFRYR0VmZHVIaW5MaHJBUGpjeld3Mjl6TDFCdUs3Y2M4aGd0LU42Xzg4X2RZb2NCMUt4V0ZUb042MmRWRGlWRW14bjFhZ2ZvT3JtMFNvbmpJRkRzdFRVaWk3c2ZLQk04cjlGclNHRlJrcXFqOThpTHA1R3JCdnJQN3JnNnhUOW05TjQ2RE03dTFkMWZB?oc=5",
-   "fonte": "Il Mattino di Padova",
-   "data": "2026-11-09T18:32:28.000Z"
   }
  ],
  "eventi": [
@@ -1236,6 +1236,24 @@
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZHVya1h2ZlMtc2JNelpKcEVST1JFMElsVTQyY0I2SDE5YnRQVU8tUVIySUtwLXVlT1JFV01kbVJtb3UwUHMtMjJzWE5oaFo0R0ZLWVplX2dhWVVHdGw0V25YRmJXRU14YWkyTUQ0TExTWnBLYlZpc05sUjNuX3IwSko2RXhPNFVsa1k3NHlNaHl4TzJzWnQ5V0NYWm1yQnljN19feUJQTTB4eC1NN0VlbzNKU1pFeWNQZXZESUJDa2dObTBzSklPRmNDYWJwX1Rxb0ViQTlVclZ2MnRjR2thY050eFdpZ0HSAeYBQVVfeXFMUG9vMm9HMFI5cFZuVzFGckJxQmx5TkF4ZG1sZE5fRmRlT1ZvQ0ZSNS1uem5YR2p2UEpQOEN0R2Q1OGtRbkcwOFI0X1NiUXNCamVveHFqajNPX1BrbElCQmdKOGUtZTExQXAxb0FLRGowUl9iV3FYRVBYZ0dxLWJENkphSkJESGRNWXpSVUNqSEVCXzR2ZjRteDNYekUyN2tSelBCcXQyLTRnRmhoZWZXTk1DTktUYldNVTdVZ20wSFFKRFBFd245aTdmblpyWTY2SF9nVEF4R2E1elAwZTRaS0VXck5ud0E?oc=5"
   },
   {
+   "id": "gn-ZVVGVmVqRT9vYz01",
+   "fonte": "Giornali · Comune di Napoli",
+   "titolo": "Manifestazione di interesse finalizzata ad acquisire proposte, da parte di soggetti terzi, di calendario dei mercatini dedicati agli hobbisti e agli operatori del proprio ingegno",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-30",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-30T07:00:00.000Z",
+   "luogo": "Napoli",
+   "citta": "Napoli",
+   "regione": "Campania",
+   "coord": [
+    40.83588,
+    14.24877
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNdi1jV1g5TE8zTW84aHlsZFNmclozbTNvUkRwamM1Z09UM0xxekdteVRzdWFzakpPZU53bFFFb0xVM1BHeERheG5iMTJydkdHSUhtR1EtN2NVY0FKTm9KMnpGd3cwYmxLUTZKY2NWZEh6TlFHUENxRDZ0ZlRlV1lRZXlUTnNnZlFtVFlEUnh2ZVRkblV2dHJURXhxSl9EVi0wclZUSTQwZ25QSW1GdjF4R0RLNmR1eGpEdXN1UWRKbnB5QjdxNnVqakdBVGpZTVFXeFk2ZkJTVzJrSUpOcDF1X3d0b1VBWWdidU5CTzY1Z3lPczgwTFlPb1Iwb1I0OE1SM0lnS0E4dVdLdVNUMDNLbmRINHAyTXJBQVJMZG1Wa3NHbGdfeU5KMXRDTW5ULS1UZ0xYeUFVejE?oc=5",
+   "altriArticoli": 2
+  },
+  {
    "id": "gn-QjZjRVUb2M9NQ",
    "fonte": "Giornali · La Stampa",
    "titolo": "Il corteo contro riarmo e carovita sfila nel centro di Novara - Le immagini",
@@ -1269,7 +1287,7 @@
     12.48293
    ],
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaW1GbDdlVEtDOUJGQ0tZTzBRQTF2WS00LWtZMHlHcHdrTlYxd01aWWpYNzRiVVJ2OGxTTGRkajFpNjdEcVRyUXliMEVtODk4Y2RpdUNPOEJSN1RqTVYxY09WN0NpczhxMldDTFQtVUdHTmpOQ2dmNDJUT19PaUxHakYwS3BXVlpoQ05mdm05dWxtWXRBQU9ONU5vOHhtWHpLRVRuMVA2Z1hfTjZDOE8ybldEa0ItNnJxd0ZaUmVObmtxWW10LU5vMWZpbUUwdUdoXy1pNDNBd0dsa19BeV8w0gHkAUFVX3lxTFBUZUNwQ0tfNHdUMTZWQVpmQ0xFMnJYc2I1SWZ6ZV8wNjh2eWVLMzI2YVpZZ0szVHkzUGlMemgwSENhR2NLbEpPcWIwUlhCSzFJcFlnNW5mOWc4R2VPVDJmV3NMeHE4VmpqalBkX1dXNDBuSTM3NnNUUlRDU09MVFBDeE15VEJLSmVjbVR4MGxtR1VlUU9SQlZpYXVmOFBJMy0yWWJnSWZEaEtRMjZ3ZFUyUUVLYUlmTFVXcUJJbE5zWmpzaEhYc1haTXRPaEdMRXRvX1RQUllkOXRITEVSWFc0Ulh4eQ?oc=5",
-   "altriArticoli": 12
+   "altriArticoli": 13
   },
   {
    "id": "gn-Y1ZGWWR3P29jPTU",
@@ -1824,24 +1842,6 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3IxaXdZdTdyM0NUMnphZlM1OE51WVlRTmZSTDBsSXA4MHIwOHl3bjJYZFNmX0dxZWZjdVFkYnBQM2dCanV6cEc5d1BtRVA5NnpwdGpsM3d6eWhtN0lYaHcyQVlmal9hanpDT1NITGNwOGtLakhQb2NydnVCNkhOaS0zcjA0OVlCYm1LdllyaG1Kd2RxVnhHQm1fRnpIZ2xueVJqY3hvZDdGZ081TmZ2c2tZekNFUQ?oc=5"
   },
   {
-   "id": "gn-aERkRjlPP29jPTU",
-   "fonte": "Giornali · Comune di Napoli",
-   "titolo": "Avviso pubblico per la presentazione di manifestazione di interesse per la partecipazione all’iniziativa “Atelier sociale” Fare lavoro di rete. L’arte di un ricamo collettivo.",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-06",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-06T13:04:00.000Z",
-   "luogo": "Napoli",
-   "citta": "Napoli",
-   "regione": "Campania",
-   "coord": [
-    40.83588,
-    14.24877
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ2VHNlFQNTN5M3pHSGdva05YV3c0TExLZWFPUkV1bV8xY3dGS290OFd5RHRxSmZoTkdVemN2QTNYQkpfWEM5Z0oyaF9mXzNlRDNiV1hqNHhILU9haGFnbWpRV1B3UUY4Z0JxX0NOTEVhT21DRjM4T0h5ZzN0LWg2WWFuQThDdF9O?oc=5",
-   "altriArticoli": 1
-  },
-  {
    "id": "gn-b1RFVTAb2M9NQ",
    "fonte": "Giornali · RaiNews",
    "titolo": "Verona Fieracavalli, entra nel vivo la manifestazione dedicata al mondo equino",
@@ -2062,7 +2062,24 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVzk5S2hEM25iYV8xdE5STUY1MDE2YThpaWE0TDBTM3dKMDJwdHEtV1BBdDByRXV2aXBwaXotcVVoMW1oWTBwaEJlNHBaVjVxcFkwcXJMeVJvYWRIeThKenAxTFdaeGdmS2ZLUjM5QWwzcHlTYkNnZmp0SjNmdG9ldTBQUnE3dFBlZHNFN1FYTlJOMk4tc0RVTUlVcmlYTXdFRHdNSU51RDBQOWxtTnZ0VUJGTmE5d1c5X1J1OV9B0gHDAUFVX3lxTE14S3FoVERNeUZweUhFaEFwRjVkSnBMaUdOYWVuZi1CTnI5NHhmNGhzb1dOV1AtT1F2MEFxSFZlTW90WUs5WTQwSTlsdjVvLXB0THFIOWlVYld1VmszVnBSNU5VRV9yeEZISGo2SHFiVmFkVjJlYVZLMHBHYnlLNnRjWUp5QWZnRFpsenVadlBDN0M5ZjVuOFVVWmkzZWdITkVWU0owa2Q4Y1duamptQmRRa0xzN3d4T1ZoVWpHSExBZVBiTQ?oc=5",
-   "altriArticoli": 7
+   "altriArticoli": 8
+  },
+  {
+   "id": "gn-MUZZY1djP29jPTU",
+   "fonte": "Giornali · Il Quotidiano del Sud",
+   "titolo": "Paradosso Basilicata: cresce l’occupazione e pure i disoccupati",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-07",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-07T13:35:00.000Z",
+   "luogo": "Basilicata, Italia",
+   "citta": "",
+   "regione": "Basilicata",
+   "coord": [
+    40.50057,
+    16.08195
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQazFwQ0NyUWhocUJYU05hLWFKcGdTbDFWOFhyUTBlRzNKRm1RTzNlU2lxSVBQenRQak9hdXRkWWxsTnBDU3hYSThyalA0YVliVndNZGdlQVJvUC1wbk5Scjg4N0toZzFfdkZmdHdkbmJSMjE0R0JWMUdBeVY2Q3NnamY2VkRkZEhvRi1COUdnWUF1aEhUUXZxdlZ5U1o4UHVZYS1rZTQxM2trNVVCaV9yT1VFZk0zajk5NGlGa1Z0UnI1bG1SYmRtalk1dUJuc1FYcWc?oc=5"
   },
   {
    "id": "gn-SE10WTJGVj9vYz01",
@@ -2080,7 +2097,7 @@
     11.25564
    ],
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPODVEa3hmY1VtOVd6Y3lNeVJXMFQ3UlNXVFVDOG5wT0hQNXI4elVwclk1bjQ4ZW9MdmZMQTRlaklGaDlHUmZlcTJ0WHFWMkJINC12S19tbXZuaG1zekJEUTI5NGdUREVEUUtuWTNkbVhnNFBLZFdfV0hkTFZBbDYtU1dwU3N6NHMtY2FV?oc=5",
-   "altriArticoli": 3
+   "altriArticoli": 5
   },
   {
    "id": "gn-WE5FYXpabj9vYz01",
@@ -2114,8 +2131,7 @@
     43.90981,
     12.91312
    ],
-   "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOc0FEWkVMcloyeHpadURTeURHYWwyUV9uc3JrMkdGNjhlRFNuVHpQdkpZNjZLOWZlYnZvOTNZckJaTnI2QlBVQUliSUZzMXBaTFd2d1RhZDU5WGw2LW1fUUI3dzg0YkhTU0pTYTdQR3YwYkdvTEhtN3BFZGdKTVZwTXN6ZDN2V1Z4bnpuZlI1Rlh1eEs2UU0xdTVxTUprVnhsbGlmSmZUZElpQkVhMlFnN1VkTlpRdWRkdXZ4MW1Hb2NIdXJXdWtiTm1UZFlQZml4ZlU2YnNSTmdzTThwVElLcWJUQmNyUGpkTWFFa0dmdUw5czVUNWJ0YVRDVmVQbGlxX0stNzJELVMxODY4Sm44RXpCeC13RGp5bkdxcEtyTVF2VVRJYm9iSGtFdWFtVHZVWXNBQk0zeVRjVHp6SUJ1djFJY3p6c2c4SEV3UGE1YjFISTRNRjdmeVhqQWZGM09BOUNIbDRJRDV0XzZoWGY3OXM4elh5UnQwcndqZQ?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOc0FEWkVMcloyeHpadURTeURHYWwyUV9uc3JrMkdGNjhlRFNuVHpQdkpZNjZLOWZlYnZvOTNZckJaTnI2QlBVQUliSUZzMXBaTFd2d1RhZDU5WGw2LW1fUUI3dzg0YkhTU0pTYTdQR3YwYkdvTEhtN3BFZGdKTVZwTXN6ZDN2V1Z4bnpuZlI1Rlh1eEs2UU0xdTVxTUprVnhsbGlmSmZUZElpQkVhMlFnN1VkTlpRdWRkdXZ4MW1Hb2NIdXJXdWtiTm1UZFlQZml4ZlU2YnNSTmdzTThwVElLcWJUQmNyUGpkTWFFa0dmdUw5czVUNWJ0YVRDVmVQbGlxX0stNzJELVMxODY4Sm44RXpCeC13RGp5bkdxcEtyTVF2VVRJYm9iSGtFdWFtVHZVWXNBQk0zeVRjVHp6SUJ1djFJY3p6c2c4SEV3UGE1YjFISTRNRjdmeVhqQWZGM09BOUNIbDRJRDV0XzZoWGY3OXM4elh5UnQwcndqZQ?oc=5"
   },
   {
    "id": "gn-bTFDUVhjP29jPTU",
@@ -2335,23 +2351,6 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-RVVHcHYb2M9NQ",
-   "fonte": "Giornali · ParmaToday",
-   "titolo": "I Giovani Democratici alla manifestazione antifascista: \"Nelle strade di Parma per difendere i nostri valori\"",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-09",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-09T18:19:23.000Z",
-   "luogo": "Parma",
-   "citta": "Parma",
-   "regione": "Emilia-Romagna",
-   "coord": [
-    44.6952,
-    10.09799
-   ],
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOFZkdXNSeXFrYVVVakNtZzQwWDdVR3RGeG1hbTN1S2JpUzUxMzBKcUtndEdBbllNN19yeXc5dWdnUmdiSnVmSjdwUlhHTlF5bl9BODFqYmxSSXAzSE50T0pDWnZFa2c4MEtMYnVmQmpBaGkzWURxZHExZ1JmckUyVG1VRHFsZFZPZEZ4V1ZEUmpfZE9EUGpv?oc=5"
-  },
-  {
    "id": "gn-YWpsUE1uYz9vYz01",
    "fonte": "Giornali · Tv Qui Modena",
    "titolo": "ZONA AUTOCORRIERE, PROGETTO SICUREZZA: NUOVO PRESIDIO E PIU’ CONTROLLI",
@@ -2523,6 +2522,23 @@
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1742358/-/massa-colpevoli-di-palestina-presidio-davanti-al-tribunale"
   },
   {
+   "id": "gn-MGhhTFdsbj9vYz01",
+   "fonte": "Giornali · Torino Cronaca",
+   "titolo": "Grugliasco, torna il Salone del Lavoro: oltre 30 realtà per incontrare aziende e trovare un'occupazione",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-10",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-10T17:15:00.000Z",
+   "luogo": "Grugliasco",
+   "citta": "Grugliasco",
+   "regione": "Piemonte",
+   "coord": [
+    45.06805,
+    7.57762
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVHRYVWw3YWNfcnROeUFXOVlzNlg0SEdrSzlXUE5EMV94ZUVYYjkyZnJBUmZISzVjLW56amY4OEh2a3dYWk9VNkpGdHhkUWZ1RHNobGpHM3NJUE9TcjdyVXE4QzZMUnNaZDYyTXdncHd5RldiQ3dMd2xaVHRIbjFMeDFQR2VmQjNtT2lxT3VqT0dyWEw3ajJuOU5EUEJQamhtdUxWNzNkUld1UTBySmo1TlhDZW9uSllrRm1vRzFoUmFTdUJPck5FckVvbkZkbnJkcDJqT1JFaU9yb1k1eHA2ZlR5QlRXQk5sb0haLWln?oc=5"
+  },
+  {
    "id": "gn-S1dqYzFWUT9vYz01",
    "fonte": "Giornali · Cuneo24",
    "titolo": "Cisl Cuneo a Genova per la manifestazione nazionale \"Il Patto che unisce\"",
@@ -2607,6 +2623,23 @@
     12.48293
    ],
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVy1uT1ZJRXJiSE5CdGtURUZTZjBpd2xZYklTaU9oT01xMExzS2gtdGduVW1DeTk5V2FvZXlqTEgxZ0tUbVZLY01CWms4T3JVd3VpVzBwUE1pR016WDNjSUlvdXR3TFdjc2VuYzBvUDY3UUJIcTNZUXFIcm5taWw2RjQ0UDhMVFJmR0U3Z21VanZBaGdOd2d6MnpyTGtJSDhpT3AzcVNqN3piaHF4TGRfZ1FmUQ?oc=5"
+  },
+  {
+   "id": "gn-Wk1VNUIb2M9NQ",
+   "fonte": "Giornali · Gazzetta di Siena",
+   "titolo": "Monna Agnese, finita l’occupazione: decisivo l’incontro in Provincia",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-10",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-10T09:28:02.000Z",
+   "luogo": "Siena",
+   "citta": "Siena",
+   "regione": "Toscana",
+   "coord": [
+    43.16721,
+    11.46756
+   ],
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ2NXSGpjX3VULTd1VXVkclR2UFdSSmVUN3VScmp2MEI0QWVXdE0wLW1neG5KX0lzS1pCeUktU2NrV3AtQ3hoNFc4QVhOMVN3cTM2Q19wS1RUeUgtTHJjTVFqV0Z1dG9JdVNTWmNDS0xGaFMwTDZIbEE4THNYc1dReFMyRDdXSjhkVnNmdE82T18zR2hoLVVfT3NlNkXSAaIBQVVfeXFMTThDNkFwWkVWd1BpLWhtc3NXRDNaM1d4dHNwUFhBOFktZk12cTFsMkZ1TEFJb3pNQ1lhaVhsYVkyXzBuenJmSEZWVHlmTTVzTk42dEMzMW53dFppM3hYa29pc1BVU3ViTWhoQzZydXFyYmtnNTl1YUVEZVNqenVDaWY4a3lGZHM5VVZwdWZVaTF4MlVSZklBSkdKSGpiek1ZMU5B?oc=5"
   },
   {
    "id": "gn-MTVTa1k0P29jPTU",
@@ -4319,6 +4352,13 @@
     13.62523
    ],
    "regione": "Friuli-Venezia Giulia"
+  },
+  "grugliasco": {
+   "coord": [
+    45.06805,
+    7.57762
+   ],
+   "regione": "Piemonte"
   }
  }
 }
