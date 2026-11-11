@@ -1,6 +1,12 @@
 {
- "aggiornato": "2026-11-11T06:11:27.466Z",
+ "aggiornato": "2026-11-11T07:28:21.071Z",
  "notizie": [
+  {
+   "titolo": "Ep. 1325 – Tra le tende allagate di Gaza e le altre storie di oggi",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZWltQVpIeVhJdDZiRjc3LUhmdy1DSlB2enU1V2JTX1lQYkphMHBkNjRpbmo4Z0xhUy1raDRUUTdYcnBMd0k2ODU2TDRPelRieVBNNC1sb1E1d3NhczE2WU1xSkdZcU5SWi1rcWlkeTZfX05xZHJ5bHV1SURZZ1BIUmJYaEpHZ0dmcXJvVV9neGY2eVQ5RG42SGMwZUhQRnotMWVjQ0pR?oc=5",
+   "fonte": "Il Post",
+   "data": "2026-11-11T07:11:29.000Z"
+  },
   {
    "titolo": "La raccolta delle olive, strumento di pulizia etnica",
    "link": "https://ilmanifesto.it/la-raccolta-delle-olive-strumento-di-pulizia-etnica",
@@ -580,10 +586,22 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "\"Rompiamo il silenzio\": sabato presidio a Varese a sostegno della Palestina",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzhtMVliQ3dSUFBUdEJxLUpTSnVnLWMybDBsUFZXLVktR0g0MFdMYXR2NXZvV1RRNWhvempManFKTmdaTEdZTktuWkFjcHRmT0l4U3pyQXF6OFJ0VWZWYXI2bHppQ0hGQ1BkTG90cWpyWHlIbVBHb1F0UG9nSjZfck1OWUhudnlmNXh0bEc2RWZRdHlOTGFqbjFZenFEU1h0a2M2bDA1cXNlVk9TVDJ6NXItME44QQ?oc=5",
+   "fonte": "VareseNews",
+   "data": "2026-11-11T06:56:04.000Z"
+  },
+  {
    "titolo": "SANT’ANGELO «Non solo negozio, ma vero presidio sociale: appello per l’edicola che non deve morire»",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcVdKUDNqb0pZREZNUzQ4c2x4WW9HZVdfbXRGZG1TbTc3UDB5MmpwLUgyUzMtTHhvZUFONXc0cWNTMnI5X1F2U3Y5SXNKampvZ2pWeFdUSEFCbXZwdTh6MnVUbTBqdnBqQTNMSFVLYW1zY3FIVGNuMnNGZ2thY1hiWjFFMnk0QURnb0xjZ2FnOVhVcjdHQlZfNFk0Smpna1RxUHRjTkgyNGNLMkZmNzZrWW01Z3pYbnBidUJpU3dhUHRBckxDb2JxQ09EWUpMNmMzU1dfOHY1SThNc09FZ1U0NnpLZ1NCZlE?oc=5",
    "fonte": "Il Cittadino di Lodi",
    "data": "2026-11-11T06:08:02.000Z"
+  },
+  {
+   "titolo": "Emergenza casa, oggi la manifestazione davanti alla prefettura di Genova",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQS1XNldFLTVDanR6UnlWTTV0UzZ2VHdzWG5PUlNOeDI1R09oWXR4Rk1kNG85ZjEtN2ZTOVp6QWJRZ3I1MElHMjNpcjBqYXg3Y0Nia0V4SmVIOFlyUG1NeGEyYVBfMGVxS1JpbmxKV3FVSFo4SEsxNy1fLXJWVEZETmFOZXRCdjJNek5RdHdLRTdxM0RfVkF5djd0dnkyU0Z5VG1zeVM1bEt0ejc3cndHOE1DbFNfWUdUTkh0cnNKay1ZOTJKLUHSAcsBQVVfeXFMTTVpRUx4YkJHeTlreEFGTUZia19QS3lhS1MxYWFtN0dlNXJ3X2tydjV6YWxrWGtwdHZLdzZpLURGa3ZFR1JuNi1LR3RheDh6QXdXUF9lZEpROGhMWjNnS1dYNC1waS1WUFotT2pwd2Q1cUJ1bU51Q0NYcGZleElCaU5TZGh4TTZ5QmtLQkVCV0hYZ0lwSDZ3X1B6cnVRclJkOFlhZC1oOHE3RWJlVURHNUZTUzhyRDljZjlKX2Y2d2E2VUFYLWJxcTAtYlU?oc=5",
+   "fonte": "Primocanale",
+   "data": "2026-11-11T06:00:10.000Z"
   },
   {
    "titolo": "Pedalata di protesta e un presidio in piazza: \"La legge tuteli la vita\"",
@@ -1046,18 +1064,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZy1VNzdRZVhHYlN5T04xM1BXYkZCc1J1UHRLMTVxY1lHUURiUGF1bHBscnVoLVBIZ0pyb1pLWXRuNE5ObnBJeXdhcWtJOUFNcktpWndTTGpONnFGdGgweWR2VmszQkl4RjdVdFZHbjd0QUVFSWtDdFJhS2UzR2dfMlJxWHdSeFlxbC1aZ3NrQkdVX3hxTG92NVRBaXhMejE5V0Q4dXdQdXU?oc=5",
    "fonte": "VeneziaToday",
    "data": "2026-11-10T10:29:30.000Z"
-  },
-  {
-   "titolo": "Mammucari (Uila): senza buona occupazione non ci può essere una buona agricoltura",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1dJYWhyRlNtd0ozM2J6SXFkU0VuZloxRjhnRnlmTGRsVDdQOGQzTzlsVC1kYVVyZGpqRWlRV1dRVEh1U0FabWhrcHlpSXhKN0VLV0dldjJuSVQ0T0l5U2xPLVlBVkYwcUFNZ1E1RzZ4ZFpNYm04Q053N1JYUHhBeDYxUTBQdFhHakpVSFoycmhvcmFJaXpWVlpFQTRzZUVGaTAtNDV0d2pTaFk5bTJNcll3?oc=5",
-   "fonte": "Il Diario del Lavoro",
-   "data": "2026-11-10T10:27:01.000Z"
-  },
-  {
-   "titolo": "Ddl bilancio: sanita' pubblica annuncia manifestazione in piazza il 5 dicembre -2-",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3ZzctdEtaVnJiak5vbWZ5RmRoOUhGLVloSHFySk5ieXJZRFpPN1N2RFNnYVF2UkRUTEpIbGtWRjV5YzdSd01hVENLelZJNm9SM1VOTU1jeG5OSzNPQkV2TndNTUNOOE03UUdyWQ?oc=5",
-   "fonte": "Il Sole 24 ORE",
-   "data": "2026-11-10T10:07:24.000Z"
   }
  ],
  "eventi": [
@@ -1068,7 +1074,7 @@
    "tipo": "Dai giornali",
    "inizio": "2026-10-28",
    "dataIncerta": true,
-   "pubblicato": "2026-10-28T09:46:05.000Z",
+   "pubblicato": "2026-10-28T07:00:00.000Z",
    "luogo": "Savona",
    "citta": "Savona",
    "regione": "Liguria",
@@ -1094,7 +1100,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZXd0em95N0gySlpCa0V1LUlNMXNnaFhxNWRSV1FiejhSR1kxMXM3UGxDRUlXdmt4RGRjQ2RLbUxmUXFtbTNQNGs5bk5FbTZoMFBFS2tPdVNiRS1vX2VSMGxwcFRUSDFNUDdvVldENTRtaXNFbGw1aXlhVFdqRFlHX1R0MGZ2SEZyN3ZyYzhlNy0yOVZpWE5KZUFvcDM2bXFzcEdtV09IcG5MZzJh?oc=5",
-   "altriArticoli": 79
+   "altriArticoli": 78
   },
   {
    "id": "pl-13514",
@@ -1232,7 +1238,7 @@
     8.546
    ],
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOem1mc3BfU0xYRGNjbTc2NVlUOEhYSGNLU09TRTZ2a2FOdkdlVG4wOHVzZFdoMEV4YkpHbkRfS0ZuRV9sVnpEVGt0Z1B0bnRVNFZwWXl4TWdka3ktLVVodDlRbXVkQ0c2Z2pBLXBWRlVJVENyZFdhUHBvVS1yZ2ZwWTNlQ09fSHNSYndqd2ViNEZueE5OeXBXRWlJRW9jTThkbFR5WW1EdmUtMjhKMXJDZFo2Y0dOemhwMzY4MHprM0h0d29xLVNESWV0dzB6cEU?oc=5",
-   "altriArticoli": 3
+   "altriArticoli": 2
   },
   {
    "id": "gn-VWxoNGVRP29jPTU",
@@ -1250,7 +1256,7 @@
     12.48293
    ],
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaW1GbDdlVEtDOUJGQ0tZTzBRQTF2WS00LWtZMHlHcHdrTlYxd01aWWpYNzRiVVJ2OGxTTGRkajFpNjdEcVRyUXliMEVtODk4Y2RpdUNPOEJSN1RqTVYxY09WN0NpczhxMldDTFQtVUdHTmpOQ2dmNDJUT19PaUxHakYwS3BXVlpoQ05mdm05dWxtWXRBQU9ONU5vOHhtWHpLRVRuMVA2Z1hfTjZDOE8ybldEa0ItNnJxd0ZaUmVObmtxWW10LU5vMWZpbUUwdUdoXy1pNDNBd0dsa19BeV8w0gHkAUFVX3lxTFBUZUNwQ0tfNHdUMTZWQVpmQ0xFMnJYc2I1SWZ6ZV8wNjh2eWVLMzI2YVpZZ0szVHkzUGlMemgwSENhR2NLbEpPcWIwUlhCSzFJcFlnNW5mOWc4R2VPVDJmV3NMeHE4VmpqalBkX1dXNDBuSTM3NnNUUlRDU09MVFBDeE15VEJLSmVjbVR4MGxtR1VlUU9SQlZpYXVmOFBJMy0yWWJnSWZEaEtRMjZ3ZFUyUUVLYUlmTFVXcUJJbE5zWmpzaEhYc1haTXRPaEdMRXRvX1RQUllkOXRITEVSWFc0Ulh4eQ?oc=5",
-   "altriArticoli": 14
+   "altriArticoli": 13
   },
   {
    "id": "gn-Y1ZGWWR3P29jPTU",
@@ -1732,7 +1738,7 @@
     13.77728
    ],
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZVIwek1NWU91N3UycDNBOXhla3dnQlY0YVpuVk55NlNpT3ZmYWlIeUFqaTBCOEFORnNlSXF2dUhXblZxTXZOZkpPY0JZZ0s0SmoxVC0tRTQwVXhMWjgtaDRORkNUSHVrLUMtQmlpQVVMR3k3clg5LUtJcjBSejhaMTZsUE5wbE1Zc25kVnl0ZkpQazNER3ZtZVJsaw?oc=5",
-   "altriArticoli": 7
+   "altriArticoli": 6
   },
   {
    "id": "gn-eFNXc3cb2M9NQ",
@@ -1976,6 +1982,24 @@
    "altriArticoli": 8
   },
   {
+   "id": "gn-UlJXbFZJP29jPTU",
+   "fonte": "Giornali · L'Eco di Bergamo",
+   "titolo": "Vigili del fuoco, sit-in e corteo di protesta fino in Prefettura",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-07",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-07T12:54:04.000Z",
+   "luogo": "Bergamo",
+   "citta": "Bergamo",
+   "regione": "Lombardia",
+   "coord": [
+    45.75666,
+    9.75422
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaU5XSXNlUE42d3hLVVRxSzBMWFQzZkt0ck5GdVVtTmxfQ1RleUo4bTQzXzRIQjBMSjhCWDFLNTdwQi1laHlwRElIVmVFZVowa1Y5Mk02MGhtN3JDWkFKTDg3elNEVm91YU5POTljekpmV1g5U0N4S3ZuNjFhTk9KNlM3QktiMlZ1aE5XclBqOGZGTTljUnhONGxkeVQwNkt5eF9HcTM0ODA5QUFnVHpOamRWbHZxUzdCTnBfRWhOeEZWZlJreFFRUEs2RXRRWlVI?oc=5",
+   "altriArticoli": 1
+  },
+  {
    "id": "gn-WE5FYXpabj9vYz01",
    "fonte": "Giornali · TG Padova Telenuovo",
    "titolo": "VIDEO | Una festa per salvare l'Ex Macello dalla privatizzazione: la manifestazione",
@@ -2177,22 +2201,21 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQjUxLWNYeU9kSDBkc2tqVF9zMVg5T1Q0aDNTN2RKVzJjTDJNdWlUV0I1MkhkdUtjUU1zTnZnSkdfeU82U3NoVWFleVl2WjlhaWtqLTc3RWk0dGc0eDlWYVIxelpHWkhDaHBUcWQxN3c0RlhxYUJTczkwd25ubjE3Vk1xQlJuN2xFc3NBYmRNWFRzNEZwQ1ZUTjUtbm5aNEtfZWcxdjU1aXI?oc=5"
   },
   {
-   "id": "gn-ZFVwSlZRP29jPTU",
-   "fonte": "Giornali · Firenze e dintorni",
-   "titolo": "Tramvia, Campo di Marte e Gavinana in corteo contro i disagi dei cantieri",
+   "id": "gn-VkoxVFdaUj9vYz01",
+   "fonte": "Giornali · Torino Oggi",
+   "titolo": "\"Basta pedoni e ciclisti morti\": domenica a Torino presidio davanti a Porta Nuova",
    "tipo": "Dai giornali",
    "inizio": "2026-11-08",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-08T06:54:00.000Z",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-06T14:20:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
    "coord": [
-    43.7698,
-    11.25564
+    45.06776,
+    7.68249
    ],
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOOW5EOUpQR2VRQWQtaUJ3eXo5MG5qTlZ0ckNMd05DZy1OZ2VsQ2oyRFdSRjhNZ09ZN0dGSC1OTkpINEFCbWNjMmJFMXhnYTRrdHh3dHpsUDRIOTBvaUFjSlJCT0RGNHpTOXdkeTlxemJRd3EwRC1yT2N4OC0xSGl0SGg3MWpaZFM1MTNzVVpqam1RS19uMmluZHdJQW4yb202MF9lN1FCRlRqWWFXVmVVcDFEai1NMzRTaTNGS0hMU3FPdTBqdHozUnlwSUQ1ZlNPSE5ETTJDMEQwaWFYY09USkFMOExKZGxPeHZpa3ZQbURveWVmVlVOWk4yYmdWNV80VzFyTGZuRk5Wak9obkpQdUpJVQ?oc=5",
-   "altriArticoli": 5
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQY2xJMnBrcThFeE5SeGNGb2U1dnVyemswZjV6NGdVSGNfNnh3LWY1Q0FiRTlMYTc2SzRTc2RZRm9nT1ZYR0ZSWEFnNVpvYjZnWTNEQzVxUEc5ZUtMQk83TVlvY3hEZkl3UTFJVVJpV3FPRXF0ODJnME5BQVZXclhtMmk3ZFE0ZFE0dGFuNzNaUFY4MUFjdDhCdlNQZTJ4NVRkUV8tcG5aeU51cFhhNUl5M1MxclhCVkZwbXpYd3lWRm9PQjJYYjh6eWh4bEtfZC1oZ1hPaTRNRGVyYnRBaEZPa0xhU1QtUnVNZlHSAeoBQVVfeXFMUGNsSTJwa3E4RXhOUnhjRm9lNXZ1cnprMGY1ejRnVUhjXzZ4dy1mNUNBYkU5TGE3Nks0U3NkWUZvZ09WWEdGUlhBZzVab2I2Z1kzREM1cVBHOWVLTEJPN01Zb2N4RGZJd1ExSVVSaVdxT0VxdDgyZzBOQUFWV3JYbTJpN2RRNGRRNHRhbjczWlBWODFBY3Q4QnZTUGUyeDVUZFFfLXBuWnlOdXBYYTVJeTNTMXJYQlZGcG16WHd5VkZvT0IyWGI4enloeGxLX2QtaGdYT2k0TURlcmJ0QWhGT2tMYVNULVJ1TWZR?oc=5"
   },
   {
    "id": "pl-13522",
@@ -2299,6 +2322,24 @@
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORFNycHNBNVllazBnRVBYSENuS0Rya3FZRDRuRkR1N005eThmaFczU0RIRGxtMmV1WUFvbDhvNVNIb1p5VkVYQ21LaWRlSUdqTzlLSVlwcTRnRm1OQ2lTRXVkaVhmMklGS3UxaDB6dUt0VEZwWHdXNVpPVHFfU1JfZkYzRWpMU3JqUkxfQUx4VVdIdV9YSC1SZXhWd3FoYVUtWG9kd0lJaDdPdDQ2Zm9tWTBDLWx5VDRpU2dWQ3N5RlNVb2lwdm0tR3ZqdUw1Y0txV2V6bEtPT1FjdEtWV1pWS2dJb3l0TkhEM0h2akEwd3pvX2lLd1FR0gH8AUFVX3lxTE5YYlgwMkR1MjFGMHd6THpKTGZwbkxXX1FiTnBISzg5ME1vQVFQRmVrZEpsY1hIYWYzaVNhTk94YnVOVGFGb1VGSTRIZHVSbzJsVlRoTXoycHJ2U2k5VWRGbDJibjBhRnd1M04tTzBDY3VYVE5LTEEzWjdUSU9YYVpnM295QWluOWNhSUpKOWlPUGc5V3hwcXlwbHhjOWVObTVMMFV1Uno2b0RVcjB2dWZXb3dyWjQ0LV94VUJrdXJXamE1V0VNY3hmeTNiVjlTdXZWTzZ4OW8wWmRDSDVzSnp0d3RIX2lxUnhpRlFBNW9MbjhzUzVsWl96RHBZSQ?oc=5"
   },
   {
+   "id": "gn-eDNhV2g0P29jPTU",
+   "fonte": "Giornali · Telegranducato di Toscana",
+   "titolo": "Prosegue occupazione a scuola, Unicoop Firenze vicino agli studenti",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-09",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-09T12:22:25.000Z",
+   "luogo": "Firenze",
+   "citta": "Firenze",
+   "regione": "Toscana",
+   "coord": [
+    43.7698,
+    11.25564
+   ],
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGxUbklVSTJLdXVHdjdyTVl2Qk9rWkQwRDRrbEY0eTM3NzhkR3FxWG1OemJoYXdyVHhwQzJLZ1lXelR2aVlINDFHSHZ3N2RhSEtrb2JvVmFnQk42d0F3bXBhZy1QOElya2t5dmozNGx0ekU3UEE4Z0lmTDNudC1CREVIdGkzZUlvbm5RTy1UWC11dXJlcnk3WllBcUw0T1l2Vlp0bk1rX0x3aWh4?oc=5",
+   "altriArticoli": 4
+  },
+  {
    "id": "gn-bHBLWncb2M9NQ",
    "fonte": "Giornali · Novaradio Città Futura",
    "titolo": "Sciopero teatri, in tanti dalla Toscana alla manifestazione oggi a Roma per il rinnovo del CCNL – AUDIO / FOTO",
@@ -2315,23 +2356,6 @@
    ],
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNlFoSGZWLS1JbVdRS0w4WFNIZmI4V1ZPcFBUdXFCN0Y0cnBMV3ZBZ093cC03ZThLWEp0enU0eFZMYXNTMG16UXlIR0t4VWZrc1NfS1ZlQlZ4QlBvUE9wTnhXUzFRQjl0ZnZSb1JocmNJa01nakQ0ZlFKQ2dRcVVZYy1NSmt1UjlQMkV0S1lmYkxteHYxNG9NV2VXV3FneWVsN0xkSXdkZjUyRGNEVDZCaWppSWV4eGtVaDQ4UmdNNUNQWU9rNVZqc2YtcGhxMkhIcUZtcF93TlpKZw?oc=5",
    "altriArticoli": 1
-  },
-  {
-   "id": "gn-YUVGc1NXTT9vYz01",
-   "fonte": "Giornali · Prima Bergamo",
-   "titolo": "Vigili del fuoco in protesta: giovedì 12 corteo e sit-in a Bergamo",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-09",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-09T10:53:07.000Z",
-   "luogo": "Bergamo",
-   "citta": "Bergamo",
-   "regione": "Lombardia",
-   "coord": [
-    45.75666,
-    9.75422
-   ],
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWh2akJIcEwzRjlVWmRYeVQtbWdKcmExcVVPQk5xWklVNkh3ZndRZ0lGSU90Qkh3T3FqTGYyTldtdEctSWN1QVhfblJ1SmFXT1U3SkpKZTRZSVBXeW5CUlhLZGhxak5VcmpxZmRtTnNjbHUxeEdQaHJ1NUoxclBwZnhjYUdpQWQzQUVQS2lwUkhRTWRiN1ZtOU93aEFsSWM?oc=5"
   },
   {
    "id": "gn-VmpaRmR3P29jPTU",
@@ -2621,13 +2645,13 @@
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcVdKUDNqb0pZREZNUzQ4c2x4WW9HZVdfbXRGZG1TbTc3UDB5MmpwLUgyUzMtTHhvZUFONXc0cWNTMnI5X1F2U3Y5SXNKampvZ2pWeFdUSEFCbXZwdTh6MnVUbTBqdnBqQTNMSFVLYW1zY3FIVGNuMnNGZ2thY1hiWjFFMnk0QURnb0xjZ2FnOVhVcjdHQlZfNFk0Smpna1RxUHRjTkgyNGNLMkZmNzZrWW01Z3pYbnBidUJpU3dhUHRBckxDb2JxQ09EWUpMNmMzU1dfOHY1SThNc09FZ1U0NnpLZ1NCZlE?oc=5"
   },
   {
-   "id": "gn-RnVWbmMb2M9NQ",
+   "id": "gn-QXRZbFUb2M9NQ",
    "fonte": "Giornali · Primocanale",
-   "titolo": "Emergenza casa, domani manifestazione davanti alla prefettura di Genova",
+   "titolo": "Emergenza casa, oggi la manifestazione davanti alla prefettura di Genova",
    "tipo": "Dai giornali",
    "inizio": "2026-11-11",
    "dataIncerta": false,
-   "pubblicato": "2026-11-10T11:12:02.000Z",
+   "pubblicato": "2026-11-11T06:00:10.000Z",
    "luogo": "Genova",
    "citta": "Genova",
    "regione": "Liguria",
@@ -2635,7 +2659,7 @@
     44.40726,
     8.93386
    ],
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTnl0b0o5SlNTbzJla2xOX2RsVElQR19Oc3kzdUZFOEx3TEJjUTN3NnZoQjU0VHAwcEZzV3VjSjM0NUZvaTNaUS13bUdYbllSdUpVMWE4VVRTMDlweTAtM0d4b2liNUUxVVlZVVpKVkFlc2UzR1NaTEQ2b2F3WWliWFFoa0UyYV9DSXNlRmxOUXU0eHNUNkt5dGZiaFZjOVg0dDg2Q282REx3TV9SMTdNRWc4VHBGSnlD0gG-AUFVX3lxTE5nT2tpWFBPM3FWbklkZ1pfZERaaEI4YTR3aVB4Z0N3by1OblF4ZHB4WnYzdXFNTjdkQVl1NExsUndRUlF5bVE0c0NkVmpQS2VVNkozajVScERRU0gwMkZ6emRSVVo1eUZlX0tBb2hxQXdwcTNKR18wbWh5WHY0M2pUSlNjNk1PLXJReEpmVFNkVXdwTWY1dEkxbFllRlJiWW1pWW9sTTdUazlPNXVHMmVpckxRcVh6YUQtX1FuVnc?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQS1XNldFLTVDanR6UnlWTTV0UzZ2VHdzWG5PUlNOeDI1R09oWXR4Rk1kNG85ZjEtN2ZTOVp6QWJRZ3I1MElHMjNpcjBqYXg3Y0Nia0V4SmVIOFlyUG1NeGEyYVBfMGVxS1JpbmxKV3FVSFo4SEsxNy1fLXJWVEZETmFOZXRCdjJNek5RdHdLRTdxM0RfVkF5djd0dnkyU0Z5VG1zeVM1bEt0ejc3cndHOE1DbFNfWUdUTkh0cnNKay1ZOTJKLUHSAcsBQVVfeXFMTTVpRUx4YkJHeTlreEFGTUZia19QS3lhS1MxYWFtN0dlNXJ3X2tydjV6YWxrWGtwdHZLdzZpLURGa3ZFR1JuNi1LR3RheDh6QXdXUF9lZEpROGhMWjNnS1dYNC1waS1WUFotT2pwd2Q1cUJ1bU51Q0NYcGZleElCaU5TZGh4TTZ5QmtLQkVCV0hYZ0lwSDZ3X1B6cnVRclJkOFlhZC1oOHE3RWJlVURHNUZTUzhyRDljZjlKX2Y2d2E2VUFYLWJxcTAtYlU?oc=5"
   },
   {
    "id": "aip-1746216",
@@ -2840,6 +2864,23 @@
     11.25564
    ],
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746184/-/firenze-presentazione-del-libro-il-diritto-internazionale-e-carta-straccia-di-micaela-frulli"
+  },
+  {
+   "id": "gn-RTQ0UVEb2M9NQ",
+   "fonte": "Giornali · VareseNews",
+   "titolo": "\"Rompiamo il silenzio\": sabato presidio a Varese a sostegno della Palestina",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-14",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-11T06:56:04.000Z",
+   "luogo": "Varese",
+   "citta": "Varese",
+   "regione": "Lombardia",
+   "coord": [
+    45.83991,
+    8.75418
+   ],
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzhtMVliQ3dSUFBUdEJxLUpTSnVnLWMybDBsUFZXLVktR0g0MFdMYXR2NXZvV1RRNWhvempManFKTmdaTEdZTktuWkFjcHRmT0l4U3pyQXF6OFJ0VWZWYXI2bHppQ0hGQ1BkTG90cWpyWHlIbVBHb1F0UG9nSjZfck1OWUhudnlmNXh0bEc2RWZRdHlOTGFqbjFZenFEU1h0a2M2bDA1cXNlVk9TVDJ6NXItME44QQ?oc=5"
   },
   {
    "id": "gn-WE52YUdsej9vYz01",
@@ -3196,6 +3237,23 @@
     11.94881
    ],
    "link": "https://www.invictapalestina.org/archives/55281"
+  },
+  {
+   "id": "gn-WmlRekpPP29jPTU",
+   "fonte": "Giornali · il Lametino.it",
+   "titolo": "Aree interne, ambiente e lavoro: la FAI CISL Calabria verso la manifestazione “Il Patto che unisce” il 28 novembre a Gioia Tauro",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-28",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-10T14:13:56.000Z",
+   "luogo": "Calabria, Italia",
+   "citta": "",
+   "regione": "Calabria",
+   "coord": [
+    39.0566,
+    16.52499
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNM2VHOVZyY1RJNXBWNXNMakNHcmRLcFVDcHg1M0FSaTAzSmZ2VXkyeXhwWHhyeldhMVg3cndYRFZnUGJ6Z1JaLWFKRkhQZDdaZEp2c1Q0OHFyYXdVY1RKZ0xFMjBZY3Rub2NSaHJoRFA4eWVaWm5sY1AzdHhCdkF5bTBITVJfbDdIWklrN2RYWHJJMHNGWEp2aE1WVTNUVVFSTGVGWWNTaVJiRnc4UUFtcjRfRThxTjdPUFdGalRDYjR0bWJHZG51ZDhTMGhYb2VocjlaYUJDaUNxVi1hX1lvR1htNGJQMjk3U3ltMVlpY2ZiQzJO?oc=5"
   },
   {
    "id": "pl-13453",
