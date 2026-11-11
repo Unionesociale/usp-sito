@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-11T01:17:52.281Z",
+ "aggiornato": "2026-11-11T02:16:19.797Z",
  "notizie": [
   {
    "titolo": "La raccolta delle olive, strumento di pulizia etnica",
@@ -778,6 +778,12 @@
    "data": "2026-11-10T15:07:23.000Z"
   },
   {
+   "titolo": "Silicon Box a Novara: Enaip Piemonte guarda alle nuove sfide della formazione e dell'occupazione",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPSEFudDFnbmR2bG9IbW1mcV8tOFBadXJyMmtfVVBFRGRIRkNidV9wMmlOMjhxZG9XUHdCcVlLcGlubjJSdEtsS1VlX25lVGlXU0ljWHQ0NHpyM0FqRlRGSmJaR1pvRU5CM3VpM3RQQjRhaTJHdmY1ZGRJTUl1dWdPenkxLUU5ekxkQ2FXVm4yVU52eUp1UHA4a2tOUnhJRTRhWjJkeHd0MWpUdzcyaVRwREtGeU5uOXJWQ0hpblRYbnh0Sk1RVEkzM05VMThaenpPc0Myd3JpOTBLMWRpWHhhS0dIX3BjcGM5d0RLaUQybFBseTRRbXdkM0JmTEZVdnJVX1NtWDgxMUhFVzlFMmhrNA?oc=5",
+   "fonte": "En.A.I.P. Piemonte ETS",
+   "data": "2026-11-10T15:02:58.000Z"
+  },
+  {
    "titolo": "Politiche regionali sul lavoro: in Toscana più 200mila persone hanno trovato un'occupazione",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFZlRFFaVUdJcGxiY0EyQlgwVjdQSE94Zm43MU1XbVl6UlJXaGR1dUp4VWt6T1h5RU03M0Jjb2VfdGJQSTFFN0JoWEtIeGlpd3A5YVotc3BCWGozYms4NXpqd2tlc29QeHI2cUdldWd3N2tXY1ZZZlJITVp4b2Vqdk9aX0kyY3lFR1BTWmRZZmdiR0ppUzNlb20tZFhISTlLOFY2QkVnZkNjTDZVSlY5anFqV0JpLTY0OUE?oc=5",
    "fonte": "intoscana",
@@ -1052,12 +1058,6 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb2wtdjcxcDFHVXpQWGZtWF9ZYUhYSlRQSTRJZ25xLTJyVFJBM3B4LUlhbnBiUDdxazdhNmJFS2plakhncF9QYlp1OU1JR21Tb3JyWDZQTGJRMGRVUXQxQjlGMmV3VzE5M18yZW83ZnlpbTg5Z2tibVA1UC03ZjFaaWpsWU5GQXc3QURLRGhKTTZ2aV8zZ0RaOA?oc=5",
    "fonte": "CGIL",
    "data": "2026-11-10T09:19:32.000Z"
-  },
-  {
-   "titolo": "Fine vita, nuovo presidio davanti a Palazzo Lascaris: \"Il ricorso sulla legge veneta non blocchi il Piemonte\"",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQay15bThlcVhfdHkzUTkzX1BDS0E2S3FwcVlZSFJISjd6eS1hVTQtbGcyTkFVbUR2ekFIbTZDSndkR1E0elFWaVNmZVI5Y1RtYjZROXI3TEljQ2xNM3I2ZU5fWHZycXdMX2JER1pkcldsRGlRdWFXN1dJVzYtZEp0Rjg5clRNcUl2a05RMjFtbFM0Vy1aemF6YUNfSEJQUDEzMW50bDU2NE5ucHZCM2FsU25McmZHNFliLXNoNkhYSVpQNDg5M1p4TlpzWkhWWlh1YmFDZkRFR0ZMaTA4?oc=5",
-   "fonte": "Cuneo24",
-   "data": "2026-11-10T09:11:00.000Z"
   }
  ],
  "eventi": [
@@ -1094,7 +1094,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZXd0em95N0gySlpCa0V1LUlNMXNnaFhxNWRSV1FiejhSR1kxMXM3UGxDRUlXdmt4RGRjQ2RLbUxmUXFtbTNQNGs5bk5FbTZoMFBFS2tPdVNiRS1vX2VSMGxwcFRUSDFNUDdvVldENTRtaXNFbGw1aXlhVFdqRFlHX1R0MGZ2SEZyN3ZyYzhlNy0yOVZpWE5KZUFvcDM2bXFzcEdtV09IcG5MZzJh?oc=5",
-   "altriArticoli": 79
+   "altriArticoli": 80
   },
   {
    "id": "pl-13514",
@@ -1232,7 +1232,7 @@
     8.546
    ],
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOem1mc3BfU0xYRGNjbTc2NVlUOEhYSGNLU09TRTZ2a2FOdkdlVG4wOHVzZFdoMEV4YkpHbkRfS0ZuRV9sVnpEVGt0Z1B0bnRVNFZwWXl4TWdka3ktLVVodDlRbXVkQ0c2Z2pBLXBWRlVJVENyZFdhUHBvVS1yZ2ZwWTNlQ09fSHNSYndqd2ViNEZueE5OeXBXRWlJRW9jTThkbFR5WW1EdmUtMjhKMXJDZFo2Y0dOemhwMzY4MHprM0h0d29xLVNESWV0dzB6cEU?oc=5",
-   "altriArticoli": 2
+   "altriArticoli": 3
   },
   {
    "id": "gn-VWxoNGVRP29jPTU",
@@ -3037,23 +3037,6 @@
     11.76393
    ],
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744259/-/arezzo-moni-ovadia-al-cas-tortaia"
-  },
-  {
-   "id": "gn-Tk5uSkYb2M9NQ",
-   "fonte": "Giornali · Il Moscone",
-   "titolo": "«La generazione in rivolta dice basta»: il Laboratorio Sociale lancia per il 20 novembre una manifestazione ad Alessandria",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-20",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-09T05:30:00.000Z",
-   "luogo": "Alessandria",
-   "citta": "Alessandria",
-   "regione": "Piemonte",
-   "coord": [
-    44.83495,
-    8.74503
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPd2p0bmt2ZFhDX2UxdEVzYnRieGFaRXFGV2Rpa0FHTlNIdUF3SG10amM2RlpLMnlZNW5NVHN0U2FuakptdWZsTEJyQmdQdVNhM0NIX3hmMmhOZ0VIT1dYWFd6dl9FVm5kWjMzVm5nMG00LXdxNGFaUVpiRjdTZ0JLZmJxaV96X3NWMUNHaEdoemtTZ3ZkdVRWVlpyMnlhRjBoc2Z5VzBHLWhyZTBTU0NPNkJZQXFaaXNSdWhndzZxNUI3dHR1bFBvY3pkRmZEb0VrMy15UzlLbWVsM3Q4LVY4eWxmMXRNNnJF?oc=5"
   },
   {
    "id": "gn-bXBOTkdaMD9vYz01",
