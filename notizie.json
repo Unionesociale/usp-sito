@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-12T03:01:11.147Z",
+ "aggiornato": "2026-11-12T04:06:36.195Z",
  "notizie": [
   {
    "titolo": "Ep. 1325 – Tra le tende allagate di Gaza e le altre storie di oggi",
@@ -586,6 +586,12 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "Posti disponibili ma mancano i candidati: il paradosso dell’occupazione",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb3FYM3BJMGNWRDNlamFHelV5OGNHT1FXMFhoLWNZSTRXVmRKZ00wMHlySHF1elAxYmdzLUdIS1l2bkFKNEhXakxwNnZBU2E3SVZZa3FnVUhhVFNwaHF4aHBOZ1BFcjlfenRQbWFtQjJaTEpXMkJvaktwWmFHRk9ON3FialEwYi1aTnlJS2lxam83UHQ4ZDdnTlBabWJsWmNfREtzMA?oc=5",
+   "fonte": "In Terris",
+   "data": "2026-11-11T23:10:19.000Z"
+  },
+  {
    "titolo": "Barilla, sciopero a Novara: due ore di stop e presidio davanti alla fabbrica",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OeExDVU1odVctb3NrT2dnSE5MUTlmM3NBOE1LQ09aV2hrbWNXTzY2eUx3T3F6TWlzXzluOFBBbFI4ZDFlbDhzb3hhRW5QaUh6aHU4WU9uZmkzZHE5eXhfaTd5ajYya205ejFoTDY4aHpLV3F0?oc=5",
    "fonte": "malpensa24",
@@ -1058,12 +1064,6 @@
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb3k5b2NjaFpWWXdQZ28yaUR2UFd3QXZ1NWRLbFNFa2V3NHdXYXdGejl2Ri12VlJ2bTdlbFg3bUhVSHJzQ1lvbDJJWTl1ckJLZFJndHJEMFZQcWZfZDBadEVWSy1zdkZYWEJpaDU1WG9FSnZibzBiR3ZHYmNNdUtUVHY1UXlMY3lmZjExdVA4bFI3NHBNRnFaTTlqZjJ4X3FsVDFhQmxHRHhTMGRLajVwYjJEUDBIRE5VU1hGWGpxRENKSy0taHU0?oc=5",
    "fonte": "SaluteInternazionale",
    "data": "2026-11-10T23:35:12.000Z"
-  },
-  {
-   "titolo": "Sicurezza stradale, presidio in piazza Municipale per chiedere la Vision Zero",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZE5uRU9oVi1wZ3Iwa3gyMl9CMVRFb2hMY1dRLUNWcWVUR3VTMDdaVzJHdVViblhTX19qc2ZkQk5VWURIWTQ2TUVVTXVYc3JxNkFqM3p6bEMyMnk3TlJvZ3lXem1DTHVUTWVTNnVHZnpUZVZtME1GMFV3QXdleWt4WmVIUnkwdkpOUFR3cGxDWEhxVXdWY3VqbGZ4RUFHWXZZcnZiTlJoVk9JNnVrSE1yNVVuV2E?oc=5",
-   "fonte": "Estense.com",
-   "data": "2026-11-10T23:09:14.000Z"
   }
  ],
  "eventi": [
@@ -1187,7 +1187,7 @@
     14.24877
    ],
    "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNdi1jV1g5TE8zTW84aHlsZFNmclozbTNvUkRwamM1Z09UM0xxekdteVRzdWFzakpPZU53bFFFb0xVM1BHeERheG5iMTJydkdHSUhtR1EtN2NVY0FKTm9KMnpGd3cwYmxLUTZKY2NWZEh6TlFHUENxRDZ0ZlRlV1lRZXlUTnNnZlFtVFlEUnh2ZVRkblV2dHJURXhxSl9EVi0wclZUSTQwZ25QSW1GdjF4R0RLNmR1eGpEdXN1UWRKbnB5QjdxNnVqakdBVGpZTVFXeFk2ZkJTVzJrSUpOcDF1X3d0b1VBWWdidU5CTzY1Z3lPczgwTFlPb1Iwb1I0OE1SM0lnS0E4dVdLdVNUMDNLbmRINHAyTXJBQVJMZG1Wa3NHbGdfeU5KMXRDTW5ULS1UZ0xYeUFVejE?oc=5",
-   "altriArticoli": 4
+   "altriArticoli": 3
   },
   {
    "id": "gn-QjZjRVUb2M9NQ",
@@ -1689,6 +1689,24 @@
    "online": false
   },
   {
+   "id": "gn-VkpzYXcb2M9NQ",
+   "fonte": "Giornali · Il Piccolo",
+   "titolo": "Manifestazione a Trieste: il presidio davanti alla Questura dopo le tensioni",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-06",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-06T20:50:11.000Z",
+   "luogo": "Trieste",
+   "citta": "Trieste",
+   "regione": "Friuli-Venezia Giulia",
+   "coord": [
+    45.64965,
+    13.77728
+   ],
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZVIwek1NWU91N3UycDNBOXhla3dnQlY0YVpuVk55NlNpT3ZmYWlIeUFqaTBCOEFORnNlSXF2dUhXblZxTXZOZkpPY0JZZ0s0SmoxVC0tRTQwVXhMWjgtaDRORkNUSHVrLUMtQmlpQVVMR3k3clg5LUtJcjBSejhaMTZsUE5wbE1Zc25kVnl0ZkpQazNER3ZtZVJsaw?oc=5",
+   "altriArticoli": 4
+  },
+  {
    "id": "gn-eFNXc3cb2M9NQ",
    "fonte": "Giornali · La Provincia di Cremona",
    "titolo": "Pronto il corteo: «Protestiamo per tutti»",
@@ -1772,24 +1790,6 @@
     11.25564
    ],
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1745578/-/firenze-proiezione-di-for-life-nellambito-del-festival-dei-popoli"
-  },
-  {
-   "id": "gn-dDFZbVkb2M9NQ",
-   "fonte": "Giornali · ANSA",
-   "titolo": "Prevista nuova manifestazione a Trieste ma piazza Libertà è deserta",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-07",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-07T20:05:00.000Z",
-   "luogo": "Trieste",
-   "citta": "Trieste",
-   "regione": "Friuli-Venezia Giulia",
-   "coord": [
-    45.64965,
-    13.77728
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVnRKaS15YkdGX2Y5QkplejJKb0hHQmQ4RTdOVGRmSzFQc3U2LVFFOUZtTk1FWGlGQUN6a1JFUjVyRjZPR1M5UFEwdXRjV001TE1qMGhVS1lmLUdVaG5TN1p0ZC1IYXhsV0pzalFjWW1DV1JIRkFhMzF6Wkt3UXYzWmVvbjU4YnRFeEU2bk9MZjRNejdhbWZKTEw3c2VtZEpycExCeTlfV0dRZVB0ZEFzeWtmTk9id0VvRGZzbDg1R05wYUNTYldzMlJ1bUduaWxNYm1iV0Z5czdleTFPTHRTY1BLaWFlSnZRLVczX2dMQXlVZ2PSAfgBQVVfeXFMUFRvVWkzeUhVdUNKVmFxSjFkd19SWWhPTldaQ1RCZkt1SXF5eV9YZHgtNjJSelI1bzlOM05EeTRHTFZDZGNXXzhZWHpzZlNKeHJVWndXcDhsWUpJV1RqRTNYajRKd25DenhHZ05IRzdhMHJ1NUdXaVhyR3YxcnVIZW95Qm5INFAxMVlPUmZWcTNYYlRsNVBpVlZYX0w4TE9aRi1RNm9lcHF5YTZndlFHNHQ0YjgxcGMxZVRvLVFwdWJHZTUyakplZlNqaVc1THkwTWNzbzlPQlowX095QkhTaWxoMEQ1U0xsTWtUb3cxRWt5dzFZbmt1YmY?oc=5",
-   "altriArticoli": 3
   },
   {
    "id": "gn-alZ5UVEb2M9NQ",
@@ -1995,24 +1995,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13486",
    "online": false
-  },
-  {
-   "id": "gn-RGwzTncb2M9NQ",
-   "fonte": "Giornali · La Provincia di Como",
-   "titolo": "Flauti, tamburi e danze: ad Albate il corteo dei buddisti",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-08",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-08T18:09:49.000Z",
-   "luogo": "Como",
-   "citta": "Como",
-   "regione": "Lombardia",
-   "coord": [
-    45.93959,
-    9.14936
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObDZfbjdPM04xNnhvZXJwN2I3NHk2T1BVQldUOVlPRkoyNVFhNUV2bUJOajBRY3lxOHlrcWtMd0l1MFNtZmpHMGVqS2NuYVl1TzVSQ0J6NnBDOFVOaEdDYVp6cWdvUXlJcWcxZmctcFFYdk53bmhJVzVKZFZLcllWemRibjI0U0Z0QkdDV21iLS1pc2gxUkhLbXY2enZKRTVHb01pNk9ZamI4M1BZbDlqMi1zNU9mMEdoOFU2akRlNnd5M3F3MDl3Nw?oc=5",
-   "altriArticoli": 1
   },
   {
    "id": "gn-d01rY3lkdz9vYz01",
@@ -2306,6 +2288,23 @@
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmxaRFZPZ1ZteFRZVS1PNGEtN0s4bGp6R09CNUMxMDdzTElYOVRZcHlHcjJIX1dkN1NLdjRSU3owaFRBVnBFYV93T2NfaDRfbVRmd0NlNy0tQlVNZDhNT1pwdlpDQXJIb09YLWkyakwyTlR2WktOZGZRcHhLMjZwZ19EYXNnSWM0MGt3dmlwTnA0NDBVbkh6bENNWGlyT0hGMEYwQmhnYXdCREhiZjFiTGdPSXRLdzZWSW4yOUZuT2E0SG1mdk4wcnFpYWEzRmNLOTV3OWo3dlpENFVSbDlIeWpMWnc0Wktn0gHuAUFVX3lxTFBEeUtYMFpLVDBEblNacGpETy1CbE54VlNhVGxsNGpIXzhBU3ZHbkRZendLaEJMWGVjdWd6UkcwVV9ocXFEcDIxMnotQ05jc0t2ZHl2UkF5cDM0Y1N3X0plbVZQU2pyUlF5anczTjRhVWpCcEV4WXpXNTY5UEYzN200RVphWDVWVmFucHNESUJMekR0dXY0dWpoNTJrSjVIWGtwUG13Q1M5c0l6ZG1XQ2ZrZVlDMXJyaDJSc3pLQUxUeE1mNXlaNWdxX3ktTjQ5dzB1N3RYMkZtQmstaWZrQkpMWmVrSkxkd3JwVGdHU2c?oc=5"
   },
   {
+   "id": "gn-UzFmWTNOMz9vYz01",
+   "fonte": "Giornali · La Provincia di Como",
+   "titolo": "Il sindaco Pozzi sull’ospedale di Menaggio: «Un presidio indispensabile»",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-10",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-10T15:41:07.000Z",
+   "luogo": "Como",
+   "citta": "Como",
+   "regione": "Lombardia",
+   "coord": [
+    45.93959,
+    9.14936
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVm9tYmJfS09mME0yQW1QaGtFNWdDaTZrSk5JZTFaRjJiNmNiTWYwRWZrRVFfLS1vT3pDbzhhRGp3WUFMSlhrUlF6X1E4UkVRbFNRbmxIUkZCcUE4dVNzUGptaDYtZzNnWmRBTFNIcE9rRHRBN24wRmNiOHZPZWdZd0tXcDNzYTZsMFRnQzNhMzRsWm9rNC1RaHNoMHpJQU1vaFlLRXNlTnl3WWhqcGQ4YTRDMl9kTmdXUE5hUWwyWHpRdGRPeTFKbXBHc29Vb3luYWgtdk9qeS1fY3N3?oc=5"
+  },
+  {
    "id": "gn-TFRZME9VRT9vYz01",
    "fonte": "Giornali · intoscana",
    "titolo": "Politiche regionali sul lavoro: in Toscana più 200mila persone hanno trovato un'occupazione",
@@ -2321,24 +2320,6 @@
     11.13892
    ],
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFZlRFFaVUdJcGxiY0EyQlgwVjdQSE94Zm43MU1XbVl6UlJXaGR1dUp4VWt6T1h5RU03M0Jjb2VfdGJQSTFFN0JoWEtIeGlpd3A5YVotc3BCWGozYms4NXpqd2tlc29QeHI2cUdldWd3N2tXY1ZZZlJITVp4b2Vqdk9aX0kyY3lFR1BTWmRZZmdiR0ppUzNlb20tZFhISTlLOFY2QkVnZkNjTDZVSlY5anFqV0JpLTY0OUE?oc=5"
-  },
-  {
-   "id": "gn-WVRSdGNYYz9vYz01",
-   "fonte": "Giornali · ParmaDaily.it",
-   "titolo": "Sicurezza stradale all'Istituto Toscanini, Civiltà Parmigiana: \"Via Cuneo ancora senza presidio\"",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-10",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-10T14:06:17.000Z",
-   "luogo": "Cuneo",
-   "citta": "Cuneo",
-   "regione": "Piemonte",
-   "coord": [
-    44.45807,
-    7.55814
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObGlhd21OVi1UemwxWHBWVHNxMVZ1eEdXeXBTLWgtb1dxUE1iUWVlelYyOWd1OXFYdUViOGpnZHVvRnc4QlNma3RXTTZ3d2tKUlB1T1psTGxMWXRtc1o4ZDlxR3BqbnBiVGpxNWktdGhMUHg5Nkd0MXItZVFjMGNIaWJoQ2FLaWFEWjk1Sm5mRHpQMXoyeTZhUERIaVduRE00anY4RDM3bFpFMEdMTmw4RmFGQ1pFYTRtcXc?oc=5",
-   "altriArticoli": 2
   },
   {
    "id": "gn-bmhGVG5Kbj9vYz01",
@@ -2409,21 +2390,22 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVy1uT1ZJRXJiSE5CdGtURUZTZjBpd2xZYklTaU9oT01xMExzS2gtdGduVW1DeTk5V2FvZXlqTEgxZ0tUbVZLY01CWms4T3JVd3VpVzBwUE1pR016WDNjSUlvdXR3TFdjc2VuYzBvUDY3UUJIcTNZUXFIcm5taWw2RjQ0UDhMVFJmR0U3Z21VanZBaGdOd2d6MnpyTGtJSDhpT3AzcVNqN3piaHF4TGRfZ1FmUQ?oc=5"
   },
   {
-   "id": "gn-Wk1VNUIb2M9NQ",
-   "fonte": "Giornali · Gazzetta di Siena",
-   "titolo": "Monna Agnese, finita l’occupazione: decisivo l’incontro in Provincia",
+   "id": "gn-MFpNYVRBND9vYz01",
+   "fonte": "Giornali · Cuneo24",
+   "titolo": "Fine vita, nuovo presidio davanti a Palazzo Lascaris: \"Il ricorso sulla legge veneta non blocchi il Piemonte\"",
    "tipo": "Dai giornali",
    "inizio": "2026-11-10",
    "dataIncerta": true,
-   "pubblicato": "2026-11-10T09:28:02.000Z",
-   "luogo": "Siena",
-   "citta": "Siena",
-   "regione": "Toscana",
+   "pubblicato": "2026-11-10T09:11:00.000Z",
+   "luogo": "Cuneo",
+   "citta": "Cuneo",
+   "regione": "Piemonte",
    "coord": [
-    43.16721,
-    11.46756
+    44.45807,
+    7.55814
    ],
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ2NXSGpjX3VULTd1VXVkclR2UFdSSmVUN3VScmp2MEI0QWVXdE0wLW1neG5KX0lzS1pCeUktU2NrV3AtQ3hoNFc4QVhOMVN3cTM2Q19wS1RUeUgtTHJjTVFqV0Z1dG9JdVNTWmNDS0xGaFMwTDZIbEE4THNYc1dReFMyRDdXSjhkVnNmdE82T18zR2hoLVVfT3NlNkXSAaIBQVVfeXFMTThDNkFwWkVWd1BpLWhtc3NXRDNaM1d4dHNwUFhBOFktZk12cTFsMkZ1TEFJb3pNQ1lhaVhsYVkyXzBuenJmSEZWVHlmTTVzTk42dEMzMW53dFppM3hYa29pc1BVU3ViTWhoQzZydXFyYmtnNTl1YUVEZVNqenVDaWY4a3lGZHM5VVZwdWZVaTF4MlVSZklBSkdKSGpiek1ZMU5B?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQay15bThlcVhfdHkzUTkzX1BDS0E2S3FwcVlZSFJISjd6eS1hVTQtbGcyTkFVbUR2ekFIbTZDSndkR1E0elFWaVNmZVI5Y1RtYjZROXI3TEljQ2xNM3I2ZU5fWHZycXdMX2JER1pkcldsRGlRdWFXN1dJVzYtZEp0Rjg5clRNcUl2a05RMjFtbFM0Vy1aemF6YUNfSEJQUDEzMW50bDU2NE5ucHZCM2FsU25McmZHNFliLXNoNkhYSVpQNDg5M1p4TlpzWkhWWlh1YmFDZkRFR0ZMaTA4?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "gn-MTVTa1k0P29jPTU",
@@ -2441,23 +2423,6 @@
     7.82235
    ],
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONDB6VG5sbWc2WjNvT2RQZVlvckhDaTEyUVN2bDNMelJpX0JkWEwtYzBpVlNHdWdta0RqNkgwUkh1UDNxS1cyTXhaY0w5c29RV2k0bkR2eHBaUENIY1JYTGREY25TemdhQXBJQ3NJWmJGMTljaWJvYWdnbXp2WWNSUW4tMHktTGFaVFNMSVl2X1JCYnVxNnhZamJyNkpUa3pGMXJ1akEtUGVDU3JndDFDU29mM0NKMVpqNGdkR01uWFh6Z0pnSzZnNGhHQm9IUHZtZHluVGpVem5CN1RsVjN3MGlQanViem15SkY4?oc=5"
-  },
-  {
-   "id": "gn-VDFoa1pBP29jPTU",
-   "fonte": "Giornali · Torino Cronaca",
-   "titolo": "Torino e Chieri, bus deviati martedì 10 novembre: modifiche per manifestazioni e lavori",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-10",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-10T06:30:00.000Z",
-   "luogo": "Torino",
-   "citta": "Torino",
-   "regione": "Piemonte",
-   "coord": [
-    45.06776,
-    7.68249
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVUlOaGZiX0V0X2V2S1hSSDY1TGJMZG5OMVZuYjFPYXV2ejlvT3Z5c0ZGN3RMNV9VOHBWZHluckRlUW1YSnhSZUpuMmp2SGp3OEhhUzJkR01yZWhTYXR3aVBMV0xSc2lzQjRVa1k5bDJ2c25VelN0eUp4TDUxX2toSlRFa2Y4ZklTSTBnakJkbTF6Nzc0dEUwa0NJc0taeDczQzRLV3hzenVqaE04UEN6Y0lKREV0VEs2SkVCVllqREszQmY3THNaaERFd25QVDFsT1hkZA?oc=5"
   },
   {
    "id": "aip-1746213",
