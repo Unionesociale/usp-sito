@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-12T16:14:43.147Z",
+ "aggiornato": "2026-11-12T17:16:39.411Z",
  "notizie": [
   {
    "titolo": "Gaza, ennesimo raid israeliano su ospedale: 6 morti",
@@ -604,6 +604,18 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "FNOVI aderisce alla manifestazione nazionale del 5 dicembre a Roma in difesa del Servizio Sanitario Nazionale",
+   "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1Hb19xN1dTdEw5WkJrN3h6d1p2NF9maDFRZjNPNTFaVjNsUlV1ZHpXeTVRSno1MkljN2xGejViNTQ?oc=5",
+   "fonte": "fnovi",
+   "data": "2026-11-12T16:22:42.000Z"
+  },
+  {
+   "titolo": "\"La Piazza del mondo è la piazza di tutti\": in arrivo nuova manifestazione in piazza Libertà",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmZVMkJMdVNtajQ2eUtRR1ZNcUJtWVpvbDBZb0RPVGpXZmVYSlppN1g0MDd4eTZaTXRuTUdHdVAwVm0tNUJDc2NlUVpXUkF5bEF4UGNSWGVHaVBOYmUwWThxZWQzQXpscERSQUN1TGlVdlZSNEVxOTdkMHVvTms5aDEyQTFpS3FsT2c?oc=5",
+   "fonte": "TriestePrima",
+   "data": "2026-11-12T16:04:41.000Z"
+  },
+  {
    "titolo": "Polizia locale in festa a Torino, \"presidio di legalità e presenza nella comunità\"",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpSU8zX2NPRjUzTlRpbnVrUXd2VFh0QlkxZ2pEVFQyWXR2RnRRMTk3TXNpY0QwNk1nZXNGTkFFeTJrczkwSGF0WmI2cUZtaGdlV2tMZ0dZUGRPZ2VJWWdkaENBaGpGODdYS1BKNmlGd09PSEZaTVE?oc=5",
    "fonte": "TorinoToday",
@@ -862,6 +874,12 @@
    "data": "2026-11-12T08:28:47.000Z"
   },
   {
+   "titolo": "Manifestazioni del 14 novembre a Parigi: chi sfila, dove e quando",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUUd6OHF2dWJXVUJxRGFmZmxsSjljLUR0NDRDRTV6eEFobFF3OFBkczRHVm8zVEpJTklsRVYyWHJhdkY0cHBlRXpaVXpOaVUxYzdkSkNTOHIwLWo2aDJHa3kyckxucTZuOGZOM21UZ2wta1RIc3dkNnluVVF3NzlvLVJxX24wVC1jNTlTalRtMk5ZSFhhMXFOaHR4UWZvaVotbFg2S01LV0xWdHd5VWNRaWgwMkl1TmNLdXJuTHphdjlxakhKcS1j?oc=5",
+   "fonte": "Sortir à Paris",
+   "data": "2026-11-12T08:20:49.000Z"
+  },
+  {
    "titolo": "Occupazione giovanile sopra la media italiana",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlJKTE9zbFZpdlJuTDB1UzlwN01uTm5QZHo3aHk3bXBBMWdmSkVqNnp2TnNGcTlSdUNwNm1SZzNCNjJKdGlGRUl1VmRkb0ZpZEVwckIwMEZlTmxYNGYtSXdXYnc5S0Zqd2dLLU1iSFdQX0YzM1J3MDNONk5lME9uT29CLU43Snk2cFVEREllSVFETmp4TS1LSVRB?oc=5",
    "fonte": "Il Resto del Carlino",
@@ -899,13 +917,13 @@
   },
   {
    "titolo": "Cuneo, sabato 14 novembre presidio di \"Donne in cammino per la pace\"",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRXBUZ0VLVFdBMURGb0xnNmwtMTJfUFY4ODNIMzU4TnRSTjN4X1J3cWNONFNlWV96SDg3Xy1nRHllMzE2SHdnSVBPLXJWa2FZeDMtREVQLXNnOWlNNTZtLTlac0lYeUZmS0lPdjlvZWRzSW1qWWVCVmh6NF8zYjdXc0tUc1gwcTY4Z00wRXU1VWlVa3c0MGZJR0piZnJHd3M3QUt6R19xYzRFLW1CYzF5ZVlZMnkza3BJNjZnb0h3SjFJSEhaZXVmTEQ2NVRUUGt4V2IwdjR30gHWAUFVX3lxTE1FcFRnRUtUV0ExREZvTGc2bC0xMl9QVjg4M0gzNThOdFJOM3hfUndxY040U2VZX3pIODdfLWdEeWUzMTZId2dJUE8tclZrYVl4My1ERVAtc2c5aU01Nm0tOVpzSVh5RmZLSU92OW9lZHNJbWpZZUJWaHo0XzNiN1dzS1RzWDBxNjhnTTBFdTVVaVVrdzQwZklHSmJmckd3czdBS3pHX3FjNEUtbUJjMXllWVkyeTNrcEk2NmdvSHdKMUlISFpldWZMRDY1VFRQa3hXYjB2NHc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc3oycmlmdlFBRUxqTFU2RDYteDJILWswa1YxQ2hFallrNklKVEVOcWZjb1JsRUwyQnpXbVFDX25XVVNTZzkwR3lyUHBIWUZLQWpIYXJfRnFqb3VHaG8xa2dGLUkyZldLZUNJOUJfYlpmSkQzc0dWRGtWcXdPWkNoSUI5aURjSzBMNXc4dV9BVGV4am5WYTE5MHlkdG5KU25MbmRpRjNrRlRvNzlmcGJwak5lOTY5bFlMQXZya0l2dmQ1VEhNcU9xa2F2cTljQjZJVkVWVnFaakFfY2ttN3AtalBLMA?oc=5",
    "fonte": "TargatoCN",
    "data": "2026-11-12T07:10:00.000Z"
   },
   {
    "titolo": "Cuneo, sabato 14 novembre presidio di \"Donne in cammino per la pace\"",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc3oycmlmdlFBRUxqTFU2RDYteDJILWswa1YxQ2hFallrNklKVEVOcWZjb1JsRUwyQnpXbVFDX25XVVNTZzkwR3lyUHBIWUZLQWpIYXJfRnFqb3VHaG8xa2dGLUkyZldLZUNJOUJfYlpmSkQzc0dWRGtWcXdPWkNoSUI5aURjSzBMNXc4dV9BVGV4am5WYTE5MHlkdG5KU25MbmRpRjNrRlRvNzlmcGJwak5lOTY5bFlMQXZya0l2dmQ1VEhNcU9xa2F2cTljQjZJVkVWVnFaakFfY2ttN3AtalBLMA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRXBUZ0VLVFdBMURGb0xnNmwtMTJfUFY4ODNIMzU4TnRSTjN4X1J3cWNONFNlWV96SDg3Xy1nRHllMzE2SHdnSVBPLXJWa2FZeDMtREVQLXNnOWlNNTZtLTlac0lYeUZmS0lPdjlvZWRzSW1qWWVCVmh6NF8zYjdXc0tUc1gwcTY4Z00wRXU1VWlVa3c0MGZJR0piZnJHd3M3QUt6R19xYzRFLW1CYzF5ZVlZMnkza3BJNjZnb0h3SjFJSEhaZXVmTEQ2NVRUUGt4V2IwdjR30gHWAUFVX3lxTE1FcFRnRUtUV0ExREZvTGc2bC0xMl9QVjg4M0gzNThOdFJOM3hfUndxY040U2VZX3pIODdfLWdEeWUzMTZId2dJUE8tclZrYVl4My1ERVAtc2c5aU01Nm0tOVpzSVh5RmZLSU92OW9lZHNJbWpZZUJWaHo0XzNiN1dzS1RzWDBxNjhnTTBFdTVVaVVrdzQwZklHSmJmckd3czdBS3pHX3FjNEUtbUJjMXllWVkyeTNrcEk2NmdvSHdKMUlISFpldWZMRDY1VFRQa3hXYjB2NHc?oc=5",
    "fonte": "TargatoCN",
    "data": "2026-11-12T07:10:00.000Z"
   },
@@ -1064,24 +1082,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQamViZlVvRUVSVTV1eHVuZzhETXBMV2IxZG1mU2JCQXJDV2NvMTBjekxRTGtJWUcxaTZ2MldZQ2RzMFhzR3VZNGFJWEJuQlpidjJHeFItXzB3NkhneDhJc3JLUEF1aGpfZTZab042dERhLTd1Qlc4WlJsTHN3anBrekZHaEpwZWYwc1VJRUh2bGZCUzVsZlNrRnhBWGhKMzIyZTI2OWR1bnVBVjhlNTM5dXNOOTRIa1NoOFVF?oc=5",
    "fonte": "FLC CGIL",
    "data": "2026-11-11T15:44:29.000Z"
-  },
-  {
-   "titolo": "Ricerca in piazza: grande partecipazione al presidio di oggi mercoledì 11 novembre",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHRNVGo1WEZ5X2FGeGtRVXJ5Y21GTnc3c3R2LXFRMlR0bk02cUVjRmRvb1dwNGN0d3N5bnRxNUs5SzNQWGpKUkpDNlNqX3hrb1ZxZjhNb1I1azMzalE1dHVweHNDS1ZPQUhTS1dycEV6WmFEWmI1TWRXN0F6ajJvT0RHN3R6dVNBVWRGRVB0aEE0ZUNKZFRxYTVGeXFPY3Q2dVRPYUw5X1h6emNwZ3FGZXFKeklMZw?oc=5",
-   "fonte": "FLC CGIL",
-   "data": "2026-11-11T15:42:09.000Z"
-  },
-  {
-   "titolo": "Varese: Pensionati in presidio, la SPI CGIL in 12 comuni",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNkYwQkszX2pVbFh1NUZWYUtqSkNaamFLakcteEZ3cUVTUFdNRTdPeVF1OHZjd2l2Z2VDUTRXZU54UFd3SERCd1FJbWFhT1ZxcnNqc2lFSTB1a2RMMVJBcXEyeVBYR3piaklVMmFTUXA2dUdBWm9IblJQcmVqaGJuWnc1VUtmQVd5TkMyQzAyZHBxQzlHZGdBU3B3VQ?oc=5",
-   "fonte": "Rete55",
-   "data": "2026-11-11T15:30:02.000Z"
-  },
-  {
-   "titolo": "\"L’Italia si ferma\", le ragioni dello sciopero generale e il corteo a Bologna",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbzNFS0UzSU01V1RFcDFkNDZsbDAzTVZOY0EteUt4SjlndGNyS3ZhcXZuMWhmLU1qWVk4dnoxdGhCY0RkLUJkTGxkRElfRDN6UUZjQzZwU0kwb192NE1vRm0wR3FtdFdpaEtycXBibm90T1Z3cjQxMkxaTGdkVHJjU2xwZk5odw?oc=5",
-   "fonte": "BolognaToday",
-   "data": "2026-11-11T15:12:08.000Z"
   }
  ],
  "eventi": [
@@ -1154,7 +1154,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa0dMZ3BwUTE1YXBCMl8xVjBBaFdKNHRseXZ6WDZjekc0U3ktZHZ6Smg3RnNLWkdJekZ1Zjh1aFZyV3B3UW8wWDV4T19GbzExbjZhVmhKeUxrY0Z4RlFaaGlTNVdldE5KOEtHdWlaakJWUjF0enBuZXdlWm5XQkk0cnFSZGoxSnROYlZWektCaWhkTno0enFuNDhuZ0E3a1dFTFhUeU9UaDF4ZG5UVWxhaUFXdGFuNnVuTk1wTW5MeVEtZU9QVURqT2xYb2k2MzRMa2lKLW1uSzdTaTBRSWVyXzhB0gHnAUFVX3lxTE9VckZYWlIxNDNNQ3RWRlV5M0tKcDNjbzg5enN1VFpRbmFIX2dPbDBuRVdwdW9Jam1wMHRFdUc4NkpxenA0YXlVc3VacHdNZ3AtcVBtdDI0eld4aC1ma0p2TDhJV0kzNEp0R2NoTEZzQXBmQUNkbHpaU0dZNHlCYUtzNl9lUHdrUEFJRFYwTDdSelNMc3pOQnFfNVhjODFzZU9lSHIxUkgzaUVBOHg2NnlYVXFjV1hFSlJjMTFqU0I5RlBRdGVKMjFFSW5qMU10N0JqUUMwV1RzSHUwRVhPZlZMamlVVHhDZw?oc=5",
-   "altriArticoli": 71
+   "altriArticoli": 72
   },
   {
    "id": "gn-R1UwazVOUT9vYz01",
@@ -1775,6 +1775,24 @@
    "online": false
   },
   {
+   "id": "gn-eFNXc3cb2M9NQ",
+   "fonte": "Giornali · La Provincia di Cremona",
+   "titolo": "Pronto il corteo: «Protestiamo per tutti»",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-06",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-06T20:16:02.000Z",
+   "luogo": "Cremona",
+   "citta": "Cremona",
+   "regione": "Lombardia",
+   "coord": [
+    45.22086,
+    10.03704
+   ],
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbnR3eFFoUUtfaUNmd2J6VTlfZ1FoMGZOcTRhNGczd2g4YWUxOEFjS0ZJWE9GYVRlZTQzUzFVVFFKZFUzWUU5aGl4VC1PMHNOd0tkcEdCMTI0U3pYVF9taHlsZ0pzeDFFVzZLWWdmRHlOOEh5cGxqS3FhZlV5Q1QtUmUyVm5VWTJCRkJ4UWFabXZnam5xSWsw?oc=5",
+   "altriArticoli": 2
+  },
+  {
    "id": "gn-R0ZTWVhkdj9vYz01",
    "fonte": "Giornali · dialessandria.it",
    "titolo": "Fine vita in Piemonte: il presidio dell'associazione Luca Coscioni davanti al Consiglio Regionale",
@@ -1824,24 +1842,6 @@
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1745578/-/firenze-proiezione-di-for-life-nellambito-del-festival-dei-popoli"
   },
   {
-   "id": "gn-WktZa2N3P29jPTU",
-   "fonte": "Giornali · Corriere della Sera",
-   "titolo": "Centinaia di partecipanti a Milano al corteo pro Palestina contro guerra e carovita: il video",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-07",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-07T18:46:08.000Z",
-   "luogo": "Milano",
-   "citta": "Milano",
-   "regione": "Lombardia",
-   "coord": [
-    45.46419,
-    9.18963
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOFRSS2hxODN1M1YyTWc5aDcyaEdLWl8teXNwTUVPSFRPTU9DRmtKX25LRUNvb0lDcm9JcmwwZkstS0NwdmM3RFZzZFk0NElrdmY5MGFRLUxqNWxNY0ZBSnN3Rk4tVkFvRkxFNDloU3N6T0JqU2wtX0pneE5fOThqTzRyVE85Vy1PcHM0Uk4zZ2ZnNE9NZGhuaHdDOG80OFo2czhPS09qbUJla2Z3bVJmSGJSZUtHU0hBQ3JqWDBNTFVEN3o4Z1dNRjBPY2hraWdIRHFvTTBsWUNnRmhld3ZfdXZHT1BFNEZKYkcw?oc=5",
-   "altriArticoli": 2
-  },
-  {
    "id": "gn-R0ZRVERnP29jPTU",
    "fonte": "Giornali · RaiNews",
    "titolo": "Corteo contro il riarmo e il caro vita: Italia in piazza presente anche a Genova",
@@ -1857,24 +1857,6 @@
     8.93386
    ],
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNjlfdWloaE1WdGxxaVRyYUl0NlFBWkU0aHB4dFpmbDE4dm95UmlrNHpRVXZMeHEzM0hVbGZfZ3R4Zi0zNDZWdUVNeHBVTXZBQ2ZfRm9RNHlpOGpBTXNUcm5CeEY2NlVxcjJwVmNVcGVuSXJadllCcUltVnV3LU5DTWt2MmlhYXZ1bklCVjEwRnFYelV1VXR6SkIwVkdveWpONGZBR3Zxa1JZejZsVXZCR1NaQVV4U3ZMUkQyaUtLYW9FdEQ5bVR3QVhoX1JpRk1xenlyV3dwbjZSaFJ1X2MweDNYUjJEdHdHbDc4VzVsV090bVdlcE1rcExmWGFQTDg?oc=5",
-   "altriArticoli": 1
-  },
-  {
-   "id": "gn-REZoUVEb2M9NQ",
-   "fonte": "Giornali · La Provincia di Cremona",
-   "titolo": "«Adèss baasta», corteo contro il carovita e le disuguaglianze",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-07",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-07T17:05:13.000Z",
-   "luogo": "Cremona",
-   "citta": "Cremona",
-   "regione": "Lombardia",
-   "coord": [
-    45.22086,
-    10.03704
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRkxQMjdielNXMmJYZnRLODRDWnFEVWRkU2toUlVfZU5KV3BKRUV1M09HMkpYZXNla0x4ZFpIOF9HZHdncmFvendadVZsbGw4LUpETjZMUHdEQkFYY0dWbGM4Z0dBbU84QVQ2M280YXFMVlg0di1zVVVUejVLU2J5QWx1TFlqcjRQMTF1ZlFCU0k5WC1ZSTRCMUtzTjlpNEdMbERWUmQwV2xUWkI0QjhCeHM4S0lKNnZzSjZXQl8yalFidjUyQkFUdE9PSUI4UDFzNzF4N01xTDFhQQ?oc=5",
    "altriArticoli": 1
   },
   {
@@ -1911,23 +1893,7 @@
     9.75422
    ],
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaU5XSXNlUE42d3hLVVRxSzBMWFQzZkt0ck5GdVVtTmxfQ1RleUo4bTQzXzRIQjBMSjhCWDFLNTdwQi1laHlwRElIVmVFZVowa1Y5Mk02MGhtN3JDWkFKTDg3elNEVm91YU5POTljekpmV1g5U0N4S3ZuNjFhTk9KNlM3QktiMlZ1aE5XclBqOGZGTTljUnhONGxkeVQwNkt5eF9HcTM0ODA5QUFnVHpOamRWbHZxUzdCTnBfRWhOeEZWZlJreFFRUEs2RXRRWlVI?oc=5",
-   "altriArticoli": 3
-  },
-  {
-   "id": "pl-13457",
-   "fonte": "PeaceLink",
-   "titolo": "Smile Meeting: Incontri che lasciano il segno",
-   "tipo": "incontro",
-   "inizio": "2026-11-07T09:00",
-   "luogo": "Verona, Vicolo de Pozzo 1, VR",
-   "citta": "VR",
-   "regione": "Veneto",
-   "coord": [
-    45.44794,
-    11.00606
-   ],
-   "link": "https://www.peacelink.it/calendario/event.php?id=13457",
-   "online": false
+   "altriArticoli": 2
   },
   {
    "id": "pl-13497",
@@ -1943,6 +1909,22 @@
     15.70696
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13497",
+   "online": false
+  },
+  {
+   "id": "pl-13457",
+   "fonte": "PeaceLink",
+   "titolo": "Smile Meeting: Incontri che lasciano il segno",
+   "tipo": "incontro",
+   "inizio": "2026-11-07T09:00",
+   "luogo": "Verona, Vicolo de Pozzo 1, VR",
+   "citta": "VR",
+   "regione": "Veneto",
+   "coord": [
+    45.44794,
+    11.00606
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13457",
    "online": false
   },
   {
@@ -1993,7 +1975,7 @@
     11.25564
    ],
    "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNSGdhV3NwS2NndXh2S2VNa3A1V2xfcGV0QTg5MGdSdXh4WnFBZHdZTUZKV1paS0VGdEVIa2RxMUxwRlVyQ2QwWGh0TGFmUVlJb2JQY0xDN1ZhRTBVa3dUYkJQLVl4eTlDMFdENkJ6RTFhVE9PRTR3aUp3TWlwUlVwalFqeDFLVWdiRGVfRXZ2bG9ZLVBsNG11QV9yWjk0WER2TGo4OE1uaDh0ekZrQlU1MUJ3V0gzZFkzQUlIVHJoUzh2dDhrWUFKUTNFeTBlQTJTNHdIWkZzQ2FZNU5KaEZETmQ1QXE3R1hhZml2OUxRblNkZTlrSEl6UDdraXJqSHQ1SUZjbmZYczk1VlpkOHJzNXdOQ3pxcGxiUjdYQVgxS1ZNb3JsUUt2VXM4T28yeF92NVpESkhPc1gwTi1mVUcwRVE3Mk9Md2lDWWpHYmxjb21FMW1nclBNeVA3QjRNYlUzNVlwMkcydw?oc=5",
-   "altriArticoli": 5
+   "altriArticoli": 6
   },
   {
    "id": "gn-VkoxVFdaUj9vYz01",
@@ -2044,25 +2026,7 @@
     13.35244
    ],
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqVEU0UWkwdXJEVGFUc0JZYmtMZGVTcFhqcjM1VHhFb0x6bkEwSFhoZGFJOVpmUVF5R1F0QmpCUndvNkVPNWdtOU1Qd1praHZGUEYzdWwtR0xtQzNhLUM0MnJPMGpVVGMwVmo0aC1aY3VrUmRDWk1zNlpfSUF5ck0?oc=5",
-   "altriArticoli": 6
-  },
-  {
-   "id": "gn-a01saFFVUT9vYz01",
-   "fonte": "Giornali · Giornale di Sicilia",
-   "titolo": "Antoci: «Quel corteo funebre a Ballarò è una sfida allo Stato»",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-09",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-09T21:05:02.000Z",
-   "luogo": "Sicilia, Italia",
-   "citta": "",
-   "regione": "Sicilia",
-   "coord": [
-    37.58779,
-    14.15505
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdUdaWjljT05meFhQcnl3UDgtMnpYaDdVenNyUFlCWUtQQS1EMktadFU3bVJ3dFFyUTZCRldWZjEyRWxXckZTaDRVNFFveFJ0RGhUbm5veHhfanoyUUlNdmtJMmJuVThNQUl4SmZRSHdTa1FTSldMWTl4cjVJZXhhLU5WdUgzSko2SjhtNXI4TF9DQVRWbGFKSl82Y0JhbTlZUU5wNW5xR1BNcnlzVERuTDhaUWxGN0cxMmlyWkVjOGRBY1RzcURKb0EtS3NsUWdZZkZkMlhQUQ?oc=5",
-   "altriArticoli": 4
+   "altriArticoli": 5
   },
   {
    "id": "gn-ZURsdGVGRT9vYz01",
@@ -2098,6 +2062,24 @@
     10.09799
    ],
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOFZkdXNSeXFrYVVVakNtZzQwWDdVR3RGeG1hbTN1S2JpUzUxMzBKcUtndEdBbllNN19yeXc5dWdnUmdiSnVmSjdwUlhHTlF5bl9BODFqYmxSSXAzSE50T0pDWnZFa2c4MEtMYnVmQmpBaGkzWURxZHExZ1JmckUyVG1VRHFsZFZPZEZ4V1ZEUmpfZE9EUGpv?oc=5"
+  },
+  {
+   "id": "gn-elF6Sklkdz9vYz01",
+   "fonte": "Giornali · LaMiaFinanza",
+   "titolo": "Milano propone un presidio ONU per la valutazione indipendente dell’IA – LMF",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-09",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-09T17:56:44.000Z",
+   "luogo": "Milano",
+   "citta": "Milano",
+   "regione": "Lombardia",
+   "coord": [
+    45.46419,
+    9.18963
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZlFaRzRXNGRGQmZHbk1ZTGR3WWhoaEhyOVFZV3hZa29VbmV4ZFNCcU5GY1BqUmdCM1kyVEdYdTVQekZNN3pEajF6M3h3ZmU2Nmt3OXFhTmgzdjBGejVRUzZPRnVObHFScDFNMjdIYVgzR0szUkxVRWx2djA2TzVoelctYUlWWTAtbUpwcmtIWnN6TWdvVnladG9ONlp4QkVpUzlfZjBzQzJIdw?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "gn-aDRaV056P29jPTU",
@@ -2154,6 +2136,24 @@
    "altriArticoli": 2
   },
   {
+   "id": "gn-c1JGZENWUT9vYz01",
+   "fonte": "Giornali · Giornale di Sicilia",
+   "titolo": "Bankitalia, occupazione stabile in Sicilia rispetto al 2025",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-09",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-09T15:29:28.000Z",
+   "luogo": "Sicilia, Italia",
+   "citta": "",
+   "regione": "Sicilia",
+   "coord": [
+    37.58779,
+    14.15505
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ3RJX1JaeWV6WWpXM0p3T0xPNmktNkI5bEU3VGtvSWVPeHlWRjVqOUpNZVh1Z1Q2TjJJbWw3MEZZajlFdnMwR19Kckt1bmtONlBOaGc3aGQ4ZzdnR25EWEc0Q0RqMm9uYW5EV0RRYkFQM1Vja2x3YnRYTnBWc3pkYUNMZjlLSG52cFVic3R2TzFXTnc1N3U2bnZCOVRWZy1OV05QYU9SVDdoZVpvUlZzN2JiN0NqMkxaM0xUNFN3TkljVmVzRTlJVzA0QXZrWUFHUGRsRFdCVQ?oc=5",
+   "altriArticoli": 3
+  },
+  {
    "id": "gn-R3BNUWxKUj9vYz01",
    "fonte": "Giornali · La Nazione",
    "titolo": "Pisa, occupazioni nelle scuole: blitz al Buonarroti, al Carducci danni per 15mila euro",
@@ -2202,8 +2202,7 @@
     44.82601,
     8.20269
    ],
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ0lLemxPSjRkX1FHa1JYSjVxTFpad2c5QUJiVlpaa2xjOEZSX0FQY3ZtQkJDRDBOaUxfTmdybDhSNFM3a0VqWFJFd2hrUmx1SjBqVXVTUTJEWmV3VTBNVHZfbWNkc3MycEZEN1RhcVZ3dUVHWVFVUU42RDVFbk5hc01aYXVJVDM4TU5UYl9lM3dmMDVHQnFUY1RNSDEtQmxadDBfN2hGQ2lfZHdFaFEtUXBoTTUyM2Z5RWJfOVFVVUxjNnlBbVdaLUpPQVNWY0tldzYtS1NaSXpwYkJocGpSNmhlWTZrYXdVTEFmc9IB8gFBVV95cUxQWGM5NFJDV3pNN01iSDFKNG5lY1llRVdlbnBMeWhIbmZTN0M3Q1hDbGc4Nk5XUDRVZVp2V2FQTkZmSGM5X3dlYkdGanlITHRyaEtnaWp6TV9RaFJFNktFNWRnT0tLTW1GTTE4dXRaU2lBWXN0ZEZZRklqVExWSDFxODM0VVJnVzF2cVJ1eXZtbGcwLWRfczJ0emRPS0xqZ0RmeFlGUFlPbUh1c1FzYVJyUFJLQ3FvZUxaTjlaVXk0bFZHVklzUU5nTlVwa2F3OVhwN25VRXB0aWFZQ2RodDVBUkl1X2lNcGpJY3BTdUw4VjZFdw?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ0lLemxPSjRkX1FHa1JYSjVxTFpad2c5QUJiVlpaa2xjOEZSX0FQY3ZtQkJDRDBOaUxfTmdybDhSNFM3a0VqWFJFd2hrUmx1SjBqVXVTUTJEWmV3VTBNVHZfbWNkc3MycEZEN1RhcVZ3dUVHWVFVUU42RDVFbk5hc01aYXVJVDM4TU5UYl9lM3dmMDVHQnFUY1RNSDEtQmxadDBfN2hGQ2lfZHdFaFEtUXBoTTUyM2Z5RWJfOVFVVUxjNnlBbVdaLUpPQVNWY0tldzYtS1NaSXpwYkJocGpSNmhlWTZrYXdVTEFmc9IB8gFBVV95cUxQWGM5NFJDV3pNN01iSDFKNG5lY1llRVdlbnBMeWhIbmZTN0M3Q1hDbGc4Nk5XUDRVZVp2V2FQTkZmSGM5X3dlYkdGanlITHRyaEtnaWp6TV9RaFJFNktFNWRnT0tLTW1GTTE4dXRaU2lBWXN0ZEZZRklqVExWSDFxODM0VVJnVzF2cVJ1eXZtbGcwLWRfczJ0emRPS0xqZ0RmeFlGUFlPbUh1c1FzYVJyUFJLQ3FvZUxaTjlaVXk0bFZHVklzUU5nTlVwa2F3OVhwN25VRXB0aWFZQ2RodDVBUkl1X2lNcGpJY3BTdUw4VjZFdw?oc=5"
   },
   {
    "id": "gn-YWVrVmFNQT9vYz01",
@@ -2304,23 +2303,6 @@
     16.86203
    ],
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGVQVkR6TUZnVDFrcFpSRi04WGFIb1pVRDJBSGRXalhVTEFQc3pWbUs2dG5jR3VMSy0yaWsycHZfU1dId2QxQk9KcC1GWHdxaDZiaWFLQXFPa0Z0V1RUbkd5b2d2a1l4REd2SXRYdjZIR2dxVHZVMHMzYWk4WV9uRTRiX3hiNGpmYkFPdkppWnRYT0JZZS0xUmdoZFl4aDRzQnhFTnJn?oc=5"
-  },
-  {
-   "id": "gn-UXpXVE4zP29jPTU",
-   "fonte": "Giornali · Sardegna Notizie 24",
-   "titolo": "Serenata, canestri e corteo: le nozze nuoresi al centro di Mastros",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-10",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-10T11:01:28.000Z",
-   "luogo": "Sardegna, Italia",
-   "citta": "",
-   "regione": "Sardegna",
-   "coord": [
-    40.09128,
-    9.03058
-   ],
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ0F1NkhqSE5hRU5vSXFHSTZ5ekVZSmIzb2duYlI0SXhsdGNESWZ0NHBITmh0ZVowd2hJOEQ4N2VtNlBDQ3N2amFWRXM1eFE5OEhYYkp4RDh2aFVsVVU1SVoza1UzXzhMclVHLW5zRWxnQWw0LVhFOVQ4RWhkcFhSa0NEMGRNdTFMREtaOEFwaFlWc1c0NEQzWTN3?oc=5"
   },
   {
    "id": "gn-ZloxRm1VUT9vYz01",
@@ -2845,23 +2827,6 @@
    "online": false
   },
   {
-   "id": "gn-VHpaaWRVRT9vYz01",
-   "fonte": "Giornali · Gazzetta di Benevento",
-   "titolo": "Manifestazione di protesta prevista per sabato 14 novembre dinanzi alla scuola \"Federico Torre\"",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-14",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-12T09:51:00.000Z",
-   "luogo": "Benevento",
-   "citta": "Benevento",
-   "regione": "Campania",
-   "coord": [
-    41.24763,
-    14.70571
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWUdzVHJoOTNSYzNJcThFS2lvOEV0TV9rX01MZmUyNzhFdmVBUFlZSWt4aGdxbmtUNGZiWDA3cFJEWXpBTkhDS1V5YmtuSElKYnQtSWRRdHVSU3ZDYk55eFhiNmEyckMwaWNtUVAyTmRTeVh0WndEd1B0b2Robk5ZOWRhbVVCbngtLUZDMkxSYzlqdXFsMnZkU2U1RW1TVFhfUWd1dXRnODRYYWJ3bUg0UGtWSUI3TzRUQlJfaFJJTzZidUE?oc=5"
-  },
-  {
    "id": "gn-Vm9RVUp6P29jPTU",
    "fonte": "Giornali · Cuneo24",
    "titolo": "Cuneo, sabato 14 novembre un presidio per la pace promosso da “Donne in cammino per la pace”",
@@ -3326,6 +3291,22 @@
    ],
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObWhZZ3NhTlpPMHI0VEJDRWRwOURzS1RkNEt1RmduQ1U0bUs2WXlwc20ySmNLWVMzOWc4a3JjSTMyaGRQejlaZWxKN252dF9pVFBpaEx0bUdPTWNrYTV3N2p4RTFxV3AzSmJ5em5kVG5pbUM5ZDBkWTYzZzFCaVB4bkJUNTYtbjgzUE93dUl6RmF3c05sUVJMRmMyWTZhRG9LMmdMRUlLTEpMdGVvLTh6RFZkY2VXQWp2LWMtZFJxLTfSAcYBQVVfeXFMTnlkRUc3cm5mNXBxTUs3TTBLd3hXWlRiTDJqN3lHTjFMNWdtSTFmTE1aTExVVzJyT3FMakRpX09HV2tNdW95Tzh3M2hKQld3YVdQN2FZd19tM21GSHM0MDNNU21NZnd0Ty1NcllJcS1EWmhlb1lJcUVSNTBLTE01UFl1LU9LbEd3aHRjcFVNRmdUNzlvMHBURkdjRXRkaF9Jbkk3RlJMa0JTai1lN3ZVcFdlSWdlbHYwOTl5ZjBwNmNmeEVoNXhR?oc=5",
    "altriArticoli": 1
+  },
+  {
+   "id": "pl-13537",
+   "fonte": "PeaceLink",
+   "titolo": "Presentazione del libro 'La Logistica delle Armi'",
+   "tipo": "presentazione",
+   "inizio": "2026-11-25T16:30",
+   "luogo": "Piombino, Via dell'Arsenale, 1, LI",
+   "citta": "LI",
+   "regione": "Toscana",
+   "coord": [
+    42.92308,
+    10.52794
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13537",
+   "online": false
   },
   {
    "id": "inv-venezia2611",
