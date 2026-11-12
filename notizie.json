@@ -1,6 +1,18 @@
 {
- "aggiornato": "2026-11-12T22:57:33.902Z",
+ "aggiornato": "2026-11-12T23:54:44.597Z",
  "notizie": [
+  {
+   "titolo": "Missili israeliani sul Nasser di Gaza: sei uccisi e ospedale fuori uso",
+   "link": "https://ilmanifesto.it/missili-israeliani-sul-nasser-di-gaza-sei-uccisi-e-ospedale-fuori-uso",
+   "fonte": "il manifesto",
+   "data": "2026-11-12T23:04:34.000Z"
+  },
+  {
+   "titolo": "A Gaza sanità in ginocchio, farmaci introvabili e pazienti gravi senza cure",
+   "link": "https://ilmanifesto.it/a-gaza-sanita-in-ginocchio-farmaci-introvabili-e-pazienti-gravi-senza-cure",
+   "fonte": "il manifesto",
+   "data": "2026-11-12T23:02:27.000Z"
+  },
   {
    "titolo": "Gaza, ennesimo raid israeliano su ospedale: 6 morti",
    "link": "https://www.lindipendente.online/2026/11/12/gaza-ennesimo-raid-israeliano-su-ospedale-6-morti/?utm_source=rss&utm_medium=rss&utm_campaign=gaza-ennesimo-raid-israeliano-su-ospedale-6-morti",
@@ -604,6 +616,12 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "Il “presidio drammatico” dei Marcido sul terreno di Beckett",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQWRnRV9jVk1oVWhybEM5REVJRU0tZWlSTWJnTzJVMmRxRE0tVDBGWXUzelpMbDZQbjNTNVo4YzZqLV9BM21lTU8yWXpmSkZ0Qk1WVjVpek1rRW51d2ZmUjlsSUQ1YmUyamlDa0kzLTc3SWRQNnh1SndlM2xBNlBybkdfQy00M2M4VlR0WVh5SUNibWhibkE?oc=5",
+   "fonte": "Il Torinese",
+   "data": "2026-11-12T23:15:12.000Z"
+  },
+  {
    "titolo": "Sciopero generale 20 novembre – Manifestazione a Palermo",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQUdPNnNNSjdRNW1BTkN0Yk5DMUxrSXcxajFPSnRtNzhHVGl4aHpXWWotRG43cjBtc0x3eWJZRDRKSVQ3OGI2U2I1UjlxZFBiLXZHT19TN2Nha0ZYd0tWZmpXd01Jb1VRZmN4cTBTMHJJaGF3aDBnTU44a2x0dmRSUHpob2tCSHJfd3BUamVYVzFhWFpGTmxFSk0tQVYxS2gzT25RUk5B?oc=5",
    "fonte": "CGIL",
@@ -662,6 +680,12 @@
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOalV0bktjSC1QblJuLUI2M0dPaDRDeER6U2ZzbnlQczlrZ3QwSFUzNS0yYUYyeGdkaXFFUU95Q2cxUU9jaGdFMlRnN3ZqOGwzd0VtWENwLW01RTY2WWJlVGxJWTVYM1VzNWdIMngtbzNTaGUyM2FSTV9XU0VxcFJ1NFctcHVIYnBxN3pxOXV1bWg3YlJ6OUJUckZ1OEp5VWNNZFBKOGU4LWdXUEdnX21FbXFUaXFuRlpUZThPSE9yNmk1NHczdTdjYzFxc0VwclU?oc=5",
    "fonte": "L'Adige",
    "data": "2026-11-12T18:03:17.000Z"
+  },
+  {
+   "titolo": "\"Altra Benevento\", che più di altri si è occupata del progetto Torre-Sala producendo esposti e numerose denunce pubbliche, non è tra gli organizzatori della manifestazione indetta da Paola Caruso",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNVNvQ25uZVQxYlZCem5RUUdNSjk2ZTJHdEJGcmJFZHJ0N0JCdWJuMm12c1JRN2IzYThTUkFpejh0M0RfcHBVZjhZMDBmTExLbzBCT0JyalZPUW5SSEZRM19BY3VBbXREWXU2VkdfRzc0aUlUTFVuaHUzZ0czV05iYWhKTV9XNzE3TkwzcnJUQXJDU0lKRDF6dFlJYUNXMlc2ODloS0lmRC1wVml0blpPcURtRTNzZW82QlV3YUIwR2R0MWFKbGc?oc=5",
+   "fonte": "Gazzetta di Benevento",
+   "data": "2026-11-12T17:26:01.000Z"
   },
   {
    "titolo": "\"Altra Benevento\", che più di altri si è occupata del progetto Torre-Sala producendo esposti e numerose denunce pubbliche, non è tra gli organizzatori della manifestazione indetta da Paola Caruso",
@@ -1070,125 +1094,9 @@
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVmRHSm52Z2tHdHNkZXBVb1NWS0QyRmtBWUY5Y2pCUVBlUXRfY0pldW9Cc2JGaUxOTWJRcENwWGFOblprb1NHd1dfdFpGY05USnRvYVpnM1pmMlJRY3hqZE1Bd1VES0c5b3l3ZTEySU1xLUlpbjQ0VVd2dUtiempuOTBlRFUwalR2LVZFV19FM0NDb1drc1Z6emJjY21YNmpOMmlYYklySV9IdEd4MUI0b1I3U2lfaHhLWnl3aGMtOVRHeEp3MXM5V3VxS3J5NDRCOHp1Mjh1OW43SHJuOEFRZF9YV0lvNkgzaWlCWDJ3?oc=5",
    "fonte": "Mediaset Infinity",
    "data": "2026-11-11T22:26:19.000Z"
-  },
-  {
-   "titolo": "Call center, l'intelligenza artificiale si prende il lavoro. In Piemonte migliaia di posti a rischio, da Ivrea ad Asti è allarme occupazione",
-   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNMG1obGJKNmdtMUVnR2oyMDk5THB5VWV3MHBGenpoMDdmdXloWW54dGlkU0ZSZmhTWF9xdS1ZaDdROERPVzdoc1FGc3RSQnh0dkowZEZKRjVBTlZiUHBsZVhfb1NGSEJQS2hYQnlKNnlIbGx2TTNGRXhfWkoyVFhPbm95RFQ3eDlIeFBnajBaMWQyOXUxN2E3TThXWGs4RVd6cGtjXzg5Vy0zZmNRZ2NwV3VFQTBPanpJY3k3RmdoNUZMRGFmaEVfenNIZU1rTFcxU3lOQVFsdXd5bDhJMFpjT0dpOWhOZWV6UUhNN2cxRnJfNmQxa2dvdjBvTktETDVnWHlBMnpvRjRGSEhXREpaUWtXZWE5em83bElIY0tNTQ?oc=5",
-   "fonte": "Giornale La Voce",
-   "data": "2026-11-11T22:09:52.000Z"
-  },
-  {
-   "titolo": "Festival della Legalità: avviso per manifestazione di interessse finalizzata all'organizzazione e realizzazione del festival per il triennio 2027-2029",
-   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQTkVvaXlZWTBBRFN4YUUtemxIeHBZSU9fNlNZU2JNZDFTUFlPRllLUDROZXpEMF9FQk9aa3ZLcHJwZ3k2Z1BHYTNZWVVVNnRFUnd2RUIxQzNqNEdjWXZUVHVVZXJoUm5abHdOM2xzUlJiVU12aVdtamtSZzJYQTlmcUVjOF9UQmdONmh5WklRVm5oVDhVZW9NSF9Ca09ZNUF2N3ZOblB2QlNlTVJibjM5OGtNd3RGemxRd19OVk03dHNLWUQ5MXpLRlNGWk91S0RUT1hkN3BsQlZSaVN2UTZQWl84LWdYbXQxM2lOQUJqRzVweUpNNDRiS3pGTnB0MVl2aWdXRERwcVJvM2tfT0g0ZEdhX3ozeHFManFsZFp1T3JMdw?oc=5",
-   "fonte": "Comune di Modena",
-   "data": "2026-11-11T21:23:19.000Z"
   }
  ],
  "eventi": [
-  {
-   "id": "gn-RlpWTncb2M9NQ",
-   "fonte": "Giornali · Corriere di Bologna",
-   "titolo": "Le «mamme antimanganello» degli studenti liceali vanno in corteo a Bologna: «Basta con la violenza contro i nostri figli, faremo da cordone di sicurezza»",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-29",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-29T07:00:00.000Z",
-   "luogo": "Bologna",
-   "citta": "Bologna",
-   "regione": "Emilia-Romagna",
-   "coord": [
-    44.49382,
-    11.34263
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUW1ON2hJX2pkemR5WWZlOHgyem9SbldXZHRzbUZxOUNUajFHRW9URkNkU1hWZ0xpTXd4Q2JOUkNPZVR2UmpUU2NicnVPWWh4OXVOcDRhbFFiU1otc195NjRHTkMxTFlORWtwRVdLOVhSWWtORHp4SVlCVEN0bWRockl6Uy03eTlnRUYwNnlBNEVWQlJra2lwSkp6cjYtQm44bmQ0MjFtMlJ5V1Qwak1ZbU1jbXlhRUxQS19tWTJrTk5rVHp5VTZXN2doOG8wemhORTZlMHk4M3JKb0xRNXN5TDNBdVh1MVJJeGVN0gHwAUFVX3lxTFBnVXQ5cklLMXlnV202LXU0QXhzYU8yVGtBS29KUVhpNU1GOFE5dXpNRUM2T1lZRlhGeW56Z015blhaU3NSZG04ZmpqWC1jcVJ0RDNZbTl6NGdCSkZPWmpycG9HV3JnNWJtbFpYUDBFQ0FYOFdsZTlmUUVTLS1jZ0w4OWMzU0hMRkx5bk5jZDJhSHItUTk4bE1VU0JoX0JIbFpjZFNZekFMZi1rcjR0a3J3eDBDRHQ0dVhUa0VKcEFiRUFRT0ZCTF90cWlCeWY5eFBoTkNfTTVTVTZEdjh3SkhVc1pTc1dmUm5qYlktbFZVNw?oc=5",
-   "altriArticoli": 3
-  },
-  {
-   "id": "gn-M1ZzUlZOQj9vYz01",
-   "fonte": "Giornali · L'Adige",
-   "titolo": "Corteo a Trento, commercianti preoccupati: «Fiducia nelle forze dell'ordine»",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-29",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-29T07:00:00.000Z",
-   "luogo": "Trento",
-   "citta": "Trento",
-   "regione": "Trentino-Alto Adige",
-   "coord": [
-    46.10295,
-    11.12974
-   ],
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRkNlbUNLSWtYcXhzb1NzNjN5cnRMRzFYSGxzZEI3dTZTSU9RcERMeGNRVzdybUpWcmJJQXVka2drMHA4eE15RjJyLWdzQmE2VUZER2VGWVEwUm80NzF1YjFvb1p3b1cwNGI3R3NDUzN2a0lLSE41TVBwNVIwd2dGTXA5eG4tY2l6dnR6WnIxdVpsZTJOZUh0eUtaTG5mZVJSVml0TFM0RGh0Y3VsRVNB?oc=5",
-   "altriArticoli": 2
-  },
-  {
-   "id": "gn-SEI1ZHcb2M9NQ",
-   "fonte": "Giornali · Comune di Bolzano",
-   "titolo": "Speed Dating lavorativo, nuove opportunità di occupazione per le persone con diversa abilità",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-29",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-29T07:00:00.000Z",
-   "luogo": "Bolzano",
-   "citta": "Bolzano",
-   "regione": "Trentino-Alto Adige",
-   "coord": [
-    46.65593,
-    11.23018
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdWYwRE9SZ2dGaU5YSldwaFNaN1cwS1Fqd3NiTElDc2hHQ3BaeU8xS2lzSG5OYXlQTUpHS05aaU11ZmhrcjJid21aeUlucXJWd2ZTWEJPcTlZTUhzTXliQWVDa2N1dlQtUTZDUmN5VnBHb2g2U2NIRWJzS2xZOU5TUG1aa2ZiZ0thTTZRVEpPODNDcXFYSW1ySWxsbWdPbGtpVlNxTHVuR3B5NnJDLXBHNEVpNXdQQm9iMWViSzFqNkxTZ0dKQjlYY1hkX1VvYVQ3eHVfYVdESHB5dw?oc=5"
-  },
-  {
-   "id": "gn-SGhEWncb2M9NQ",
-   "fonte": "Giornali · ANSA",
-   "titolo": "Sciopero generale Usb a Torino, cortei e presidio in centro",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-29",
-   "dataIncerta": true,
-   "pubblicato": "2026-10-29T07:00:00.000Z",
-   "luogo": "Torino",
-   "citta": "Torino",
-   "regione": "Piemonte",
-   "coord": [
-    45.06776,
-    7.68249
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa0dMZ3BwUTE1YXBCMl8xVjBBaFdKNHRseXZ6WDZjekc0U3ktZHZ6Smg3RnNLWkdJekZ1Zjh1aFZyV3B3UW8wWDV4T19GbzExbjZhVmhKeUxrY0Z4RlFaaGlTNVdldE5KOEtHdWlaakJWUjF0enBuZXdlWm5XQkk0cnFSZGoxSnROYlZWektCaWhkTno0enFuNDhuZ0E3a1dFTFhUeU9UaDF4ZG5UVWxhaUFXdGFuNnVuTk1wTW5MeVEtZU9QVURqT2xYb2k2MzRMa2lKLW1uSzdTaTBRSWVyXzhB0gHnAUFVX3lxTE9VckZYWlIxNDNNQ3RWRlV5M0tKcDNjbzg5enN1VFpRbmFIX2dPbDBuRVdwdW9Jam1wMHRFdUc4NkpxenA0YXlVc3VacHdNZ3AtcVBtdDI0eld4aC1ma0p2TDhJV0kzNEp0R2NoTEZzQXBmQUNkbHpaU0dZNHlCYUtzNl9lUHdrUEFJRFYwTDdSelNMc3pOQnFfNVhjODFzZU9lSHIxUkgzaUVBOHg2NnlYVXFjV1hFSlJjMTFqU0I5RlBRdGVKMjFFSW5qMU10N0JqUUMwV1RzSHUwRVhPZlZMamlVVHhDZw?oc=5",
-   "altriArticoli": 72
-  },
-  {
-   "id": "gn-R1UwazVOUT9vYz01",
-   "fonte": "Giornali · ASL Roma 1",
-   "titolo": "29 ottobre: chiusura programmata Presidio Salute Mentale Boemondo",
-   "tipo": "Dai giornali",
-   "inizio": "2026-10-29",
-   "dataIncerta": false,
-   "pubblicato": "2026-10-28T07:00:00.000Z",
-   "luogo": "Roma",
-   "citta": "Roma",
-   "regione": "Lazio",
-   "coord": [
-    41.89332,
-    12.48293
-   ],
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWJOVS10cDdWZkFadWdwbmE5WUwtTVBJQlRHVzJua01HNHdDNU1INGJvZFhBQWJTUFhPOElwcGxpMDhEanh5NmZybUdydjlkYnZjZDNxcUktWVNnajNyZDYyTlRzdk9RbjRWQURxSGJ0MXBZekt1NlB2Z0JNZUtaUFJjMjJGZzdTdUM2VHpIdHJQZzlGU0k5NQ?oc=5"
-  },
-  {
-   "id": "pl-13489",
-   "fonte": "PeaceLink",
-   "titolo": "Fermiamo le guerre, costruiamo giustizia",
-   "tipo": "assemblea",
-   "inizio": "2026-10-29T21:00",
-   "luogo": "Monza, Via Rosmini 72, MB",
-   "citta": "MB",
-   "regione": "Lombardia",
-   "coord": [
-    45.56166,
-    9.27625
-   ],
-   "link": "https://www.peacelink.it/calendario/event.php?id=13489",
-   "online": false
-  },
   {
    "id": "gn-ZVVGVmVqRT9vYz01",
    "fonte": "Giornali · Comune di Napoli",
@@ -1206,6 +1114,24 @@
    ],
    "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNdi1jV1g5TE8zTW84aHlsZFNmclozbTNvUkRwamM1Z09UM0xxekdteVRzdWFzakpPZU53bFFFb0xVM1BHeERheG5iMTJydkdHSUhtR1EtN2NVY0FKTm9KMnpGd3cwYmxLUTZKY2NWZEh6TlFHUENxRDZ0ZlRlV1lRZXlUTnNnZlFtVFlEUnh2ZVRkblV2dHJURXhxSl9EVi0wclZUSTQwZ25QSW1GdjF4R0RLNmR1eGpEdXN1UWRKbnB5QjdxNnVqakdBVGpZTVFXeFk2ZkJTVzJrSUpOcDF1X3d0b1VBWWdidU5CTzY1Z3lPczgwTFlPb1Iwb1I0OE1SM0lnS0E4dVdLdVNUMDNLbmRINHAyTXJBQVJMZG1Wa3NHbGdfeU5KMXRDTW5ULS1UZ0xYeUFVejE?oc=5",
    "altriArticoli": 4
+  },
+  {
+   "id": "gn-WXpMWE0b2M9NQ",
+   "fonte": "Giornali · TorinoToday",
+   "titolo": "\"Ci siamo presi tutto il centro\", un nuovo corteo paralizza Torino tra piazza Castello e piazza Vittorio: tensioni in via Roma, ma anche proposte di matrimonio",
+   "tipo": "Dai giornali",
+   "inizio": "2026-10-30",
+   "dataIncerta": true,
+   "pubblicato": "2026-10-30T07:00:00.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDhEZENHUUUybEk0YURyYWs1U1FsWm5tSjhJSUZjaTVoVm85d3JGWC1MNkFZMGdQaGZNNVVIZWJFUVVwRG9IWDFsNjdOb2xuU0ZMb1c4Z1RMT0R3OHZ5ODJXbjk2Mm5KUGUyZVk3VDQ0YXZMYVhXeHhUVHJSX2tPU25UNllqNWkzS3JZSW0xNURPLWgwS3JOcTdOb2VDSzFpUGwwN2sxZWtZN2lCUUdWMXJDb2pOQXUxekhYWWt5RDNucEJCcXVaLVlDbHYzLXM?oc=5",
+   "altriArticoli": 68
   },
   {
    "id": "gn-QjZjRVUb2M9NQ",
@@ -1304,22 +1230,6 @@
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1745243/-/firenze-sciopero-generale-manifestazione-contro-guerra-e-carovita"
   },
   {
-   "id": "pl-13469",
-   "fonte": "PeaceLink",
-   "titolo": "Per una pace disarmata e disarmante",
-   "tipo": "convegno",
-   "inizio": "2026-10-30T16:00",
-   "luogo": "Palermo, Villa Niscemi, Sala delle Carrozze, PA",
-   "citta": "PA",
-   "regione": "Sicilia",
-   "coord": [
-    38.16475,
-    13.33439
-   ],
-   "link": "https://www.peacelink.it/calendario/event.php?id=13469",
-   "online": false
-  },
-  {
    "id": "pl-13513",
    "fonte": "PeaceLink",
    "titolo": "Presidio di Pace",
@@ -1333,6 +1243,22 @@
     10.54569
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13513",
+   "online": false
+  },
+  {
+   "id": "pl-13469",
+   "fonte": "PeaceLink",
+   "titolo": "Per una pace disarmata e disarmante",
+   "tipo": "convegno",
+   "inizio": "2026-10-30T16:00",
+   "luogo": "Palermo, Villa Niscemi, Sala delle Carrozze, PA",
+   "citta": "PA",
+   "regione": "Sicilia",
+   "coord": [
+    38.16475,
+    13.33439
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13469",
    "online": false
   },
   {
@@ -1896,6 +1822,24 @@
    "altriArticoli": 1
   },
   {
+   "id": "gn-R2MzRlIb2M9NQ",
+   "fonte": "Giornali · Giornale di Brescia",
+   "titolo": "Quando il corteo è l’ultimo spazio davvero rimasto",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-07",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-07T04:00:00.000Z",
+   "luogo": "Brescia",
+   "citta": "Brescia",
+   "regione": "Lombardia",
+   "coord": [
+    45.77958,
+    10.42587
+   ],
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlZHN1g2bHBzLXpEbzBlT3dOb0tOdWJtOU5HREp0czgzVTVqRVlIbE9OcnJoWEhqeUctY3FhSTRzSW9LeHlaeGRxUUR6TGFNemdsNThGT3JxakFMYlFBZ2VreWp2Q0w2V3E3NjFTVXFwX1IxVVdHMGE0WlNCOUZEVGJ5LTFRR18xOVBia3lva0lQQXZOMHhkc0xudkc0OFZTS0lza0JvbGhtS3o3d2NGc3FR?oc=5",
+   "altriArticoli": 2
+  },
+  {
    "id": "pl-13497",
    "fonte": "PeaceLink",
    "titolo": "Il Poliedro della Pace III - Europa: radici e prospettive",
@@ -1958,6 +1902,24 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13486",
    "online": false
+  },
+  {
+   "id": "gn-aU9VdHpkdz9vYz01",
+   "fonte": "Giornali · Corriere di Bologna",
+   "titolo": "Bologna, occupazione al liceo Minghetti, scuola nel caos. Il preside ai genitori: «Dite ai vostri figli di tornare a casa»",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-08",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-08T09:32:00.000Z",
+   "luogo": "Bologna",
+   "citta": "Bologna",
+   "regione": "Emilia-Romagna",
+   "coord": [
+    44.49382,
+    11.34263
+   ],
+   "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPS3hPbnljWWdMclpVX2VmNm5ZUk1MbGxTNkpQdUJrYTBsdEMxaHdJS1loT3BOTUROMWp5RjZpaUZPNm9vaHJpWDNWZjZSUlloV2lhc1l4M3l0eXBadHlfLVVOUkFMM0ZSODQyN25rNGVHWjZLVlJYUTRpNjZ4VkZySXdGU0c0WkVQZmFtdXNPdER3OTBoLTZJZGpUMGp6YUd2dnNCZkQ5R1otSWJ0U1ZlUjU5WHViYjh2anRlR1RRRWNOejcycUU2cUs0VmhTX3BIeU52eXBqcFBkLUlCU2V2ZlFZczA3STM0TG9SMmNtSDNkUnJBQlRqRjBoLUtaQ0lvOEZsNURIWS0tSkR4a0tYNUxpWWJfQmtURF8xMFhqU2FmcUlaM3FiUlpkQnVYUkZSa0drOXNmYmQtWk1nazRfR1hCRzJ2T3VId3dfd9IB0gJBVV95cUxOa2hwZmFmUUhnSmN5RDNNbmlfU0h5bzhqbXFEN1dFWlhrcXpuQ191UWt1Z0FaRjZQaXQ5b1ozeEtPY1hKTlVGVnFSVHRmVmlFU0dUaWRfc3FuN0JRYWFNWUViMWY2NHVKMGkxeWtURVlHSGFIakFZVU1iZ2cwbHU5Qm5Fdzk4clNXcXdNVWhFZUp5dWtRUVNBMUt1ekM4MmUyVWI5dHNyUGRPWVBnYThFWVJ6d2RuTGRCampUM0pUZDRsSmY4MEVLVm13MTQ5dEdQeXZjUHJhMFZ5UnJGY3dXNkxwRlNXY1dXUnZyNnpTYWFVajJ4Qk13enp3TGw4WDEyVXdOVVg3eDdFNG5UU3loUmRJQ292TzZyQkRtZnoyY3kxYUF3Y0prWGtEUnNOUkRxQjdUSG5BN0dOSnJUQnE4dHF1bFpwZWw1ZXJlc3FiOUtzdw?oc=5",
+   "altriArticoli": 2
   },
   {
    "id": "gn-d01rY3lkdz9vYz01",
@@ -2026,25 +1988,7 @@
     13.35244
    ],
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqVEU0UWkwdXJEVGFUc0JZYmtMZGVTcFhqcjM1VHhFb0x6bkEwSFhoZGFJOVpmUVF5R1F0QmpCUndvNkVPNWdtOU1Qd1praHZGUEYzdWwtR0xtQzNhLUM0MnJPMGpVVGMwVmo0aC1aY3VrUmRDWk1zNlpfSUF5ck0?oc=5",
-   "altriArticoli": 5
-  },
-  {
-   "id": "gn-ZURsdGVGRT9vYz01",
-   "fonte": "Giornali · Bresciaoggi",
-   "titolo": "Lavoratori dello Spettacolo, il presidio anche a Brescia: «Basta stipendi fermi»",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-09",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-09T19:31:58.000Z",
-   "luogo": "Brescia",
-   "citta": "Brescia",
-   "regione": "Lombardia",
-   "coord": [
-    45.77958,
-    10.42587
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMjlEazFrakFCVEdScXpXaXBfYkRvU1BWS19UN0sxQ0RFNHY0dVR1S244cnRLczBleXp6Z3Y3ZjEzTFpiQm1ZS1hCdWtNTVRueG1rUXR4a1RNM1F0dmg5U0Y0cVc1VjI1Ry1GRVBDcGtDOU1ld3pOQzR0cU9vSk05c05pZzZIUEZVMTlEclc4eVBCT3ZJa2FvWDRpbC15MWVDR1J2Q2h3TXNTWHdWS1BmVEgzWGZUbkN0c19zUnZQeTdRVXpUUE1FVmd3bThjbnpsQm1oQmNIZnpXUmPSAeABQVVfeXFMUEMwYUhXa29iU1dZbVd3T2plVDJHb0JJTlhfNHg3ODJqWHFCRVJ1VEtQUmE3MU9hdWV5TGd5R2pOMXJSNHdFYzNCYjZxelljblh4Y00tSzMwTVR0bGNDeTJsVlV4SjJ6azh4ckFDQWJiZEpKd1NxcngxWDM3ZEF0NzlaX2xfTzNrbDZIMnJnaWFieTFjbDJZQjQ0UjI0TmR4cHRQd1V5WVRYdk4teHhNMmE3QnVIYjBuUlJrbFdEMkszbEJ2MVlzbVZjd0pfVG5QVG1RaWlFSnotY1djeDlteFE?oc=5",
-   "altriArticoli": 1
+   "altriArticoli": 6
   },
   {
    "id": "gn-RVVHcHYb2M9NQ",
@@ -2116,6 +2060,24 @@
    ],
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNWZBNG1iOHZPTzI1Zk1vTmhuajB1NllNcW4xNEw3VXB1V0VNUDQySWhfcktNeWFhZHpOaXgzNU1rSFB6YWJMMGZ6R1llM25LNHhNamVuNHQ4aVBNaUw2cGY2OS1ZRjY5WU1yX2VON0dEdFFzT3lrZXk1NkJmZzJneW56MFRKZE4yYlh1Zk5LSE1aajlPMnc?oc=5",
    "altriArticoli": 2
+  },
+  {
+   "id": "gn-Vk5RWTI4P29jPTU",
+   "fonte": "Giornali · Trentino TV",
+   "titolo": "Bypass, No Tav annunciano presidio permanente all'ex scalo Filzi",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-09",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-09T16:40:00.000Z",
+   "luogo": "Trentino, Italia",
+   "citta": "",
+   "regione": "Trentino",
+   "coord": [
+    46.10295,
+    11.12974
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zMlRHX2VoV1ZJN21kakR5Tl84U1ROeVZkUFZBa1JvWXU3aVVaY21TTFBEOUxhQkl2QU1BRmNUeGVacU95aWVLWHVyQ2ZtUG4tYW1oX0dUQUlMRFptWUJFTkpuMVNQY28?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "gn-UkZoclIwdz9vYz01",
@@ -2237,23 +2199,6 @@
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVHRYVWw3YWNfcnROeUFXOVlzNlg0SEdrSzlXUE5EMV94ZUVYYjkyZnJBUmZISzVjLW56amY4OEh2a3dYWk9VNkpGdHhkUWZ1RHNobGpHM3NJUE9TcjdyVXE4QzZMUnNaZDYyTXdncHd5RldiQ3dMd2xaVHRIbjFMeDFQR2VmQjNtT2lxT3VqT0dyWEw3ajJuOU5EUEJQamhtdUxWNzNkUld1UTBySmo1TlhDZW9uSllrRm1vRzFoUmFTdUJPck5FckVvbkZkbnJkcDJqT1JFaU9yb1k1eHA2ZlR5QlRXQk5sb0haLWln?oc=5"
   },
   {
-   "id": "gn-UzFmWTNOMz9vYz01",
-   "fonte": "Giornali · La Provincia di Como",
-   "titolo": "Il sindaco Pozzi sull’ospedale di Menaggio: «Un presidio indispensabile»",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-10",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-10T15:41:07.000Z",
-   "luogo": "Como",
-   "citta": "Como",
-   "regione": "Lombardia",
-   "coord": [
-    45.93959,
-    9.14936
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVm9tYmJfS09mME0yQW1QaGtFNWdDaTZrSk5JZTFaRjJiNmNiTWYwRWZrRVFfLS1vT3pDbzhhRGp3WUFMSlhrUlF6X1E4UkVRbFNRbmxIUkZCcUE4dVNzUGptaDYtZzNnWmRBTFNIcE9rRHRBN24wRmNiOHZPZWdZd0tXcDNzYTZsMFRnQzNhMzRsWm9rNC1RaHNoMHpJQU1vaFlLRXNlTnl3WWhqcGQ4YTRDMl9kTmdXUE5hUWwyWHpRdGRPeTFKbXBHc29Vb3luYWgtdk9qeS1fY3N3?oc=5"
-  },
-  {
    "id": "gn-TFRZME9VRT9vYz01",
    "fonte": "Giornali · intoscana",
    "titolo": "Politiche regionali sul lavoro: in Toscana più 200mila persone hanno trovato un'occupazione",
@@ -2286,6 +2231,23 @@
     16.86203
    ],
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGVQVkR6TUZnVDFrcFpSRi04WGFIb1pVRDJBSGRXalhVTEFQc3pWbUs2dG5jR3VMSy0yaWsycHZfU1dId2QxQk9KcC1GWHdxaDZiaWFLQXFPa0Z0V1RUbkd5b2d2a1l4REd2SXRYdjZIR2dxVHZVMHMzYWk4WV9uRTRiX3hiNGpmYkFPdkppWnRYT0JZZS0xUmdoZFl4aDRzQnhFTnJn?oc=5"
+  },
+  {
+   "id": "gn-bkZRYlZwVj9vYz01",
+   "fonte": "Giornali · ANSA",
+   "titolo": "Per Banca d'Italia in Umbria crescono prodotto interno lordo, occupazione e turismo",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-10",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-10T11:03:00.000Z",
+   "luogo": "Umbria, Italia",
+   "citta": "",
+   "regione": "Umbria",
+   "coord": [
+    42.96592,
+    12.49024
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNnU2LXVMSjdwWWNsQWd1Vkl4T3E4VXdNUlJUcHRQNUdiaUdqQkR1S3RtUnM4RTVOMVJaRWtPRmdCOGk3Qm95OG9tRkFCcDMyYklxcFVNZll0V29nTmdrTF8tQ2VJRUJXcW1qdTNMU3MtRlVncnNUZXV0RGZMQXJpMjh3TFhqMWQ4bklYWGdLQ1RFTjdCTjlKd0g3bnhKdGVBaGNvWVhxTmtQWlM2YkN2QjM3R0FNRGUxdzV5S3AwUWNidGp6clJXaTgwQmc1ZWxGa2lkZU9GNlBEZlRuWndGbWFTSkYyU0lYN0F2ZVZuczFfMC1sQlQzdTN0OGNOd9IBgwJBVV95cUxNdWNHNnhnMnNUQnFmejlabEd0b3dKdWRDRWltRmI3d0pGSEVFMkdSUzZqZ0FMZTY1YUFiZGY2Y3NSd2NscW16QXFzUVIyRXRkd2FIYUR6N2pfOURqeS1HemR0TTNwbi0wQ1k3aDdBV0ZYbG1IanRfWEdVVjNqRk5FQkNCQkNUZ0NlUzRQQ25DNFdSVm9jUnFtd1UzeUVQeFpkREdhS0l1Zl9sSUwtbFM2b0gwR0xtbVMtdjhCSUFWWTBIVmJWNThwS01QTXB4dmtpa216OVE5NUZEMmxNTnFIXzY5UVRqZlRUS000aHVZa1dUNi1PV0M5d0dHeWxqNnFQbVpV?oc=5"
   },
   {
    "id": "gn-ZloxRm1VUT9vYz01",
@@ -2588,7 +2550,7 @@
    "link": "https://www.invictapalestina.org/archives/55281"
   },
   {
-   "id": "gn-dlZqTXkb2M9NQ",
+   "id": "gn-RktiR2Mb2M9NQ",
    "fonte": "Giornali · Gazzetta di Benevento",
    "titolo": "\"Altra Benevento\", che più di altri si è occupata del progetto Torre-Sala producendo esposti e numerose denunce pubbliche, non è tra gli organizzatori della manifestazione indetta da Paola Caruso",
    "tipo": "Dai giornali",
@@ -2602,7 +2564,7 @@
     41.24763,
     14.70571
    ],
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSE51anZEclR1MDg2ckhoOEpJRzFjYlN5UDduV2dSOE9XT0RzRVMzN3pjVHlIdVVzaUc0R1g0UmlVNHk1MFJ5ZVBhZHVWQ2oxTERhREV4SVJNOE1sUkJZU0hCMnNIZzhwVG50eGU5OEhCM0ZhY2pCNEZpLWt6SjNPTVc2WlQzcEU1elY0VVNKeFZneU1xWTY3RUlVd1JMaGFHN0VlZGtYT08zdHpFNDZEblBuZllfaXZQZ292X0hmOHdvVjMy?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNVNvQ25uZVQxYlZCem5RUUdNSjk2ZTJHdEJGcmJFZHJ0N0JCdWJuMm12c1JRN2IzYThTUkFpejh0M0RfcHBVZjhZMDBmTExLbzBCT0JyalZPUW5SSEZRM19BY3VBbXREWXU2VkdfRzc0aUlUTFVuaHUzZ0czV05iYWhKTV9XNzE3TkwzcnJUQXJDU0lKRDF6dFlJYUNXMlc2ODloS0lmRC1wVml0blpPcURtRTNzZW82QlV3YUIwR2R0MWFKbGc?oc=5"
   },
   {
    "id": "gn-WVFUSTQb2M9NQ",
@@ -2824,6 +2786,23 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13536",
    "online": false
+  },
+  {
+   "id": "gn-SU5sTk1NQT9vYz01",
+   "fonte": "Giornali · Corriere di Bologna",
+   "titolo": "Bologna, gli studenti del liceo Minghetti annunciano la fine dell'occupazione: «Sabato faremo le pulizie far trovare la scuola il più possibile pronta»",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-14",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-12T11:38:01.000Z",
+   "luogo": "Bologna",
+   "citta": "Bologna",
+   "regione": "Emilia-Romagna",
+   "coord": [
+    44.49382,
+    11.34263
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPdmNybXB1SktvSlduQWFTSTk5c3NaSkxTcEtsQ1pLdWdBWjA4QXNmbmRqeGw4VDdNMW5JZ1hlYWczYjM5dHFCY2tnRnZ3OUFjLTNacGNOazljUk5kNWxDZmNFc0o2R0VwUE5hUkRrZThtREE3LUFTRVVKOEFvckhNOGVEbDA5SkJyaUsybDhZWmxvN3c5Ui1CRGhxdS1SZGVfZWh6ejJWUnA4WXgtbUpPbk91VlNwbVQteGJ5RjhpOWZSYjBvZUVad3A2akJXbmRpRzUzbjJsSUxrU2x2R1p6VnpYcW4tVHp1TmhOVWc4MzlOMFFiX0N6cG5sOXlTOTk1VkJ2Mjl1UzdEX1A1c2VsU09YMDFwQVU2eks0YmI2ODk0MExmS0c1Z0NkWmowNW1yeVVOR2dnOUo4V1pGemJRNG5odFV4c01QQmVRZW1sSnE1amY0MzRGQmxR0gHfAkFVX3lxTE5zZWJwOUZrZzg2RTFBUFI4T3hRODBsaTBjYXlXX3FXckJuQ0dYUm1QbkF0ZXAtSGNpZ2Z5MzE3Q29NUzBfOGJ6a3J5YlNjUHdwdWw5SUZuNFh1VklwTjBpUTBIOEhITDNJMGN4cUJUZndxZWhPR2ZlVlB4X0NUXzhCNG1zTnM2OUNzd0dzT3hFX1Y4Q3N0MTV2UTRLSkYzcnhqYkR3c0RtMFVodmRjeExMaVVqQzh0Z0RySTE3MFVDTXFaaUpFS3c2dHZFYXlMcmtNLVVvNXhYcGpVaHFEX19xaGxXNDZ3SGtwTENWR2RVaE41d3FlRG1hY0hMbkxpT25oRnJzZ0dqdDktTVBIbjd0S2VXdzRxQzVCcWxGaTBMNkRjbmJxNkRGdzdlbmZMcWE5VjNPU3JOTmZWM3RsT0xJVjc4RWNPN2VjS3BodkVLT3FvenZtODhwaFlINlNMMA?oc=5"
   },
   {
    "id": "gn-VHpaaWRVRT9vYz01",
@@ -3122,6 +3101,22 @@
     16.86203
    ],
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMDF4MXljOEFOMnpQZnBNZGRKNkdoel9CZHVlTmFDaURia0cxWTJGWEcyZFB5U1VuRGVkeG1JX29NM2hLUlBpbWxnUF9DaVJHamg5clhmbGJRcmpJVlFLSEVzcGc0M1UyMFdlYXJmSWJJSlU2ODAzUW5iVlk4azlVbzRKelhFQlEzZEZwODhJYmxFWi0xYmFPSU11bGMxLWVLSW5SdmZhdDZpeEktY0xv?oc=5"
+  },
+  {
+   "id": "pl-13538",
+   "fonte": "PeaceLink",
+   "titolo": "Taranto chiama",
+   "tipo": "proiezione",
+   "inizio": "2026-11-17T19:00",
+   "luogo": "Bologna, Cinema Galliera, BO",
+   "citta": "BO",
+   "regione": "Emilia Romagna",
+   "coord": [
+    44.50769,
+    11.34646
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13538",
+   "online": false
   },
   {
    "id": "pl-13524",
