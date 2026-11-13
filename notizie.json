@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-13T06:11:46.695Z",
+ "aggiornato": "2026-11-13T07:29:57.378Z",
  "notizie": [
   {
    "titolo": "Ep. 521 – L’alluvione a Gaza e le tribù di Israele",
@@ -850,6 +850,12 @@
    "data": "2026-11-12T12:00:00.000Z"
   },
   {
+   "titolo": "Scuole occupate a Palermo, al Pareto genitori in protesta coi figli: \"Chiediamo ascolto\"",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1ctYm54ZG1OWDhXRVJ6RzJ0ZVdFd2hMU0pwVE9wY1BzWjFMQm9FbFhQTTdFaTJOaWN0UnBRSHVaZjdreEtZWHZNWG1XYmloNjByd2dEQmk5c20zYXY3S3NubjBhUEVMLTVsTXpRbjFtb2t5LU1tUGNTNVFEN0xqNzg4MTAtR2dpbmtYUjRnWEVFT1ExVGZJTlpsTktONUdDZDFpQWYzV0F1MWlhWlVrZ0dFMzBpc19fSGc?oc=5",
+   "fonte": "Balarm.it",
+   "data": "2026-11-12T11:53:01.000Z"
+  },
+  {
    "titolo": "Weltix rafforza il presidio legale: Porro è la nuova legal director",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2hfRjAyLUpmQzQ5bjVZakpORTFtaDNoZ0wyb3VjWFBVYmkyM3ZURWpMWlVCemduZkUwR1FraGk5V3ppZlhCSzMzX29OM0Z0R3VEeW1HWmNWalRQbDdZS3hFTkw0RWpDaTVJSFRONkNPLUplWkVtckJUOFlqSGNYdS1lNDRDZTVpQ2NWN2VaWUpXOXlYNkl5Y2pwbw?oc=5",
    "fonte": "Inhousecommunity",
@@ -1100,12 +1106,6 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVl6ZC1aRjFzQ2ozay1Kc3hzdUM0cDVqLTlZa0g4QWc2N3RVLTZXb3FpZmpMcHNBajM4WUYyaVE0RWtLZG1PZV8zVmxCLXlzYndRekx6T2NVUjRxaDZkWEx4ZzY2SldtX3VhbkFpX2hlSURsNkdRY0dTdHJTYXBILUE1QWVEWkhEdVRCVFB3?oc=5",
    "fonte": "L'Agenzia di Viaggi Magazine",
    "data": "2026-11-12T06:00:00.000Z"
-  },
-  {
-   "titolo": "Trentino, autunno positivo: crescono tasso di occupazione e ricavi",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVJRSFpNb2c4R1lkR0ZHVE8yZ0QxVDlMaEJPUGpVT09meHVlOC03QXNfX3h0blRJbkl1a3VjX0x4bnBqVGdsb2JPVmp3bDhRZy1Jb3NjZjFSZGw4RUNtREtOdnowWnhZTHY0MFhIbWpBblJiVGpERHdibTVVbWRMOXhVb3A2amVod1RTMExsNU1IcDFZczNDVUl6U0x0VGQweXc?oc=5",
-   "fonte": "L'Agenzia di Viaggi Magazine",
-   "data": "2026-11-12T06:00:00.000Z"
   }
  ],
  "eventi": [
@@ -1125,7 +1125,7 @@
     14.24877
    ],
    "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNdi1jV1g5TE8zTW84aHlsZFNmclozbTNvUkRwamM1Z09UM0xxekdteVRzdWFzakpPZU53bFFFb0xVM1BHeERheG5iMTJydkdHSUhtR1EtN2NVY0FKTm9KMnpGd3cwYmxLUTZKY2NWZEh6TlFHUENxRDZ0ZlRlV1lRZXlUTnNnZlFtVFlEUnh2ZVRkblV2dHJURXhxSl9EVi0wclZUSTQwZ25QSW1GdjF4R0RLNmR1eGpEdXN1UWRKbnB5QjdxNnVqakdBVGpZTVFXeFk2ZkJTVzJrSUpOcDF1X3d0b1VBWWdidU5CTzY1Z3lPczgwTFlPb1Iwb1I0OE1SM0lnS0E4dVdLdVNUMDNLbmRINHAyTXJBQVJMZG1Wa3NHbGdfeU5KMXRDTW5ULS1UZ0xYeUFVejE?oc=5",
-   "altriArticoli": 5
+   "altriArticoli": 4
   },
   {
    "id": "gn-WXpMWE0b2M9NQ",
@@ -1143,7 +1143,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDhEZENHUUUybEk0YURyYWs1U1FsWm5tSjhJSUZjaTVoVm85d3JGWC1MNkFZMGdQaGZNNVVIZWJFUVVwRG9IWDFsNjdOb2xuU0ZMb1c4Z1RMT0R3OHZ5ODJXbjk2Mm5KUGUyZVk3VDQ0YXZMYVhXeHhUVHJSX2tPU25UNllqNWkzS3JZSW0xNURPLWgwS3JOcTdOb2VDSzFpUGwwN2sxZWtZN2lCUUdWMXJDb2pOQXUxekhYWWt5RDNucEJCcXVaLVlDbHYzLXM?oc=5",
-   "altriArticoli": 68
+   "altriArticoli": 70
   },
   {
    "id": "gn-QjZjRVUb2M9NQ",
@@ -1777,7 +1777,7 @@
     12.48293
    ],
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS3BKV1d5VmJFWmZiTWgzcUVpbC1vZGFhRUdOSXE2bmptS3NZY3F1TlhCZmpLejQ5ZnlFNUNlV1I3MGdLcW9mMUVtdUF1Qnl5eWxGd2dwY1NpOFBmMkY0UlZQajNQTGVDZlhJVnd3cV84WkYxT3hKM0Q5MXpWQlh6QnJMVU1Yel9GNjI3VVpMUE1XdG9TNWhhanNQMlZNNW5qX1JqU2tydkozeEF2dDYtSHBUM1lrVVFGb2h4dTRvdEh2LWhkdUxxTURlZjZDWWQtSWY5LTZGNHExd295X09Xd1dkcTBmNjlXMmdHRzVR0gHzAUFVX3lxTE9pX005OGt3UXNza0R3b3ZFcFV2QzhmQ3UyTXZuQ09CR0dXRWJSd2RVVzgzd3Q5Tmt2N3E5YzZsS1JxalBYZ0tFeFZqdFEwZURIMVJBekw1VVFoQU1HUEl5R1k0WmtKVDZJX192aDNieXRzMlFrYVdxWUVPZ2REVk9jQmRRVGI4M0hKRjRsMGNjeldmbkxrbGlubGFTWFZEdG9UWlRhYmpLUlFjX0NZZ0dkMWxvMGtSLUdqVEZkaG5NbjVuMzlFM2t4Y2tic24xWmdIZkZvZFBZcncycXhaVFFuRVdmY2pKUml0OEZXblVUdzk3VQ?oc=5",
-   "altriArticoli": 12
+   "altriArticoli": 11
   },
   {
    "id": "gn-VkJpVFEb2M9NQ",
@@ -1897,6 +1897,23 @@
    "online": false
   },
   {
+   "id": "gn-UVhSSWR3P29jPTU",
+   "fonte": "Giornali · Messaggero Veneto",
+   "titolo": "Udine, nasce l’oratorio hip hop in stazione: presidio sicuro per i più giovani",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-08",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-08T15:00:00.000Z",
+   "luogo": "Udine",
+   "citta": "Udine",
+   "regione": "Friuli-Venezia Giulia",
+   "coord": [
+    46.06346,
+    13.23584
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM09md0hzT0FXOXBlS0R5cnNEWERoVWNGd1hwa1JabmRnTjkzUkR5c1dId3llemY2RERXVjlqbW5ReDZXNzBkVFg0ckNiTUlabkV1cDViSGVzRThESEtCbjdLaWtfdHRsMFJ0VFlfM1NhODQ3WkpDclFXOG5GSU5hbEZlZlYwUmRiODJMdzJaOTlhbXpaVTNCWnNSajFicEhramFWNDBuQURDbU8zQjB5RlFOdVlHRzhJUEI3ZWk5QXRIdw?oc=5"
+  },
+  {
    "id": "gn-aU9VdHpkdz9vYz01",
    "fonte": "Giornali · Corriere di Bologna",
    "titolo": "Bologna, occupazione al liceo Minghetti, scuola nel caos. Il preside ai genitori: «Dite ai vostri figli di tornare a casa»",
@@ -1930,7 +1947,7 @@
     11.25564
    ],
    "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNSGdhV3NwS2NndXh2S2VNa3A1V2xfcGV0QTg5MGdSdXh4WnFBZHdZTUZKV1paS0VGdEVIa2RxMUxwRlVyQ2QwWGh0TGFmUVlJb2JQY0xDN1ZhRTBVa3dUYkJQLVl4eTlDMFdENkJ6RTFhVE9PRTR3aUp3TWlwUlVwalFqeDFLVWdiRGVfRXZ2bG9ZLVBsNG11QV9yWjk0WER2TGo4OE1uaDh0ekZrQlU1MUJ3V0gzZFkzQUlIVHJoUzh2dDhrWUFKUTNFeTBlQTJTNHdIWkZzQ2FZNU5KaEZETmQ1QXE3R1hhZml2OUxRblNkZTlrSEl6UDdraXJqSHQ1SUZjbmZYczk1VlpkOHJzNXdOQ3pxcGxiUjdYQVgxS1ZNb3JsUUt2VXM4T28yeF92NVpESkhPc1gwTi1mVUcwRVE3Mk9Md2lDWWpHYmxjb21FMW1nclBNeVA3QjRNYlUzNVlwMkcydw?oc=5",
-   "altriArticoli": 3
+   "altriArticoli": 4
   },
   {
    "id": "gn-VkoxVFdaUj9vYz01",
@@ -1981,7 +1998,7 @@
     13.35244
    ],
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqVEU0UWkwdXJEVGFUc0JZYmtMZGVTcFhqcjM1VHhFb0x6bkEwSFhoZGFJOVpmUVF5R1F0QmpCUndvNkVPNWdtOU1Qd1praHZGUEYzdWwtR0xtQzNhLUM0MnJPMGpVVGMwVmo0aC1aY3VrUmRDWk1zNlpfSUF5ck0?oc=5",
-   "altriArticoli": 5
+   "altriArticoli": 6
   },
   {
    "id": "gn-RVVHcHYb2M9NQ",
@@ -3207,6 +3224,23 @@
     9.18963
    ],
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR1UxaUF3MmlzakNHdXFZM1oxOWJkWUlobzA5Q3VJc09sY2luVWUyM0FsNGczX2FFM0VkczczYXozVW9Hd0NjV24wSFdvb0txM0F2azlMVllsZEJ0NGwwZnBhRGJLX29JR1FvUXNCLTAwQjF2QWtxNG9BR3lyaU1QM0NOc1FXMlB4RU5SX19POWhCTmR0d1E?oc=5"
+  },
+  {
+   "id": "gn-TUdvd1JGTT9vYz01",
+   "fonte": "Giornali · NewTuscia",
+   "titolo": "Roma, allarme bomba in oltre 15 scuole: Les Blocages annunciano una manifestazione il 20 novembre",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-20",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-11T11:19:45.000Z",
+   "luogo": "Roma",
+   "citta": "Roma",
+   "regione": "Lazio",
+   "coord": [
+    41.89332,
+    12.48293
+   ],
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORGNwZDVNU2pBVXFieUNQa3pET2VLNW9HcS1wWXBzTFlOdHRVYzBURkQ2NXdvRkhUSWo2OTVySzhXb0M5NldLNXZUeU91T0lhX2tWYTV4OGIwQVBQdzBkSlJ5aVIyQktMVVhVVm9ReTAyRnJkNnZxaXIzNXVIclZXTjMyUFh3ZGR3QUdJMExDb2tYX0hsX0V5MzlxeE5JQ3g3UWhuVVNUVEVfMlY0eVgtaGpCVDJ5bHVlZEMyd3l2UlpLM0FTZEJMMGowRFM?oc=5"
   },
   {
    "id": "aip-1746374",
