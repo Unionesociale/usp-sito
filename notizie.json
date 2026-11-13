@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-13T04:04:40.440Z",
+ "aggiornato": "2026-11-13T05:10:58.258Z",
  "notizie": [
   {
    "titolo": "Dopo ENI, anche Dana Petroleum lascia il consorzio israeliano del gas offshore",
@@ -1722,7 +1722,7 @@
     7.92355
    ],
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JZTVCREtzTmc5ZWQ5NFNmbGJoWlpmZldEVHpIeEVES0lHb0NvQ29CS3VoUDcwckV2Q0FtSzUwZXlhWXBvNFJwMjdDdnVhTXZrWERRd3NTMl9uZHBKS0JRTjdUbGFSYXdv?oc=5",
-   "altriArticoli": 1
+   "altriArticoli": 2
   },
   {
    "id": "pl-13496",
@@ -1907,7 +1907,7 @@
     11.34263
    ],
    "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPS3hPbnljWWdMclpVX2VmNm5ZUk1MbGxTNkpQdUJrYTBsdEMxaHdJS1loT3BOTUROMWp5RjZpaUZPNm9vaHJpWDNWZjZSUlloV2lhc1l4M3l0eXBadHlfLVVOUkFMM0ZSODQyN25rNGVHWjZLVlJYUTRpNjZ4VkZySXdGU0c0WkVQZmFtdXNPdER3OTBoLTZJZGpUMGp6YUd2dnNCZkQ5R1otSWJ0U1ZlUjU5WHViYjh2anRlR1RRRWNOejcycUU2cUs0VmhTX3BIeU52eXBqcFBkLUlCU2V2ZlFZczA3STM0TG9SMmNtSDNkUnJBQlRqRjBoLUtaQ0lvOEZsNURIWS0tSkR4a0tYNUxpWWJfQmtURF8xMFhqU2FmcUlaM3FiUlpkQnVYUkZSa0drOXNmYmQtWk1nazRfR1hCRzJ2T3VId3dfd9IB0gJBVV95cUxOa2hwZmFmUUhnSmN5RDNNbmlfU0h5bzhqbXFEN1dFWlhrcXpuQ191UWt1Z0FaRjZQaXQ5b1ozeEtPY1hKTlVGVnFSVHRmVmlFU0dUaWRfc3FuN0JRYWFNWUViMWY2NHVKMGkxeWtURVlHSGFIakFZVU1iZ2cwbHU5Qm5Fdzk4clNXcXdNVWhFZUp5dWtRUVNBMUt1ekM4MmUyVWI5dHNyUGRPWVBnYThFWVJ6d2RuTGRCampUM0pUZDRsSmY4MEVLVm13MTQ5dEdQeXZjUHJhMFZ5UnJGY3dXNkxwRlNXY1dXUnZyNnpTYWFVajJ4Qk13enp3TGw4WDEyVXdOVVg3eDdFNG5UU3loUmRJQ292TzZyQkRtZnoyY3kxYUF3Y0prWGtEUnNOUkRxQjdUSG5BN0dOSnJUQnE4dHF1bFpwZWw1ZXJlc3FiOUtzdw?oc=5",
-   "altriArticoli": 3
+   "altriArticoli": 2
   },
   {
    "id": "gn-d01rY3lkdz9vYz01",
@@ -2101,7 +2101,7 @@
     14.15505
    ],
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ3RJX1JaeWV6WWpXM0p3T0xPNmktNkI5bEU3VGtvSWVPeHlWRjVqOUpNZVh1Z1Q2TjJJbWw3MEZZajlFdnMwR19Kckt1bmtONlBOaGc3aGQ4ZzdnR25EWEc0Q0RqMm9uYW5EV0RRYkFQM1Vja2x3YnRYTnBWc3pkYUNMZjlLSG52cFVic3R2TzFXTnc1N3U2bnZCOVRWZy1OV05QYU9SVDdoZVpvUlZzN2JiN0NqMkxaM0xUNFN3TkljVmVzRTlJVzA0QXZrWUFHUGRsRFdCVQ?oc=5",
-   "altriArticoli": 1
+   "altriArticoli": 2
   },
   {
    "id": "gn-NlJIQlpTUT9vYz01",
@@ -2776,23 +2776,6 @@
    "online": false
   },
   {
-   "id": "gn-SU5sTk1NQT9vYz01",
-   "fonte": "Giornali · Corriere di Bologna",
-   "titolo": "Bologna, gli studenti del liceo Minghetti annunciano la fine dell'occupazione: «Sabato faremo le pulizie far trovare la scuola il più possibile pronta»",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-14",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-12T11:38:01.000Z",
-   "luogo": "Bologna",
-   "citta": "Bologna",
-   "regione": "Emilia-Romagna",
-   "coord": [
-    44.49382,
-    11.34263
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPdmNybXB1SktvSlduQWFTSTk5c3NaSkxTcEtsQ1pLdWdBWjA4QXNmbmRqeGw4VDdNMW5JZ1hlYWczYjM5dHFCY2tnRnZ3OUFjLTNacGNOazljUk5kNWxDZmNFc0o2R0VwUE5hUkRrZThtREE3LUFTRVVKOEFvckhNOGVEbDA5SkJyaUsybDhZWmxvN3c5Ui1CRGhxdS1SZGVfZWh6ejJWUnA4WXgtbUpPbk91VlNwbVQteGJ5RjhpOWZSYjBvZUVad3A2akJXbmRpRzUzbjJsSUxrU2x2R1p6VnpYcW4tVHp1TmhOVWc4MzlOMFFiX0N6cG5sOXlTOTk1VkJ2Mjl1UzdEX1A1c2VsU09YMDFwQVU2eks0YmI2ODk0MExmS0c1Z0NkWmowNW1yeVVOR2dnOUo4V1pGemJRNG5odFV4c01QQmVRZW1sSnE1amY0MzRGQmxR0gHfAkFVX3lxTE5zZWJwOUZrZzg2RTFBUFI4T3hRODBsaTBjYXlXX3FXckJuQ0dYUm1QbkF0ZXAtSGNpZ2Z5MzE3Q29NUzBfOGJ6a3J5YlNjUHdwdWw5SUZuNFh1VklwTjBpUTBIOEhITDNJMGN4cUJUZndxZWhPR2ZlVlB4X0NUXzhCNG1zTnM2OUNzd0dzT3hFX1Y4Q3N0MTV2UTRLSkYzcnhqYkR3c0RtMFVodmRjeExMaVVqQzh0Z0RySTE3MFVDTXFaaUpFS3c2dHZFYXlMcmtNLVVvNXhYcGpVaHFEX19xaGxXNDZ3SGtwTENWR2RVaE41d3FlRG1hY0hMbkxpT25oRnJzZ0dqdDktTVBIbjd0S2VXdzRxQzVCcWxGaTBMNkRjbmJxNkRGdzdlbmZMcWE5VjNPU3JOTmZWM3RsT0xJVjc4RWNPN2VjS3BodkVLT3FvenZtODhwaFlINlNMMA?oc=5"
-  },
-  {
    "id": "gn-WXlNbE5CP29jPTU",
    "fonte": "Giornali · Gazzetta di Benevento",
    "titolo": "Manifestazione di protesta prevista per sabato 14 novembre dinanzi alla scuola \"Federico Torre\"",
@@ -3008,8 +2991,7 @@
     45.06776,
     7.68249
    ],
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRW5Hc2VhOU5SQUFsdVkyTHFCa2NSSlV6VnZhbEg5aG5QNm9Na2hYWWtJWmJzWWxmMXItMGtGaHplX0lSeTNVQi1Mei1GczNLWHZZS2ZaTVdRRjdaQjA1cUtwQS02bEVxSzh2OW1tLXFDY1pkbDRqWWR4bDdSblFXOUdPMmU2QWNuR1NsZEZnYw?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRW5Hc2VhOU5SQUFsdVkyTHFCa2NSSlV6VnZhbEg5aG5QNm9Na2hYWWtJWmJzWWxmMXItMGtGaHplX0lSeTNVQi1Mei1GczNLWHZZS2ZaTVdRRjdaQjA1cUtwQS02bEVxSzh2OW1tLXFDY1pkbDRqWWR4bDdSblFXOUdPMmU2QWNuR1NsZEZnYw?oc=5"
   },
   {
    "id": "aip-1746494",
