@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-13T01:21:46.826Z",
+ "aggiornato": "2026-11-13T02:58:27.668Z",
  "notizie": [
   {
    "titolo": "Missili israeliani sul Nasser di Gaza: sei uccisi e ospedale fuori uso",
@@ -1131,7 +1131,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDhEZENHUUUybEk0YURyYWs1U1FsWm5tSjhJSUZjaTVoVm85d3JGWC1MNkFZMGdQaGZNNVVIZWJFUVVwRG9IWDFsNjdOb2xuU0ZMb1c4Z1RMT0R3OHZ5ODJXbjk2Mm5KUGUyZVk3VDQ0YXZMYVhXeHhUVHJSX2tPU25UNllqNWkzS3JZSW0xNURPLWgwS3JOcTdOb2VDSzFpUGwwN2sxZWtZN2lCUUdWMXJDb2pOQXUxekhYWWt5RDNucEJCcXVaLVlDbHYzLXM?oc=5",
-   "altriArticoli": 65
+   "altriArticoli": 66
   },
   {
    "id": "gn-QjZjRVUb2M9NQ",
@@ -1919,7 +1919,7 @@
     11.25564
    ],
    "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNSGdhV3NwS2NndXh2S2VNa3A1V2xfcGV0QTg5MGdSdXh4WnFBZHdZTUZKV1paS0VGdEVIa2RxMUxwRlVyQ2QwWGh0TGFmUVlJb2JQY0xDN1ZhRTBVa3dUYkJQLVl4eTlDMFdENkJ6RTFhVE9PRTR3aUp3TWlwUlVwalFqeDFLVWdiRGVfRXZ2bG9ZLVBsNG11QV9yWjk0WER2TGo4OE1uaDh0ekZrQlU1MUJ3V0gzZFkzQUlIVHJoUzh2dDhrWUFKUTNFeTBlQTJTNHdIWkZzQ2FZNU5KaEZETmQ1QXE3R1hhZml2OUxRblNkZTlrSEl6UDdraXJqSHQ1SUZjbmZYczk1VlpkOHJzNXdOQ3pxcGxiUjdYQVgxS1ZNb3JsUUt2VXM4T28yeF92NVpESkhPc1gwTi1mVUcwRVE3Mk9Md2lDWWpHYmxjb21FMW1nclBNeVA3QjRNYlUzNVlwMkcydw?oc=5",
-   "altriArticoli": 6
+   "altriArticoli": 7
   },
   {
    "id": "gn-VkoxVFdaUj9vYz01",
@@ -2113,6 +2113,23 @@
     11.03944
    ],
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORFNycHNBNVllazBnRVBYSENuS0Rya3FZRDRuRkR1N005eThmaFczU0RIRGxtMmV1WUFvbDhvNVNIb1p5VkVYQ21LaWRlSUdqTzlLSVlwcTRnRm1OQ2lTRXVkaVhmMklGS3UxaDB6dUt0VEZwWHdXNVpPVHFfU1JfZkYzRWpMU3JqUkxfQUx4VVdIdV9YSC1SZXhWd3FoYVUtWG9kd0lJaDdPdDQ2Zm9tWTBDLWx5VDRpU2dWQ3N5RlNVb2lwdm0tR3ZqdUw1Y0txV2V6bEtPT1FjdEtWV1pWS2dJb3l0TkhEM0h2akEwd3pvX2lLd1FR0gH8AUFVX3lxTE5YYlgwMkR1MjFGMHd6THpKTGZwbkxXX1FiTnBISzg5ME1vQVFQRmVrZEpsY1hIYWYzaVNhTk94YnVOVGFGb1VGSTRIZHVSbzJsVlRoTXoycHJ2U2k5VWRGbDJibjBhRnd1M04tTzBDY3VYVE5LTEEzWjdUSU9YYVpnM295QWluOWNhSUpKOWlPUGc5V3hwcXlwbHhjOWVObTVMMFV1Uno2b0RVcjB2dWZXb3dyWjQ0LV94VUJrdXJXamE1V0VNY3hmeTNiVjlTdXZWTzZ4OW8wWmRDSDVzSnp0d3RIX2lxUnhpRlFBNW9MbjhzUzVsWl96RHBZSQ?oc=5"
+  },
+  {
+   "id": "gn-VmpaRmR3P29jPTU",
+   "fonte": "Giornali · Il Messaggero",
+   "titolo": "Torna in Piemonte il Magico Paese di Natale: al via la ventesima edizione della manifestazione ad Asti, Govone e San Damiano",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-09",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-09T07:51:55.000Z",
+   "luogo": "Asti",
+   "citta": "Asti",
+   "regione": "Piemonte",
+   "coord": [
+    44.82601,
+    8.20269
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ0lLemxPSjRkX1FHa1JYSjVxTFpad2c5QUJiVlpaa2xjOEZSX0FQY3ZtQkJDRDBOaUxfTmdybDhSNFM3a0VqWFJFd2hrUmx1SjBqVXVTUTJEWmV3VTBNVHZfbWNkc3MycEZEN1RhcVZ3dUVHWVFVUU42RDVFbk5hc01aYXVJVDM4TU5UYl9lM3dmMDVHQnFUY1RNSDEtQmxadDBfN2hGQ2lfZHdFaFEtUXBoTTUyM2Z5RWJfOVFVVUxjNnlBbVdaLUpPQVNWY0tldzYtS1NaSXpwYkJocGpSNmhlWTZrYXdVTEFmc9IB8gFBVV95cUxQWGM5NFJDV3pNN01iSDFKNG5lY1llRVdlbnBMeWhIbmZTN0M3Q1hDbGc4Nk5XUDRVZVp2V2FQTkZmSGM5X3dlYkdGanlITHRyaEtnaWp6TV9RaFJFNktFNWRnT0tLTW1GTTE4dXRaU2lBWXN0ZEZZRklqVExWSDFxODM0VVJnVzF2cVJ1eXZtbGcwLWRfczJ0emRPS0xqZ0RmeFlGUFlPbUh1c1FzYVJyUFJLQ3FvZUxaTjlaVXk0bFZHVklzUU5nTlVwa2F3OVhwN25VRXB0aWFZQ2RodDVBUkl1X2lNcGpJY3BTdUw4VjZFdw?oc=5"
   },
   {
    "id": "gn-YWVrVmFNQT9vYz01",
@@ -2368,24 +2385,6 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-S2QwcEIb2M9NQ",
-   "fonte": "Giornali · FLC CGIL Roma e Lazio",
-   "titolo": "Ricerca pubblica: servono risposte concrete! Presidio a Montecitorio l’11 novembre",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-11",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-11T12:36:03.000Z",
-   "luogo": "Roma",
-   "citta": "Roma",
-   "regione": "Lazio",
-   "coord": [
-    41.89332,
-    12.48293
-   ],
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTFVGLWlEUTBXQjkwR0VSanVyWGlUQ2o0WEFvak1mZ2hKVlBUREFTdm13Ymh3ZkplVU5TdEpzWVhLNmVLd1dzOTJhZ1FVUmI2Y0lkd1dBQ2g1c2hsN2F5WFMxcUVRLUgxTm44QlNfOUJVRVdhYTRvd2xzU0tVbG5WX1JUQ2lxNXo5eTFSbHBNSmJ5T251cHBPd0ZHdS0tZUNmZ2VBRi1ENGl2Nklpd1BKd0pB?oc=5",
-   "altriArticoli": 1
-  },
-  {
    "id": "gn-ek1WVnhRUT9vYz01",
    "fonte": "Giornali · Newsrimini",
    "titolo": "Servizio di Assistenza Domiciliare. Un presidio dei sindacati a Rimini",
@@ -2401,6 +2400,23 @@
     12.63075
    ],
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQTRhem9lZ2lJUFlQb3U2RXd5cXJrQVhicTVEenRKR0dYa25tWjZ3YnNpblZ3bnJ2WEJuSkxlNUVCeDNCWTAwLTNiSUF6amIwdDZHbFpaVUVkd1htWEpJaVdVeXdOZmZLOV84NURLaXRRd2pRMEhPUGdMdk41cmM1TjZmVDI0ZE1WSnBHV2JzR3N3VTdQWkU2SUtIQmwtZVhfRlFELW8zMVVxQQ?oc=5"
+  },
+  {
+   "id": "gn-UW5SblJXMD9vYz01",
+   "fonte": "Giornali · RaiNews",
+   "titolo": "Scioperano i call center, oggi manifestazione a Roma",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-11",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-11T06:40:00.000Z",
+   "luogo": "Roma",
+   "citta": "Roma",
+   "regione": "Lazio",
+   "coord": [
+    41.89332,
+    12.48293
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZDhVbTJFR0dfeWRPcFRZNjJLYnBfTndXbmNmbGE1dVFaWXBILVpjaVNpVGk2LVZud3dQUWI0T1hWZUhFNDk0YmdxREIzUnJZYk5hV3JHU1o3NDhWaUl3WGJQOXU5SW94NGZqbmRuNHR1RWFrQlhudnR6cF9raFAyVS04UGtYVHN2bkFoQXAwc1RYc2Z4RnlEYVgyWkxMX0ZieWJHUWtDU3JIZU1FVHg1UnRvaW05dDdZeDJHYWtxd3ludmJyWnZBem9Demp2ck5OUUE0RnhCWXE0LUXSAeABQVVfeXFMTTlhVUJ4a1gzczNFQXBMRDdNckdGYXRRcjZQY003dWtEekJKNnAwWEV3bGVwV2Y0VXY1SW5KdnBrQXdCdmtla3hjY1B1SzQtSEdCMzRQVDZXWlVYQ256aXJqQ1BPS1JVLW4xeEhKUy1LZW9yUUM0bGtzVDBkQ1NFSHV5alUyNlNId3NReHhVY2UtVTBYUEZhSDJpSnhBRmZ4dVNnT2lDbmRaclcwM1Z6ekFXZmFlQVNYbVZkNkZZVmNUaUtXTHFaWWZKLVUzOFFTM2tTcE5Bdl9JTG1DQnRnRW0?oc=5"
   },
   {
    "id": "gn-WjFOQ1psRT9vYz01",
