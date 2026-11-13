@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-13T21:56:37.170Z",
+ "aggiornato": "2026-11-13T22:54:31.705Z",
  "notizie": [
   {
    "titolo": "Video virale di Greta che deride i manifestanti di Fridays For Future",
@@ -652,6 +652,12 @@
    "data": "2026-11-13T20:15:00.000Z"
   },
   {
+   "titolo": "Stati Uniti, prezzi alla produzione salgono meno delle attese a ottobre 2026. Eurozona, occupazione ferma nel terzo trimestre.",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQ3M5QVZISWUzRHk2dC1fcWZoU2FZNHo0ZXVFTWNtT3BwVWpfX1FheHBqYlREZjF4YmowOV9hWUlCUGhqLVpUU2N3bGRRVThtb0YwRmZjV2pka3dsUzZpV01samVoUnVmU0NldHpnanYyREZtVFBtMEN3Q3p6ZEMxQ284NlV2Yjh1Z09lUzVlTGhHNXk0MkdlQzhOX0tOam9RZko2VV82R2hyQXdXQVNUc0gwb05qTVdwekhlODBnQ2RGQkJZdzRUNHhFTzhKcHl3ZnVKZ1ZNU01YeDdrNWNLSWNvNm9VWmtzYlhoMnZMNA?oc=5",
+   "fonte": "Ekonomia.it",
+   "data": "2026-11-13T19:39:46.000Z"
+  },
+  {
    "titolo": "Saboris Antigus, domenica 15 novembre la manifestazione fa tappa a Siurgus Donigala",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGhjYmFBQ2xEa1JuMXVvOW9Idnp2Um1CWkp2NWFJWHhRb1pOUnBVbHBhal9TZGpBSUZJRFVJYjZoMVg0RDFwdmRJdVVqTU1CeFVIaXpfemh6Snl0WnFxdUJURzBuOGdDYWVvbXNGTlV6ejc1aFVUU0pRVk1HZC1vcFk1Y1RjRS1iT2pVWnZOSFlsaWZaMUFDMUF2ZGt6cndEckRLeDdMRno1Yl9yMHNjc2U4Z1BXSldNeHNHMmN5ZFhRUmdqRXhnXw?oc=5",
    "fonte": "Sardegna Ieri-Oggi-Domani",
@@ -1112,12 +1118,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVpEZm81OEU2UG5sTXY4Vm9ZNjNtVUtQZjlfNWM0cmR1RVRPVEdSVlhoT0ZNQ2hOY3ptTmdKZU8xQnBwRnp0QzhIX2d1YUFkRDNBRUF4LVBFN0FvN2NXVUk1S2FaQ0dKc21ISnZEaVd6MUtNLUJPM1FmLUMtLWdrX0ppS0FZNFNTVHM4b0t6ckFBMWtMZjV4cXBHZnh2Y0RQMHM1dU1EZngwMWJKaG50R1cwNkFadmFZN2tENjdGcjg?oc=5",
    "fonte": "Gazzetta di Benevento",
    "data": "2026-11-13T04:01:13.000Z"
-  },
-  {
-   "titolo": "“Sul Campus ora facciamo la conta dei danni”: l’Università verifica i costi dopo l’occupazione",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3VJQlllRnhIWUtOOXBIVjQ2OUQ1OHJYQmtjc1U2ajQtbXVKUWI0Wmw2TGduRTlvS2ktTDg1ODlMdkd6TGtlNWRXX2lERHNPTFY0OEx4YUgySkpRNEt5em0tM0tPdmtKNEhydEpHanNSaE45eVoxeVN5aHlzMG1aMjUyLUhVOTd0Y0dWNmo5b3lHSjZaSHo5NkxBSDhKN05ETlZhMXVJSQ?oc=5",
-   "fonte": "La Stampa",
-   "data": "2026-11-13T04:00:00.000Z"
   }
  ],
  "eventi": [
@@ -1155,7 +1155,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUUtVjg4SVhMOVFJRDhmRHpQSV9wRjlKWmtHTGpBSVZmR3JmVGk0aXBLR0tIRVlJSnBnbXpJSnRNSEtiRTFkQ3pUcnBFV1pUcnhaTEVNZzFjRTlvN0NBb053OEw5Xzc5d1ROcXZVcExmc2VfWVZRSXZldmNnS25zck9sUTl0VjFZSUVhNGtKNm9LU1I0bERDMnU1V21PSHVsVWJadUZzQS0?oc=5",
-   "altriArticoli": 71
+   "altriArticoli": 73
   },
   {
    "id": "gn-QjZjRVUb2M9NQ",
@@ -1396,6 +1396,24 @@
     11.25564
    ],
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744478/-/firenze-contro-la-repressione-e-la-censura-no-al-ddl-1004-presidio"
+  },
+  {
+   "id": "gn-elpXYldjP29jPTU",
+   "fonte": "Giornali · Città Metropolitana Roma Capitale",
+   "titolo": "Roma, devastata la succursale del Ferrari-Hertz dopo l’occupazione",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-03",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-03T08:00:00.000Z",
+   "luogo": "Roma",
+   "citta": "Roma",
+   "regione": "Lazio",
+   "coord": [
+    41.89332,
+    12.48293
+   ],
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2o1X0FYVlE1STUyby1EdHRtQjRLRnBubi1PSGFZTTlnZFRHOUxVZ29GZURjZXhVQVkya3ZLTDBSdmxlc052N3p0RTNrdmZzMTdDcFJVVVJvRHFKSGlwOVU3SmtEeGxBYUhMRHY1d0ZhT1JyekNQTGRoRjRIeEl5Um1VNEg2MjZ0cXhYMk9DSm92LUpqdHVBam5PbXN4bUpVelJCSmN1NUZqNzZWbWc?oc=5",
+   "altriArticoli": 10
   },
   {
    "id": "gn-eVdUQlNadz9vYz01",
@@ -1707,7 +1725,7 @@
     13.35244
    ],
    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxON1ZsbUhLWkFveTlabkhCVlVPR2tpNER6QVJTNEtrUnpkWGQwLXFacW1GeVlQU1ZMd05nbjZpajNtaHlpdWVRODBraE9OZXROOTMwQ1ppdVQ1WjhWVWdzZ1haWHMyRFVMSGFLQ0l3NmRHWWs2TGhycUFVRy00NjljbFp6NHNEb1MwUXRPbVNxMlFhbUhGMWgycHhDZVhyUzBjNUJOeU05OVpLU29hb1FYdUl6RnFUdW1sR1FPNUxudWYySXJMWS1JUklkamxfa3JxX0F5MW02LWM0Y0xaNWJWM2VJM3hfQ1RKNzdhSTFQWFM5MmN6aC1uWDlndTZYQ3ZQYl9RazBfdlhwQkh0c0tqTF9n?oc=5",
-   "altriArticoli": 9
+   "altriArticoli": 8
   },
   {
    "id": "pl-13496",
@@ -1927,24 +1945,6 @@
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMjlEazFrakFCVEdScXpXaXBfYkRvU1BWS19UN0sxQ0RFNHY0dVR1S244cnRLczBleXp6Z3Y3ZjEzTFpiQm1ZS1hCdWtNTVRueG1rUXR4a1RNM1F0dmg5U0Y0cVc1VjI1Ry1GRVBDcGtDOU1ld3pOQzR0cU9vSk05c05pZzZIUEZVMTlEclc4eVBCT3ZJa2FvWDRpbC15MWVDR1J2Q2h3TXNTWHdWS1BmVEgzWGZUbkN0c19zUnZQeTdRVXpUUE1FVmd3bThjbnpsQm1oQmNIZnpXUmPSAeABQVVfeXFMUEMwYUhXa29iU1dZbVd3T2plVDJHb0JJTlhfNHg3ODJqWHFCRVJ1VEtQUmE3MU9hdWV5TGd5R2pOMXJSNHdFYzNCYjZxelljblh4Y00tSzMwTVR0bGNDeTJsVlV4SjJ6azh4ckFDQWJiZEpKd1NxcngxWDM3ZEF0NzlaX2xfTzNrbDZIMnJnaWFieTFjbDJZQjQ0UjI0TmR4cHRQd1V5WVRYdk4teHhNMmE3QnVIYjBuUlJrbFdEMkszbEJ2MVlzbVZjd0pfVG5QVG1RaWlFSnotY1djeDlteFE?oc=5"
   },
   {
-   "id": "gn-bEZQV1RaST9vYz01",
-   "fonte": "Giornali · Il Diario del Lavoro",
-   "titolo": "Teatri e scritturati, contratto scaduto da 5 anni: a Roma la manifestazione nazionale",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-09",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-09T18:42:30.000Z",
-   "luogo": "Roma",
-   "citta": "Roma",
-   "regione": "Lazio",
-   "coord": [
-    41.89332,
-    12.48293
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX2pWRVRqalMyb3Bzb3RxM2o3eGdQa25fdUlQNWloTGY1MWJ3aTN6cEVNamx3VGtGdURZdmFZU2lLQlQzUklYYkRKTm84dHdIWUdmbGY2V0thUERnSHc1amRGdF8xa09ZbWRIc3Yza1dod1lVVmZaZjB0c0ZQNWc2Sm1KRVNUOG1Kejk5Y19yb0YxUmw5Y19QXzc5OXFkcDYtaEppUGI4VnQ1dldwUHFTdWkxUlFPWTZI?oc=5",
-   "altriArticoli": 9
-  },
-  {
    "id": "gn-elF6Sklkdz9vYz01",
    "fonte": "Giornali · LaMiaFinanza",
    "titolo": "Milano propone un presidio ONU per la valutazione indipendente dell’IA – LMF",
@@ -2137,6 +2137,24 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFZlRFFaVUdJcGxiY0EyQlgwVjdQSE94Zm43MU1XbVl6UlJXaGR1dUp4VWt6T1h5RU03M0Jjb2VfdGJQSTFFN0JoWEtIeGlpd3A5YVotc3BCWGozYms4NXpqd2tlc29QeHI2cUdldWd3N2tXY1ZZZlJITVp4b2Vqdk9aX0kyY3lFR1BTWmRZZmdiR0ppUzNlb20tZFhISTlLOFY2QkVnZkNjTDZVSlY5anFqV0JpLTY0OUE?oc=5"
   },
   {
+   "id": "gn-bk1YbGob2M9NQ",
+   "fonte": "Giornali · Cgil Firenze",
+   "titolo": "Operaio morto in autostrada, sciopero regionale e presidio a Firenze",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-10",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-10T14:45:19.000Z",
+   "luogo": "Firenze",
+   "citta": "Firenze",
+   "regione": "Toscana",
+   "coord": [
+    43.7698,
+    11.25564
+   ],
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZzRDdFZUTU5WRUF2YWFkZEFhLU5McUZHVS1qYVZiUzA3NzlXSmNxZTZLTkI2aDV3MXJZUVAxVTNMUS05ZG4yMURlejlhSEZwVWhBZ0U2YnVMMVBpeFgzMXM3QzNzcjczLWU5aGNheG5DV3Z5YUlNZUY4a2NDSzFRc2NYX2lrdEVLWGJENFJYcllVVHlDMngwSVEzTkRnMXlj?oc=5",
+   "altriArticoli": 2
+  },
+  {
    "id": "gn-VWswM2J3P29jPTU",
    "fonte": "Giornali · ModenaToday",
    "titolo": "Modena pedala per la sicurezza stradale: corteo in bici e presidio in Piazza Grande",
@@ -2306,24 +2324,6 @@
     8.75418
    ],
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNkYwQkszX2pVbFh1NUZWYUtqSkNaamFLakcteEZ3cUVTUFdNRTdPeVF1OHZjd2l2Z2VDUTRXZU54UFd3SERCd1FJbWFhT1ZxcnNqc2lFSTB1a2RMMVJBcXEyeVBYR3piaklVMmFTUXA2dUdBWm9IblJQcmVqaGJuWnc1VUtmQVd5TkMyQzAyZHBxQzlHZGdBU3B3VQ?oc=5",
-   "altriArticoli": 1
-  },
-  {
-   "id": "gn-Mk4zZFJPQT9vYz01",
-   "fonte": "Giornali · Cgil Firenze",
-   "titolo": "Emergenza abitativa, a Firenze presìdi davanti alle case popolari e manifestazione",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-11",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-11T13:40:21.000Z",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQek5PclFxRll4OTMyTmo2N1NrWmtGelE2NzhacExlLWdwSlJUZzdodWJOLWlMWnZQZ1hVbDhMYzJwYXo5TkozQzdWaG1yOTVyOUhzcDB0RjRQcV92NHdEQ09ncm1VR1c1MkluY0ZfdzFpeTE3V0xkMjAwSEdEdVk0clJxRTd4TlhDcGd1Y3h1ZjVLQ2UzQ3FlNkZ3bE1Hd3VVdWZJY1JvTUhCdHNxUXc2N3dROA?oc=5",
    "altriArticoli": 1
   },
   {
@@ -2899,6 +2899,23 @@
     11.34263
    ],
    "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPdmNybXB1SktvSlduQWFTSTk5c3NaSkxTcEtsQ1pLdWdBWjA4QXNmbmRqeGw4VDdNMW5JZ1hlYWczYjM5dHFCY2tnRnZ3OUFjLTNacGNOazljUk5kNWxDZmNFc0o2R0VwUE5hUkRrZThtREE3LUFTRVVKOEFvckhNOGVEbDA5SkJyaUsybDhZWmxvN3c5Ui1CRGhxdS1SZGVfZWh6ejJWUnA4WXgtbUpPbk91VlNwbVQteGJ5RjhpOWZSYjBvZUVad3A2akJXbmRpRzUzbjJsSUxrU2x2R1p6VnpYcW4tVHp1TmhOVWc4MzlOMFFiX0N6cG5sOXlTOTk1VkJ2Mjl1UzdEX1A1c2VsU09YMDFwQVU2eks0YmI2ODk0MExmS0c1Z0NkWmowNW1yeVVOR2dnOUo4V1pGemJRNG5odFV4c01QQmVRZW1sSnE1amY0MzRGQmxR0gHfAkFVX3lxTE5zZWJwOUZrZzg2RTFBUFI4T3hRODBsaTBjYXlXX3FXckJuQ0dYUm1QbkF0ZXAtSGNpZ2Z5MzE3Q29NUzBfOGJ6a3J5YlNjUHdwdWw5SUZuNFh1VklwTjBpUTBIOEhITDNJMGN4cUJUZndxZWhPR2ZlVlB4X0NUXzhCNG1zTnM2OUNzd0dzT3hFX1Y4Q3N0MTV2UTRLSkYzcnhqYkR3c0RtMFVodmRjeExMaVVqQzh0Z0RySTE3MFVDTXFaaUpFS3c2dHZFYXlMcmtNLVVvNXhYcGpVaHFEX19xaGxXNDZ3SGtwTENWR2RVaE41d3FlRG1hY0hMbkxpT25oRnJzZ0dqdDktTVBIbjd0S2VXdzRxQzVCcWxGaTBMNkRjbmJxNkRGdzdlbmZMcWE5VjNPU3JOTmZWM3RsT0xJVjc4RWNPN2VjS3BodkVLT3FvenZtODhwaFlINlNMMA?oc=5"
+  },
+  {
+   "id": "gn-WXlNbE5CP29jPTU",
+   "fonte": "Giornali · Gazzetta di Benevento",
+   "titolo": "Manifestazione di protesta prevista per sabato 14 novembre dinanzi alla scuola \"Federico Torre\"",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-14",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-12T09:51:00.000Z",
+   "luogo": "Benevento",
+   "citta": "Benevento",
+   "regione": "Campania",
+   "coord": [
+    41.24763,
+    14.70571
+   ],
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNekF4b3otb2ttX1lQZndhaFhsYTZ1QzhNRWpPV29ETDNVcy1QSTJHZ3lOeEhmWDhneHRnektLVlJ3WS12ME9yWHVucTlrbjdlQzFzUHR5UmlzRjRGQjJxazNHVDByeWpTQXdManEyR2QtekMzQjVvTjhRSWZ4M2dWQkp1aXY4VTd2NTRLTTAxMlRPdWdKb3E0VkpnYWJRUGI1VmZxQ1dDdUlCMTBtR3UxbmE3ZUlzeWRBcmYyMlNB?oc=5"
   },
   {
    "id": "gn-Vm9RVUp6P29jPTU",
