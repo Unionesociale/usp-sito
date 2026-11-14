@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-14T19:52:18.985Z",
+ "aggiornato": "2026-11-14T20:50:55.705Z",
  "notizie": [
   {
    "titolo": "Il Board of Peace accusa Hamas, a Israele non basta",
@@ -652,6 +652,30 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "Nuove manifestazioni in Francia, tafferugli in diverse città. Oltre 200 fermati",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xWVRrWmN3TWNsZXhkdVFqaHJhRmpsNDd5YkFIbzB5UkxINnhFREh1QklwbTlpbndNTGNlOFc1U2hoZkJ1b3dsc255a0dDeG5TWGRxTGF2VEFJb2F3Wl9mTU1MakVpT1VnTzBBYmY5UlZ1RFk4bzhQdA?oc=5",
+   "fonte": "Sky TG24",
+   "data": "2026-11-14T20:22:00.000Z"
+  },
+  {
+   "titolo": "A Torino il corteo contro il carovita entra in un supermercato",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUk84bWpKQzN3QlpiZ1hpNDdXcm9FSkZsSzFoT1hXVDRYMWFVOXBjbkN0Uk1tNUhGYnh0Slh6WEt2bUF5dHlZMmdiUVI1N3haSjhYNXNRTjIyY2pKZXFoQWNybUh4b3JmT0Zsa09zN0RFdU12aU90WXo0SDdyZGNHWmZwYl8xNURkSm1RVml0bjBnY0thZjMwWjgwODJLNjhKNk9jUjRmbnZkS0tlLTZxWklEcU1qVE8wMVVMNWJjYVB0SVZtZGNKMnRpcFBYd2huTGVhcHktQWNiTjlkdTdnQVZNRVlZWlFCY3QzMUFpbG15Zw?oc=5",
+   "fonte": "ANSA",
+   "data": "2026-11-14T20:06:00.000Z"
+  },
+  {
+   "titolo": "SCIOPERO GENERALE 20 NOVEMBRE – MANIFESTAZIONE A FIRENZE",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHhmUXhKWklnd2NodnR6TkdtcDBiNFMzbUJkT05odEtVRHRSd05GUDBvdmpMV0hXMmRuaEdFREpFdzktYVNyQXFMR0lTM0FHMGNPaGNGYll5Skt1dUh1aU1BUm5HMFRBeVpvdkRWRHhnejNLNVl6ek9hYjRLcktaeEVxcEFvSEtlbkl3TUZzaU81NFRjRzM2blFzNA?oc=5",
+   "fonte": "Il Diario del Lavoro",
+   "data": "2026-11-14T20:00:00.000Z"
+  },
+  {
+   "titolo": "A Torino il corteo contro carovita e aumento delle bollette",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVE4wNXJGcTJFa1pXaEdHZm8ycl9QRmRPNzFBMGxELW01U1Ayc1VZN0wwcVphczE3TjBrUDV2M3VoU3NEbldrczMyS2ZfQU41OVVDTVZhU3kySlpkNVVvS01heXBINXBsOTVuVEtFOHJqVl9nRS1RejY1d3AxZGdTcTVQazRSalBmblAw?oc=5",
+   "fonte": "Eventi e News",
+   "data": "2026-11-14T20:00:00.000Z"
+  },
+  {
    "titolo": "A Torino il corteo contro il carovita entra in un supermercato",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPOTF2SWhPbE03TE1MdlhnQWMyXzc5YnpBZTd3MWVlblZOU21HRWo3SURxbFVkd0hrMlp0b0VkVF9yM3ItVWRRYjF1RC0zTm14eVV2UkJlQ2pUZjZNNEk2ZkRvaVg5MmdhalZpTnN5RlRndVFGUlBsZmczQ3o3YU5zMENCZUVkNDdhcGFtOS1OVGRxdU5IcXE5ME5hb01qbUZrUTF2aDFuanI3U3duQUlSRnEyMlE5OXZ4c2F2UkNqY2ZpMDFqWU1sV1liSm9TSTNkVG5wMW53MnZxLW1mQ0w4eHhUdDBWeWpGYjF2WjUySEVhQkdWX09WcA?oc=5",
    "fonte": "ANSA",
@@ -676,6 +700,12 @@
    "data": "2026-11-14T19:00:00.000Z"
   },
   {
+   "titolo": "Minghetti, con un corteo degli studenti termina dopo nove giorni l'occupazione del liceo",
+   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPTmY3UlAyVTlDaFRfZDVHdVlzZE9qRWtTSGcyei1BWVRaaW1GUVUtMzJrWWJlOF9OYXVqeWsxNVQwR3g2TklVOHgzdmNrWXNEcjVyMWNlOTN6b2lCMGF3THRrS2xFcjh4UUFaYjY3enhXZVYyNHExd3ZrRDFseG5IVHFoTXhmYy1oWmlSWmRwYk5neGZSb2lrSFJXdTA0SmxDcWlHdFpQdHN1dENoRk0zWWxCMDFYQVd6ODhVLVFLTkI3cmI3S0YtWEdDMVFsN2F5dkxtZm1rYUtiTU13a3FiNU4yMklhaEZuY0swWlM4bHhzbTBmQ203Ri1nMW1IY3ZQdTFPODFua2pVcEU5LVZaTVZIV2E5WWd3ZFlpYjVJb3VaNnVUWmfSAasCQVVfeXFMTk1UZDVwX3VsVXE2Z0Q1bEdlYXdqZWxweGZoQWRKZG9UOV9uMkF5dWNtRlNybWlnUUFab2xIakZhQkVneFJRemJWdWszV3BJamI0dU1mTzRiZ1plQ0FtYnZFMjltbThreG00VUhZRTZfeVVSSkJxV0NFM1BjOG93TkpMWlJ4el9GV1Q5UTRmN21yZlZOTFNkeDJhRTZwMzRaRXl5RE05QjIzN0V4NndYM3VzVE9Ud2szV1BYX3NORzgwR2xhNGl6TERfWmw2TXoxdE11dDFKZ0p6Ml9UMlJCYzU5Q29lMmJmN3FMZThqS2M3bk5XMmYzdk5JQ3M0Nnd0TkpYZ1FjNHJ1U2FnZzVTUmZxZE1ta0lnWkZ3Tm5IZnpqUmowSFdYWkd6RzQ?oc=5",
+   "fonte": "Corriere di Bologna",
+   "data": "2026-11-14T18:16:32.000Z"
+  },
+  {
    "titolo": "Parigi, tensioni al termine della manifestazione: la polizia lancia lacrimogeni",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRHJ2Sjk3ZEN6YjJzVUtsZkNxYTA1U1hzZGlfaGxOa0hUbk1kak9zdjZMdk9MLXhWOFBGY0QtcThGYWhDdGpQZEF0Q0dkaE1rRnFpaHZFVFFsVTdURUx2ODdWMzcyQmMxdU1QUVZqRkZ2dkRHT2U1QlVkNDJNNzRyZDJZZDBGbnVGQUtJU2IxVk1aZm9XWHNpSDU4WVJQUDR0bEZfTk9Ud1dxa1BpR0M5eUdxRUs0azlXbFdMT19TNDNKSjRFYllxWjlYdF9XRDQ5Qkc0VTQwcE5KeWFYRzE3RQ?oc=5",
    "fonte": "Corriere della Sera",
@@ -698,6 +728,12 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV3E0eWVMMDAtVVZJeXk4emtyOHI4MzdRbG51MlhRLWtTZFkzS09DQzZQc0M4aDh4RWNhbm5jb1lkTTc3T0ZVZDZtNGxqUEdqbHU1N3E2YWh0blpCaTc3a3VWWGM2OU9SSURweXJFWHZPTndDaDdhNmNDS2ZlYkZBZGpfcTBwMDZyeDRseG9EcGtJckliWjY3RnFhUTZ3WFl4bks4OHRsRQ?oc=5",
    "fonte": "Sky TG24",
    "data": "2026-11-14T17:28:11.000Z"
+  },
+  {
+   "titolo": "Manifestazione a Torino contro il carovita, in piazza trecento persone. Blitz in un supermercato Coop: applausi dai clienti",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZm05VmY3ckhCMkFJV29MWmRVNUdld0l1QkpvdnNVb01TeFVULV8ySUhFU3VYT3hRYy1jUF9jcHJWd1BFRVdmQVB4T0h4S2xpc3E2M3hCWEYwTnk4M1NKNVVsNDZUQW1hYlU1THlkMFJtSEVjVnNOeWpqb0t3RE5JYnZBN0RWSGRURnZYUWY2SWJabWU0SXRoQjdCN0ROR2FXUVV1UE1iV3BuNW1KTUlUZGNrU1R2YWl6TEJFQjVkYlVwdGRyMjJYb3pMQk90bXZTTzh4MWxCUWZidVprSERwT2phWlYxclFkakdxT09seFM3Tk9tNFg5TnVBTmxDaUXSAYQCQVVfeXFMUFdJWFZQdjNtb2owX1JxdmROVW96VU90cUhXakx4LUp5RHVWS0RFSWROdHZBXzFlWmw4MVpHblhZaDlKb3plODc5Tzdfd3FUOHYzcmZobERJd1RvVVNTTGFYb2VDRkF0MGI3bXAyNGoyWHNYZnVFOXIzMXhpUHY4bll3S1Q3NXdxN3BDQk5iR3BCcTVzOW16S0lwaml0WUpCV2R2a0dMaXh6OUVMVkE3UzRYUXU5Y2dqMGxlMnJqZ3pPNWJoWUFhR0UteG5mN1JKWUtGMF80ODByN3pfMmZ3dW1USjhOZGp5UTRuY2dLbFoxWDhrLWxONnJ0azc0UlprUzdUbjg?oc=5",
+   "fonte": "Corriere Torino",
+   "data": "2026-11-14T17:27:17.000Z"
   },
   {
    "titolo": "A Torino il corteo contro carovita e aumento delle bollette",
@@ -742,6 +778,12 @@
    "data": "2026-11-14T17:00:29.000Z"
   },
   {
+   "titolo": "Verona in piazza per Gaza, in 5mila al corteo con i nomi dei bambini uccisi",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUG13YXdpUWZ5Mk9lSW15T015aFB3TjBkb3ZGSEl4SGQ4ZUcxV1pkNVB2b3FCZnRITDFqdWY3Nm1UOGVtUk8xUXdpZUk2Zld2VGFyX0F5b2gxU25kZWZxS0syMUpvWFB0TXBrbmY2c09ZODVyMi1BVXhZWl9iSjN0bmxSMlcweS16TWE4akZuZFdUcTB1VjB1c1R1Z1hDZWY0dGl5OVFnRXFIYjhhNlY2aWNxb1kyZw?oc=5",
+   "fonte": "Verona Oggi",
+   "data": "2026-11-14T16:59:25.000Z"
+  },
+  {
    "titolo": "Il corteo contro il carovita entra in una Coop a Torino",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcndOSVhqMG9YLUtuYUxjWlhRYkl2S29Gb2JuZE1kQ2pNVTA2ZGJfT2NGZklGa0Y2NnlId3Y2MExGY2VuSThIMXR2V1MzaXRvNVNrWDZBaFJhSEVZc1dKcVJ6cl9uUkdKWjRxVEVzU25ZcUd0bTNEaGMzY2pRWUs4NFotVF9TYURkVXBWX3NSRGx0UEUydnRqQUE1emt4LWVCcElCYVpGQk9Vb2xZeWxTWWxWTXNhQWVYUERXN0xhUDdHRHZQUk9MdW03R1AxLU00R2VHTUNvX09sTlZfWVRKbzc1QVE4LWJjM1HSAe8BQVVfeXFMUHA1ZmV5dERTa1FsdlJJeDRSM1dyRkdHelZyWjdJVXhwU3RQMGlRRVlsaUloejBMVHdEWUVtTHdveGZ5RF9TZk9tZmJrdURZQl9IVDIzYTNmMU1sd042MUVvQUdCYXU0WHVIaGl5bTYzak12MmFaYzBrb1EtMzJYUDRBQ0stM083M1hnUVRxYkl0WTBnZHdSM3c3RVNtOTRncUc4SmFzV0xqbGRzTFpvTExtbk5GdDdsNmdRcE9sdjlQMkVDTjZQZGh6bU41ZkNFZTFHQ3d3NFhOQkVLaDdJYjdqY3ZTOW1ZWXF4Y2ZkZkE?oc=5",
    "fonte": "ANSA",
@@ -752,6 +794,12 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xaGFEWklQQnUxTEo2VTBXZFRQckFPX1RJelhpczMxd2xzUWo5WVhWdzAxVTZzX2RfVTN3ZmFfV043d3RNV1piYTBJaEN2VGhUV1QtOVJBcUxaNU5hZ0ZSNC1oS2NyOXFzVzI1MHpsYVhkSnIxTDRvQUtfbnZSQQ?oc=5",
    "fonte": "https://www.tv33.it/",
    "data": "2026-11-14T16:52:06.000Z"
+  },
+  {
+   "titolo": "Scuole occupate, la protesta non si ferma e torna in piazza: venerdì 20 novembre la manifestazione degli studenti",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTjFOQzBYalFWc2dYRE1hdEZ5VmVjNTdHTlJtOFp2Vk5pT2NlWURpblhENXhvdjVPOERuTFhJY21GUWhsUXNjcjVtUm82dTZvYWd5TnFSNEpRWmZuWFZCUG9kYXU3NEVNQ3JWcFlROWl3VFZ2Z1g1bHJEZ2FubWtZcEc3QXNCR1BzQnJHbmNROVp0cVhZSXc?oc=5",
+   "fonte": "LivornoToday",
+   "data": "2026-11-14T16:44:46.000Z"
   },
   {
    "titolo": "Corteo Torino 14 novembre: percorso e viabilità",
@@ -820,10 +868,10 @@
    "data": "2026-11-14T15:50:08.000Z"
   },
   {
-   "titolo": "Manifestazione a Torino contro il carovita, in piazza trecento persone. Blitz alla Coop: applausi dai clienti",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZm05VmY3ckhCMkFJV29MWmRVNUdld0l1QkpvdnNVb01TeFVULV8ySUhFU3VYT3hRYy1jUF9jcHJWd1BFRVdmQVB4T0h4S2xpc3E2M3hCWEYwTnk4M1NKNVVsNDZUQW1hYlU1THlkMFJtSEVjVnNOeWpqb0t3RE5JYnZBN0RWSGRURnZYUWY2SWJabWU0SXRoQjdCN0ROR2FXUVV1UE1iV3BuNW1KTUlUZGNrU1R2YWl6TEJFQjVkYlVwdGRyMjJYb3pMQk90bXZTTzh4MWxCUWZidVprSERwT2phWlYxclFkakdxT09seFM3Tk9tNFg5TnVBTmxDaUXSAYQCQVVfeXFMUFdJWFZQdjNtb2owX1JxdmROVW96VU90cUhXakx4LUp5RHVWS0RFSWROdHZBXzFlWmw4MVpHblhZaDlKb3plODc5Tzdfd3FUOHYzcmZobERJd1RvVVNTTGFYb2VDRkF0MGI3bXAyNGoyWHNYZnVFOXIzMXhpUHY4bll3S1Q3NXdxN3BDQk5iR3BCcTVzOW16S0lwaml0WUpCV2R2a0dMaXh6OUVMVkE3UzRYUXU5Y2dqMGxlMnJqZ3pPNWJoWUFhR0UteG5mN1JKWUtGMF80ODByN3pfMmZ3dW1USjhOZGp5UTRuY2dLbFoxWDhrLWxONnJ0azc0UlprUzdUbjg?oc=5",
-   "fonte": "Corriere Torino",
-   "data": "2026-11-14T15:28:15.000Z"
+   "titolo": "Pesaro - Manifestazione in piazza del Popolo contro lo sfratto dell’Hotel Elvezia",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdUxBQkd3Rzl2MWprcThuUVJUMm5jNC1kUmtSaGdRZTA1ak81cUR3czR1RVJHbWNEZHJDTnZJQkdMTUFRRG1odVFQcjk5MlhzX3pXczRHb1lzX3IzeUF5aF9xT210VmFoQ3FPLXpfMERHU1VIRnpDSkNFUTlHM2UzS0tsNEUtUnNnS1Rqd1pKc1VCOWNNWmtuNGIzSGlGbGRJWGhmVkp4M0JuRUdxR0dXWm1GTnk3X0EzX0RrRw?oc=5",
+   "fonte": "VeraTV.it",
+   "data": "2026-11-14T15:50:00.000Z"
   },
   {
    "titolo": "Brescia scende in piazza contro il caro-vita: ma sono solo 300 le persone in corteo",
@@ -883,7 +931,13 @@
    "titolo": "Michele Guerra in corteo: \"Tanti parmigiani sono scesi in strada per riaffermare i valori di Parma\" - Video",
    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOY3dpZkVxLW1ycDNqN3NMYmYzYWRxbGNYalRmSHR5TkJmZWY4TlctREdxNXEyRVhUVFNjRG15OUpfNF9FMHprellCa0JuQUZXUjE2Vkh6MFQtYnFoc1ZFYzU1VmtGeENGejhFdzhYNzFuNTVhNnhUZ19vdFV0dHIyX0Z2UWFIYkdBOU8ybDlVc1Q2SXFTT29kd3FmRnNEQUVoVjdJX09BdFUxLXh0RldxZW9TTkx0dVNlcVZBWjkyU2VjNEp5dWc0TnU2azdVVHYtRmdDQWNNWHh2dUNxdEpuUEFxYkFWY2R3X1ZuLUU4VzFaUjhoVnhKUTYwMHhNVzlUNWc?oc=5",
    "fonte": "Gazzetta di Parma",
-   "data": "2026-11-14T14:30:53.000Z"
+   "data": "2026-11-14T14:30:00.000Z"
+  },
+  {
+   "titolo": "Milano, al via un nuovo corteo dei pro Pal e dei collettivi: in piazza contro carovita, riarmo e repressione",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSUplY042ZmdUdVduTlZmeUZjUXk5VmgyZVFlbVhJRm00WkpMdXRENl9wSjY2ZzV4LVdJYmNBdXRlZjlVdVVhbHRfd3c1V1VXOHdVV1QtQ1Y0RkVrNlk5Y2phRk94NTg5NkRSOXp3NGR0ejAxVlFUazJiZmxIQ1pIVTZyRm1zWmtrempfTjF6Tk9iTklvbDkxamFWMFlnaFA1WEp2MFdqVnBsUXpQR0FDZFh0SFFOckFXRzBlcFZoSzd2d3d1NW14MlZFUHFBVmwyMHh5SFp4MTJZMzE5dmVxT0dZMnE?oc=5",
+   "fonte": "il Giornale",
+   "data": "2026-11-14T14:22:54.000Z"
   },
   {
    "titolo": "Morbegno, 300 persone in corteo contro la chiusura notturna del Ppi: «La salute non si baratta»",
@@ -902,12 +956,6 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOejF3XzdkSFN4Y28xNXpSeUlTNzFna3BJVlYxRGxyRjgwcUdOdVVYdC1MMUVWdnhITDZ0X1FNNkJVdEpyOVAwWVJsdzBENFk0ZnZlYzBFdFRLYjdhVlFXQk5UYTFZczh4d1RpNFJZSDI3R3pCNHJZUW1BblgzVG9XSXg2SWRLVFBvN1pQVWo5Yw?oc=5",
    "fonte": "ParmaToday",
    "data": "2026-11-14T14:12:31.000Z"
-  },
-  {
-   "titolo": "Nuove manifestazioni in Francia, schierati 70mila agenti. Tafferugli a Parigi",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xWVRrWmN3TWNsZXhkdVFqaHJhRmpsNDd5YkFIbzB5UkxINnhFREh1QklwbTlpbndNTGNlOFc1U2hoZkJ1b3dsc255a0dDeG5TWGRxTGF2VEFJb2F3Wl9mTU1MakVpT1VnTzBBYmY5UlZ1RFk4bzhQdA?oc=5",
-   "fonte": "Sky TG24",
-   "data": "2026-11-14T13:58:34.000Z"
   },
   {
    "titolo": "Se il campo da tennis è un presidio sociale: la sfida del nuovo impianto di Vanchiglietta",
@@ -946,6 +994,12 @@
    "data": "2026-11-14T13:01:08.000Z"
   },
   {
+   "titolo": "Cortei, 50 perquisizioni in tutta Italia dopo gli scontri e le violenze delle scorse settimane. Controllati anche minorenni",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWG4ybHFGT29qUEZXYkEyR3U1Z1g2d0dvZkN1Z1IwX2RDd0tDc1J2b3ZrZldIME9mQ2h3c29LVnRkRnFCVDRBZnk1M2ZydkJPR1dQbG1iMHVURDZYT3NNdHp1MGdNRV83QU14d2M1NGl1SjRoSXJKNVZCZjFsZEsyY09lcVg2WEQyeVQxTmxpVEJzaF9iTF9HV1JqN1BOMG5ZWWVsSw?oc=5",
+   "fonte": "Il Fatto Quotidiano",
+   "data": "2026-11-14T12:42:27.000Z"
+  },
+  {
    "titolo": "RIONE SANT’ANNA: PRESIDIO PER CHIEDERE RISPOSTE SU SICUREZZA VIABILITA’ E PARCHEGGI",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3RZSTdfRG5Hd2dxc0tyZ3BEUC12U0JYOEk1Qkw5ZTVMdE1OOERBeUxhYU5GaVNaYW1NRVluRGkyVXRxWVNmTDVNaEd2NF9FLU9xRGlkUUV6c2o4aG1saGpDR21LZ3ZXMmR0OTBNMGprSFdRdTBJdXdVNTU1eGRHTkR3Nm5wT1pUMG16c09PV3VGdktPSVRVUHpjdUVKZWN3N3NxNQ?oc=5",
    "fonte": "Tv Qui Modena",
@@ -962,12 +1016,6 @@
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT2o0cGlaWDVjZVRFZVJCWTllOUpxdHpVZWZ4THZrdEp2cWYtUEJDYlJTdldxV2ljTjNZQVMzOGdfck8zYkZWU3JfSlNuSnE0bDdTTU91MEpFOWJnYW45UVpFYTNnZURMUy11WnFBTDBreS02ZnZiLUNucnQxU2V6MDNIMk43cTdCeUdZNVJXSGJieGdKdHNTMm1rSG9MU2NhUnF3OE9jb3NKNTkycXJIakZvd3ZvbXF6RmM5VGljTTdVQ3U1cC1XWWppYjdOR3N3Qmo0?oc=5",
    "fonte": "TorinoToday",
    "data": "2026-11-14T11:41:00.000Z"
-  },
-  {
-   "titolo": "Manifestazioni a Parigi sabato: l’elenco delle 21 stazioni della metropolitana chiuse",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWhXNF9IMmJBUjBvNi1XLXFIUy1jaUVoeFdIY29sSEdJWURGZ05NVW9rNEhGZFNlRmRXVWRmSm5MU1BqNzRQbXE5ME9oWHFfMTZDdTVPMXlLOENCX0I3aEo0OVhrdGN0bUgyTlZjbUUxcTNMZTIyMGFBb0RaeFhQbERDQjEwdUxmVHg4X2FHV3NVTWRLNHFXZ0lUaVVnLVVfcGxIVEoxTHAxT18yWHFYSXpPXzFCcG0xbVdxcGstTVViSEFZSDFPM2lxM2ZVQ3pvTDhlbkRZcnRGZVhBRjc2N0VB?oc=5",
-   "fonte": "Sortir à Paris",
-   "data": "2026-11-14T11:25:02.000Z"
   },
   {
    "titolo": "Educandato San Benedetto, il presidio per dire no alla chiusura del liceo classico europeo",
@@ -1082,54 +1130,6 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUxkcms2YVFtQWVKQUxMU3hlTDMtRkxoZ25zbFZub1hNMThXTE1jQkNNS2RpLVVQS2M4YzRheS13WFNyb0NQSnl6aFd1SEVob2NvTnl5d3dRdjBDQi01WFd3UHAwdHowbEtQTmx1NWFibm9ZUXNjTkdHMUJTTjQ0cVRxX0U5RDdJV3NCdjBvR3BVaWNMLXZVeFQzNzVaWVlTaUN2TQ?oc=5",
    "fonte": "Radio Onda d`Urto",
    "data": "2026-11-14T08:47:00.000Z"
-  },
-  {
-   "titolo": "Due manifestazioni contrapposte",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOWVfbENXNzZrSDNjZnZad2daQ25jZnZyWGg5VGVYbFNQdnMzdzdIUzZyMk9VSGtWQlQyUHI4elhlVDFpaGRTQVRyM1dtYjRMTUt4M3M3N3o3TGwtbWNMbEROMWZaWU4tZFBNVno1MXE2amVKUi1Lemo2NnlEY3lHUkc5WkJ2cFdhNFo0ZjFNZGs2Z1UxSi1keF94Rlk5VmtpNUlQUHRjYmt2WEdNY2lr?oc=5",
-   "fonte": "Gazzetta di Parma",
-   "data": "2026-11-14T08:40:03.000Z"
-  },
-  {
-   "titolo": "Torino – Precipitano dal tetto di Palazzo Nuovo occupato. Gravi 2 writers. L’Università attacca: “Basta occupazione, lasciate l’edificio”",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQ3BNR2gyS3JCRjBmZllrRTJjR0pZTXpqSXhNWEJYV0VDZ25IVU5vdDh6cDFaZ1duSFU0NUlyV19kdmY5T2xTdlAxS05uMHZCYktBT29QdzZocVlNYmFmRUlBRWFaaFVyczFRQ0ZnOTJ0N1NMRlAtdjFSWmtvM0dJWjIzY282ekl5YXM2TzFEN0l2RDhHQVlqQm5HY0QzYzBQTXJrWk1NVFYzQThLaEdRTWYtNFhMcWthMV96amplZG1aTHZma1FsZjdSSU9Ed1hWMWlNY3NzR01UNDBDLXFmeHZUc3hydUZkYzh2WXpn?oc=5",
-   "fonte": "TorinoNews24",
-   "data": "2026-11-14T08:24:37.000Z"
-  },
-  {
-   "titolo": "Occupazione a Palazzo nuovo: indetta una nuova manifestazione, la ministra Bernini chiama la rettrice",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUXl3MDRsV0lIeEcwWjBwMHA0ZXo0YU5PNnhKbElSVWpJT2JTSXhlUWlkVTJuNHJlOVBfTmhpX3RtSjRmeGlqR1M3WmY3SG1ic0VaWkVrckwwZWRnM1YwaWJVYXk1TkJiVlM4bGRVY05PZWNfMjlTWEVOcGxTcVg0WndPRmp3YzZocy1pWDRkdWd0MmRpdEs1bW5FcFpaZ3BRQjR2emw0LVMyVllaWHNJ?oc=5",
-   "fonte": "Quotidiano Piemontese",
-   "data": "2026-11-14T08:13:34.000Z"
-  },
-  {
-   "titolo": "Un corteo di bambini e famiglie per accogliere la Lampada della Pace di Assisi",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMUNNbVVQeTNCUmxVSDIxUzJZVXBLeUhQMVBhOXJ1WkpxRW5yeFI1MXRsVjN2WUFpTFJ5aEJBcUZtTXZHaWJtZVM2aGlFWGxBa0dQM1NCRy1EeW9HUVpxaWNmd0I2QU1fLWFQMWdOd0ZkRjlDZVNTbTJ6Mkd4cTRpT3NYWEhrVExhcnAtX3gwejd5MEZmd21zWVByRzFENHNCTzBzX2M5QjBmZDdPemV1NjB3Q2x6TW1GVFRVUVF3?oc=5",
-   "fonte": "RavennaToday",
-   "data": "2026-11-14T08:01:38.000Z"
-  },
-  {
-   "titolo": "Economia Campania 2026, Bankitalia: Pil +1,3%, occupazione in aumento",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42bnhCUEk3VkhmRk9Da19oZzdaek53Tm5nTmxHVDAxaURIenljWGdQNlRTckppRWxfZi1hR3F4QlMzVGVYRkVHTzJrRnVROGZrWFdRR1UxZjJMVU5iOFpGbmVVaFR5WXczdnR4c09iQkI0bzEzZmU2aFJoWXNDZw?oc=5",
-   "fonte": "Radio Marte",
-   "data": "2026-11-14T07:07:54.000Z"
-  },
-  {
-   "titolo": "Brescia in Piazza, sabato 14 novembre \"Corteo contro il carovita\" da Largo Formentone",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdkx1bWRuZGpJNzdld2RhUlE1ZE5wdmgyc0czZHhXUV8wRU1xUFZIZWVpX1psQVRTM3M4T3RxeWtYWkpFRjBSTnVvcFZ0Q2N3OC1lZG9nUzQ4VVZYM3R2N1pYaXZDSlRHVVNZQ3VMZDVRcVpzcklVdFlRRy0zZm52YnhVOFJTbFpfelFsM2o4WnAteUlMa2JscHBpbnhLT3NZVWcxaHk2YVlPa1hqTFQxVkVCWDVkZTZyQlpMV3pneTVBVmc2Zk1mQUNwSHlHUQ?oc=5",
-   "fonte": "QuiBrescia",
-   "data": "2026-11-14T07:01:10.000Z"
-  },
-  {
-   "titolo": "VIDEO | \"Giù le mani dal Sambe\": il presidio per salvare l'Educandato Statale San Benedetto",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY1hwbTB3Z21OdUdZanhzR3NqVGY3emQ1bm1JalhoWjlZTE1vMGRnbXcwNl9OcGhOc0YweVB0bzRKNlZ4eFVNOTQyb28tOE9JVHFhQk5pOFlQbWlOeHR0cTV6S2pTOWhhT2lQS3hYYVRHaW83SXczZkdDeDZXaUh5QXY5WXBfM1dvS0lmZVY2R1N0VldXN0pSLXB1NXc4WDZqaW43SHZTYTdFLW05X3QzX3VXZkxmMHcxQTRiaVFqX0ZfNU1KdjJJbGlJTm1yUjBaZ1E?oc=5",
-   "fonte": "TgPadova",
-   "data": "2026-11-14T06:53:00.000Z"
-  },
-  {
-   "titolo": "Henkel, Savo: “vicinanza ai lavoratori e sostegno per difendere l’occupazione”",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPelFsS1hvMGhuTkwwcVh2SjRkMEw2RlExVWc2czU2VmpIbTNFb2hmc25ScXVhc0lacTUtU0ZuSUo1OWgwUHNLREwxZVBvWlhsdHNwY2tZSWlOczM4Tml3ZDNJeEQ5elhJM1oyV3VUanBPVGh2UWtheGNkeTVWUjN1RkJqeUZjbE5WNFRRbF9ILXBtbW9jR1lYVmdBNVlLVlRIQUxBckItZU5LUWVfNUhIbXFaS204d2V6?oc=5",
-   "fonte": "LA PROVINCIA Frosinone",
-   "data": "2026-11-14T06:43:18.000Z"
   }
  ],
  "eventi": [
@@ -1199,7 +1199,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU3R0clFmMHVsYTRaU1NjcTJyeXJaTzdPTFN2X0VhRW14UU9WX2dEUkpyRWd3aTJWUjNMWUhGM0QyMU54TUJyOHVQU1FWT1JZOUxRZVBmRkdBSFRZZXFLYmxpTDU0RndWSE9kTWwySDc2QnBiQjZFb3FiQ1VVZ25ESnlxN1lqOTliT1JZanhweFpEYkc2bU8yWXFRRVBsSXAwcl9ReVZEcTMycHlBY0s3UzI5b1B4Ykl2RkJlRmpmRGhLdGdDWm10czhPMlp5bXVqSGZsSDNRY3AyS3VPNDN0MQ?oc=5",
-   "altriArticoli": 58
+   "altriArticoli": 57
   },
   {
    "id": "gn-UWFWbEdVUT9vYz01",
@@ -1234,7 +1234,7 @@
     12.48293
    ],
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2o1X0FYVlE1STUyby1EdHRtQjRLRnBubi1PSGFZTTlnZFRHOUxVZ29GZURjZXhVQVkya3ZLTDBSdmxlc052N3p0RTNrdmZzMTdDcFJVVVJvRHFKSGlwOVU3SmtEeGxBYUhMRHY1d0ZhT1JyekNQTGRoRjRIeEl5Um1VNEg2MjZ0cXhYMk9DSm92LUpqdHVBam5PbXN4bUpVelJCSmN1NUZqNzZWbWc?oc=5",
-   "altriArticoli": 7
+   "altriArticoli": 8
   },
   {
    "id": "gn-eVdUQlNadz9vYz01",
@@ -1304,51 +1304,6 @@
    "online": false
   },
   {
-   "id": "aip-1745455",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Livorno: Manifestazione Antimilitarista",
-   "tipo": "",
-   "inizio": "2026-11-04T17:30",
-   "luogo": "Livorno",
-   "citta": "Livorno",
-   "regione": "Toscana",
-   "coord": [
-    42.79024,
-    10.34022
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1745455/-/livorno-manifestazione-antimilitarista"
-  },
-  {
-   "id": "aip-1745758",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: presidio \"No comando Nato\" per la festa delle forze armate",
-   "tipo": "",
-   "inizio": "2026-11-04T18:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1745758/-/firenze-presidio-no-comando-nato-per-la-festa-delle-forze-armate"
-  },
-  {
-   "id": "aip-1745699",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Pisa: “Israele/Palestina ieri e oggi” - incontro alla Normale",
-   "tipo": "",
-   "inizio": "2026-11-04T18:00",
-   "luogo": "Pisa",
-   "citta": "Pisa",
-   "regione": "Toscana",
-   "coord": [
-    43.47147,
-    10.67979
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1745699/-/pisa-israele-palestina-ieri-e-oggi-incontro-alla-normale"
-  },
-  {
    "id": "pl-13520",
    "fonte": "PeaceLink",
    "titolo": "Non c'è niente da festeggiare",
@@ -1363,21 +1318,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13520",
    "online": false
-  },
-  {
-   "id": "aip-1745700",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Livorno: presidio contro i traffici militari",
-   "tipo": "",
-   "inizio": "2026-11-04T18:30",
-   "luogo": "Livorno",
-   "citta": "Livorno",
-   "regione": "Toscana",
-   "coord": [
-    42.79024,
-    10.34022
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1745700/-/livorno-presidio-contro-i-traffici-militari"
   },
   {
    "id": "gn-akp3ZGtVP29jPTU",
@@ -1548,21 +1488,6 @@
    "online": false
   },
   {
-   "id": "aip-1745578",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: proiezione di \"For life\" - nell'ambito del Festival dei popoli",
-   "tipo": "",
-   "inizio": "2026-11-06T21:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1745578/-/firenze-proiezione-di-for-life-nellambito-del-festival-dei-popoli"
-  },
-  {
    "id": "pl-13497",
    "fonte": "PeaceLink",
    "titolo": "Il Poliedro della Pace III - Europa: radici e prospettive",
@@ -1714,13 +1639,13 @@
    "altriArticoli": 3
   },
   {
-   "id": "gn-aDRaV056P29jPTU",
+   "id": "gn-bVduVjMb2M9NQ",
    "fonte": "Giornali · Il Piccolo",
-   "titolo": "Presidio in piazza Unità a Trieste, il confronto tra i manifestanti e il presidente Panteca",
+   "titolo": "A Trieste il presidio in piazza Unità: un gruppo sale in Aula, confronto e urla con i consiglieri comunali",
    "tipo": "Dai giornali",
    "inizio": "2026-11-09",
    "dataIncerta": true,
-   "pubblicato": "2026-11-09T17:50:02.000Z",
+   "pubblicato": "2026-11-09T16:40:44.000Z",
    "luogo": "Trieste",
    "citta": "Trieste",
    "regione": "Friuli-Venezia Giulia",
@@ -1728,8 +1653,8 @@
     45.64965,
     13.77728
    ],
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPakktay00dHJPdEhHNjBObU9qSU9QMVllVVd5SEl1dnBhck0zdVpSSXVnUENrbm1qaDRPTTJKaXBibzFIMlBKMXp0MURfanh6X2FiQ2Z2b25uWU1yYzdDeDNzbjZBWkh1SUpmbXRuWXF4U2k5R3owRmg0Ul83cDJFUXlWR0hXX2xRSUZoQThoel9YQXAyTjhJd3B2TjBoeHlyM0Nsc3h6Z2h4ZWNz?oc=5",
-   "altriArticoli": 5
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUEN0bkFjbWljVk9DZ1MtQlRLbkdPcWR0bFVYYVpxNWdnU1M4cDkxbGpvQmFhZnVmRkg0Z2pPVkhaaGt0ZUNlclZLMUQ4cnFCNW5FT19HRWN3Nlc3RjRqaUdRZ2tpSmNEakU2Z2lRUFlpQUxsUDFGZEVGaE55NkNwRTc1eTQtVVZXVHJaMWQzbzlRamdibDk1WXptcTEwMHVmbUY5MVo2YnJNZ0pYanFmWnV3?oc=5",
+   "altriArticoli": 4
   },
   {
    "id": "gn-UzBORk13P29jPTU",
@@ -1780,6 +1705,24 @@
     10.13955
    ],
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1742358/-/massa-colpevoli-di-palestina-presidio-davanti-al-tribunale"
+  },
+  {
+   "id": "gn-OVhhVkUb2M9NQ",
+   "fonte": "Giornali · Il Filo",
+   "titolo": "A Firenze il presidio per dire “No” all’eolico",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-10",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-10T18:03:16.000Z",
+   "luogo": "Firenze",
+   "citta": "Firenze",
+   "regione": "Toscana",
+   "coord": [
+    43.7698,
+    11.25564
+   ],
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12YlpVdjVnXzY3bzFDTE12c1NSRlVrOGRSNFJoMUNyWVBRbmJaTFRGNzZMXzI0a3UwbFFXNXBxMFhEZS1QbmFpZEV6Uk1CemJuNUNDLXJ5VE9uTUFaR3FxVXFZWmZCS2RqNVZXd1pvVWstQU9XaVE?oc=5",
+   "altriArticoli": 4
   },
   {
    "id": "gn-eDFkR3Mb2M9NQ",
@@ -1973,22 +1916,22 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-Mk4zZFJPQT9vYz01",
-   "fonte": "Giornali · Cgil Firenze",
-   "titolo": "Emergenza abitativa, a Firenze presìdi davanti alle case popolari e manifestazione",
+   "id": "gn-bTVzWVEb2M9NQ",
+   "fonte": "Giornali · Genova24",
+   "titolo": "Diritto all'abitare, il presidio sotto la prefettura nella giornata di mobilitazione internazionale per l'emergenza casa",
    "tipo": "Dai giornali",
    "inizio": "2026-11-11",
    "dataIncerta": true,
-   "pubblicato": "2026-11-11T13:40:21.000Z",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
+   "pubblicato": "2026-11-11T11:59:00.000Z",
+   "luogo": "Genova",
+   "citta": "Genova",
+   "regione": "Liguria",
    "coord": [
-    43.7698,
-    11.25564
+    44.40726,
+    8.93386
    ],
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQek5PclFxRll4OTMyTmo2N1NrWmtGelE2NzhacExlLWdwSlJUZzdodWJOLWlMWnZQZ1hVbDhMYzJwYXo5TkozQzdWaG1yOTVyOUhzcDB0RjRQcV92NHdEQ09ncm1VR1c1MkluY0ZfdzFpeTE3V0xkMjAwSEdEdVk0clJxRTd4TlhDcGd1Y3h1ZjVLQ2UzQ3FlNkZ3bE1Hd3VVdWZJY1JvTUhCdHNxUXc2N3dROA?oc=5",
-   "altriArticoli": 3
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSW5EMXcxLUhFdC1CWFp0azdSVnFDNWo0SUtKTVVPZnlucEx6UzJ1QWdEWV9OdEYzdnN5Y2xzNWVhTkx3UGdxNU80SUNpQUVxY2l4NVM0dmpSZXEwa1FGMFl3cmt6MUNWTmI0RVVzbDM0cXJSS1pYQW5FeHJ5S1RhaXdMVnpYcDFVRXM2eTNLNXQ4ZVhubzJvVXN2MVZZTXFzV2Q0bEtFekhNLVhtV2tNRHRsR3o5ZkhYRERqYTNOOEJRd3Z6NllDdkl4M2VuTlgzS3cwMlB5ZXYzTGV2NHdwcVQ5eEFsY0JDQm5sYQ?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "gn-ek1WVnhRUT9vYz01",
@@ -2189,7 +2132,7 @@
     9.18963
    ],
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTVhFdU43V2xHclBQVWNmXzVUSDNkYjIzNkxFcTNzNkowMzZZMWpsekpmbW4yWXRIY1FkaDZUcUVjZlp2MjJzTFlnZUp4LXBOTmw1TTdwckhVVFNMRlJXckxlU1JGN3VjMTFsNGJNZjBERU53eHJ2YllIT2JMSnY4enhtdk80VjllYmVnUFFTdmFBdGpibkJnNU9tS1RWZWljRGkxaWZPcll1emJPazhZUmNMVWU4VGlwMnFla1JNUFI5Rmhqay13UEVNTXBrdw?oc=5",
-   "altriArticoli": 7
+   "altriArticoli": 8
   },
   {
    "id": "gn-V1JhT1VzP29jPTU",
@@ -2351,7 +2294,8 @@
     45.73731,
     7.3204
    ],
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTExmeU05ZzZQb0duenFrd3VISkFON3dVT1VQQUpUbFdycjcxel8zYjRTZFNEcEpuWGxucnhHYTYtRFU2RVlyRXVtXy1tWUJzeU5TQ0ROemgyMlcwWW95LUxxY18zclRkNE4zdU1FcU9NbllDc3NqbUlEME5qSmFUOEc0SDRjc1B5RzJtczhLUnpQRGMzbVhkbXp2M182bFQ2TE1NSWdhaUMwVVh5SWswVVRLMEhuc25RUDEtdVNnZVZLMzBpUkJDVHp3dE1CdnVHMEFOVWZZN19iTlFOSW5vLXJyM0o2VkM5dmpacG530gHzAUFVX3lxTFA1LTFZSld6VEc5endGNk9ITVZaRHFkX3Z6R19HaGwwdHpDelotQkpUNmU4aXpFMGlwal8xaWxqd2tDUzFIaXFjTEYyQ2k1MHY0dm5TQUhVT083WWpnVGRIcDJ3TWM1cnZnc2lDTXBPTndfRHFwMzFtMEJSU3RsQkpEU09YY0V5dENHc3Zrd2Nncmt3ZzZfQVlBaXhVUEhQbDItU0NVV1Z3amxxcmx2bDlGM3hxdzEwN1RLeDhnd2d0TVhKaVFsT1RyRjBnWGhRYWluanVxNGFhRFREeTJ1dm1qdVRxNkVnTFpIc1ByRS1ocXY1MA?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTExmeU05ZzZQb0duenFrd3VISkFON3dVT1VQQUpUbFdycjcxel8zYjRTZFNEcEpuWGxucnhHYTYtRFU2RVlyRXVtXy1tWUJzeU5TQ0ROemgyMlcwWW95LUxxY18zclRkNE4zdU1FcU9NbllDc3NqbUlEME5qSmFUOEc0SDRjc1B5RzJtczhLUnpQRGMzbVhkbXp2M182bFQ2TE1NSWdhaUMwVVh5SWswVVRLMEhuc25RUDEtdVNnZVZLMzBpUkJDVHp3dE1CdnVHMEFOVWZZN19iTlFOSW5vLXJyM0o2VkM5dmpacG530gHzAUFVX3lxTFA1LTFZSld6VEc5endGNk9ITVZaRHFkX3Z6R19HaGwwdHpDelotQkpUNmU4aXpFMGlwal8xaWxqd2tDUzFIaXFjTEYyQ2k1MHY0dm5TQUhVT083WWpnVGRIcDJ3TWM1cnZnc2lDTXBPTndfRHFwMzFtMEJSU3RsQkpEU09YY0V5dENHc3Zrd2Nncmt3ZzZfQVlBaXhVUEhQbDItU0NVV1Z3amxxcmx2bDlGM3hxdzEwN1RLeDhnd2d0TVhKaVFsT1RyRjBnWGhRYWluanVxNGFhRFREeTJ1dm1qdVRxNkVnTFpIc1ByRS1ocXY1MA?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "gn-c1h6SlIb2M9NQ",
@@ -2372,23 +2316,6 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-Ukdkc1ZRP29jPTU",
-   "fonte": "Giornali · La Gazzetta del Mezzogiorno",
-   "titolo": "Bankitalia, in Puglia nei primi 6 mesi del 2026 il Pil cresce dell'1%. E l'occupazione segna il +0,6%",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-13",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-13T11:37:46.000Z",
-   "luogo": "Puglia, Italia",
-   "citta": "",
-   "regione": "Puglia",
-   "coord": [
-    40.98425,
-    16.621
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVGpUaHFlUU4tOTNCeHEzeTVEdnBBcnJfNk5ubmpwZEo1dVpsUjBTZkljX0FDQ0Rwdk50MC1WTHpvMWNreWFmWUdXTmh3SVQ4RU1oNWJJNzQ4VVdDN0RUMklvUlhzcWlOVHQ4cHJiNHJHbTRKcmpWV3BqUVRGUV85WEtTbXZDQ3c2RkhSc0VicjFhSHZ2VkNFZTBsM1R5dXdaVEFRVUdCSzBjU09IczZNUFhIbXl5RTNJWjMtRVRXaUI1ZWxTU1J2QkZwenQ5bzFFZ0M0bVZTNWhzZ2V2RG1wOUlQbFZ2TEJWTHpobFBlM3NmVGU30gHzAUFVX3lxTE40akx2SHVhNDBFU2NWM09jNkZ6N0tMTjBNX3dpMDJRaVZ3dHllQ3FQQVRzN1dlcUtmcGh4NGM2VHJxbG0wOVN1MnlYSlBNRkh2VHV5YlB0ZzdmZFVhNnprSzdDdlRxV1h1MHA5T0tNRXVkWmhFVE9XOWl1bkgxNUNfLUgzdjRBNnJsZGdTamZhUXZNWC04MV9JXzBXdnJxaTV6ZjN1N0VrSnRlTXc4RlBWYnViYXc1YjhfeFJsNmhqTmx0bDI3SWNneEZTV3BmWmhCZVdrU3gwN3RBcXI2RzBQcjhXZU5xZlphdGhNNzg5RGdsVQ?oc=5"
-  },
-  {
    "id": "gn-d1ZHSkob2M9NQ",
    "fonte": "Giornali · Comune di Verona",
    "titolo": "Corteo “Sudario per Gaza”: modifiche alla viabilità / Notizie / Novità / Homepage",
@@ -2403,24 +2330,8 @@
     45.4425,
     10.98574
    ],
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZkdQVi14Rm0xTGpwRXFBUDRGS0VyelA1YzMwZFVpd1J4Si05VmF1Qm9lU2txRExxd2xWSElCRm1iQmVmYmhfQjU5LU5SWHY2NDZKVmFqSjI2bGdpbnM4Q3hjTG90OUM5MHhKYk92Mks3WUNjTE5zVGNOdGo2bFNoV0lUOGVCcFlzS3NGa3Joc0xGRVdwVGJJ?oc=5"
-  },
-  {
-   "id": "gn-emhSWVZFP29jPTU",
-   "fonte": "Giornali · GenovaToday",
-   "titolo": "\"Le pensioni non sono un bancomat\": a Genova corteo e flash mob contro la manovra del Governo",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-13",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-13T08:59:49.000Z",
-   "luogo": "Genova",
-   "citta": "Genova",
-   "regione": "Liguria",
-   "coord": [
-    44.40726,
-    8.93386
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQajhtSDl0VUdmMk00eXRaVF9VRXhVSG90Ykx3SU4xQW5kZ3pDNDdHcE5ZQ1ZSa0VyM1Q5MXdobHItSm1zd3RyZFNMa0lVei1YODUxQU9nUXY2Q2lOQ3l4QUNxcldFai1vT3BzWURka0RrcWdzd0lyb1habTE5Y1lFd3YzZEhlQzhRYVE?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZkdQVi14Rm0xTGpwRXFBUDRGS0VyelA1YzMwZFVpd1J4Si05VmF1Qm9lU2txRExxd2xWSElCRm1iQmVmYmhfQjU5LU5SWHY2NDZKVmFqSjI2bGdpbnM4Q3hjTG90OUM5MHhKYk92Mks3WUNjTE5zVGNOdGo2bFNoV0lUOGVCcFlzS3NGa3Joc0xGRVdwVGJJ?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "gn-WlhUMmcb2M9NQ",
@@ -2585,6 +2496,23 @@
    "link": "https://www.invictapalestina.org/archives/55281"
   },
   {
+   "id": "gn-elgwUnJSdz9vYz01",
+   "fonte": "Giornali · VeraTV.it",
+   "titolo": "Pesaro - Manifestazione in piazza del Popolo contro lo sfratto dell’Hotel Elvezia",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-14",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-14T15:50:00.000Z",
+   "luogo": "Pesaro",
+   "citta": "Pesaro",
+   "regione": "Marche",
+   "coord": [
+    43.90981,
+    12.91312
+   ],
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdUxBQkd3Rzl2MWprcThuUVJUMm5jNC1kUmtSaGdRZTA1ak81cUR3czR1RVJHbWNEZHJDTnZJQkdMTUFRRG1odVFQcjk5MlhzX3pXczRHb1lzX3IzeUF5aF9xT210VmFoQ3FPLXpfMERHU1VIRnpDSkNFUTlHM2UzS0tsNEUtUnNnS1Rqd1pKc1VCOWNNWmtuNGIzSGlGbGRJWGhmVkp4M0JuRUdxR0dXWm1GTnk3X0EzX0RrRw?oc=5"
+  },
+  {
    "id": "gn-RWN0VlEb2M9NQ",
    "fonte": "Giornali · Bresciaoggi",
    "titolo": "Brescia scende in piazza contro il caro-vita: ma sono solo 300 le persone in corteo",
@@ -2636,6 +2564,23 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdlRFYWJkWGxtSVZySVlUa21URk14SkFUbEJLaTkxRDlyc0pROGxrSVpDSXdBZEhTbGVlUTM5VXYzT29ockhEWVJ3RGFqdXcxTnc0OWlpY0hRUkxXaWpZZlJfRXI2YjNGTVhaREljaW5IMnB2YkEwdWhjbmt1TFpSeS1veXFjZE9OdnlyVVVDN3dtOGFrX3EzUmxEY3poOGNRTE1uV3M0Mkh5ZzQ?oc=5"
   },
   {
+   "id": "gn-bE1Temsb2M9NQ",
+   "fonte": "Giornali · Adnkronos",
+   "titolo": "Cortei, oggi a Milano torna 'Italia in piazza': \"Repressione non ci ferma\"",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-14",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-13T23:03:00.000Z",
+   "luogo": "Milano",
+   "citta": "Milano",
+   "regione": "Lombardia",
+   "coord": [
+    45.46419,
+    9.18963
+   ],
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSEpfejFPRkNZUkFUMEtUaHFSSy1yb1k0N2doZ24wMUJuTjJDSmplQlZiOTVZWjdQQzF1Mm1VV0R1TDRmaElfVG5Sc00xa2pYckRMcGFiMmJCVUNkamxscWtiYWVmMjM1Zm1XTVNCYWtESU9zVFJPYzJTcmZjZFhBZVFDMUJSZzZHRVlFZ0lMSzk?oc=5"
+  },
+  {
    "id": "gn-WTA1RmR3P29jPTU",
    "fonte": "Giornali · ANSA",
    "titolo": "A Roma domani il corteo 'Climate Parade', domenica la corsa 'Corri Libera'",
@@ -2685,23 +2630,6 @@
     7.55814
    ],
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRXBUZ0VLVFdBMURGb0xnNmwtMTJfUFY4ODNIMzU4TnRSTjN4X1J3cWNONFNlWV96SDg3Xy1nRHllMzE2SHdnSVBPLXJWa2FZeDMtREVQLXNnOWlNNTZtLTlac0lYeUZmS0lPdjlvZWRzSW1qWWVCVmh6NF8zYjdXc0tUc1gwcTY4Z00wRXU1VWlVa3c0MGZJR0piZnJHd3M3QUt6R19xYzRFLW1CYzF5ZVlZMnkza3BJNjZnb0h3SjFJSEhaZXVmTEQ2NVRUUGt4V2IwdjR30gHWAUFVX3lxTE1FcFRnRUtUV0ExREZvTGc2bC0xMl9QVjg4M0gzNThOdFJOM3hfUndxY040U2VZX3pIODdfLWdEeWUzMTZId2dJUE8tclZrYVl4My1ERVAtc2c5aU01Nm0tOVpzSVh5RmZLSU92OW9lZHNJbWpZZUJWaHo0XzNiN1dzS1RzWDBxNjhnTTBFdTVVaVVrdzQwZklHSmJmckd3czdBS3pHX3FjNEUtbUJjMXllWVkyeTNrcEk2NmdvSHdKMUlISFpldWZMRDY1VFRQa3hXYjB2NHc?oc=5"
-  },
-  {
-   "id": "gn-UlFXdEIb2M9NQ",
-   "fonte": "Giornali · Friuli Sera",
-   "titolo": "ReteDASI Fvg, Donne in nero e Ospiti in arrivo UD annunciano un presidio di protesta sabato alla Cavarzerani",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-14",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-11T13:56:36.000Z",
-   "luogo": "Friuli, Italia",
-   "citta": "",
-   "regione": "Friuli",
-   "coord": [
-    45.65289,
-    13.7805
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRy1WcHoxR2J0WDkzVDB2NzFsMW0yU3FYWmNSbHJOTUZJWTQxbjhJNWNhY2RoYnQ2WXY1VEQ3ZnF0d05LZFN2eHM3Um9adUY2Rm9jNzYyeXRXb29IQXhKekJ3Z0lVTmU1M0RNYU9UV3psVzB1c1VGMlczNTdBbWNTRmdDOUt5bk9adjZySGlKVld1LTZPZGZ4VmNIbGhYZkVtRnJhWHJoa1MybHpIRklza0x4TVpwdnJEWGhuSXdvd256Rk9GaHI3S2o2aWxUQzlabjhRQWtB?oc=5"
   },
   {
    "id": "gn-M2JuWlZOQT9vYz01",
@@ -2868,23 +2796,6 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLUZtVnBRZFR1YmY4UVNISlM0V2J0dWhTVEJZTGwtQU01WXBQcS1KcFc2aC01ZklRbnRpcHhLMS1qdmZOWElnS3JFb3NUQkF5VmViakd6dC1SWmxldDN4ZDRSbkN3WThvOHVxTzZ1cUk0RjRybXkyMi02WVY1QlhSaE43R0FrSTlHSUFFYlVKLVQxXzNXck56OHc4dnFLWGxRdXpsWEp3?oc=5"
   },
   {
-   "id": "gn-V1F0Uldaej9vYz01",
-   "fonte": "Giornali · Pressenza - International Press Agency",
-   "titolo": "Stop RWM: il Movimento Nonviolento Sardegna aderisce e partecipa alla manifestazione del 15 novembre",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-15",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-12T20:54:01.000Z",
-   "luogo": "Sardegna, Italia",
-   "citta": "",
-   "regione": "Sardegna",
-   "coord": [
-    40.09128,
-    9.03058
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLVlXSjFjRGxyU3kwdUF6eEpzY0JUQXZlMngweGM5eC1hd2JZZGxSTzJSRHJsc2VkY00wUGNURlpTUnhidFZpN3RTdzhwM2xQc2NjLTB2NFNIQVo1cl9PTE1OQ2F3VHN5Zjl1Q0ZoZnJjc2JyVGZXcHptbUJ3UkR0aEplTGk1MVMtWWRNU1BFMVZUZ0lTc3FCRFJMeWJEazlKVkFJLXdrbWZnOXppWHJ3TFo4QVZ6bFBfUXhZZXNlN3BVSEJoVVo3THdPV2VzeWQtRWZz?oc=5"
-  },
-  {
    "id": "gn-VXRmUm5jP29jPTU",
    "fonte": "Giornali · www.tv33.it",
    "titolo": "Ciclisti e pedoni insieme per la sicurezza stradale: domenica manifestazione a Trento",
@@ -2950,6 +2861,22 @@
     11.25564
    ],
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746494/-/firenze-assemblea-comunita-dellisolotto-sulla-palestina"
+  },
+  {
+   "id": "pl-13545",
+   "fonte": "PeaceLink",
+   "titolo": "Manifestazione contro il raddoppio della fabbrica di bombe Rheinmetall",
+   "tipo": "azione diretta",
+   "inizio": "2026-11-15T11:00",
+   "luogo": "Domusnovas, CI",
+   "citta": "CI",
+   "regione": "Sardegna",
+   "coord": [
+    39.3209,
+    8.64945
+   ],
+   "link": "https://www.peacelink.it/calendario/event.php?id=13545",
+   "online": false
   },
   {
    "id": "aip-1746214",
