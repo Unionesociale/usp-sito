@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-14T03:02:42.339Z",
+ "aggiornato": "2026-11-14T04:02:00.503Z",
  "notizie": [
   {
    "titolo": "Il Board of Peace accusa Hamas, a Israele non basta",
@@ -652,6 +652,12 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "Il preside “barricato” nel liceo per impedire l’occupazione, studenti fuori: arriva la polizia. Tensione al classico",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wYjVxdjNmZ251T2xkTGs4ZnBsdWxXZkEzT3FDc0VmRlhRUHVESHBOdlpJMVJtby1lLXl0WWhiWUhWS2lZN0twdkFUZmZDX2lKTEE0QkNteHRYclgzQmc3T2lya0NmTmh4X1FuUGZKZi15SG5B?oc=5",
+   "fonte": "La Nazione",
+   "data": "2026-11-14T02:03:00.000Z"
+  },
+  {
    "titolo": "Carrelli portadocumenti su ruote al 2035: l'occupazione impiegatizia sostiene una crescita costante - Notizie e Statistiche",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZjNTU0VsMjhrVFhPM0owTkNtdTVPcW93TkpXeVcybGJ1c3NPUWkzaUpRSkU3NFp5WHlSVnVJUUZheEVNRDI2TDRvZFlrbmpfQkNrVUNxOWVTTVhYN0IwZHQzbzkyUm91Yk05Qks4V0ZfMWpWM09kaVF0WV9wRmJwSmhEeWc2NW1GalBvVnlNb1NNd2VjdmdlVUItdUZEdkx2M1J5UnlCNlF2WTFSbXJKSUVLNzdaUHY1LWlkclZfamN5eFVESnVwcw?oc=5",
    "fonte": "IndexBox",
@@ -1124,12 +1130,6 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRENzVWp5cFUtWkwwRWFvWjBURk45bEtuTDllaUpLQWIyNHdfWWlybVU1anRFQ3Z4ek1yZXM5NW1JTkJPZGNRVjBEQ2ZOcW9NVm4yVE9ReFBuTllWdFNOaVhsRzlrdU1kOTZ6ZVdraGJudWYwbHBwNnp5dk5XT0hKR0xJeDk4dEd4dzVqWEZXT2g?oc=5",
    "fonte": "MonzaToday",
    "data": "2026-11-13T08:47:58.000Z"
-  },
-  {
-   "titolo": "Vigili del fuoco di Catania alla manifestazione \"Governare il dissesto\"",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU1RVa291YWc5VTI2Mm9RMUROZVJfMlJtNFQzcFVrWW9ZN0pkeW1henRjUkd3U0FPbDFpU1psWTNRZmR5LU1yRjFIWC1JVWEtZ092NGdieXBXbm9OTmlFMlVqQXM5RzMwQXMxdFFMd2tBZ0pRaU95RGNpYXluemJFMnAtZ2dqSE41Y2tLQlBCZmE?oc=5",
-   "fonte": "CataniaToday",
-   "data": "2026-11-13T08:39:08.000Z"
   }
  ],
  "eventi": [
@@ -1217,7 +1217,7 @@
     12.48293
    ],
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2o1X0FYVlE1STUyby1EdHRtQjRLRnBubi1PSGFZTTlnZFRHOUxVZ29GZURjZXhVQVkya3ZLTDBSdmxlc052N3p0RTNrdmZzMTdDcFJVVVJvRHFKSGlwOVU3SmtEeGxBYUhMRHY1d0ZhT1JyekNQTGRoRjRIeEl5Um1VNEg2MjZ0cXhYMk9DSm92LUpqdHVBam5PbXN4bUpVelJCSmN1NUZqNzZWbWc?oc=5",
-   "altriArticoli": 14
+   "altriArticoli": 13
   },
   {
    "id": "gn-eVdUQlNadz9vYz01",
@@ -1925,23 +1925,6 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-UzFmWTNOMz9vYz01",
-   "fonte": "Giornali · La Provincia di Como",
-   "titolo": "Il sindaco Pozzi sull’ospedale di Menaggio: «Un presidio indispensabile»",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-10",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-10T15:41:07.000Z",
-   "luogo": "Como",
-   "citta": "Como",
-   "regione": "Lombardia",
-   "coord": [
-    45.93959,
-    9.14936
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVm9tYmJfS09mME0yQW1QaGtFNWdDaTZrSk5JZTFaRjJiNmNiTWYwRWZrRVFfLS1vT3pDbzhhRGp3WUFMSlhrUlF6X1E4UkVRbFNRbmxIUkZCcUE4dVNzUGptaDYtZzNnWmRBTFNIcE9rRHRBN24wRmNiOHZPZWdZd0tXcDNzYTZsMFRnQzNhMzRsWm9rNC1RaHNoMHpJQU1vaFlLRXNlTnl3WWhqcGQ4YTRDMl9kTmdXUE5hUWwyWHpRdGRPeTFKbXBHc29Vb3luYWgtdk9qeS1fY3N3?oc=5"
-  },
-  {
    "id": "gn-TFRZME9VRT9vYz01",
    "fonte": "Giornali · intoscana",
    "titolo": "Politiche regionali sul lavoro: in Toscana più 200mila persone hanno trovato un'occupazione",
@@ -2114,23 +2097,6 @@
    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNMG1obGJKNmdtMUVnR2oyMDk5THB5VWV3MHBGenpoMDdmdXloWW54dGlkU0ZSZmhTWF9xdS1ZaDdROERPVzdoc1FGc3RSQnh0dkowZEZKRjVBTlZiUHBsZVhfb1NGSEJQS2hYQnlKNnlIbGx2TTNGRXhfWkoyVFhPbm95RFQ3eDlIeFBnajBaMWQyOXUxN2E3TThXWGs4RVd6cGtjXzg5Vy0zZmNRZ2NwV3VFQTBPanpJY3k3RmdoNUZMRGFmaEVfenNIZU1rTFcxU3lOQVFsdXd5bDhJMFpjT0dpOWhOZWV6UUhNN2cxRnJfNmQxa2dvdjBvTktETDVnWHlBMnpvRjRGSEhXREpaUWtXZWE5em83bElIY0tNTQ?oc=5"
   },
   {
-   "id": "gn-VTJJMWNnP29jPTU",
-   "fonte": "Giornali · Ravenna e Dintorni",
-   "titolo": "A Granarolo la sede di una multinazionale israeliana: il presidio di Faenza per la Palestina in piazza del Popolo",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-11",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-11T17:04:20.000Z",
-   "luogo": "Ravenna",
-   "citta": "Ravenna",
-   "regione": "Emilia-Romagna",
-   "coord": [
-    44.36406,
-    12.05901
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQS3ZjbGxjM2FVV0V3aVVZLWFPVTlhOWVHWG15MG9wbTF5Z0wzNElfNXNMdm92djJrZTRiUnU5TVBua2VRSG1Kd3VwanY1aGw3eXI2RFFHdTRaY0l2ZnJWS1BmRzJMVktibEhpSDQ2eTZ0dFZsTlBsRENSNFN0aWxyUVVQWS15VXBtbGx4alg0UkdsTU4xazlPdFBQUVZRZG03SERfZ1NUUlJrSGRqVXZEdXdCSF9oemRhQ3paRUVURmJBZUxJRzBEekZNUERWSkJZRG5aRlVEYWd1V0JkLXZVeS11d05QV29WRk5sVDNNZG9VZmZ3U2I1cg?oc=5"
-  },
-  {
    "id": "gn-M0IzVlEb2M9NQ",
    "fonte": "Giornali · Rete55",
    "titolo": "Varese: Pensionati in presidio, la SPI CGIL in 12 comuni",
@@ -2147,23 +2113,6 @@
    ],
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNkYwQkszX2pVbFh1NUZWYUtqSkNaamFLakcteEZ3cUVTUFdNRTdPeVF1OHZjd2l2Z2VDUTRXZU54UFd3SERCd1FJbWFhT1ZxcnNqc2lFSTB1a2RMMVJBcXEyeVBYR3piaklVMmFTUXA2dUdBWm9IblJQcmVqaGJuWnc1VUtmQVd5TkMyQzAyZHBxQzlHZGdBU3B3VQ?oc=5",
    "altriArticoli": 1
-  },
-  {
-   "id": "gn-ekJLUVdjP29jPTU",
-   "fonte": "Giornali · Geronimo News",
-   "titolo": "Rimini, presidio delle lavoratrici e dei lavoratori del Sad: “Più tutele e rimborsi adeguati per chi garantisce assistenza”",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-11",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-11T11:42:00.000Z",
-   "luogo": "Rimini",
-   "citta": "Rimini",
-   "regione": "Emilia-Romagna",
-   "coord": [
-    43.94654,
-    12.63075
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMWxocFhfNDgxb281OEFfOEhkdGYwTWZTS19TLUhEbzlONFc3Qkg2amtwdU43UUZLSmZlTURWU1hXczFGYnM4SWVwMF80bHFqWlIzdy1mLThkVjNMMEtUUlFBZ2tJcFViVmFLdHRSS3dYX2N1MDZ4WTN5M2RPRzNqYWZRdXJUNUZ2ZkVqaXVfaDgwbkkzcjlnVzdydEtxNk52RFRQVjBrWmdmNEQtWjg1T0tZOTNjUnBHU2dlWDBZWlFYd2VFNG01dVNZX0xSWjRkeVhmZnlEVTNWUlZVbzVjTkRpYjZvOWhrbENpS0NQZjFQazBKQWc?oc=5"
   },
   {
    "id": "gn-UW5SblJXMD9vYz01",
@@ -2492,13 +2441,13 @@
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS0Z1MmVFZ1Q5UzB1MjdXdjBqd2ZqRzg1cXRvd1hBb1BXXzJrNVF0YnY3NkRMVDk4MlF0OHVfY1l0ZnZFbklhbXJ4eVhjYUNHUnhULTFUWG1OeUwzTkhJMXR2aWVmYlJreXdDX1FURC1kOTdnMlB3S2d6TTFjbGowYmdUVVJ3Z003UWhEemVXS0FxZ1FOcTRzUWd3RFc4aDFvMU4wemdoZk9JU2sxUjF4STBlVzFYS2I2b09PNnd2Z2VwZVU1bDJsekEyMENSbzFUdUtFUWl2RlFNd3hT?oc=5"
   },
   {
-   "id": "gn-b2NYWTFNQT9vYz01",
-   "fonte": "Giornali · ANSA",
-   "titolo": "Cgil, manifestazione ad Aosta partirà dalla Cogne acciai speciali",
+   "id": "gn-WVVoVmNWZz9vYz01",
+   "fonte": "Giornali · La Prima Linea",
+   "titolo": "Sciopero e corteo ad Aosta, la Cgil porta in piazza le crisi del lavoro",
    "tipo": "Dai giornali",
    "inizio": "2026-11-13",
    "dataIncerta": true,
-   "pubblicato": "2026-11-13T15:08:00.000Z",
+   "pubblicato": "2026-11-13T12:39:00.000Z",
    "luogo": "Aosta",
    "citta": "Aosta",
    "regione": "Valle d'Aosta",
@@ -2506,8 +2455,7 @@
     45.73731,
     7.3204
    ],
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTExmeU05ZzZQb0duenFrd3VISkFON3dVT1VQQUpUbFdycjcxel8zYjRTZFNEcEpuWGxucnhHYTYtRFU2RVlyRXVtXy1tWUJzeU5TQ0ROemgyMlcwWW95LUxxY18zclRkNE4zdU1FcU9NbllDc3NqbUlEME5qSmFUOEc0SDRjc1B5RzJtczhLUnpQRGMzbVhkbXp2M182bFQ2TE1NSWdhaUMwVVh5SWswVVRLMEhuc25RUDEtdVNnZVZLMzBpUkJDVHp3dE1CdnVHMEFOVWZZN19iTlFOSW5vLXJyM0o2VkM5dmpacG530gHzAUFVX3lxTFA1LTFZSld6VEc5endGNk9ITVZaRHFkX3Z6R19HaGwwdHpDelotQkpUNmU4aXpFMGlwal8xaWxqd2tDUzFIaXFjTEYyQ2k1MHY0dm5TQUhVT083WWpnVGRIcDJ3TWM1cnZnc2lDTXBPTndfRHFwMzFtMEJSU3RsQkpEU09YY0V5dENHc3Zrd2Nncmt3ZzZfQVlBaXhVUEhQbDItU0NVV1Z3amxxcmx2bDlGM3hxdzEwN1RLeDhnd2d0TVhKaVFsT1RyRjBnWGhRYWluanVxNGFhRFREeTJ1dm1qdVRxNkVnTFpIc1ByRS1ocXY1MA?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdThnOHI4V1ZSeVJBYXhmdGVkcmRIampjUllxaENLRlozQnlkalhxR29qaHU1b1V5Z1dMc19sSFFVWW5aSzE2LVZ4c18xdXJMQUtDMGtWdjNrSDZRVFlxTnJ2aFRpUGQ0eGJCRktrWkZNZk1YSlU1LWstOGVucU9GOE8yQWpQWDV0RHAtTjhOajBqdFRNZGc4NENIbXNUNmtic2Q2dld1OUxsUUlRMDVBUUJVT05sRm92TEJfVHZHdm1NRUI0WXNVNldSLTY5R1NXX0oydV9YTENwT21wX21JZnludTladVlRS2laYUhVcVg?oc=5"
   },
   {
    "id": "gn-c1h6SlIb2M9NQ",
@@ -2902,8 +2850,7 @@
     40.09128,
     9.03058
    ],
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGhjYmFBQ2xEa1JuMXVvOW9Idnp2Um1CWkp2NWFJWHhRb1pOUnBVbHBhal9TZGpBSUZJRFVJYjZoMVg0RDFwdmRJdVVqTU1CeFVIaXpfemh6Snl0WnFxdUJURzBuOGdDYWVvbXNGTlV6ejc1aFVUU0pRVk1HZC1vcFk1Y1RjRS1iT2pVWnZOSFlsaWZaMUFDMUF2ZGt6cndEckRLeDdMRno1Yl9yMHNjc2U4Z1BXSldNeHNHMmN5ZFhRUmdqRXhnXw?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGhjYmFBQ2xEa1JuMXVvOW9Idnp2Um1CWkp2NWFJWHhRb1pOUnBVbHBhal9TZGpBSUZJRFVJYjZoMVg0RDFwdmRJdVVqTU1CeFVIaXpfemh6Snl0WnFxdUJURzBuOGdDYWVvbXNGTlV6ejc1aFVUU0pRVk1HZC1vcFk1Y1RjRS1iT2pVWnZOSFlsaWZaMUFDMUF2ZGt6cndEckRLeDdMRno1Yl9yMHNjc2U4Z1BXSldNeHNHMmN5ZFhRUmdqRXhnXw?oc=5"
   },
   {
    "id": "gn-Wm5jMWNqUT9vYz01",
