@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-15T20:50:50.792Z",
+ "aggiornato": "2026-11-15T21:51:08.591Z",
  "notizie": [
   {
    "titolo": "Italia, Gb, Australia e Canada, 'Israele dia accesso umanitario immediato a Gaza'",
@@ -697,7 +697,7 @@
    "titolo": "Torino, multe al corteo del 25 aprile: l’Anpi protesta",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmN3M0Z3REVJOWpMdXZialZ2UHI1Wlh2ejh6V0d3OXNtY29Kb1pPMGxzcFQ1MXZ0WXFTVzJLTXlOY1JjV0FTRUtYR1IxMGk3QUpzVldjcjlDYkJLUlp2SkdnYVZIOVZkVjEzSGFTTXQ2SUpVNExjc2hlMC1MUVFBanVxSDY2QVRKcUtZUF91RERBcm8?oc=5",
    "fonte": "Gazzetta d'Alba",
-   "data": "2026-11-15T18:04:19.000Z"
+   "data": "2026-11-15T18:12:48.000Z"
   },
   {
    "titolo": "Occupazioni, le nuove ragioni del rito: i ragazzi chiedono di essere ascoltati",
@@ -1774,6 +1774,23 @@
    "altriArticoli": 1
   },
   {
+   "id": "gn-bkZRYlZwVj9vYz01",
+   "fonte": "Giornali · ANSA",
+   "titolo": "Per Banca d'Italia in Umbria crescono prodotto interno lordo, occupazione e turismo",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-10",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-10T11:03:00.000Z",
+   "luogo": "Umbria, Italia",
+   "citta": "",
+   "regione": "Umbria",
+   "coord": [
+    42.96592,
+    12.49024
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNnU2LXVMSjdwWWNsQWd1Vkl4T3E4VXdNUlJUcHRQNUdiaUdqQkR1S3RtUnM4RTVOMVJaRWtPRmdCOGk3Qm95OG9tRkFCcDMyYklxcFVNZll0V29nTmdrTF8tQ2VJRUJXcW1qdTNMU3MtRlVncnNUZXV0RGZMQXJpMjh3TFhqMWQ4bklYWGdLQ1RFTjdCTjlKd0g3bnhKdGVBaGNvWVhxTmtQWlM2YkN2QjM3R0FNRGUxdzV5S3AwUWNidGp6clJXaTgwQmc1ZWxGa2lkZU9GNlBEZlRuWndGbWFTSkYyU0lYN0F2ZVZuczFfMC1sQlQzdTN0OGNOd9IBgwJBVV95cUxNdWNHNnhnMnNUQnFmejlabEd0b3dKdWRDRWltRmI3d0pGSEVFMkdSUzZqZ0FMZTY1YUFiZGY2Y3NSd2NscW16QXFzUVIyRXRkd2FIYUR6N2pfOURqeS1HemR0TTNwbi0wQ1k3aDdBV0ZYbG1IanRfWEdVVjNqRk5FQkNCQkNUZ0NlUzRQQ25DNFdSVm9jUnFtd1UzeUVQeFpkREdhS0l1Zl9sSUwtbFM2b0gwR0xtbVMtdjhCSUFWWTBIVmJWNThwS01QTXB4dmtpa216OVE5NUZEMmxNTnFIXzY5UVRqZlRUS000aHVZa1dUNi1PV0M5d0dHeWxqNnFQbVpV?oc=5"
+  },
+  {
    "id": "gn-NXZNVVYzP29jPTU",
    "fonte": "Giornali · Cronache di Gusto",
    "titolo": "Dalla Calabria una pesca unica: la tardiva di Magisano è nuovo Presidio Slow Food",
@@ -1857,21 +1874,6 @@
     11.16653
    ],
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746213/-/roccastrada-gr-mostra-internazionale-benvenuti-nella-cameretta-di-farah-nellambito-di-eirenefest"
-  },
-  {
-   "id": "aip-1746216",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Pisa: \"Contro il sionismo con ogni mezzo necessario\" - incontro presso UniPI",
-   "tipo": "",
-   "inizio": "2026-11-11",
-   "luogo": "Pisa",
-   "citta": "Pisa",
-   "regione": "Toscana",
-   "coord": [
-    43.47147,
-    10.67979
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746216/-/pisa-contro-il-sionismo-con-ogni-mezzo-necessario-incontro-presso-unipi"
   },
   {
    "id": "gn-M0pNZHcb2M9NQ",
@@ -1979,6 +1981,21 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQS1XNldFLTVDanR6UnlWTTV0UzZ2VHdzWG5PUlNOeDI1R09oWXR4Rk1kNG85ZjEtN2ZTOVp6QWJRZ3I1MElHMjNpcjBqYXg3Y0Nia0V4SmVIOFlyUG1NeGEyYVBfMGVxS1JpbmxKV3FVSFo4SEsxNy1fLXJWVEZETmFOZXRCdjJNek5RdHdLRTdxM0RfVkF5djd0dnkyU0Z5VG1zeVM1bEt0ejc3cndHOE1DbFNfWUdUTkh0cnNKay1ZOTJKLUHSAcsBQVVfeXFMTTVpRUx4YkJHeTlreEFGTUZia19QS3lhS1MxYWFtN0dlNXJ3X2tydjV6YWxrWGtwdHZLdzZpLURGa3ZFR1JuNi1LR3RheDh6QXdXUF9lZEpROGhMWjNnS1dYNC1waS1WUFotT2pwd2Q1cUJ1bU51Q0NYcGZleElCaU5TZGh4TTZ5QmtLQkVCV0hYZ0lwSDZ3X1B6cnVRclJkOFlhZC1oOHE3RWJlVURHNUZTUzhyRDljZjlKX2Y2d2E2VUFYLWJxcTAtYlU?oc=5"
   },
   {
+   "id": "aip-1746216",
+   "fonte": "Amicizia Italo-Palestinese",
+   "titolo": "Pisa: \"Contro il sionismo con ogni mezzo necessario\" - incontro presso UniPI",
+   "tipo": "",
+   "inizio": "2026-11-11T10:00",
+   "luogo": "Pisa",
+   "citta": "Pisa",
+   "regione": "Toscana",
+   "coord": [
+    43.47147,
+    10.67979
+   ],
+   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746216/-/pisa-contro-il-sionismo-con-ogni-mezzo-necessario-incontro-presso-unipi"
+  },
+  {
    "id": "pl-13428",
    "fonte": "PeaceLink",
    "titolo": "Dove Comincia la Pace?",
@@ -2042,41 +2059,6 @@
     16.08195
    ],
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTHpQRENhMXh6d1Y2OC1tMTFLM3Z0NWx1al9KMldOa0FIQmh2RWF2UHRackVDdWV0YzI5R2lqaW15SlQ0a0FDbVBZNW5jTHQ4OVpFRnF0Ul8zcmlrcFlCTlZfek41a1pibTV4Sll2TkxDckhnb2hvTzZjdExxR0haOG15Q0Z5Szl4bWY2RXV4ZDVDSzY3VTZsOFNJeEFQWnkxZ2prTVVlVzk3S1c1M2JQdG1rNG1ObWRjaUU4QTBBTXh3ekk3REpxb2N4M0k0eGJVMVNCZldKTDQweWZ1Qk1OblZFOFRiWWdWcmxfT2VVajE2NTg4TVVTWQ?oc=5"
-  },
-  {
-   "id": "gn-RktiR2Mb2M9NQ",
-   "fonte": "Giornali · Gazzetta di Benevento",
-   "titolo": "\"Altra Benevento\", che più di altri si è occupata del progetto Torre-Sala producendo esposti e numerose denunce pubbliche, non è tra gli organizzatori della manifestazione indetta da Paola Caruso",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-12",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-12T17:26:01.000Z",
-   "luogo": "Benevento",
-   "citta": "Benevento",
-   "regione": "Campania",
-   "coord": [
-    41.24763,
-    14.70571
-   ],
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNVNvQ25uZVQxYlZCem5RUUdNSjk2ZTJHdEJGcmJFZHJ0N0JCdWJuMm12c1JRN2IzYThTUkFpejh0M0RfcHBVZjhZMDBmTExLbzBCT0JyalZPUW5SSEZRM19BY3VBbXREWXU2VkdfRzc0aUlUTFVuaHUzZ0czV05iYWhKTV9XNzE3TkwzcnJUQXJDU0lKRDF6dFlJYUNXMlc2ODloS0lmRC1wVml0blpPcURtRTNzZW82QlV3YUIwR2R0MWFKbGc?oc=5"
-  },
-  {
-   "id": "gn-TlRYQnJkdz9vYz01",
-   "fonte": "Giornali · LaMiaFinanza",
-   "titolo": "Taxi, corteo a Milano contro abusivismo e piattaforme: la protesta apre la mobilitazione nazionale",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-12",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-12T09:51:26.000Z",
-   "luogo": "Milano",
-   "citta": "Milano",
-   "regione": "Lombardia",
-   "coord": [
-    45.46419,
-    9.18963
-   ],
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTVhFdU43V2xHclBQVWNmXzVUSDNkYjIzNkxFcTNzNkowMzZZMWpsekpmbW4yWXRIY1FkaDZUcUVjZlp2MjJzTFlnZUp4LXBOTmw1TTdwckhVVFNMRlJXckxlU1JGN3VjMTFsNGJNZjBERU53eHJ2YllIT2JMSnY4enhtdk80VjllYmVnUFFTdmFBdGpibkJnNU9tS1RWZWljRGkxaWZPcll1emJPazhZUmNMVWU4VGlwMnFla1JNUFI5Rmhqay13UEVNTXBrdw?oc=5",
-   "altriArticoli": 13
   },
   {
    "id": "gn-V1JhT1VzP29jPTU",
@@ -2205,23 +2187,6 @@
     11.25564
    ],
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746212/-/firenze-nessuna-impunita-hind-rajab-foundation-e-bds-incontro"
-  },
-  {
-   "id": "gn-MEUyWlUxMT9vYz01",
-   "fonte": "Giornali · La Nuova Sardegna",
-   "titolo": "Corteo per la Palestina a Sassari: indagini chiuse per 17 manifestanti – I reati contestati",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-13",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-13T19:25:00.000Z",
-   "luogo": "Sassari",
-   "citta": "Sassari",
-   "regione": "Sardegna",
-   "coord": [
-    40.72347,
-    8.56127
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObDFNV2pJVG1xV1dXUjg0NWUxUWhrZ3lOcmQ4WFliODg2TDJXUGN4MnRCNWFReUtiVjBYOXdpTHlrdnQ2blpZLUNFQWNMMUhfQUhaVkZwWG5IN3dWNlk1YWpieEJVVmJlZzJFWUctMjZEOUVEcl8wVWhlNlZNNUhKTDVxaGlheF9UcEsyZGM1S2hfVVEtemlvTFFuWHRodTZ5OVRVRlNZQlVFZHlXZTVhYk5fVHpRYW1Ic2ZCRURjeGd4VUk3V3VCTnlWY2w3WmtZZTNLX3dCY0E2ZU11?oc=5"
   },
   {
    "id": "gn-TTViSGMb2M9NQ",
@@ -2487,6 +2452,24 @@
     11.88321
    ],
    "link": "https://www.invictapalestina.org/archives/55281"
+  },
+  {
+   "id": "gn-WGgzT0ZFP29jPTU",
+   "fonte": "Giornali · Sky TG24",
+   "titolo": "Cortei a Milano, manifestazione pacifica contro il carovi",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-14",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-14T21:16:18.000Z",
+   "luogo": "Milano",
+   "citta": "Milano",
+   "regione": "Lombardia",
+   "coord": [
+    45.46419,
+    9.18963
+   ],
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVFpcF9ubnotUnZTelNuU2o5VnYzVTBicmVEYURpYUV0bW5QSzBTSU90eUJvVldld0g3UFJGdTBRZlV3Vm1BZ1hDZGEzZVViM0U4cGV0RjBsczdEYjBJWFlHR1lRSndScVRuZ0lORDJJdlZ3OXlncnlmdkxiOUx1VEdGV0x5RldQakI3eDVneW5FeGozNG5JazZKNS1ITWdtZjd5NThhcXE1SXh3OFE?oc=5",
+   "altriArticoli": 12
   },
   {
    "id": "gn-ZmJuWlNRUT9vYz01",
