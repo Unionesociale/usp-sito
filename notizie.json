@@ -1,6 +1,12 @@
 {
- "aggiornato": "2026-11-15T07:17:21.081Z",
+ "aggiornato": "2026-11-15T08:21:00.127Z",
  "notizie": [
+  {
+   "titolo": "Chi cerca di informare Israele su Gaza",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oanFlbmRCNDRQbE8tVXU3RFYwaUhqQ3RWYk50ekxPZnFHTERDLXRWV29SZ3Q0R0NRaUpFS0s3dXBZcllFaEJWNUVNRUk3dlRlZ2xlUEV2NGJmWGZESEpYV2VHeWZMMlZwajJKeVBEVkpEUzZE?oc=5",
+   "fonte": "Il Post",
+   "data": "2026-11-15T08:01:21.000Z"
+  },
   {
    "titolo": "Una missione italiana per Gaza sommersa",
    "link": "https://ilmanifesto.it/una-missione-italiana-per-gaza-sommersa",
@@ -658,6 +664,12 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "\"La salute non può essere un lusso\": presidio dello SPI Cgil a Novara il 17 novembre",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQXzBxR2FFRjdVYzlNV3Y1VUhtTC1fanRESThQNndiVHR5ZlZJNVBiZWUzQ0dNOHBWMllSZDZnM0ZZMzFlNXpsMDVSS0Z6cFdmMWo2X0xhNXBDZ2duWkxaTkV5bE4wNDJSVUtoeHloQWFnUDQ0SWV3a2w4dVNHVjYwd1JjRjNCMy1Malp6VGxJV0owRE1ZU21NREpqdmxTOFllUENOQ2psVGQ4U0JmTEtEb05GajhfVnZOWThlNA?oc=5",
+   "fonte": "Corriere di Novara",
+   "data": "2026-11-15T07:25:00.000Z"
+  },
+  {
    "titolo": "In poche centinaia al corteo di 'Italia in piazza' a Milano: presidio blindato e tragitto lontano dal centro",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY3VMQnM0WnBTS2stc0FSZmNmejVVZ0hBY2lJZDZaWUUyVjZ6cVZ3WlRvUFJjYkpjMWxlQ1Vtb3dKWjItSmI3UWV6dERBN0hGMzlLMlZOeFBKNGhlUVRELXlBTHZ6WjhuTTlEOWpIc2E5MzV1WHNhQkMzalhPTlBvRVFoWFVvWWZsVTFLWExOSWdWR1I2bjFUMUtqQ28xbjhDRV9ZaWtueUNDdDlHSW95TTgxeGN2ZkpzUlctT0Ffc3lVd0JwdWVRLU5wSk5pM1EwX2pQeU1hSEw4U3pnNFE?oc=5",
    "fonte": "Milano Post",
@@ -742,6 +754,12 @@
    "data": "2026-11-14T20:00:00.000Z"
   },
   {
+   "titolo": "SCIOPERO GENERALE 20 NOVEMBRE – MANIFESTAZIONE A ROMA",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzd6SnJMUXNQZ29PbVkyTHV5dk8wMzFEZ1lFWDRqWHBvVHNhZ3MxTWVlY01BbmRibV9SVTlSUE9iWjRJMWVxUF96ODBQNkhKNjBtY0FqQlk3b3hUa0hlR0p5QWRsZzEyald1cVM0ME8ydzd0MlUzdFZQOElxTzM0RUxsdnNibktSZ1ZObWRHYU5JcE55MDc4?oc=5",
+   "fonte": "Il Diario del Lavoro",
+   "data": "2026-11-14T19:51:34.000Z"
+  },
+  {
    "titolo": "A Torino il corteo contro il carovita entra in un supermercato",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPOTF2SWhPbE03TE1MdlhnQWMyXzc5YnpBZTd3MWVlblZOU21HRWo3SURxbFVkd0hrMlp0b0VkVF9yM3ItVWRRYjF1RC0zTm14eVV2UkJlQ2pUZjZNNEk2ZkRvaVg5MmdhalZpTnN5RlRndVFGUlBsZmczQ3o3YU5zMENCZUVkNDdhcGFtOS1OVGRxdU5IcXE5ME5hb01qbUZrUTF2aDFuanI3U3duQUlSRnEyMlE5OXZ4c2F2UkNqY2ZpMDFqWU1sV1liSm9TSTNkVG5wMW53MnZxLW1mQ0w4eHhUdDBWeWpGYjF2WjUySEVhQkdWX09WcA?oc=5",
    "fonte": "ANSA",
@@ -754,6 +772,12 @@
    "data": "2026-11-14T19:00:00.000Z"
   },
   {
+   "titolo": "Torino. Manifestazioni studentesche delle scorse settimane. Minorenne denunciato",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1Bma2FLQW0wT3hhZ0FqLV9ETS1YTFMyOVEyMTdBVEoyUWJISC02OTRuaC04QjBobF9aUldRdFllYlRlZEU4NnQ3dnRqSF9tcEVpQ0RWaUJBSjNCNGxFM2ZYN3RLMVZmWDBkZ0pzUUN3cG1ndnRfZXhsTkhVMl9PMVF3RkJuRms5SUJuSk8ybEpRNzJxcHZSUFAxcWItaFNlSllQTDhEVktuNkRYYlRUZXJGWXU?oc=5",
+   "fonte": "CentoTorri",
+   "data": "2026-11-14T18:50:58.000Z"
+  },
+  {
    "titolo": "Minghetti, con un corteo degli studenti termina dopo nove giorni l'occupazione del liceo",
    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPTmY3UlAyVTlDaFRfZDVHdVlzZE9qRWtTSGcyei1BWVRaaW1GUVUtMzJrWWJlOF9OYXVqeWsxNVQwR3g2TklVOHgzdmNrWXNEcjVyMWNlOTN6b2lCMGF3THRrS2xFcjh4UUFaYjY3enhXZVYyNHExd3ZrRDFseG5IVHFoTXhmYy1oWmlSWmRwYk5neGZSb2lrSFJXdTA0SmxDcWlHdFpQdHN1dENoRk0zWWxCMDFYQVd6ODhVLVFLTkI3cmI3S0YtWEdDMVFsN2F5dkxtZm1rYUtiTU13a3FiNU4yMklhaEZuY0swWlM4bHhzbTBmQ203Ri1nMW1IY3ZQdTFPODFua2pVcEU5LVZaTVZIV2E5WWd3ZFlpYjVJb3VaNnVUWmfSAasCQVVfeXFMTk1UZDVwX3VsVXE2Z0Q1bEdlYXdqZWxweGZoQWRKZG9UOV9uMkF5dWNtRlNybWlnUUFab2xIakZhQkVneFJRemJWdWszV3BJamI0dU1mTzRiZ1plQ0FtYnZFMjltbThreG00VUhZRTZfeVVSSkJxV0NFM1BjOG93TkpMWlJ4el9GV1Q5UTRmN21yZlZOTFNkeDJhRTZwMzRaRXl5RE05QjIzN0V4NndYM3VzVE9Ud2szV1BYX3NORzgwR2xhNGl6TERfWmw2TXoxdE11dDFKZ0p6Ml9UMlJCYzU5Q29lMmJmN3FMZThqS2M3bk5XMmYzdk5JQ3M0Nnd0TkpYZ1FjNHJ1U2FnZzVTUmZxZE1ta0lnWkZ3Tm5IZnpqUmowSFdYWkd6RzQ?oc=5",
    "fonte": "Corriere di Bologna",
@@ -764,12 +788,6 @@
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRHJ2Sjk3ZEN6YjJzVUtsZkNxYTA1U1hzZGlfaGxOa0hUbk1kak9zdjZMdk9MLXhWOFBGY0QtcThGYWhDdGpQZEF0Q0dkaE1rRnFpaHZFVFFsVTdURUx2ODdWMzcyQmMxdU1QUVZqRkZ2dkRHT2U1QlVkNDJNNzRyZDJZZDBGbnVGQUtJU2IxVk1aZm9XWHNpSDU4WVJQUDR0bEZfTk9Ud1dxa1BpR0M5eUdxRUs0azlXbFdMT19TNDNKSjRFYllxWjlYdF9XRDQ5Qkc0VTQwcE5KeWFYRzE3RQ?oc=5",
    "fonte": "Corriere della Sera",
    "data": "2026-11-14T18:10:44.000Z"
-  },
-  {
-   "titolo": "SCIOPERO GENERALE 20 NOVEMBRE – MANIFESTAZIONE A ROMA",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzd6SnJMUXNQZ29PbVkyTHV5dk8wMzFEZ1lFWDRqWHBvVHNhZ3MxTWVlY01BbmRibV9SVTlSUE9iWjRJMWVxUF96ODBQNkhKNjBtY0FqQlk3b3hUa0hlR0p5QWRsZzEyald1cVM0ME8ydzd0MlUzdFZQOElxTzM0RUxsdnNibktSZ1ZObWRHYU5JcE55MDc4?oc=5",
-   "fonte": "Il Diario del Lavoro",
-   "data": "2026-11-14T17:31:21.000Z"
   },
   {
    "titolo": "Firenze abbraccia il Q3: Un lunghissimo corteo cittadino a Gavinana contro i disagi dei cantieri della tramvia",
@@ -1124,18 +1142,6 @@
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT2o0cGlaWDVjZVRFZVJCWTllOUpxdHpVZWZ4THZrdEp2cWYtUEJDYlJTdldxV2ljTjNZQVMzOGdfck8zYkZWU3JfSlNuSnE0bDdTTU91MEpFOWJnYW45UVpFYTNnZURMUy11WnFBTDBreS02ZnZiLUNucnQxU2V6MDNIMk43cTdCeUdZNVJXSGJieGdKdHNTMm1rSG9MU2NhUnF3OE9jb3NKNTkycXJIakZvd3ZvbXF6RmM5VGljTTdVQ3U1cC1XWWppYjdOR3N3Qmo0?oc=5",
    "fonte": "TorinoToday",
    "data": "2026-11-14T11:41:00.000Z"
-  },
-  {
-   "titolo": "Educandato San Benedetto, il presidio per dire no alla chiusura del liceo classico europeo",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYlIwVjg3QTdabnV0eF90VjVKY09KTXVPZ0Z2OXN2bW14RFVrc3JOZVVwTkxPSjFESHo2MDBveWRvYjhkUS1NZXVkQVVTa19iaFo5WjR6MkVfZm1sMHpuek5OT2JBOVd0Z0kzZjZFSVFOVlozSDZFVHZGMGlQRkJtZWdBcnBHVnF4VHUxUmpVSHJQcWZidTZWVWNEZHFCX3FhQ1ladHVXaw?oc=5",
-   "fonte": "PadovaOggi",
-   "data": "2026-11-14T11:17:17.000Z"
-  },
-  {
-   "titolo": "Manifestazioni e disordini, tre persone perquisite a Bologna",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQem1UVlpyallfal90VlloZGdyY0laVlhNczNmYzNMZnBJU3U4YmNOU0NRUGozYUtrdzZBWW9xOTFpU0hBMU9QNng3RGVWU2l2U040MG54NTdzNHhmQUtPem94VWtkbEJiX2p3dTQ2YXlCSVhBUThQUnhrSldIaHAwNVRjTXhYODVmREJiMHVHSkdpdw?oc=5",
-   "fonte": "BolognaToday",
-   "data": "2026-11-14T11:16:55.000Z"
   }
  ],
  "eventi": [
@@ -1155,7 +1161,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU3R0clFmMHVsYTRaU1NjcTJyeXJaTzdPTFN2X0VhRW14UU9WX2dEUkpyRWd3aTJWUjNMWUhGM0QyMU54TUJyOHVQU1FWT1JZOUxRZVBmRkdBSFRZZXFLYmxpTDU0RndWSE9kTWwySDc2QnBiQjZFb3FiQ1VVZ25ESnlxN1lqOTliT1JZanhweFpEYkc2bU8yWXFRRVBsSXAwcl9ReVZEcTMycHlBY0s3UzI5b1B4Ykl2RkJlRmpmRGhLdGdDWm10czhPMlp5bXVqSGZsSDNRY3AyS3VPNDN0MQ?oc=5",
-   "altriArticoli": 59
+   "altriArticoli": 60
   },
   {
    "id": "gn-UWFWbEdVUT9vYz01",
@@ -1756,24 +1762,6 @@
    "altriArticoli": 2
   },
   {
-   "id": "gn-eDFkR3Mb2M9NQ",
-   "fonte": "Giornali · Corriere dell'Economia",
-   "titolo": "Trentino-Alto Adige, record di occupazione giovanile e produttività",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-10",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-10T16:23:00.000Z",
-   "luogo": "Trentino, Italia",
-   "citta": "",
-   "regione": "Trentino",
-   "coord": [
-    46.10295,
-    11.12974
-   ],
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNTFZNkhYU0FlMTEtMjhDS05oNTRwT1dabUFaMU94TDJxSTh0T2hnZ0NpbDdKS1RVTWdmT1VfeGFxTlQ4TlpOcTcyTDRTUWo5N2xFVmF0QmxnOUxXV2RxRy1ucUN2dW1VMGk1bXRvRG9MWW5UMDBpTWFlV0l4OUhKOHZzZ0VqVzZXZmtXa0d0MTV3OEdSMlF3X1BldTVWcHg4TjUxaFk4RXRoX1BGSHNpVEx1dGs?oc=5",
-   "altriArticoli": 1
-  },
-  {
    "id": "gn-VkdkSFUyYz9vYz01",
    "fonte": "Giornali · ANSA",
    "titolo": "In Abruzzo cresce l'occupazione, ma persi 69 mila giovani dal 2006",
@@ -1895,6 +1883,24 @@
    "altriArticoli": 1
   },
   {
+   "id": "gn-TmExUmpVUT9vYz01",
+   "fonte": "Giornali · PalermoToday",
+   "titolo": "Ddl stabilità, Confcommercio Sicilia: \"Segnale concreto per imprese e occupazione\"",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-11",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-11T14:55:34.000Z",
+   "luogo": "Sicilia, Italia",
+   "citta": "",
+   "regione": "Sicilia",
+   "coord": [
+    37.58779,
+    14.15505
+   ],
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd2xQb21TcHpBVEx6RGFZUFlQN0h3SEJyRmEzSEtTSWgxOUxXSWhIQ0p4d0JrdENpTU5RTGdCaFBKY0REZ19sdkNwQlVNRmwtaWY0SjlSeU5WSjRPZDI3QWRhSkloa01xQ2JLOVRkcDdUV0xyZk9mbmtBV0dHODZpUEFnVzZzbTZXaDI4ZXBCUnF6dkJDem1mMk1MMUN5bVZtNjhrOUNkMGNFak9TSy1WaU5BODF4cUNNa1RjUQ?oc=5",
+   "altriArticoli": 1
+  },
+  {
    "id": "gn-Mk4zZFJPQT9vYz01",
    "fonte": "Giornali · Cgil Firenze",
    "titolo": "Emergenza abitativa, a Firenze presìdi davanti alle case popolari e manifestazione",
@@ -1910,24 +1916,7 @@
     11.25564
    ],
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQek5PclFxRll4OTMyTmo2N1NrWmtGelE2NzhacExlLWdwSlJUZzdodWJOLWlMWnZQZ1hVbDhMYzJwYXo5TkozQzdWaG1yOTVyOUhzcDB0RjRQcV92NHdEQ09ncm1VR1c1MkluY0ZfdzFpeTE3V0xkMjAwSEdEdVk0clJxRTd4TlhDcGd1Y3h1ZjVLQ2UzQ3FlNkZ3bE1Hd3VVdWZJY1JvTUhCdHNxUXc2N3dROA?oc=5",
-   "altriArticoli": 5
-  },
-  {
-   "id": "gn-YVdkYVVRP29jPTU",
-   "fonte": "Giornali · Ufficio Scolastico Regionale per la Sicilia – Direzione Generale",
-   "titolo": "Proroga scadenza manifestazione di interesse individuazione IISS cui delegare gestione amministrativo-contabile -progetto “AscoltaMI”- scadenza 17/11/2026",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-11",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-11T10:32:52.000Z",
-   "luogo": "Sicilia, Italia",
-   "citta": "",
-   "regione": "Sicilia",
-   "coord": [
-    37.58779,
-    14.15505
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQXzlDZ09ZcmNpakVDQW1HQ0RfUHgtTVg2U2dWUUJkcnc1N2l5V2pZTlZVZUdhWGFDc3pwbFc1ZGh4Sl9adlhkbjFGSE0wTEY0UGtMSkJoYkQ1a0JPdEJyN1N6UVh0cHBJbW1HNXk0elJ5MHNvU1EzdmowUG5COXVpMzl5RWxzeURueFZSdDBQTHBfZWlZWi16MG9JR1JUR3pvcUlLV0JlRkJmN2oydWl4N0xyMFZDZmgyWUtxOHZJVUdSdkNaRnpuZDUtaWNWbXE4ZEhYYXhzYXNta2FGWXBsTmpPWWhNcEZReXBFd09waGVnMGhYQzh3d3YyY1l5QkxIblVtb2xLaWdaUQ?oc=5"
+   "altriArticoli": 4
   },
   {
    "id": "gn-QXRZbFUb2M9NQ",
@@ -2077,7 +2066,7 @@
     9.18963
    ],
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTVhFdU43V2xHclBQVWNmXzVUSDNkYjIzNkxFcTNzNkowMzZZMWpsekpmbW4yWXRIY1FkaDZUcUVjZlp2MjJzTFlnZUp4LXBOTmw1TTdwckhVVFNMRlJXckxlU1JGN3VjMTFsNGJNZjBERU53eHJ2YllIT2JMSnY4enhtdk80VjllYmVnUFFTdmFBdGpibkJnNU9tS1RWZWljRGkxaWZPcll1emJPazhZUmNMVWU4VGlwMnFla1JNUFI5Rmhqay13UEVNTXBrdw?oc=5",
-   "altriArticoli": 10
+   "altriArticoli": 11
   },
   {
    "id": "gn-V1JhT1VzP29jPTU",
@@ -2723,6 +2712,23 @@
    "online": false
   },
   {
+   "id": "gn-WGhuWHcb2M9NQ",
+   "fonte": "Giornali · Sardegna Ieri-Oggi-Domani",
+   "titolo": "Saboris Antigus, domenica 15 novembre la manifestazione fa tappa a Siurgus Donigala",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-15",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-13T19:32:48.000Z",
+   "luogo": "Sardegna, Italia",
+   "citta": "",
+   "regione": "Sardegna",
+   "coord": [
+    40.09128,
+    9.03058
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGhjYmFBQ2xEa1JuMXVvOW9Idnp2Um1CWkp2NWFJWHhRb1pOUnBVbHBhal9TZGpBSUZJRFVJYjZoMVg0RDFwdmRJdVVqTU1CeFVIaXpfemh6Snl0WnFxdUJURzBuOGdDYWVvbXNGTlV6ejc1aFVUU0pRVk1HZC1vcFk1Y1RjRS1iT2pVWnZOSFlsaWZaMUFDMUF2ZGt6cndEckRLeDdMRno1Yl9yMHNjc2U4Z1BXSldNeHNHMmN5ZFhRUmdqRXhnXw?oc=5"
+  },
+  {
    "id": "gn-Wm5jMWNqUT9vYz01",
    "fonte": "Giornali · Radio Bruno Brescia",
    "titolo": "Sicurezza stradale, Brescia scende in piazza: domenica 15 novembre pedalata in memoria di Katia e presidio contro la riforma del Codice della Strada",
@@ -2901,6 +2907,23 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13525",
    "online": false
+  },
+  {
+   "id": "gn-T1dUaGxOQT9vYz01",
+   "fonte": "Giornali · Corriere di Novara",
+   "titolo": "\"La salute non può essere un lusso\": presidio dello SPI Cgil a Novara il 17 novembre",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-17",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-15T07:25:00.000Z",
+   "luogo": "Novara",
+   "citta": "Novara",
+   "regione": "Piemonte",
+   "coord": [
+    45.58425,
+    8.546
+   ],
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQXzBxR2FFRjdVYzlNV3Y1VUhtTC1fanRESThQNndiVHR5ZlZJNVBiZWUzQ0dNOHBWMllSZDZnM0ZZMzFlNXpsMDVSS0Z6cFdmMWo2X0xhNXBDZ2duWkxaTkV5bE4wNDJSVUtoeHloQWFnUDQ0SWV3a2w4dVNHVjYwd1JjRjNCMy1Malp6VGxJV0owRE1ZU21NREpqdmxTOFllUENOQ2psVGQ4U0JmTEtEb05GajhfVnZOWThlNA?oc=5"
   },
   {
    "id": "gn-WkZXbDgb2M9NQ",
