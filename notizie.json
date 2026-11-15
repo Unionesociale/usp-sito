@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-15T04:02:53.527Z",
+ "aggiornato": "2026-11-15T05:05:08.828Z",
  "notizie": [
   {
    "titolo": "Una missione italiana per Gaza sommersa",
@@ -1190,7 +1190,7 @@
     12.48293
    ],
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2o1X0FYVlE1STUyby1EdHRtQjRLRnBubi1PSGFZTTlnZFRHOUxVZ29GZURjZXhVQVkya3ZLTDBSdmxlc052N3p0RTNrdmZzMTdDcFJVVVJvRHFKSGlwOVU3SmtEeGxBYUhMRHY1d0ZhT1JyekNQTGRoRjRIeEl5Um1VNEg2MjZ0cXhYMk9DSm92LUpqdHVBam5PbXN4bUpVelJCSmN1NUZqNzZWbWc?oc=5",
-   "altriArticoli": 7
+   "altriArticoli": 5
   },
   {
    "id": "gn-eVdUQlNadz9vYz01",
@@ -1368,7 +1368,7 @@
     14.84398
    ],
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRFpfdVUzcDNENkdpMTRxb2gwdmNIM0VuSjR6RjMzeURsTFY0NGhmQzJTOWdjbnVxXzJ1UlJKNjQ3ZjY2X2tpdGxFeFdZdnhhdzhkSk85Qkw1M19ENVJhdjNsYUVBTVBJZm5uenVyNm5KYl96LVlnNlMyTDN5U1Z2SDJ4MXdiamlub3pJekNXVEdQNFVwOVVHNjV4cG5qZFZXUDBBNkM5Wlc2YkRiNkJWWmNqcVItVDhTQXItb01FWEpwNlcxbFl5andOS25sM3RROVZLc0NRVkFTLU5qTF9HQTJhcGFWLUlE?oc=5",
-   "altriArticoli": 1
+   "altriArticoli": 2
   },
   {
    "id": "gn-a05GVVEb2M9NQ",
@@ -1667,7 +1667,7 @@
     13.77728
    ],
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPakktay00dHJPdEhHNjBObU9qSU9QMVllVVd5SEl1dnBhck0zdVpSSXVnUENrbm1qaDRPTTJKaXBibzFIMlBKMXp0MURfanh6X2FiQ2Z2b25uWU1yYzdDeDNzbjZBWkh1SUpmbXRuWXF4U2k5R3owRmg0Ul83cDJFUXlWR0hXX2xRSUZoQThoel9YQXAyTjhJd3B2TjBoeHlyM0Nsc3h6Z2h4ZWNz?oc=5",
-   "altriArticoli": 5
+   "altriArticoli": 6
   },
   {
    "id": "gn-UzBORk13P29jPTU",
@@ -1806,24 +1806,6 @@
     11.13892
    ],
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFZlRFFaVUdJcGxiY0EyQlgwVjdQSE94Zm43MU1XbVl6UlJXaGR1dUp4VWt6T1h5RU03M0Jjb2VfdGJQSTFFN0JoWEtIeGlpd3A5YVotc3BCWGozYms4NXpqd2tlc29QeHI2cUdldWd3N2tXY1ZZZlJITVp4b2Vqdk9aX0kyY3lFR1BTWmRZZmdiR0ppUzNlb20tZFhISTlLOFY2QkVnZkNjTDZVSlY5anFqV0JpLTY0OUE?oc=5"
-  },
-  {
-   "id": "gn-bmhGVG5Kbj9vYz01",
-   "fonte": "Giornali · BariToday",
-   "titolo": "A Bari un milione di euro per l'occupazione giovanile: parte il bando 'Resta, Torna, Cresci'",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-10",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-10T11:14:00.000Z",
-   "luogo": "Bari",
-   "citta": "Bari",
-   "regione": "Puglia",
-   "coord": [
-    41.12578,
-    16.86203
-   ],
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGVQVkR6TUZnVDFrcFpSRi04WGFIb1pVRDJBSGRXalhVTEFQc3pWbUs2dG5jR3VMSy0yaWsycHZfU1dId2QxQk9KcC1GWHdxaDZiaWFLQXFPa0Z0V1RUbkd5b2d2a1l4REd2SXRYdjZIR2dxVHZVMHMzYWk4WV9uRTRiX3hiNGpmYkFPdkppWnRYT0JZZS0xUmdoZFl4aDRzQnhFTnJn?oc=5",
-   "altriArticoli": 1
   },
   {
    "id": "gn-MFpNYVRBND9vYz01",
@@ -2275,6 +2257,23 @@
    ],
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdkhIbE9YYUpuMjZIREdsSXRRdXpKR1h4bmhENHVNT2UtUHJIN0Yxa0gzRWZlbWk4cTkwZ2kzZDVRcnBMX2lYRkNVWW00bnY4b0FNNzY5cldWT1g5Z3pnTmhtTVpZOTNFcEF1SnRVUDZfLWZLa21YWFQ3SEZmREFGV2cxcHZ1ZVdSTXpYNW9UNVBMbnBCNVkwdks2WDVQcjBEUVROTlBsWURILWJjZXNQUk4wYnNiS3k3RkREZUJoVWVUdkhmMTFkbzZ2VnF1ZVhqUWFnUVR3NnRTUQ?oc=5",
    "altriArticoli": 1
+  },
+  {
+   "id": "gn-R1Z1TFhjP29jPTU",
+   "fonte": "Giornali · PugliaLive",
+   "titolo": "Inaugurata a Bari “la Rossani. – BiblioTeca del Mediterraneo”, nuovo presidio pubblico di cultura, conoscenza e socialità della Regione Puglia",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-13",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-13T18:03:47.000Z",
+   "luogo": "Bari",
+   "citta": "Bari",
+   "regione": "Puglia",
+   "coord": [
+    41.12578,
+    16.86203
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQmxsM3dGV3U2R0RhR3RCdTVTNHhobGtOa0JRa2J5TUZXNy02N3FQTS1xM1dYTTJQNmJTV0NGb2pRbFdOa1ZtWXRKSzQ2cEMwelVPZXdrMWJIdnJ2dTdLcHBwbGJyWkJiTFU3S3JtSFl4WV9keDZFX1NSd2RQUjBDZmNBRGhEUEV3UGVONC1LRnkxMUZXWVN4TUhmdmJVV2ZqVTNSUW5zQllGSXhvQXMydzlPYzVtWFdyQ0xTaGNxRkV4czZNX2Rtb1g1OVJWQUdCZnVwbDBmRDVzalh0M1V4MUZibU52NzlndkdHb0tGb19ZWGVuLXc?oc=5"
   },
   {
    "id": "gn-TTViSGMb2M9NQ",
@@ -2790,23 +2789,6 @@
    ],
    "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPRWlpRW5UVkJHVGdoVlR5a2RlbkJNaGlxWFBFU1dsUEZWdW5GdnQzSEJtc2t4enp6WC1McmNBek1HMmh6ZUg1UUdLMVRNRnRoQllqNW5ZMVdGQ0dIOTdDcXhqYl9pNVZQbFpXWEVoeThxd28zdndkVjJvNlR2Nk9wZV8yRlg2MmJfY3dBdlNaT0pUWHlGeEllYTN2T0NXVUhfS1ZuckVia04xdVFXYlVCbTlMTWlqRmVkb0Z4ZXRtTFBfTUhNeC1LRE1ELS1oZUZtMldQbDBxVW5oVkkyRlRxV1U3djNsZmNlWHJDUnZ1aTY2RkFxbjdSUmlweG9QUkUtRmdmaDN5SDQ2THAwMHNWWGs5ZG1pY1FNLUpfN2NVbDUwTDNvVnNuU21LZnc1cjQ?oc=5",
    "altriArticoli": 1
-  },
-  {
-   "id": "gn-cE9UVWsb2M9NQ",
-   "fonte": "Giornali · Ce.S.V. Messina",
-   "titolo": "Sicurezza stradale, Messina si mobilita. Domenica presidio e corteo “Muoviamoci insieme”",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-15",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-13T09:01:03.000Z",
-   "luogo": "Messina",
-   "citta": "Messina",
-   "regione": "Sicilia",
-   "coord": [
-    38.19376,
-    15.55421
-   ],
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOblk5NXRTQ3ZPbUNhaVI3THg4WWxzR1JWQjYwUHRjU3A1WThGT3lJbWEydjJGNXZWRE5VMDBaVDZBem9ZUTRLazAyQ1hvWEZTZlUwdVNSQkN6RzVoSWY2N2NtdDkxcDVYTUJmMzkxTVlmdTZoWGg0UjAxOFRoWlhoQXRlNzNoSldJSWZwUmVEbnlTRFlGSVhqZ0xwUmNKZ2lBYjhoWkhiUF91MHgyQXZLNWpad0o5d296T0JWM2txejJRaXRDc09EbUg1MXpOTUk?oc=5"
   },
   {
    "id": "gn-WHBzV0VwMz9vYz01",
