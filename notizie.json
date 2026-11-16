@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-16T03:08:58.248Z",
+ "aggiornato": "2026-11-16T04:35:55.786Z",
  "notizie": [
   {
    "titolo": "Italia, Gb, Australia e Canada, 'Israele dia accesso umanitario immediato a Gaza'",
@@ -1652,6 +1652,24 @@
    "online": false
   },
   {
+   "id": "gn-bkJ3Y21jP29jPTU",
+   "fonte": "Giornali · Gazzetta di Parma",
+   "titolo": "Cirio: \"La fine dell'occupazione al Campus Einaudi è una buona notizia",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-09",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-09T18:48:02.000Z",
+   "luogo": "Parma",
+   "citta": "Parma",
+   "regione": "Emilia-Romagna",
+   "coord": [
+    44.6952,
+    10.09799
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcGMxd3Nmbm8yWktIM1FEQzFXSElVM29kWGIxSFFnamxrVVdWTElfT0RLckxSa1V5WnVOWnotTEtrbUlIdUpmQjNlMjJsZ215VGJsRzdZdkN1clZkaGgtYWpjd1JRVWVSS1lpR2FqeUVlVmx6ZzR4ZFhMNlRyNzc4T1hkUjgtbDB6TGduNkI2ZGFVM3dWWmJLZ3hWM1llN0ZPSlZhVmhidWRFZFpCME5oLXVUMm8xNXRoZy1GVjY1OWtwXzRtcnZtckxoQU9XanBwcmc?oc=5",
+   "altriArticoli": 3
+  },
+  {
    "id": "gn-aDRaV056P29jPTU",
    "fonte": "Giornali · Il Piccolo",
    "titolo": "Presidio in piazza Unità a Trieste, il confronto tra i manifestanti e il presidente Panteca",
@@ -1907,7 +1925,7 @@
     10.93596
    ],
    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQTkVvaXlZWTBBRFN4YUUtemxIeHBZSU9fNlNZU2JNZDFTUFlPRllLUDROZXpEMF9FQk9aa3ZLcHJwZ3k2Z1BHYTNZWVVVNnRFUnd2RUIxQzNqNEdjWXZUVHVVZXJoUm5abHdOM2xzUlJiVU12aVdtamtSZzJYQTlmcUVjOF9UQmdONmh5WklRVm5oVDhVZW9NSF9Ca09ZNUF2N3ZOblB2QlNlTVJibjM5OGtNd3RGemxRd19OVk03dHNLWUQ5MXpLRlNGWk91S0RUT1hkN3BsQlZSaVN2UTZQWl84LWdYbXQxM2lOQUJqRzVweUpNNDRiS3pGTnB0MVl2aWdXRERwcVJvM2tfT0g0ZEdhX3ozeHFManFsZFp1T3JMdw?oc=5",
-   "altriArticoli": 1
+   "altriArticoli": 2
   },
   {
    "id": "gn-M0IzVlEb2M9NQ",
@@ -1943,7 +1961,7 @@
     11.25564
    ],
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQek5PclFxRll4OTMyTmo2N1NrWmtGelE2NzhacExlLWdwSlJUZzdodWJOLWlMWnZQZ1hVbDhMYzJwYXo5TkozQzdWaG1yOTVyOUhzcDB0RjRQcV92NHdEQ09ncm1VR1c1MkluY0ZfdzFpeTE3V0xkMjAwSEdEdVk0clJxRTd4TlhDcGd1Y3h1ZjVLQ2UzQ3FlNkZ3bE1Hd3VVdWZJY1JvTUhCdHNxUXc2N3dROA?oc=5",
-   "altriArticoli": 3
+   "altriArticoli": 2
   },
   {
    "id": "gn-WjFOQ1psRT9vYz01",
@@ -2171,23 +2189,6 @@
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746212/-/firenze-nessuna-impunita-hind-rajab-foundation-e-bds-incontro"
   },
   {
-   "id": "gn-R1Z1TFhjP29jPTU",
-   "fonte": "Giornali · PugliaLive",
-   "titolo": "Inaugurata a Bari “la Rossani. – BiblioTeca del Mediterraneo”, nuovo presidio pubblico di cultura, conoscenza e socialità della Regione Puglia",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-13",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-13T18:03:47.000Z",
-   "luogo": "Bari",
-   "citta": "Bari",
-   "regione": "Puglia",
-   "coord": [
-    41.12578,
-    16.86203
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQmxsM3dGV3U2R0RhR3RCdTVTNHhobGtOa0JRa2J5TUZXNy02N3FQTS1xM1dYTTJQNmJTV0NGb2pRbFdOa1ZtWXRKSzQ2cEMwelVPZXdrMWJIdnJ2dTdLcHBwbGJyWkJiTFU3S3JtSFl4WV9keDZFX1NSd2RQUjBDZmNBRGhEUEV3UGVONC1LRnkxMUZXWVN4TUhmdmJVV2ZqVTNSUW5zQllGSXhvQXMydzlPYzVtWFdyQ0xTaGNxRkV4czZNX2Rtb1g1OVJWQUdCZnVwbDBmRDVzalh0M1V4MUZibU52NzlndkdHb0tGb19ZWGVuLXc?oc=5"
-  },
-  {
    "id": "gn-TTViSGMb2M9NQ",
    "fonte": "Giornali · RaiNews",
    "titolo": "Venezia, salta la \"Prima\": il presidio dei lavoratori davanti al Teatro La fenice",
@@ -2254,6 +2255,23 @@
     7.3204
    ],
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTExmeU05ZzZQb0duenFrd3VISkFON3dVT1VQQUpUbFdycjcxel8zYjRTZFNEcEpuWGxucnhHYTYtRFU2RVlyRXVtXy1tWUJzeU5TQ0ROemgyMlcwWW95LUxxY18zclRkNE4zdU1FcU9NbllDc3NqbUlEME5qSmFUOEc0SDRjc1B5RzJtczhLUnpQRGMzbVhkbXp2M182bFQ2TE1NSWdhaUMwVVh5SWswVVRLMEhuc25RUDEtdVNnZVZLMzBpUkJDVHp3dE1CdnVHMEFOVWZZN19iTlFOSW5vLXJyM0o2VkM5dmpacG530gHzAUFVX3lxTFA1LTFZSld6VEc5endGNk9ITVZaRHFkX3Z6R19HaGwwdHpDelotQkpUNmU4aXpFMGlwal8xaWxqd2tDUzFIaXFjTEYyQ2k1MHY0dm5TQUhVT083WWpnVGRIcDJ3TWM1cnZnc2lDTXBPTndfRHFwMzFtMEJSU3RsQkpEU09YY0V5dENHc3Zrd2Nncmt3ZzZfQVlBaXhVUEhQbDItU0NVV1Z3amxxcmx2bDlGM3hxdzEwN1RLeDhnd2d0TVhKaVFsT1RyRjBnWGhRYWluanVxNGFhRFREeTJ1dm1qdVRxNkVnTFpIc1ByRS1ocXY1MA?oc=5"
+  },
+  {
+   "id": "gn-Ukdkc1ZRP29jPTU",
+   "fonte": "Giornali · La Gazzetta del Mezzogiorno",
+   "titolo": "Bankitalia, in Puglia nei primi 6 mesi del 2026 il Pil cresce dell'1%. E l'occupazione segna il +0,6%",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-13",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-13T11:36:01.000Z",
+   "luogo": "Puglia, Italia",
+   "citta": "",
+   "regione": "Puglia",
+   "coord": [
+    40.98425,
+    16.621
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVGpUaHFlUU4tOTNCeHEzeTVEdnBBcnJfNk5ubmpwZEo1dVpsUjBTZkljX0FDQ0Rwdk50MC1WTHpvMWNreWFmWUdXTmh3SVQ4RU1oNWJJNzQ4VVdDN0RUMklvUlhzcWlOVHQ4cHJiNHJHbTRKcmpWV3BqUVRGUV85WEtTbXZDQ3c2RkhSc0VicjFhSHZ2VkNFZTBsM1R5dXdaVEFRVUdCSzBjU09IczZNUFhIbXl5RTNJWjMtRVRXaUI1ZWxTU1J2QkZwenQ5bzFFZ0M0bVZTNWhzZ2V2RG1wOUlQbFZ2TEJWTHpobFBlM3NmVGU30gHzAUFVX3lxTE40akx2SHVhNDBFU2NWM09jNkZ6N0tMTjBNX3dpMDJRaVZ3dHllQ3FQQVRzN1dlcUtmcGh4NGM2VHJxbG0wOVN1MnlYSlBNRkh2VHV5YlB0ZzdmZFVhNnprSzdDdlRxV1h1MHA5T0tNRXVkWmhFVE9XOWl1bkgxNUNfLUgzdjRBNnJsZGdTamZhUXZNWC04MV9JXzBXdnJxaTV6ZjN1N0VrSnRlTXc4RlBWYnViYXc1YjhfeFJsNmhqTmx0bDI3SWNneEZTV3BmWmhCZVdrU3gwN3RBcXI2RzBQcjhXZU5xZlphdGhNNzg5RGdsVQ?oc=5"
   },
   {
    "id": "gn-d1ZHSkob2M9NQ",
@@ -2522,24 +2540,6 @@
    ],
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPX21jMEVYV0liVTZqeW51VlNzazNtVjNSS212NjFPSXJNd1hMdFZzSUJ1ZG94Q0NrS2xLbFpROHkzaEkxTG4zdzh3S1pNUzdzczhGWHdCTi10alBXcW42M0wyNHVLWGFxbmIydFdYMG9sUlgwZ2g1SFZNY1NhbzBvOXhLNW55VE84Q0ktNF85M0FNeTMxT0lzLWRVQ2ttS3NMV21iNDU5OXRUV1c2dU4tUnlWME1CSVl3cEhpTGpaODc0WWFhQVdCVXRZMWowaWh1ZERaTFlReTNHLUtmWkdpQm9QX00zSGx0U19jQkZMVQ?oc=5",
    "altriArticoli": 1
-  },
-  {
-   "id": "gn-VnpsVU5XYz9vYz01",
-   "fonte": "Giornali · Gazzetta di Parma",
-   "titolo": "Michele Guerra in corteo: \"Tanti parmigiani sono scesi in strada per riaffermare i valori di Parma\" - Video",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-14",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-14T14:30:38.000Z",
-   "luogo": "Parma",
-   "citta": "Parma",
-   "regione": "Emilia-Romagna",
-   "coord": [
-    44.6952,
-    10.09799
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOY3dpZkVxLW1ycDNqN3NMYmYzYWRxbGNYalRmSHR5TkJmZWY4TlctREdxNXEyRVhUVFNjRG15OUpfNF9FMHprellCa0JuQUZXUjE2Vkh6MFQtYnFoc1ZFYzU1VmtGeENGejhFdzhYNzFuNTVhNnhUZ19vdFV0dHIyX0Z2UWFIYkdBOU8ybDlVc1Q2SXFTT29kd3FmRnNEQUVoVjdJX09BdFUxLXh0RldxZW9TTkx0dVNlcVZBWjkyU2VjNEp5dWc0TnU2azdVVHYtRmdDQWNNWHh2dUNxdEpuUEFxYkFWY2R3X1ZuLUU4VzFaUjhoVnhKUTYwMHhNVzlUNWc?oc=5",
-   "altriArticoli": 2
   },
   {
    "id": "gn-WTA1RmR3P29jPTU",
