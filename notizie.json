@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-16T01:36:40.664Z",
+ "aggiornato": "2026-11-16T03:08:58.248Z",
  "notizie": [
   {
    "titolo": "Italia, Gb, Australia e Canada, 'Israele dia accesso umanitario immediato a Gaza'",
@@ -751,7 +751,7 @@
    "titolo": "Giornata mondiale delle vittime della strada, a Roma presidio in piazza Capranica",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYnd0Y1NLMkhXdUtZVUtFeEItTGR5XzRXUnlBQkx6cENBOGdsU2dlTWE4eWh2QnNoNmswdWZETlFDY1k1YkdZVVFNeHltZW5WeHczeEItblQ0MjBDcDhiZ3EzUEV4N3F2b2N2OEx1NFJxdXRKMTNmZnhCbXgxWHNBLW1zX1o5VnhYa3FiWmFxS3A2TzhzTUhhSE1vNGFaT21VbDg4ZzU2ZEZUdXJVN0c0WktGM3lSUQ?oc=5",
    "fonte": "RomaLife24",
-   "data": "2026-11-15T14:42:22.000Z"
+   "data": "2026-11-15T14:38:00.000Z"
   },
   {
    "titolo": "Pedalata e presidio contro il «Codice fuori strada»",
@@ -805,7 +805,7 @@
    "titolo": "Polizia: ottobre di presidio in strada, sulle ferrovie e nel web",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYzdGSm5za0Ywa0VFQnk4eXcwR1BCSUVQX0RpWXpZaEpDaHJQb1AtWXNVVVZyYnRXeWF1Y3NqOHRpcjRhaGx5TWRVbWdYQzVWVHVQMzFWVmhVUzNQRU1INV84WDFiaXBEMWI5d0czTkVCc0xuRDFFQnFBRklENlZucTlzeVpZNFVLMDlpdWh0NG5xLTFrVTdidXNlODVkOHVJa05CdUdGZGtfUXd5YzdYeGt3Y3plS3M?oc=5",
    "fonte": "La Provincia di Cremona",
-   "data": "2026-11-15T08:22:53.000Z"
+   "data": "2026-11-15T08:22:54.000Z"
   },
   {
    "titolo": "Dallo spread all’occupazione, così l’Italia ha riconquistato la fiducia dei mercati",
@@ -1670,6 +1670,24 @@
    "altriArticoli": 6
   },
   {
+   "id": "gn-c1JGZENWUT9vYz01",
+   "fonte": "Giornali · Giornale di Sicilia",
+   "titolo": "Bankitalia, occupazione stabile in Sicilia rispetto al 2025",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-09",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-09T15:29:28.000Z",
+   "luogo": "Sicilia, Italia",
+   "citta": "",
+   "regione": "Sicilia",
+   "coord": [
+    37.58779,
+    14.15505
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ3RJX1JaeWV6WWpXM0p3T0xPNmktNkI5bEU3VGtvSWVPeHlWRjVqOUpNZVh1Z1Q2TjJJbWw3MEZZajlFdnMwR19Kckt1bmtONlBOaGc3aGQ4ZzdnR25EWEc0Q0RqMm9uYW5EV0RRYkFQM1Vja2x3YnRYTnBWc3pkYUNMZjlLSG52cFVic3R2TzFXTnc1N3U2bnZCOVRWZy1OV05QYU9SVDdoZVpvUlZzN2JiN0NqMkxaM0xUNFN3TkljVmVzRTlJVzA0QXZrWUFHUGRsRFdCVQ?oc=5",
+   "altriArticoli": 2
+  },
+  {
    "id": "gn-UzBORk13P29jPTU",
    "fonte": "Giornali · QC Quotidiano del Canavese",
    "titolo": "Sciopero call center, mercoledì presidio sotto il Grattacielo Regione Piemonte",
@@ -1718,24 +1736,6 @@
     10.13955
    ],
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1742358/-/massa-colpevoli-di-palestina-presidio-davanti-al-tribunale"
-  },
-  {
-   "id": "gn-OVhhVkUb2M9NQ",
-   "fonte": "Giornali · Il Filo",
-   "titolo": "A Firenze il presidio per dire “No” all’eolico",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-10",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-10T18:03:16.000Z",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12YlpVdjVnXzY3bzFDTE12c1NSRlVrOGRSNFJoMUNyWVBRbmJaTFRGNzZMXzI0a3UwbFFXNXBxMFhEZS1QbmFpZEV6Uk1CemJuNUNDLXJ5VE9uTUFaR3FxVXFZWmZCS2RqNVZXd1pvVWstQU9XaVE?oc=5",
-   "altriArticoli": 5
   },
   {
    "id": "gn-eDFkR3Mb2M9NQ",
@@ -1825,23 +1825,6 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-ZloxRm1VUT9vYz01",
-   "fonte": "Giornali · Telecity News 24",
-   "titolo": "Eternit bis, oggi l’udienza in Cassazione: presidio di Afeva a Roma",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-10",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-10T09:47:10.000Z",
-   "luogo": "Roma",
-   "citta": "Roma",
-   "regione": "Lazio",
-   "coord": [
-    41.89332,
-    12.48293
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVy1uT1ZJRXJiSE5CdGtURUZTZjBpd2xZYklTaU9oT01xMExzS2gtdGduVW1DeTk5V2FvZXlqTEgxZ0tUbVZLY01CWms4T3JVd3VpVzBwUE1pR016WDNjSUlvdXR3TFdjc2VuYzBvUDY3UUJIcTNZUXFIcm5taWw2RjQ0UDhMVFJmR0U3Z21VanZBaGdOd2d6MnpyTGtJSDhpT3AzcVNqN3piaHF4TGRfZ1FmUQ?oc=5"
-  },
-  {
    "id": "gn-MFpNYVRBND9vYz01",
    "fonte": "Giornali · Cuneo24",
    "titolo": "Fine vita, nuovo presidio davanti a Palazzo Lascaris: \"Il ricorso sulla legge veneta non blocchi il Piemonte\"",
@@ -1927,23 +1910,6 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-VTJJMWNnP29jPTU",
-   "fonte": "Giornali · Ravenna e Dintorni",
-   "titolo": "A Granarolo la sede di una multinazionale israeliana: il presidio di Faenza per la Palestina in piazza del Popolo",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-11",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-11T17:04:20.000Z",
-   "luogo": "Ravenna",
-   "citta": "Ravenna",
-   "regione": "Emilia-Romagna",
-   "coord": [
-    44.36406,
-    12.05901
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQS3ZjbGxjM2FVV0V3aVVZLWFPVTlhOWVHWG15MG9wbTF5Z0wzNElfNXNMdm92djJrZTRiUnU5TVBua2VRSG1Kd3VwanY1aGw3eXI2RFFHdTRaY0l2ZnJWS1BmRzJMVktibEhpSDQ2eTZ0dFZsTlBsRENSNFN0aWxyUVVQWS15VXBtbGx4alg0UkdsTU4xazlPdFBQUVZRZG03SERfZ1NUUlJrSGRqVXZEdXdCSF9oemRhQ3paRUVURmJBZUxJRzBEekZNUERWSkJZRG5aRlVEYWd1V0JkLXZVeS11d05QV29WRk5sVDNNZG9VZmZ3U2I1cg?oc=5"
-  },
-  {
    "id": "gn-M0IzVlEb2M9NQ",
    "fonte": "Giornali · Rete55",
    "titolo": "Varese: Pensionati in presidio, la SPI CGIL in 12 comuni",
@@ -1962,22 +1928,22 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-TmExUmpVUT9vYz01",
-   "fonte": "Giornali · PalermoToday",
-   "titolo": "Ddl stabilità, Confcommercio Sicilia: \"Segnale concreto per imprese e occupazione\"",
+   "id": "gn-Mk4zZFJPQT9vYz01",
+   "fonte": "Giornali · Cgil Firenze",
+   "titolo": "Emergenza abitativa, a Firenze presìdi davanti alle case popolari e manifestazione",
    "tipo": "Dai giornali",
    "inizio": "2026-11-11",
    "dataIncerta": true,
-   "pubblicato": "2026-11-11T14:55:34.000Z",
-   "luogo": "Sicilia, Italia",
-   "citta": "",
-   "regione": "Sicilia",
+   "pubblicato": "2026-11-11T13:40:21.000Z",
+   "luogo": "Firenze",
+   "citta": "Firenze",
+   "regione": "Toscana",
    "coord": [
-    37.58779,
-    14.15505
+    43.7698,
+    11.25564
    ],
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd2xQb21TcHpBVEx6RGFZUFlQN0h3SEJyRmEzSEtTSWgxOUxXSWhIQ0p4d0JrdENpTU5RTGdCaFBKY0REZ19sdkNwQlVNRmwtaWY0SjlSeU5WSjRPZDI3QWRhSkloa01xQ2JLOVRkcDdUV0xyZk9mbmtBV0dHODZpUEFnVzZzbTZXaDI4ZXBCUnF6dkJDem1mMk1MMUN5bVZtNjhrOUNkMGNFak9TSy1WaU5BODF4cUNNa1RjUQ?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQek5PclFxRll4OTMyTmo2N1NrWmtGelE2NzhacExlLWdwSlJUZzdodWJOLWlMWnZQZ1hVbDhMYzJwYXo5TkozQzdWaG1yOTVyOUhzcDB0RjRQcV92NHdEQ09ncm1VR1c1MkluY0ZfdzFpeTE3V0xkMjAwSEdEdVk0clJxRTd4TlhDcGd1Y3h1ZjVLQ2UzQ3FlNkZ3bE1Hd3VVdWZJY1JvTUhCdHNxUXc2N3dROA?oc=5",
+   "altriArticoli": 3
   },
   {
    "id": "gn-WjFOQ1psRT9vYz01",
@@ -2290,23 +2256,6 @@
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTExmeU05ZzZQb0duenFrd3VISkFON3dVT1VQQUpUbFdycjcxel8zYjRTZFNEcEpuWGxucnhHYTYtRFU2RVlyRXVtXy1tWUJzeU5TQ0ROemgyMlcwWW95LUxxY18zclRkNE4zdU1FcU9NbllDc3NqbUlEME5qSmFUOEc0SDRjc1B5RzJtczhLUnpQRGMzbVhkbXp2M182bFQ2TE1NSWdhaUMwVVh5SWswVVRLMEhuc25RUDEtdVNnZVZLMzBpUkJDVHp3dE1CdnVHMEFOVWZZN19iTlFOSW5vLXJyM0o2VkM5dmpacG530gHzAUFVX3lxTFA1LTFZSld6VEc5endGNk9ITVZaRHFkX3Z6R19HaGwwdHpDelotQkpUNmU4aXpFMGlwal8xaWxqd2tDUzFIaXFjTEYyQ2k1MHY0dm5TQUhVT083WWpnVGRIcDJ3TWM1cnZnc2lDTXBPTndfRHFwMzFtMEJSU3RsQkpEU09YY0V5dENHc3Zrd2Nncmt3ZzZfQVlBaXhVUEhQbDItU0NVV1Z3amxxcmx2bDlGM3hxdzEwN1RLeDhnd2d0TVhKaVFsT1RyRjBnWGhRYWluanVxNGFhRFREeTJ1dm1qdVRxNkVnTFpIc1ByRS1ocXY1MA?oc=5"
   },
   {
-   "id": "gn-Ukdkc1ZRP29jPTU",
-   "fonte": "Giornali · La Gazzetta del Mezzogiorno",
-   "titolo": "Bankitalia, in Puglia nei primi 6 mesi del 2026 il Pil cresce dell'1%. E l'occupazione segna il +0,6%",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-13",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-13T11:36:01.000Z",
-   "luogo": "Puglia, Italia",
-   "citta": "",
-   "regione": "Puglia",
-   "coord": [
-    40.98425,
-    16.621
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVGpUaHFlUU4tOTNCeHEzeTVEdnBBcnJfNk5ubmpwZEo1dVpsUjBTZkljX0FDQ0Rwdk50MC1WTHpvMWNreWFmWUdXTmh3SVQ4RU1oNWJJNzQ4VVdDN0RUMklvUlhzcWlOVHQ4cHJiNHJHbTRKcmpWV3BqUVRGUV85WEtTbXZDQ3c2RkhSc0VicjFhSHZ2VkNFZTBsM1R5dXdaVEFRVUdCSzBjU09IczZNUFhIbXl5RTNJWjMtRVRXaUI1ZWxTU1J2QkZwenQ5bzFFZ0M0bVZTNWhzZ2V2RG1wOUlQbFZ2TEJWTHpobFBlM3NmVGU30gHzAUFVX3lxTE40akx2SHVhNDBFU2NWM09jNkZ6N0tMTjBNX3dpMDJRaVZ3dHllQ3FQQVRzN1dlcUtmcGh4NGM2VHJxbG0wOVN1MnlYSlBNRkh2VHV5YlB0ZzdmZFVhNnprSzdDdlRxV1h1MHA5T0tNRXVkWmhFVE9XOWl1bkgxNUNfLUgzdjRBNnJsZGdTamZhUXZNWC04MV9JXzBXdnJxaTV6ZjN1N0VrSnRlTXc4RlBWYnViYXc1YjhfeFJsNmhqTmx0bDI3SWNneEZTV3BmWmhCZVdrU3gwN3RBcXI2RzBQcjhXZU5xZlphdGhNNzg5RGdsVQ?oc=5"
-  },
-  {
    "id": "gn-d1ZHSkob2M9NQ",
    "fonte": "Giornali · Comune di Verona",
    "titolo": "Corteo “Sudario per Gaza”: modifiche alla viabilità / Notizie / Novità / Homepage",
@@ -2359,6 +2308,23 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRENzVWp5cFUtWkwwRWFvWjBURk45bEtuTDllaUpLQWIyNHdfWWlybVU1anRFQ3Z4ek1yZXM5NW1JTkJPZGNRVjBEQ2ZOcW9NVm4yVE9ReFBuTllWdFNOaVhsRzlrdU1kOTZ6ZVdraGJudWYwbHBwNnp5dk5XT0hKR0xJeDk4dEd4dzVqWEZXT2g?oc=5"
   },
   {
+   "id": "gn-MGhhTFdsbj9vYz01",
+   "fonte": "Giornali · Torino Cronaca",
+   "titolo": "Grugliasco, torna il Salone del Lavoro: oltre 30 realtà per incontrare aziende e trovare un'occupazione",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-13",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-13T08:00:00.000Z",
+   "luogo": "Grugliasco",
+   "citta": "Grugliasco",
+   "regione": "Piemonte",
+   "coord": [
+    45.06805,
+    7.57762
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVHRYVWw3YWNfcnROeUFXOVlzNlg0SEdrSzlXUE5EMV94ZUVYYjkyZnJBUmZISzVjLW56amY4OEh2a3dYWk9VNkpGdHhkUWZ1RHNobGpHM3NJUE9TcjdyVXE4QzZMUnNaZDYyTXdncHd5RldiQ3dMd2xaVHRIbjFMeDFQR2VmQjNtT2lxT3VqT0dyWEw3ajJuOU5EUEJQamhtdUxWNzNkUld1UTBySmo1TlhDZW9uSllrRm1vRzFoUmFTdUJPck5FckVvbkZkbnJkcDJqT1JFaU9yb1k1eHA2ZlR5QlRXQk5sb0haLWln?oc=5"
+  },
+  {
    "id": "gn-VXpkSFNGRT9vYz01",
    "fonte": "Giornali · PadovaOggi",
    "titolo": "«Gaza annega» e Padova scende in piazza: il presidio in piazza Antenore",
@@ -2374,7 +2340,7 @@
     11.80585
    ],
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5zTFc0aEM2TlVwOFB0VmJ5NnRyNzhIdi04WWpFUkEwWndmVndCbF9KVWhDLUV5ZE1CUzNhMTNIWXZSUVVEZ2ZJc2k5V2tVTmlzc0t1UkJGQV8zYmNkZ0MwMWhGM1J5MGZaZFNHaUVHOXlpaDBHWExBSk00NjB4Tkc2RktrQVZZZDdOTEZHcm1tUzdHSFE?oc=5",
-   "altriArticoli": 3
+   "altriArticoli": 2
   },
   {
    "id": "gn-WkhJMlZrRT9vYz01",
@@ -2503,23 +2469,6 @@
    ],
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVFpcF9ubnotUnZTelNuU2o5VnYzVTBicmVEYURpYUV0bW5QSzBTSU90eUJvVldld0g3UFJGdTBRZlV3Vm1BZ1hDZGEzZVViM0U4cGV0RjBsczdEYjBJWFlHR1lRSndScVRuZ0lORDJJdlZ3OXlncnlmdkxiOUx1VEdGV0x5RldQakI3eDVneW5FeGozNG5JazZKNS1ITWdtZjd5NThhcXE1SXh3OFE?oc=5",
    "altriArticoli": 12
-  },
-  {
-   "id": "gn-ZmJuWlNRUT9vYz01",
-   "fonte": "Giornali · https://www.tv33.it/",
-   "titolo": "Bolzano, oltre 200 persone in corteo a difesa degli alberi",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-14",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-14T16:52:06.000Z",
-   "luogo": "Bolzano",
-   "citta": "Bolzano",
-   "regione": "Trentino-Alto Adige",
-   "coord": [
-    46.65593,
-    11.23018
-   ],
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xaGFEWklQQnUxTEo2VTBXZFRQckFPX1RJelhpczMxd2xzUWo5WVhWdzAxVTZzX2RfVTN3ZmFfV043d3RNV1piYTBJaEN2VGhUV1QtOVJBcUxaNU5hZ0ZSNC1oS2NyOXFzVzI1MHpsYVhkSnIxTDRvQUtfbnZSQQ?oc=5"
   },
   {
    "id": "gn-bkJKUTJNMD9vYz01",
