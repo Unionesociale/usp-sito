@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-16T23:53:25.667Z",
+ "aggiornato": "2026-11-17T01:25:52.219Z",
  "notizie": [
   {
    "titolo": "Le foto dei volti gestite da Amazon: Israele profila i palestinesi",
@@ -1176,77 +1176,6 @@
  ],
  "eventi": [
   {
-   "id": "gn-UE5ETjBNUT9vYz01",
-   "fonte": "Giornali · Quotidiano Piemontese",
-   "titolo": "Presidio studentesco davanti al Rettorato di UniTo a Torino, chiesto incontro con la rettrice Prandi",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-03",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-03T12:37:35.000Z",
-   "luogo": "Torino",
-   "citta": "Torino",
-   "regione": "Piemonte",
-   "coord": [
-    45.06776,
-    7.68249
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU3R0clFmMHVsYTRaU1NjcTJyeXJaTzdPTFN2X0VhRW14UU9WX2dEUkpyRWd3aTJWUjNMWUhGM0QyMU54TUJyOHVQU1FWT1JZOUxRZVBmRkdBSFRZZXFLYmxpTDU0RndWSE9kTWwySDc2QnBiQjZFb3FiQ1VVZ25ESnlxN1lqOTliT1JZanhweFpEYkc2bU8yWXFRRVBsSXAwcl9ReVZEcTMycHlBY0s3UzI5b1B4Ykl2RkJlRmpmRGhLdGdDWm10czhPMlp5bXVqSGZsSDNRY3AyS3VPNDN0MQ?oc=5",
-   "altriArticoli": 68
-  },
-  {
-   "id": "gn-UWFWbEdVUT9vYz01",
-   "fonte": "Giornali · Comune di Taranto",
-   "titolo": "Avviso pubblico per la manifestazione di interesse alla presentazione della candidatura per la nomina di tre componenti del comitato di garanzia e di indirizzo scientifico 2025",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-03",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-03T08:00:00.000Z",
-   "luogo": "Taranto",
-   "citta": "Taranto",
-   "regione": "Puglia",
-   "coord": [
-    40.54882,
-    17.08058
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQWDEwN0FjU21GMU04TTYtNkx1RHpJRHJIaTdiUkpJNUQ0cURYUXJUaUVQb3U5T1BXT1N3dEZVMEJDU1o1QUdGS0wtUm5oNWdPOWJjMWZFdk1MallaYjJXcGIxSGF4WmFRMHJfNGk5Y2cwLVhXcm5FVElwU211NWM5czIyemdoamsxMFRkYm50X3JPaWFCcHZGTUNTTnl5T2lJS3BoOVBSakdUSm5vRDJhS2pKVklwRmFDa0MzQUZwaGlzaGdaYWFJTktVRkVDNkROXzd4R1Z6aHZOdklJTjQ2NDFtWkFua0V2MXBPdjNxSHVHWWNUUmpVc3BaSnFfQXVFUTRhcFhSbG5DWVJSTDBoUlQ4dV9nckR2NWkyQnYwMzJxRmFPdUlydkFvdkZXemlYUTlJNHZQaVlGUQ?oc=5",
-   "altriArticoli": 1
-  },
-  {
-   "id": "gn-elpXYldjP29jPTU",
-   "fonte": "Giornali · Città metropolitana di Roma Capitale",
-   "titolo": "Roma, devastata la succursale del Ferrari-Hertz dopo l’occupazione",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-03",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-03T08:00:00.000Z",
-   "luogo": "Roma",
-   "citta": "Roma",
-   "regione": "Lazio",
-   "coord": [
-    41.89332,
-    12.48293
-   ],
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2o1X0FYVlE1STUyby1EdHRtQjRLRnBubi1PSGFZTTlnZFRHOUxVZ29GZURjZXhVQVkya3ZLTDBSdmxlc052N3p0RTNrdmZzMTdDcFJVVVJvRHFKSGlwOVU3SmtEeGxBYUhMRHY1d0ZhT1JyekNQTGRoRjRIeEl5Um1VNEg2MjZ0cXhYMk9DSm92LUpqdHVBam5PbXN4bUpVelJCSmN1NUZqNzZWbWc?oc=5",
-   "altriArticoli": 5
-  },
-  {
-   "id": "gn-eDVORmxCP29jPTU",
-   "fonte": "Giornali · Comune di Terni",
-   "titolo": "\"Le forze armate presidio di libertà e democrazia\"",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-04",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-04T08:00:00.000Z",
-   "luogo": "Terni",
-   "citta": "Terni",
-   "regione": "Umbria",
-   "coord": [
-    42.65395,
-    12.43965
-   ],
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOek5KTmdpdEhSbmNtTlZ0cHB3Z0FzUGE3bkZJRHc1TlB4LTFhMHJXOEZXVUlxaUNtTVJLZDlCckRWWU1GNnBacGlCUlBrUWhyWHFvMlBLbFBmMkxZOXJCUlptc3E0Zjl2SVh4bmRqNlY0RmNCelg5aEkwZTZ1Uy1wQ3lXUVRRZGNhZWRFVW9jS29vUXNXUUx5NFlB?oc=5"
-  },
-  {
    "id": "pl-13521",
    "fonte": "PeaceLink",
    "titolo": "4 NOVEMBRE: una giornata di lutto, non di festa",
@@ -1279,51 +1208,6 @@
    "online": false
   },
   {
-   "id": "aip-1745455",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Livorno: Manifestazione Antimilitarista",
-   "tipo": "",
-   "inizio": "2026-11-04T17:30",
-   "luogo": "Livorno",
-   "citta": "Livorno",
-   "regione": "Toscana",
-   "coord": [
-    42.79024,
-    10.34022
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1745455/-/livorno-manifestazione-antimilitarista"
-  },
-  {
-   "id": "aip-1745758",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: presidio \"No comando Nato\" per la festa delle forze armate",
-   "tipo": "",
-   "inizio": "2026-11-04T18:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1745758/-/firenze-presidio-no-comando-nato-per-la-festa-delle-forze-armate"
-  },
-  {
-   "id": "aip-1745699",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Pisa: “Israele/Palestina ieri e oggi” - incontro alla Normale",
-   "tipo": "",
-   "inizio": "2026-11-04T18:00",
-   "luogo": "Pisa",
-   "citta": "Pisa",
-   "regione": "Toscana",
-   "coord": [
-    43.47147,
-    10.67979
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1745699/-/pisa-israele-palestina-ieri-e-oggi-incontro-alla-normale"
-  },
-  {
    "id": "pl-13520",
    "fonte": "PeaceLink",
    "titolo": "Non c'è niente da festeggiare",
@@ -1338,107 +1222,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13520",
    "online": false
-  },
-  {
-   "id": "aip-1745700",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Livorno: presidio contro i traffici militari",
-   "tipo": "",
-   "inizio": "2026-11-04T18:30",
-   "luogo": "Livorno",
-   "citta": "Livorno",
-   "regione": "Toscana",
-   "coord": [
-    42.79024,
-    10.34022
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1745700/-/livorno-presidio-contro-i-traffici-militari"
-  },
-  {
-   "id": "gn-akp3ZGtVP29jPTU",
-   "fonte": "Giornali · Comune di Piacenza",
-   "titolo": "Economia sociale, aperta una manifestazione di interesse per la creazione di un partenariato territoriale",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-05",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-05T15:41:31.000Z",
-   "luogo": "Piacenza",
-   "citta": "Piacenza",
-   "regione": "Emilia-Romagna",
-   "coord": [
-    44.84764,
-    9.66653
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM29YQ0ZxWTlNc3NaaHNaMjgzbUNYMzFDQVFnX1gyS1pYT0lndWowVWg4Um5TNHN1MjUxUHl3Ymo1blU1WUtQTFJ3VUpYRDl5REUwTG85VF9ibGU0aXJmRVFocW9Oakx3LXFBaTF4dTJDYWRDcDlFbWJUZl9uNklmU25IRVVJMkt6YzlDdWxOc0hRd2VtanZZZzZlQnJ4em53cmh6RHRzYmg5Ykxva202Qm95RUZ3c016NHJ0aWxtd1gzY0NPdVVLWEoxUnhHaG1wS2FRNGU4QjJwdkU?oc=5"
-  },
-  {
-   "id": "gn-V0xVbEUb2M9NQ",
-   "fonte": "Giornali · Regione Campania",
-   "titolo": "Avviso pubblico per manifestazione di interesse per l’incarico di direttore generale dell'Agenzia Campania Turismo",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-05",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-05T08:00:00.000Z",
-   "luogo": "Campania, Italia",
-   "citta": "",
-   "regione": "Campania",
-   "coord": [
-    40.86067,
-    14.84398
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRFpfdVUzcDNENkdpMTRxb2gwdmNIM0VuSjR6RjMzeURsTFY0NGhmQzJTOWdjbnVxXzJ1UlJKNjQ3ZjY2X2tpdGxFeFdZdnhhdzhkSk85Qkw1M19ENVJhdjNsYUVBTVBJZm5uenVyNm5KYl96LVlnNlMyTDN5U1Z2SDJ4MXdiamlub3pJekNXVEdQNFVwOVVHNjV4cG5qZFZXUDBBNkM5Wlc2YkRiNkJWWmNqcVItVDhTQXItb01FWEpwNlcxbFl5andOS25sM3RROVZLc0NRVkFTLU5qTF9HQTJhcGFWLUlE?oc=5",
-   "altriArticoli": 2
-  },
-  {
-   "id": "gn-a05GVVEb2M9NQ",
-   "fonte": "Giornali · ASL Cagliari",
-   "titolo": "PNES: apre alla Cittadella della Salute un presidio dedicato alle donne più vulnerabili",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-05",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-05T08:00:00.000Z",
-   "luogo": "Cagliari",
-   "citta": "Cagliari",
-   "regione": "Sardegna",
-   "coord": [
-    39.2172,
-    9.11331
-   ],
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3IxaXdZdTdyM0NUMnphZlM1OE51WVlRTmZSTDBsSXA4MHIwOHl3bjJYZFNmX0dxZWZjdVFkYnBQM2dCanV6cEc5d1BtRVA5NnpwdGpsM3d6eWhtN0lYaHcyQVlmal9hanpDT1NITGNwOGtLakhQb2NydnVCNkhOaS0zcjA0OVlCYm1LdllyaG1Kd2RxVnhHQm1fRnpIZ2xueVJqY3hvZDdGZ081TmZ2c2tZekNFUQ?oc=5"
-  },
-  {
-   "id": "gn-TTNaUGR3P29jPTU",
-   "fonte": "Giornali · Università degli Studi \"G. d'Annunzio\" Chieti – Pescara",
-   "titolo": "Il futuro della Farmacovigilanza: competenze, innovazione e occupazione",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-05",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-05T08:00:00.000Z",
-   "luogo": "Chieti",
-   "citta": "Chieti",
-   "regione": "Abruzzo",
-   "coord": [
-    42.10269,
-    14.41591
-   ],
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0pOWEhnaHRycnJzb3RBUHRpb092LXJJYUhxbk9BWmtXNFhHSHlSMFRJaE5WMk11MWdKNlJ4clI0MTk0MVlYMElkWGVnSXB4QS1CMzFSUk9KZ0s1OHdZbVNSd3BULVlUQ3Q2emVBU1JXc1ZjWUxsRmhib0JoNzRGaEFlSUx6R3VPSklHX3RRbkF1dmhzaWR5Q3l0M3ZPdw?oc=5"
-  },
-  {
-   "id": "gn-aE1qSkYb2M9NQ",
-   "fonte": "Giornali · CGIL Roma Lazio",
-   "titolo": "Lazio, Cgil: 5 novembre presidio sotto Regione, approvare emendamenti legge lavoro in quota",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-05",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-03T08:00:00.000Z",
-   "luogo": "Roma",
-   "citta": "Roma",
-   "regione": "Lazio",
-   "coord": [
-    41.89332,
-    12.48293
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRk5uUnhXc0lzUElXbUN2ZXlIVHlrRnNDaDA2dms1UjZYN3VUTjV2U0t0eTBWWUVGUktZSDFyYVAwZ01jZk5KNEpoV1IxaEs0SHdjd0JFamtrWWxhUjlzQ0dXQ1R4eU5MaktkcVhHX3lpTWNtNGl3bHFrdUh4Mk1ZQ0FEUUJNb2lMUTBvQW51V0NaTi1BQTJHTGZEZGM0bFB3TTBHanhmbHFKUTRiMXZGcVNtVkdUOXVhMjJF?oc=5"
   },
   {
    "id": "pl-13506",
@@ -1489,23 +1272,6 @@
    "online": false
   },
   {
-   "id": "gn-MHRxVEY5bj9vYz01",
-   "fonte": "Giornali · Comune di Palermo",
-   "titolo": "Avviso pubblico per la concessione temporanea di occupazione di suolo pubblico per lo svolgimento di eventi e manifestazioni nel periodo natalizio – Città di Palermo",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-06",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-06T08:00:00.000Z",
-   "luogo": "Palermo",
-   "citta": "Palermo",
-   "regione": "Sicilia",
-   "coord": [
-    38.11123,
-    13.35244
-   ],
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxON1ZsbUhLWkFveTlabkhCVlVPR2tpNER6QVJTNEtrUnpkWGQwLXFacW1GeVlQU1ZMd05nbjZpajNtaHlpdWVRODBraE9OZXROOTMwQ1ppdVQ1WjhWVWdzZ1haWHMyRFVMSGFLQ0l3NmRHWWs2TGhycUFVRy00NjljbFp6NHNEb1MwUXRPbVNxMlFhbUhGMWgycHhDZVhyUzBjNUJOeU05OVpLU29hb1FYdUl6RnFUdW1sR1FPNUxudWYySXJMWS1JUklkamxfa3JxX0F5MW02LWM0Y0xaNWJWM2VJM3hfQ1RKNzdhSTFQWFM5MmN6aC1uWDlndTZYQ3ZQYl9RazBfdlhwQkh0c0tqTF9n?oc=5"
-  },
-  {
    "id": "pl-13496",
    "fonte": "PeaceLink",
    "titolo": "Il Poliedro della Pace III - Europa: radici e prospettive",
@@ -1520,38 +1286,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13496",
    "online": false
-  },
-  {
-   "id": "aip-1745578",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: proiezione di \"For life\" - nell'ambito del Festival dei popoli",
-   "tipo": "",
-   "inizio": "2026-11-06T21:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1745578/-/firenze-proiezione-di-for-life-nellambito-del-festival-dei-popoli"
-  },
-  {
-   "id": "gn-Tk1HbDMb2M9NQ",
-   "fonte": "Giornali · ANSA",
-   "titolo": "Domani a Torino un nuovo corteo contro carovita e riarmo",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-07",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-06T08:00:00.000Z",
-   "luogo": "Torino",
-   "citta": "Torino",
-   "regione": "Piemonte",
-   "coord": [
-    45.06776,
-    7.68249
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVFZCMUV4a0x0YWpwRzlMRHNHWHZsVDBLMGQ2UnB3UU5QTDZBemtiTWJ5MDBvRjRXaXFvZ011OGp3NXhPUE92TGlfaUZCR1dhVWdtZlZ6eHJRUGRlME5valJiUnZHY0RKLWl3ZF80S1dqSEtCdXBRNWNyM2puM05CeUJLZk85UkJHM3hCY2tQbHl5aDRsa252SnhVZmF4UWpCbFladjN3b2hDNEMxbGJIYXhRZERwQml6NXBhbkpleFBXdmpUOW9mbVNGYTI4REo2X09IZG0yX1pHV0RudEd0SlFmNDjSAeoBQVVfeXFMUDZuTTVBVGVCdVlPdS1NcG1kdDM3Vl9ULVgtWm1lWHdlT09ncnZzZy1ZVTRuT0MyNjlBb2d5N0picm05OE50dnMzRm5PWkJtanRLS2dsQ2pTc3VOTEcwejFmOEluOUxHZXdvb1ZFWDlETTc4ckZ4LTk1aFZ2Y09kd0NpcDNRYnVvbzZOUzQ5RFo1bWdyTzVLVHE5emdkT3hxUDJXZzc0eUZSOVZWLXpvTUFQYnpmUkpjRl92dHAxbXh0RVFIQS1OUUM3VFJLYmxNWHpzTmtLQl9MaGo4aGRkWE94WjZINWxNMGl3?oc=5"
   },
   {
    "id": "pl-13457",
@@ -1618,41 +1352,6 @@
    "online": false
   },
   {
-   "id": "gn-Z3dZakpaP29jPTU",
-   "fonte": "Giornali · malpensa24",
-   "titolo": "Emergenza casa tra Novara e VCO: Cgil e Sunia mercoledì presidio in Prefettura",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-08",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-08T16:04:39.000Z",
-   "luogo": "Novara",
-   "citta": "Novara",
-   "regione": "Piemonte",
-   "coord": [
-    45.58425,
-    8.546
-   ],
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tYmRsZ2ZkR2Q3UkdGVUFLM1p4TTg5Ri1yNTZuUEtXMjBQdzFUdlhLdHZfVTVObnJQd0hRZ0RRdGdpNnktWGh5eTBTVXJ1UUVRSXpHNFhYOXZyYVl1OXFydy1jTmdfNVlvR3J6Y1NaWjFsbUgwYjJZ?oc=5",
-   "altriArticoli": 1
-  },
-  {
-   "id": "gn-VkoxVFdaUj9vYz01",
-   "fonte": "Giornali · Torino Oggi",
-   "titolo": "\"Basta pedoni e ciclisti morti\": domenica a Torino presidio davanti a Porta Nuova",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-08",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-06T14:20:00.000Z",
-   "luogo": "Torino",
-   "citta": "Torino",
-   "regione": "Piemonte",
-   "coord": [
-    45.06776,
-    7.68249
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQY2xJMnBrcThFeE5SeGNGb2U1dnVyemswZjV6NGdVSGNfNnh3LWY1Q0FiRTlMYTc2SzRTc2RZRm9nT1ZYR0ZSWEFnNVpvYjZnWTNEQzVxUEc5ZUtMQk83TVlvY3hEZkl3UTFJVVJpV3FPRXF0ODJnME5BQVZXclhtMmk3ZFE0ZFE0dGFuNzNaUFY4MUFjdDhCdlNQZTJ4NVRkUV8tcG5aeU51cFhhNUl5M1MxclhCVkZwbXpYd3lWRm9PQjJYYjh6eWh4bEtfZC1oZ1hPaTRNRGVyYnRBaEZPa0xhU1QtUnVNZlHSAeoBQVVfeXFMUGNsSTJwa3E4RXhOUnhjRm9lNXZ1cnprMGY1ejRnVUhjXzZ4dy1mNUNBYkU5TGE3Nks0U3NkWUZvZ09WWEdGUlhBZzVab2I2Z1kzREM1cVBHOWVLTEJPN01Zb2N4RGZJd1ExSVVSaVdxT0VxdDgyZzBOQUFWV3JYbTJpN2RRNGRRNHRhbjczWlBWODFBY3Q4QnZTUGUyeDVUZFFfLXBuWnlOdXBYYTVJeTNTMXJYQlZGcG16WHd5VkZvT0IyWGI4enloeGxLX2QtaGdYT2k0TURlcmJ0QWhGT2tMYVNULVJ1TWZR?oc=5"
-  },
-  {
    "id": "pl-13522",
    "fonte": "PeaceLink",
    "titolo": "il Sudario dei bambini di Gaza attraversa sestri levante",
@@ -1667,191 +1366,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13522",
    "online": false
-  },
-  {
-   "id": "gn-UzBORk13P29jPTU",
-   "fonte": "Giornali · QC Quotidiano del Canavese",
-   "titolo": "Sciopero call center, mercoledì presidio sotto il Grattacielo Regione Piemonte",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-09",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-09T14:01:32.000Z",
-   "luogo": "Piemonte, Italia",
-   "citta": "",
-   "regione": "Piemonte",
-   "coord": [
-    45.06074,
-    7.92355
-   ],
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaTIxV0FjWTl1eFJDRWo1LVlxU3I0OWZ3aXEtbVc4aU95cTNqbERyd0E2MWJDSnl5cjFURmJmMmU5aDhDbGRuTXBDQWhIWHJ2YmhMYUJBVm03MnQwM1BsU0Y3LXcxaktQd2R6MFhPRDBUUjlXY3FmQXlMRmNSaDFSTjNmdi0xczJ2S0NFMw?oc=5"
-  },
-  {
-   "id": "gn-aERkRjlPP29jPTU",
-   "fonte": "Giornali · Comune di Napoli",
-   "titolo": "Avviso Pubblico per la presentazione di manifestazione di interesse per la partecipazione all’iniziativa “Atelier sociale” Fare lavoro di rete. L’arte di un ricamo collettivo.",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-09",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-09T08:00:00.000Z",
-   "luogo": "Napoli",
-   "citta": "Napoli",
-   "regione": "Campania",
-   "coord": [
-    40.83588,
-    14.24877
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ2VHNlFQNTN5M3pHSGdva05YV3c0TExLZWFPUkV1bV8xY3dGS290OFd5RHRxSmZoTkdVemN2QTNYQkpfWEM5Z0oyaF9mXzNlRDNiV1hqNHhILU9haGFnbWpRV1B3UUY4Z0JxX0NOTEVhT21DRjM4T0h5ZzN0LWg2WWFuQThDdF9O?oc=5",
-   "altriArticoli": 1
-  },
-  {
-   "id": "aip-1742358",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Massa: \"Colpevoli di Palestina\" - presidio davanti al Tribunale",
-   "tipo": "",
-   "inizio": "2026-11-09T09:00",
-   "luogo": "Massa",
-   "citta": "Massa",
-   "regione": "Toscana",
-   "coord": [
-    44.03593,
-    10.13955
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1742358/-/massa-colpevoli-di-palestina-presidio-davanti-al-tribunale"
-  },
-  {
-   "id": "gn-VFEyYWtGTj9vYz01",
-   "fonte": "Giornali · Cgil Firenze",
-   "titolo": "Morto sul lavoro in autostrada, sciopero-presidio a Firenze",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-10",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-10T17:13:45.000Z",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc1pwY01zcTYtc2NfNXIwMFB2ZFVveVhCTldsR19GVlNyMHIwdGoySzA4YWxOTnZpeDNiSFhWODY2d01zbUtUdWNkNzFIWFZzLXVVSVR2WjIycXZnRWwzbUhZSmNwYllwX0xQRFRDamFfTkdrTWpmOGh1OWhLREtGYWY2S0drS0lOVDZKeEdVQTQ2akFN?oc=5",
-   "altriArticoli": 3
-  },
-  {
-   "id": "gn-NXZNVVYzP29jPTU",
-   "fonte": "Giornali · Cronache di Gusto",
-   "titolo": "Dalla Calabria una pesca unica: la tardiva di Magisano è nuovo Presidio Slow Food",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-10",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-10T11:00:48.000Z",
-   "luogo": "Calabria, Italia",
-   "citta": "",
-   "regione": "Calabria",
-   "coord": [
-    39.0566,
-    16.52499
-   ],
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQelFHQUdjbjRaNXhDNU9NVU1RY3NhbkQxejNYVkRETHJrUk9iNElkRkpCTU1WckdJbmJGZU1rX3Y3QzNQdkR4YVBrR01sNk53ZmY4bG5iR2czSkpZenNXSDB5SV84UWRsYlVuYVlraWMtdlBKcG04VWVrQjVIaHg1RXhLemR6RmN0b2kyNjdkNHh5V3ZodTRGQ1NnOWViYThnck50cVowT1l1bmpYV25raVIyanl1czA1MFpfYmo4eHBzTE5vMUV3?oc=5"
-  },
-  {
-   "id": "aip-1746213",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Roccastrada (GR): mostra internazionale “Benvenuti nella Cameretta di Farah” - nell'ambito di EireneFest",
-   "tipo": "",
-   "inizio": "2026-11-10T18:00",
-   "luogo": "Roccastrada (GR)",
-   "citta": "Roccastrada (GR)",
-   "regione": "Toscana",
-   "coord": [
-    43.00993,
-    11.16653
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746213/-/roccastrada-gr-mostra-internazionale-benvenuti-nella-cameretta-di-farah-nellambito-di-eirenefest"
-  },
-  {
-   "id": "gn-SVkwdE5UUT9vYz01",
-   "fonte": "Giornali · Giornale La Voce",
-   "titolo": "Call center, l'intelligenza artificiale si prende il lavoro. In Piemonte migliaia di posti a rischio, da Ivrea ad Asti è allarme occupazione",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-11",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-11T22:09:52.000Z",
-   "luogo": "Ivrea",
-   "citta": "Ivrea",
-   "regione": "Piemonte",
-   "coord": [
-    45.4518,
-    7.89325
-   ],
-   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNMG1obGJKNmdtMUVnR2oyMDk5THB5VWV3MHBGenpoMDdmdXloWW54dGlkU0ZSZmhTWF9xdS1ZaDdROERPVzdoc1FGc3RSQnh0dkowZEZKRjVBTlZiUHBsZVhfb1NGSEJQS2hYQnlKNnlIbGx2TTNGRXhfWkoyVFhPbm95RFQ3eDlIeFBnajBaMWQyOXUxN2E3TThXWGs4RVd6cGtjXzg5Vy0zZmNRZ2NwV3VFQTBPanpJY3k3RmdoNUZMRGFmaEVfenNIZU1rTFcxU3lOQVFsdXd5bDhJMFpjT0dpOWhOZWV6UUhNN2cxRnJfNmQxa2dvdjBvTktETDVnWHlBMnpvRjRGSEhXREpaUWtXZWE5em83bElIY0tNTQ?oc=5"
-  },
-  {
-   "id": "gn-M0pNZHcb2M9NQ",
-   "fonte": "Giornali · Comune di Modena",
-   "titolo": "Festival della Legalità: avviso per manifestazione di interessse finalizzata all'organizzazione e realizzazione del festival per il triennio 2027-2029",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-11",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-11T21:23:19.000Z",
-   "luogo": "Modena",
-   "citta": "Modena",
-   "regione": "Emilia-Romagna",
-   "coord": [
-    44.53847,
-    10.93596
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQTkVvaXlZWTBBRFN4YUUtemxIeHBZSU9fNlNZU2JNZDFTUFlPRllLUDROZXpEMF9FQk9aa3ZLcHJwZ3k2Z1BHYTNZWVVVNnRFUnd2RUIxQzNqNEdjWXZUVHVVZXJoUm5abHdOM2xzUlJiVU12aVdtamtSZzJYQTlmcUVjOF9UQmdONmh5WklRVm5oVDhVZW9NSF9Ca09ZNUF2N3ZOblB2QlNlTVJibjM5OGtNd3RGemxRd19OVk03dHNLWUQ5MXpLRlNGWk91S0RUT1hkN3BsQlZSaVN2UTZQWl84LWdYbXQxM2lOQUJqRzVweUpNNDRiS3pGTnB0MVl2aWdXRERwcVJvM2tfT0g0ZEdhX3ozeHFManFsZFp1T3JMdw?oc=5",
-   "altriArticoli": 1
-  },
-  {
-   "id": "gn-M0IzVlEb2M9NQ",
-   "fonte": "Giornali · Rete55",
-   "titolo": "Varese: Pensionati in presidio, la SPI CGIL in 12 comuni",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-11",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-11T15:30:02.000Z",
-   "luogo": "Varese",
-   "citta": "Varese",
-   "regione": "Lombardia",
-   "coord": [
-    45.83991,
-    8.75418
-   ],
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNkYwQkszX2pVbFh1NUZWYUtqSkNaamFLakcteEZ3cUVTUFdNRTdPeVF1OHZjd2l2Z2VDUTRXZU54UFd3SERCd1FJbWFhT1ZxcnNqc2lFSTB1a2RMMVJBcXEyeVBYR3piaklVMmFTUXA2dUdBWm9IblJQcmVqaGJuWnc1VUtmQVd5TkMyQzAyZHBxQzlHZGdBU3B3VQ?oc=5",
-   "altriArticoli": 1
-  },
-  {
-   "id": "gn-YVdkYVVRP29jPTU",
-   "fonte": "Giornali · Ufficio Scolastico Regionale per la Sicilia – Direzione Generale",
-   "titolo": "Proroga scadenza manifestazione di interesse individuazione IISS cui delegare gestione amministrativo-contabile -progetto “AscoltaMI”- scadenza 17/11/2026",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-11",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-11T10:32:52.000Z",
-   "luogo": "Sicilia, Italia",
-   "citta": "",
-   "regione": "Sicilia",
-   "coord": [
-    37.58779,
-    14.15505
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQXzlDZ09ZcmNpakVDQW1HQ0RfUHgtTVg2U2dWUUJkcnc1N2l5V2pZTlZVZUdhWGFDc3pwbFc1ZGh4Sl9adlhkbjFGSE0wTEY0UGtMSkJoYkQ1a0JPdEJyN1N6UVh0cHBJbW1HNXk0elJ5MHNvU1EzdmowUG5COXVpMzl5RWxzeURueFZSdDBQTHBfZWlZWi16MG9JR1JUR3pvcUlLV0JlRkJmN2oydWl4N0xyMFZDZmgyWUtxOHZJVUdSdkNaRnpuZDUtaWNWbXE4ZEhYYXhzYXNta2FGWXBsTmpPWWhNcEZReXBFd09waGVnMGhYQzh3d3YyY1l5QkxIblVtb2xLaWdaUQ?oc=5"
-  },
-  {
-   "id": "aip-1746216",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Pisa: \"Contro il sionismo con ogni mezzo necessario\" - incontro presso UniPI",
-   "tipo": "",
-   "inizio": "2026-11-11T10:00",
-   "luogo": "Pisa",
-   "citta": "Pisa",
-   "regione": "Toscana",
-   "coord": [
-    43.47147,
-    10.67979
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746216/-/pisa-contro-il-sionismo-con-ogni-mezzo-necessario-incontro-presso-unipi"
   },
   {
    "id": "pl-13428",
@@ -1902,58 +1416,6 @@
    "online": false
   },
   {
-   "id": "gn-S1VtOXFkdz9vYz01",
-   "fonte": "Giornali · Gazzetta di Siena",
-   "titolo": "Monna Agnese, il rientro dopo l’occupazione tra rifiuti e vetri rotti: “Chi deve intervenire?”",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-12",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-12T18:20:00.000Z",
-   "luogo": "Siena",
-   "citta": "Siena",
-   "regione": "Toscana",
-   "coord": [
-    43.16721,
-    11.46756
-   ],
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaG11OTg3NGdXa0JhZVFlUVpRMGlGWW5YTHM3bzBBRGt5RG5wYmVlbktIZFdmQ3ZwOXI3TVBaNDhlcHI0SlZpZVZGRWI4VlpjaGF2bG9JVGJwUGZIN2V3eDhxUHlMczhMaW5KRW12Z2Z6S1dLb0VPeFd5TnhhQUVQX2N3MVFBSzRrWFp0MjV5VlFSdXpYamdTVGFESk1MZjRSejBYMGZsZUp1NnM2LW1iR0YwSTZsdFV1dk9wQtIBwgFBVV95cUxPc1c0RzFOS0JHSDNTeWJZWW96ZDNESThTcHFYVHNFSFdHMmpqc2xDTGo1cFZwa0xlRV8yMzVTSDN0TkNZYUpjRk9fcWNMaWZsNnZ3Y3F6QjB6SzdPZVFMbi1UZDY3anVFVnlxaTNfVWc3bXhId0NxenpnWTVzNEx6eFJXQmwwTkFJallDZEI1VDV5QkVTV2t0TzdRZTRSZm43b1dVQkNhd3B0ZkZPOXB1M2Mwd2FEa1VnWHE4X0tKUm9qdw?oc=5"
-  },
-  {
-   "id": "gn-VFZWVFdRP29jPTU",
-   "fonte": "Giornali · la Repubblica",
-   "titolo": "Basilicata, ad Avigliano la Strazzata è diventata Presidio Slow Food",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-12",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-12T18:09:35.000Z",
-   "luogo": "Basilicata, Italia",
-   "citta": "",
-   "regione": "Basilicata",
-   "coord": [
-    40.50057,
-    16.08195
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTHpQRENhMXh6d1Y2OC1tMTFLM3Z0NWx1al9KMldOa0FIQmh2RWF2UHRackVDdWV0YzI5R2lqaW15SlQ0a0FDbVBZNW5jTHQ4OVpFRnF0Ul8zcmlrcFlCTlZfek41a1pibTV4Sll2TkxDckhnb2hvTzZjdExxR0haOG15Q0Z5Szl4bWY2RXV4ZDVDSzY3VTZsOFNJeEFQWnkxZ2prTVVlVzk3S1c1M2JQdG1rNG1ObWRjaUU4QTBBTXh3ekk3REpxb2N4M0k0eGJVMVNCZldKTDQweWZ1Qk1OblZFOFRiWWdWcmxfT2VVajE2NTg4TVVTWQ?oc=5"
-  },
-  {
-   "id": "gn-MU1URlIb2M9NQ",
-   "fonte": "Giornali · Cuneodice.it",
-   "titolo": "“In Palestina si continua a morire”: un presidio delle Donne in cammino per la pace a Cuneo",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-12",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-12T05:58:00.000Z",
-   "luogo": "Cuneo",
-   "citta": "Cuneo",
-   "regione": "Piemonte",
-   "coord": [
-    44.45807,
-    7.55814
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaXR3X29mM3g5STNXQWQ5bUVycEo1cF9GNXVQTktjYm9JQlRhOEpWd20tM1lnNmhaYTlwSXhLTXQ5bjU2bTloYjRqX0dpLWpnc3dDQ1VSMnYzWXBiS3Bnd0FOT2hnYTFtVTRoZlF3eXJTNE8xaHc3aU9CZ2FEbWh2X2JERTRJZUFRTFFiRTA4cC1IRHNQQlRRMDVMUWJlajZUSnFMZXlQbFlyNlZnVTZzaXZLTWo5U3NjeDNsdmdFalUyeC1tYWNEek5DaWwzbTJZZl8xMGtOelF4WVl1MTFR?oc=5",
-   "altriArticoli": 1
-  },
-  {
    "id": "pl-13531",
    "fonte": "PeaceLink",
    "titolo": "Perseguire i crimini internazionali commessi a Gaza: l'esperienza della fondazione Hind Rajab",
@@ -1968,36 +1430,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13531",
    "online": false
-  },
-  {
-   "id": "aip-1745394",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: \"Perseguire i crimini commessi a Gaza: l'esperienza della Fondazione Hind Rajab \" - seminario presso UniFi",
-   "tipo": "",
-   "inizio": "2026-11-12T16:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1745394/-/firenze-perseguire-i-crimini-commessi-a-gaza-lesperienza-della-fondazione-hind-rajab-seminario-presso-unifi"
-  },
-  {
-   "id": "aip-1741827",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Soci (AR): \"Storia della Palestina\" - lezione, apericena e proiezione di \"Palestina 36\" - rassegna \"Sguardi sulla Palestina\"",
-   "tipo": "",
-   "inizio": "2026-11-12T18:30",
-   "luogo": "Soci (AR)",
-   "citta": "Soci (AR)",
-   "regione": "Toscana",
-   "coord": [
-    43.7372,
-    11.81335
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1741827/-/soci-ar-storia-della-palestina-lezione-apericena-e-proiezione-di-palestina-36-rassegna-sguardi-sulla-palestina"
   },
   {
    "id": "pl-13527",
@@ -2032,194 +1464,6 @@
    "online": false
   },
   {
-   "id": "aip-1746212",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: \"Nessuna impunità - Hind Rajab Foundation e BDS\" - incontro",
-   "tipo": "",
-   "inizio": "2026-11-12T21:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746212/-/firenze-nessuna-impunita-hind-rajab-foundation-e-bds-incontro"
-  },
-  {
-   "id": "gn-a2hrWXcb2M9NQ",
-   "fonte": "Giornali · Il Piccolo",
-   "titolo": "«Riapra l’ex mercato di via Gioia», a Trieste nuova manifestazione in piazza Libertà",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-13",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-13T20:24:37.000Z",
-   "luogo": "Trieste",
-   "citta": "Trieste",
-   "regione": "Friuli-Venezia Giulia",
-   "coord": [
-    45.64965,
-    13.77728
-   ],
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeUo0S25fV3cwSUV3R0FyMDA5LU1QN1lCYkhsengzWkxmN1NMTzE4Q3E0RW0tRzh4MENEc2s3MUxFN1F0dG5kMkstZGtkWG44R2k2RFFXT0g2V0lmMVV3WGRSdkFvR3pmLWpldTJtYVJxR1lPcThlNHRsd01xSHdFZlNOWXlmWk1Wb2tmMmNsb2RRTDI3MGUtdVhOY2VxVVY4LTI2OWdyc3Rjc1VLOUlGOFFxV20xUjRib2RuQkhkYw?oc=5",
-   "altriArticoli": 2
-  },
-  {
-   "id": "gn-blJUVVEb2M9NQ",
-   "fonte": "Giornali · Notizie di Prato",
-   "titolo": "Liceo Cicognini, tentata occupazione e muro contro muro con il preside: studenti fuori, polizia a scuola",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-13",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-13T19:20:20.000Z",
-   "luogo": "Prato",
-   "citta": "Prato",
-   "regione": "Toscana",
-   "coord": [
-    43.93572,
-    11.09415
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdkhIbE9YYUpuMjZIREdsSXRRdXpKR1h4bmhENHVNT2UtUHJIN0Yxa0gzRWZlbWk4cTkwZ2kzZDVRcnBMX2lYRkNVWW00bnY4b0FNNzY5cldWT1g5Z3pnTmhtTVpZOTNFcEF1SnRVUDZfLWZLa21YWFQ3SEZmREFGV2cxcHZ1ZVdSTXpYNW9UNVBMbnBCNVkwdks2WDVQcjBEUVROTlBsWURILWJjZXNQUk4wYnNiS3k3RkREZUJoVWVUdkhmMTFkbzZ2VnF1ZVhqUWFnUVR3NnRTUQ?oc=5",
-   "altriArticoli": 1
-  },
-  {
-   "id": "gn-R1Z1TFhjP29jPTU",
-   "fonte": "Giornali · PugliaLive",
-   "titolo": "Inaugurata a Bari “la Rossani. – BiblioTeca del Mediterraneo”, nuovo presidio pubblico di cultura, conoscenza e socialità della Regione Puglia",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-13",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-13T18:03:47.000Z",
-   "luogo": "Bari",
-   "citta": "Bari",
-   "regione": "Puglia",
-   "coord": [
-    41.12578,
-    16.86203
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQmxsM3dGV3U2R0RhR3RCdTVTNHhobGtOa0JRa2J5TUZXNy02N3FQTS1xM1dYTTJQNmJTV0NGb2pRbFdOa1ZtWXRKSzQ2cEMwelVPZXdrMWJIdnJ2dTdLcHBwbGJyWkJiTFU3S3JtSFl4WV9keDZFX1NSd2RQUjBDZmNBRGhEUEV3UGVONC1LRnkxMUZXWVN4TUhmdmJVV2ZqVTNSUW5zQllGSXhvQXMydzlPYzVtWFdyQ0xTaGNxRkV4czZNX2Rtb1g1OVJWQUdCZnVwbDBmRDVzalh0M1V4MUZibU52NzlndkdHb0tGb19ZWGVuLXc?oc=5"
-  },
-  {
-   "id": "gn-TTViSGMb2M9NQ",
-   "fonte": "Giornali · RaiNews",
-   "titolo": "Venezia, salta la \"Prima\": il presidio dei lavoratori davanti al Teatro La fenice",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-13",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-13T17:59:00.000Z",
-   "luogo": "Venezia",
-   "citta": "Venezia",
-   "regione": "Veneto",
-   "coord": [
-    45.43719,
-    12.33459
-   ],
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOc2JIVTlRdTFvLXNVbFFiT2dxM25mRHFldll2a2Q2VFVKMThwOTVGU011SDE5U1NrajZlbXV6V3lqeFJkRWhPNzFBaC1tbFdneUsxb0o4ZkRfcnFSNENrZXU4OHh5ekJKelg4TlhUN1JLLTdqQUhpRFlPLTNfWEFLcUJMX2p4UWxyYUVRMGE4VThHTUVieUZQakhtR3B2eDN6anNBZjBzUEdiZ3dWcXphbU1LS1RKNnlVakVMd0NiOGNXYllWUDA0SXNXQnlYcHgyMnNHYWRqVDhpVHJIQ2xqTnlhYUtCVEpscmczMUhSMUd6cXRSbzFiUFFtcUV1Tkpf0gGGAkFVX3lxTE9GSE5KbGNqQTBBR2dIWTJ5bFBvcVNWaUVWZG1rei0wLVA3WE1pT0tQSkpYNG55WWo4eTJUcHhtQllPNE0tM0FXdVpMRk9ZdnpTSTlQWXUzTUpTVEVDTmVFQjJwVEc3SWJ5S29KT0IzczhIU1lPT2RqazB2eE9DWFRHV1VZcXVfRlhRNUZNOTE4bWNUUlFSblMxRk1GY2NSZ25McW83dXlnaXBKYkJtWUZFeC1MTExza1VGTndDMjZVbVhjd1dubTdFN0EydDZNLS1wRWdieGgwOGN1Nndwb3JmeEdRRXZOOVotMDcxTTZlTTFoR1ZvZHoxcVZ3QUlEQXV0U1M5bHc?oc=5"
-  },
-  {
-   "id": "gn-b2NYWTFNQT9vYz01",
-   "fonte": "Giornali · ANSA",
-   "titolo": "Cgil, manifestazione ad Aosta partirà dalla Cogne acciai speciali",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-13",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-13T15:08:00.000Z",
-   "luogo": "Aosta",
-   "citta": "Aosta",
-   "regione": "Valle d'Aosta",
-   "coord": [
-    45.73731,
-    7.3204
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTExmeU05ZzZQb0duenFrd3VISkFON3dVT1VQQUpUbFdycjcxel8zYjRTZFNEcEpuWGxucnhHYTYtRFU2RVlyRXVtXy1tWUJzeU5TQ0ROemgyMlcwWW95LUxxY18zclRkNE4zdU1FcU9NbllDc3NqbUlEME5qSmFUOEc0SDRjc1B5RzJtczhLUnpQRGMzbVhkbXp2M182bFQ2TE1NSWdhaUMwVVh5SWswVVRLMEhuc25RUDEtdVNnZVZLMzBpUkJDVHp3dE1CdnVHMEFOVWZZN19iTlFOSW5vLXJyM0o2VkM5dmpacG530gHzAUFVX3lxTFA1LTFZSld6VEc5endGNk9ITVZaRHFkX3Z6R19HaGwwdHpDelotQkpUNmU4aXpFMGlwal8xaWxqd2tDUzFIaXFjTEYyQ2k1MHY0dm5TQUhVT083WWpnVGRIcDJ3TWM1cnZnc2lDTXBPTndfRHFwMzFtMEJSU3RsQkpEU09YY0V5dENHc3Zrd2Nncmt3ZzZfQVlBaXhVUEhQbDItU0NVV1Z3amxxcmx2bDlGM3hxdzEwN1RLeDhnd2d0TVhKaVFsT1RyRjBnWGhRYWluanVxNGFhRFREeTJ1dm1qdVRxNkVnTFpIc1ByRS1ocXY1MA?oc=5"
-  },
-  {
-   "id": "gn-MnRRYmxKUj9vYz01",
-   "fonte": "Giornali · Eco di Savona",
-   "titolo": "Comitato San Paolo Presidio davanti all’ Ospedale",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-13",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-13T14:40:52.000Z",
-   "luogo": "Savona",
-   "citta": "Savona",
-   "regione": "Liguria",
-   "coord": [
-    44.23342,
-    8.25257
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd3JRMk9BbTZZd25MeGg2OE12R3k5QUpMdVhNRDVvanhJanBxbDJyaWJocTB3NzVTNnJkbTk0OWlzU0Rva0dadmtldzRvZUNpVGdVeldyZ3lsY05ZRUxIb2dfUl9hcTQ0Z3ZJUHpocS10bmxUZnNTT1RlZEZtT2tQblJR?oc=5",
-   "altriArticoli": 3
-  },
-  {
-   "id": "gn-T1c5dFRFMD9vYz01",
-   "fonte": "Giornali · LA PROVINCIA Frosinone",
-   "titolo": "Conca di Sora, manutenzione senza sosta su fossi e canali.Pili: “Presidio costante del territorio per garantire sicurezza ed efficienza idraulica”",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-13",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-13T13:10:05.000Z",
-   "luogo": "Frosinone",
-   "citta": "Frosinone",
-   "regione": "Lazio",
-   "coord": [
-    41.62855,
-    13.57585
-   ],
-   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOZXZscWlxNlBuSkhwdGx6TFVwbnZWeHVHNmROTnA1LTVsZEs4cVFwV0hISjJ5QXcwVEVtZ0FHNXZyS0JuR2xwby10RWNxQV9iYVRoZzJBOURaYTRIdjN5dVRTa3BuNjc4MloxdGpieTBheDFOc3pETTJzOWg1eW1nUW1hTnJLZVFoVFF4MUR6MF9TUUVpWTBfTWpvcGhQRTNFWkd4WkNuSUlfLVhRTFdOWkRGS0cxWTNkRXRPcFJiS2FhdFd6YldCNzVibXhqOWotRENwSmcxeXRRQTNnRW5Vc3FHWmxma1VHcHVaNzhhYURoaHB5RkFLb3hYVGQ2X215NHl5clc5RjRqUnVPbmhPOW9tTE0?oc=5",
-   "altriArticoli": 1
-  },
-  {
-   "id": "gn-WlhUMmcb2M9NQ",
-   "fonte": "Giornali · MonzaToday",
-   "titolo": "A Monza la grande manifestazione per dire basta ai morti sulle strade",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-13",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-13T08:47:58.000Z",
-   "luogo": "Monza",
-   "citta": "Monza",
-   "regione": "Lombardia",
-   "coord": [
-    45.58449,
-    9.27491
-   ],
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRENzVWp5cFUtWkwwRWFvWjBURk45bEtuTDllaUpLQWIyNHdfWWlybVU1anRFQ3Z4ek1yZXM5NW1JTkJPZGNRVjBEQ2ZOcW9NVm4yVE9ReFBuTllWdFNOaVhsRzlrdU1kOTZ6ZVdraGJudWYwbHBwNnp5dk5XT0hKR0xJeDk4dEd4dzVqWEZXT2g?oc=5"
-  },
-  {
-   "id": "gn-VXpkSFNGRT9vYz01",
-   "fonte": "Giornali · PadovaOggi",
-   "titolo": "«Gaza annega» e Padova scende in piazza: il presidio in piazza Antenore",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-13",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-13T07:54:53.000Z",
-   "luogo": "Padova",
-   "citta": "Padova",
-   "regione": "Veneto",
-   "coord": [
-    45.39141,
-    11.80585
-   ],
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5zTFc0aEM2TlVwOFB0VmJ5NnRyNzhIdi04WWpFUkEwWndmVndCbF9KVWhDLUV5ZE1CUzNhMTNIWXZSUVVEZ2ZJc2k5V2tVTmlzc0t1UkJGQV8zYmNkZ0MwMWhGM1J5MGZaZFNHaUVHOXlpaDBHWExBSk00NjB4Tkc2RktrQVZZZDdOTEZHcm1tUzdHSFE?oc=5",
-   "altriArticoli": 3
-  },
-  {
-   "id": "aip-1746217",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Livorno: discussione sul DDL \"antisemitismo\"",
-   "tipo": "",
-   "inizio": "2026-11-13T17:00",
-   "luogo": "Livorno",
-   "citta": "Livorno",
-   "regione": "Toscana",
-   "coord": [
-    42.79024,
-    10.34022
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746217/-/livorno-discussione-sul-ddl-antisemitismo"
-  },
-  {
    "id": "pl-13510",
    "fonte": "PeaceLink",
    "titolo": "Rovereto. Narrazioni di pace per il disarmo nucleare con Ican",
@@ -2236,36 +1480,6 @@
    "online": false
   },
   {
-   "id": "aip-1746495",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: \"Fridays for Peace - Firenze dice no al riarmo\" - presidio",
-   "tipo": "",
-   "inizio": "2026-11-13T18:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746495/-/firenze-fridays-for-peace-firenze-dice-no-al-riarmo-presidio"
-  },
-  {
-   "id": "aip-1746184",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: presentazione del libro \"Il diritto internazionale è carta straccia\" di Micaela Frulli",
-   "tipo": "",
-   "inizio": "2026-11-13T21:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746184/-/firenze-presentazione-del-libro-il-diritto-internazionale-e-carta-straccia-di-micaela-frulli"
-  },
-  {
    "id": "pl-13536",
    "fonte": "PeaceLink",
    "titolo": "La resistenza palestinese nonviolenta",
@@ -2280,113 +1494,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13536",
    "online": false
-  },
-  {
-   "id": "gn-WGgzT0ZFP29jPTU",
-   "fonte": "Giornali · Sky TG24",
-   "titolo": "Cortei a Milano, manifestazione pacifica contro il carovi",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-14",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-14T21:16:18.000Z",
-   "luogo": "Milano",
-   "citta": "Milano",
-   "regione": "Lombardia",
-   "coord": [
-    45.46419,
-    9.18963
-   ],
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVFpcF9ubnotUnZTelNuU2o5VnYzVTBicmVEYURpYUV0bW5QSzBTSU90eUJvVldld0g3UFJGdTBRZlV3Vm1BZ1hDZGEzZVViM0U4cGV0RjBsczdEYjBJWFlHR1lRSndScVRuZ0lORDJJdlZ3OXlncnlmdkxiOUx1VEdGV0x5RldQakI3eDVneW5FeGozNG5JazZKNS1ITWdtZjd5NThhcXE1SXh3OFE?oc=5",
-   "altriArticoli": 10
-  },
-  {
-   "id": "gn-a2Q2UnpRP29jPTU",
-   "fonte": "Giornali · Corriere di Bologna",
-   "titolo": "Minghetti, con un corteo degli studenti termina dopo nove giorni l'occupazione del liceo",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-14",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-14T18:16:32.000Z",
-   "luogo": "Bologna",
-   "citta": "Bologna",
-   "regione": "Emilia-Romagna",
-   "coord": [
-    44.49382,
-    11.34263
-   ],
-   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPTmY3UlAyVTlDaFRfZDVHdVlzZE9qRWtTSGcyei1BWVRaaW1GUVUtMzJrWWJlOF9OYXVqeWsxNVQwR3g2TklVOHgzdmNrWXNEcjVyMWNlOTN6b2lCMGF3THRrS2xFcjh4UUFaYjY3enhXZVYyNHExd3ZrRDFseG5IVHFoTXhmYy1oWmlSWmRwYk5neGZSb2lrSFJXdTA0SmxDcWlHdFpQdHN1dENoRk0zWWxCMDFYQVd6ODhVLVFLTkI3cmI3S0YtWEdDMVFsN2F5dkxtZm1rYUtiTU13a3FiNU4yMklhaEZuY0swWlM4bHhzbTBmQ203Ri1nMW1IY3ZQdTFPODFua2pVcEU5LVZaTVZIV2E5WWd3ZFlpYjVJb3VaNnVUWmfSAasCQVVfeXFMTk1UZDVwX3VsVXE2Z0Q1bEdlYXdqZWxweGZoQWRKZG9UOV9uMkF5dWNtRlNybWlnUUFab2xIakZhQkVneFJRemJWdWszV3BJamI0dU1mTzRiZ1plQ0FtYnZFMjltbThreG00VUhZRTZfeVVSSkJxV0NFM1BjOG93TkpMWlJ4el9GV1Q5UTRmN21yZlZOTFNkeDJhRTZwMzRaRXl5RE05QjIzN0V4NndYM3VzVE9Ud2szV1BYX3NORzgwR2xhNGl6TERfWmw2TXoxdE11dDFKZ0p6Ml9UMlJCYzU5Q29lMmJmN3FMZThqS2M3bk5XMmYzdk5JQ3M0Nnd0TkpYZ1FjNHJ1U2FnZzVTUmZxZE1ta0lnWkZ3Tm5IZnpqUmowSFdYWkd6RzQ?oc=5",
-   "altriArticoli": 3
-  },
-  {
-   "id": "gn-RWN0VlEb2M9NQ",
-   "fonte": "Giornali · Bresciaoggi",
-   "titolo": "Brescia scende in piazza contro il caro-vita: ma sono solo 300 le persone in corteo",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-14",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-14T15:24:58.000Z",
-   "luogo": "Brescia",
-   "citta": "Brescia",
-   "regione": "Lombardia",
-   "coord": [
-    45.77958,
-    10.42587
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdm9xSnR1THVEd1J3VHIwLW1TTEJIanNpOUJWY0VvZ181UkhDYzNIb2pEMnpaSUgyc3Y3UkxSMmJUTXdxZG5jTjJtVTZTMmRMd1NZbEM0SG1PZk5kRUFlQlVEb0h5dTRYNkJGX2h3TUFUamctV2FFZnpTUzBRTU5ITzhBUnlYQ3RGWWZnYlBVTl9vYlNHbFNYVlFjcHhLaEtBbXZZUENjZ053ZkxiMFFSZjQ4RDZjbDVSOWQ1dzgyd0xibFBVUVhqc01kdTZHNXFBX1UteGQ4SzBJXzA1b2xBdEctVQ?oc=5",
-   "altriArticoli": 3
-  },
-  {
-   "id": "gn-VU51Yms5Qz9vYz01",
-   "fonte": "Giornali · La Stampa",
-   "titolo": "Carovita e fondi alla guerra: si torna in piazza. Parma blindata per il doppio corteo “rosso-nero”",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-14",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-14T11:15:00.000Z",
-   "luogo": "Parma",
-   "citta": "Parma",
-   "regione": "Emilia-Romagna",
-   "coord": [
-    44.6952,
-    10.09799
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNWNjS0ZjQTZURDROdjVXTFZBNHNILV9BczM3Rkk2cXhlcmY3VVJVSTRhd2s2MjY5VE85S183eVpXSVBYekNycHdKZF9hbVo2eVVLcmlHeURHbmFfZHpSVlpNXzBBTkpTcFpPdVM1NkRhUnNRdHc2d0ZvVVdPbzZ0Mi1BSEFOV1U5N01heS1RQjB1Um1adl85MUkzQ2hYRVBMek1WQlJQRUU1MEFYcDVRbW9TOEFlZklJUWs3ME53cWd3b3BZZTNBT01vQTZmUVBTNXJwdno5UUNubk9C?oc=5",
-   "altriArticoli": 1
-  },
-  {
-   "id": "gn-VU4yVFEb2M9NQ",
-   "fonte": "Giornali · Radio Onda d`Urto",
-   "titolo": "Brescia in Piazza: sabato 14 novembre “Corteo contro il carovita” da largo Formentone.",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-14",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-14T08:47:00.000Z",
-   "luogo": "Brescia",
-   "citta": "Brescia",
-   "regione": "Lombardia",
-   "coord": [
-    45.77958,
-    10.42587
-   ],
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUxkcms2YVFtQWVKQUxMU3hlTDMtRkxoZ25zbFZub1hNMThXTE1jQkNNS2RpLVVQS2M4YzRheS13WFNyb0NQSnl6aFd1SEVob2NvTnl5d3dRdjBDQi01WFd3UHAwdHowbEtQTmx1NWFibm9ZUXNjTkdHMUJTTjQ0cVRxX0U5RDdJV3NCdjBvR3BVaWNMLXZVeFQzNzVaWVlTaUN2TQ?oc=5"
-  },
-  {
-   "id": "gn-Vm9RVUp6P29jPTU",
-   "fonte": "Giornali · Cuneo24",
-   "titolo": "Cuneo, sabato 14 novembre un presidio per la pace promosso da “Donne in cammino per la pace”",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-14",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-12T08:33:00.000Z",
-   "luogo": "Cuneo",
-   "citta": "Cuneo",
-   "regione": "Piemonte",
-   "coord": [
-    44.45807,
-    7.55814
-   ],
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZi1fajlhV2xyeXNhVlQ5OWtSY09iWTNKbWtvQ3NHYTF0SU9NcEIwWmoweWI3Y1NQZ3pCUDhlZjVoLXNGdEhNS1o0N09jWGFEd2tyQXJhZGRNY0Q4MUw4T0J1b01sTDB2MUd4NWFmSUswUXhTVW1neVl6QVR2eWVJbEhvVFQxRkU1bDdyQXExZ1ZkRi1pWkF1LXd1THprdi1heHVJbUJVWXNTZHZEdUhsbFoyYllXbmp5UWM2T2QtZlgwRFVoQUJz?oc=5",
-   "altriArticoli": 1
   },
   {
    "id": "pl-13540",
@@ -2437,21 +1544,6 @@
    "online": false
   },
   {
-   "id": "aip-1744698",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Grassina (FI): \"Florence for Palestine\" - giornata per la Palestina e concerto di Sama'Abdulhadi",
-   "tipo": "",
-   "inizio": "2026-11-14T15:00",
-   "luogo": "Grassina (FI)",
-   "citta": "Grassina (FI)",
-   "regione": "Toscana",
-   "coord": [
-    43.72354,
-    11.29345
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744698/-/grassina-fi-florence-for-palestine-giornata-per-la-palestina-e-concerto-di-samaabdulhadi"
-  },
-  {
    "id": "pl-13528",
    "fonte": "PeaceLink",
    "titolo": "Un ARSENALE dietro CASA",
@@ -2484,89 +1576,6 @@
    "online": false
   },
   {
-   "id": "gn-M3BsUzNNP29jPTU",
-   "fonte": "Giornali · La Provincia di Cremona",
-   "titolo": "Polizia: ottobre di presidio in strada, sulle ferrovie e nel web",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-15",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-15T08:22:54.000Z",
-   "luogo": "Cremona",
-   "citta": "Cremona",
-   "regione": "Lombardia",
-   "coord": [
-    45.22086,
-    10.03704
-   ],
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYzdGSm5za0Ywa0VFQnk4eXcwR1BCSUVQX0RpWXpZaEpDaHJQb1AtWXNVVVZyYnRXeWF1Y3NqOHRpcjRhaGx5TWRVbWdYQzVWVHVQMzFWVmhVUzNQRU1INV84WDFiaXBEMWI5d0czTkVCc0xuRDFFQnFBRklENlZucTlzeVpZNFVLMDlpdWh0NG5xLTFrVTdidXNlODVkOHVJa05CdUdGZGtfUXd5YzdYeGt3Y3plS3M?oc=5"
-  },
-  {
-   "id": "gn-RU5DT1ZaRT9vYz01",
-   "fonte": "Giornali · Il Telegrafo di Livorno",
-   "titolo": "Emergenza al blocco operatorio. Presidio ieri davanti all’ospedale: \"No all’infermiere jolly in chirurgia\"",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-15",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-15T05:43:44.000Z",
-   "luogo": "Livorno",
-   "citta": "Livorno",
-   "regione": "Toscana",
-   "coord": [
-    42.79024,
-    10.34022
-   ],
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXJoc1BrNVpBMjhFSHZtSzYzM25IWDhpZ3ZpRXl2ZXI4SS1zbE9ERDU2LVUwLUl6UERoTUpVa2N5V25nODg3cy1UMERsUzFUQ3R2NEUwaXBmbWpLWHNBUmd4UTBhX1RUY1M1SFlaUzFuTWladlp0WjUtT0otRzdDRGNMQ3RMMDU3dm1xb1BmRENCOVZE?oc=5"
-  },
-  {
-   "id": "gn-UmpWMVYxST9vYz01",
-   "fonte": "Giornali · Radio Onda d`Urto",
-   "titolo": "Brescia: domenica 15 novembre pedalata e presidio contro la riforma del codice della strada",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-15",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-12T07:46:00.000Z",
-   "luogo": "Brescia",
-   "citta": "Brescia",
-   "regione": "Lombardia",
-   "coord": [
-    45.77958,
-    10.42587
-   ],
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN25RQ0R2ZVpib1JWMHJxV29Bb18xQlZWZmh0a0p1QzE2aXhadHFDMnVGdFI5THZDUkt5cVFPY0xnbVVNMFFsTWFpekVnengwNWVwX3ppRXR3TWRGZ0NNaFM3RmRwZ1Rmdk43aWo0blNRd2NPUURHZFFUUUlVc0JKeDJKdWM3T29BT29aMTFqMVZrUS1MRFh1d3p3UUNmQ1h0cnFwTkViYmtidU01cmJjY293eVVFOFN6VV9aMWhMTVhXcnBiVUQ5RjV1V1I?oc=5"
-  },
-  {
-   "id": "gn-c1pFWm5Zdz9vYz01",
-   "fonte": "Giornali · Eco dalle Città",
-   "titolo": "Torino, il 15 novembre presidio a Porta Nuova per ricordare le vittime della strada",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-15",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-09T13:32:11.000Z",
-   "luogo": "Torino",
-   "citta": "Torino",
-   "regione": "Piemonte",
-   "coord": [
-    45.06776,
-    7.68249
-   ],
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRW5Hc2VhOU5SQUFsdVkyTHFCa2NSSlV6VnZhbEg5aG5QNm9Na2hYWWtJWmJzWWxmMXItMGtGaHplX0lSeTNVQi1Mei1GczNLWHZZS2ZaTVdRRjdaQjA1cUtwQS02bEVxSzh2OW1tLXFDY1pkbDRqWWR4bDdSblFXOUdPMmU2QWNuR1NsZEZnYw?oc=5"
-  },
-  {
-   "id": "aip-1746494",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: Assemblea Comunità dell'Isolotto sulla Palestina",
-   "tipo": "",
-   "inizio": "2026-11-15T10:30",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746494/-/firenze-assemblea-comunita-dellisolotto-sulla-palestina"
-  },
-  {
    "id": "pl-13545",
    "fonte": "PeaceLink",
    "titolo": "Manifestazione in Sardegna contro il raddoppio della fabbrica di bombe RWM Rheinmetall",
@@ -2581,21 +1590,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13545",
    "online": false
-  },
-  {
-   "id": "aip-1746214",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Pisa: incontro della rete #DigiunoGaza in Toscana",
-   "tipo": "",
-   "inizio": "2026-11-15T12:00",
-   "luogo": "Pisa",
-   "citta": "Pisa",
-   "regione": "Toscana",
-   "coord": [
-    43.47147,
-    10.67979
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746214/-/pisa-incontro-della-rete-digiunogaza-in-toscana"
   },
   {
    "id": "pl-13529",
@@ -2614,140 +1608,6 @@
    "online": false
   },
   {
-   "id": "gn-SEJTYzFKUj9vYz01",
-   "fonte": "Giornali · la Repubblica",
-   "titolo": "Occupazioni studentesche a Milano: dal liceo Parini al Bottoni si parte oggi in sei scuole",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-16",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-16T19:26:34.000Z",
-   "luogo": "Milano",
-   "citta": "Milano",
-   "regione": "Lombardia",
-   "coord": [
-    45.46419,
-    9.18963
-   ],
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmdpUnpqcDN5NDFSMFdRT19QTkViZ1MxWDdPSURabExlUXdCcUxQSVQ5T0dYTXFjX0ZIWXR4elFLTktoU18ydFdhZ29LVXF0M1BtcmRCUDFNUWd3YWExVWhMakYwUGpNTkxtUndVbVdHMUFLb3R5SW9lSUdUZDdGWXk0Tnc4RURBaWJIcmdObHZHdkpFbWFLc3BUMnk5Wl8tbFZpdFVuM2RQUnBPTE85dlNldzNja3ZtdVBGSHRyZkVqWkt4azljQk5jZHDSAdIBQVVfeXFMUGQyT3dJWTQ2YlBSMExGOWprNlBrLXJMaVpyUEpMNThBM0ZWSzFUZl81RVRWUU1ySGd4eUtVdDNhbk1vczY4cU1WaHpJdXM3cG9SMmJqLWRDdzUwek5EVzRWQXRyMVA4U0x6d25RSWsxQjBtaFZrbWw0a2lFQ2w2c1Z4STdiRFdZZ0xDVjlZNG9XZjVmMTRWcU8tNERfMlRZVXR2TXpKMzQwNUEydE9KeUFzN0ZmR0hFWm44M1RmM1FTMUQ1cm9XUHRDVkh2ZHBSc1JR?oc=5"
-  },
-  {
-   "id": "gn-SjNTMGsb2M9NQ",
-   "fonte": "Giornali · LecceOggi",
-   "titolo": "Its Academy Puglia: Formazione, Innovazione, Occupazione",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-16",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-16T15:28:08.000Z",
-   "luogo": "Puglia, Italia",
-   "citta": "",
-   "regione": "Puglia",
-   "coord": [
-    40.98425,
-    16.621
-   ],
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSXR0TGZCRDQwVDRTTmE4MHJvS0c1c2xsS21QQnlRS0JsM3lnamlJR3NXN1NIV1BOZkhwcEJKUERSR3FiN21YRGdtYjJnWlZfUExtZGZCNFNtcnlTV19teFZRbmFnNkRRRkxXREZYakxoaHc0dFNqSGRyS291TS0wb1BER2J3S0k?oc=5"
-  },
-  {
-   "id": "gn-ZHpPSGMb2M9NQ",
-   "fonte": "Giornali · Radio Sintony",
-   "titolo": "Artigianato digitale, Sardegna prima in Italia per peso sull’occupazione: mancano le competenze",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-16",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-16T15:02:14.000Z",
-   "luogo": "Sardegna, Italia",
-   "citta": "",
-   "regione": "Sardegna",
-   "coord": [
-    40.09128,
-    9.03058
-   ],
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYS1MTF9ETmVWTllyM1J1bksyZkRjWk5Bb042UnNjck13M2RUREZTZkZRWlhoOGxTdDFjV2Q2TjlpQWFOUWJmd3RoZ3JNY1BDQXBZTHVzZW9tWmlZS3JyNzctOWQwWVBfLXFkUUgxX1ljYkQ5a2k2eWhlMS1KZ3BDLVUyX2VtdnN2ckNlNWsyMVBuMklBVVJ3MmszWjRXX0wtUFB2bVpKcWxfM18wX2lMc0Item5IdUVadnpIQVV5RElVLXdzOHc?oc=5"
-  },
-  {
-   "id": "gn-elZpZGcb2M9NQ",
-   "fonte": "Giornali · PerugiaToday",
-   "titolo": "Perugia, licei occupati. Ingressi \"barricati\", Digos e striscioni. Barcaioli promuove: \"Bene protesta pacifica\"",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-16",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-16T13:23:12.000Z",
-   "luogo": "Perugia",
-   "citta": "Perugia",
-   "regione": "Umbria",
-   "coord": [
-    43.10703,
-    12.403
-   ],
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeG5MSml4RUlmM01YZlQzd1lUTmFnVFlpbjB2WElWNkItMDhNSGViZ3hmeVk0NmJORGZuWk5uV09BbkxTWm5RTXdzYWFrWHFsZTVZV3lnUW56clA2OFVpUDV4NTNEd1lWQkdfbjRYQlNGczVIa0VSUnRGem9NQzVidg?oc=5"
-  },
-  {
-   "id": "gn-TE9WcGhTZz9vYz01",
-   "fonte": "Giornali · La voce di Asti",
-   "titolo": "Sanità pubblica, lo SPI CGIL in presidio davanti all’ospedale di Asti contro la rinuncia alle cure",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-16",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-16T13:16:57.000Z",
-   "luogo": "Asti",
-   "citta": "Asti",
-   "regione": "Piemonte",
-   "coord": [
-    44.82601,
-    8.20269
-   ],
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPbEhPODdVYWxGVkNRY2hZME9ub1Jub1Rab1FnVjRiTXNxZlQ2UGdDalBqV2h1aFkyalBhRW83dGQ4VXJObkgtTkNZNUVoUE9IbFJGZU1HZjZXc1VqQkJORmU4RjlOamE0RkdzU3ZkQVNTaXFzcTFGcWpUZl9qbVhqUUdsMHhHTHFDOGhkcEloQTE0RDk5S0p1QncyeGdtT1JsTkVVRG4zUW9ZTzRCaEV4NkxrMGdtVGxwUFo4RFk0bVAyMDhRdEN6N1FqTVB1U3MxV25lSHI0VTFvdk50c2RQZVBUeVlnVXdVSUs3SFlqSXFPblROME1XNnRpeVM0LUI3UUxIX2tMRzhlQmhnUWfSAYACQVVfeXFMTWdIUTJUdkxlWERhNTN6c0J6WXoyeGNseFBMQTFiVEZKVkRlYnE4LWlPWmhVU09UZTNFTkhDa0VVQmFVdDFYcUJWSWdHMnk4ZHhLclZkTXJoVjBWc3VMVVROeDA3VC1YS0hNLVNBYTdXb3k2eVhkUDMybmR5QWFHZ3dLQ2FlbklJVFRIUFVNczdGaDNnSGRBWlZMZkQxTGZvVUxCaGs5MjVWdWxBMS1uTDFHXzJVNEc2NS04YmJybVFKWTYtNDR3WnNIQXdmNlRsOUYyeDNSTkdoMHIzVXNLVm53YWhZVEZDZlF0dTBvRC1Nb2ZGV0FvdEcxeFFLOVphSg?oc=5"
-  },
-  {
-   "id": "gn-aVh5MTRadz9vYz01",
-   "fonte": "Giornali · TorinoToday",
-   "titolo": "Finisce l'occupazione di Palazzo Nuovo a Torino, lezioni universitarie anche al Centro Congressi della Regione dal 16 novembre",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-16",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-16T10:38:00.000Z",
-   "luogo": "Torino",
-   "citta": "Torino",
-   "regione": "Piemonte",
-   "coord": [
-    45.06776,
-    7.68249
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSFpCNXNOY1lORV80eURvMm1mTnR2MWo2ZHBUS0NXakRISVh6OWNTVzl0XzAxdV9ZUWRwZkpmY01VakFwRWxMLS1GdlRsbFJfRVBPbTBHbV9JelhyREtKN05zMDFBejc2WlNpd29iTWhfSEQxSHdhZmE1LWJkRzlnbHVXeFRrcU5pUmFLdFpCdkR6eXJJUVR0bjY5Q3VyYXVsLVFESkhmWXBFUEFZdDFwYUVWd0ZIT1E1eEpTVFoydkRFYzNfQk1jNkpFbktUY0QyRC1fTU5HZ01OUDJQWVV4dngtOEVyV2dFX0dHejJiXy14Zw?oc=5"
-  },
-  {
-   "id": "gn-TmpSeVdUZz9vYz01",
-   "fonte": "Giornali · La Nuova Ferrara",
-   "titolo": "Ferrara, “Resistere qui, resistere ovunque”: il presidio per l’Eccidio del Castello",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-16",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-16T05:56:00.000Z",
-   "luogo": "Ferrara",
-   "citta": "Ferrara",
-   "regione": "Emilia-Romagna",
-   "coord": [
-    44.76676,
-    11.82794
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNb25DNnA3eGhuNFlXeXdwclZPSW5sdjFYNm81WWRSc1RTdmFtNmszRE5GTlZOV2V6UHA3RmI5ZGF3eS1WVzhSTEpNQUVkdWhrVlNJdmNXamtySGkxR05GZ0FjcU14aHV1bGd2ajI2WENtY1NtUVRvRFlsT1Z2NlBpNklrQWFoYy1oQld2WVZGS3lJMWVhZ1h3MmthdVNrTUVzZWE2QUZJUzliZTlKcVN3bHIwWi01VEdoaWc3dUZBZTZ4WE9jN3dCTmRnUkdjNHJ1bW4tWVZpX2tSU3h5SmYxQ0tDNjRyWTg?oc=5"
-  },
-  {
-   "id": "aip-1746563",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Sesto Fiorentino (FI): proiezione evento di \"Naza\"",
-   "tipo": "",
-   "inizio": "2026-11-16T10:00",
-   "luogo": "Sesto Fiorentino (FI)",
-   "citta": "Sesto Fiorentino (FI)",
-   "regione": "Toscana",
-   "coord": [
-    43.83172,
-    11.19922
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746563/-/sesto-fiorentino-fi-proiezione-evento-di-naza"
-  },
-  {
    "id": "pl-13525",
    "fonte": "PeaceLink",
    "titolo": "Dual Use: Il caso UniMORE",
@@ -2762,40 +1622,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13525",
    "online": false
-  },
-  {
-   "id": "gn-VGQ0Y3cb2M9NQ",
-   "fonte": "Giornali · Primocanale",
-   "titolo": "\"Pensioni come bancomat\", domani manifestazione Cgil a Genova",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-17",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-16T10:21:53.000Z",
-   "luogo": "Genova",
-   "citta": "Genova",
-   "regione": "Liguria",
-   "coord": [
-    44.40726,
-    8.93386
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQclZ2ejY5T0h1OUNxbHlkTEU3M3Z3bEhCLTVrT24zOHZQZU10RkxzVjNtLXduYTFtbGtJNlRYYWFpd245dnV3Z3RLcF9mbG9URGl4aGxKMF9ScWY2U19lM2w4T2RJdFhiMTgzNlNvTjhBSGdUQV82R1NPcnc2alJqckpKaGtDNTZvZGVXaHVDXzdDNnNFVmtTSGFJZUxXOXpvTTVv0gGoAUFVX3lxTFAybmpEZDZ6b1lvcHdvVThuZnQxRFhKRkdCcTd4OUJic1VlUGRvZTNhN2hmc2lZbEZZWWw5dWxTTnBlTVJTakhYZDEwQmh0bEdRQWZqVzFJb3JJVjBMenZHa0FYYTZMeVlnUUVtVWZ2MHBSTlNVNTk1QlZGMC1jVFFaZE1FTlduQ2JSd2ZWbno2RGxRT0V4YlFESTNDZzVBb1VDWVlkcTd4cw?oc=5"
-  },
-  {
-   "id": "gn-WEZ0Tm5wcz9vYz01",
-   "fonte": "Giornali · Corriere di Novara",
-   "titolo": "\"La salute non può essere un lusso\": presidio dello SPI Cgil a Novara il 17 novembre",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-17",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-15T07:25:27.000Z",
-   "luogo": "Novara",
-   "citta": "Novara",
-   "regione": "Piemonte",
-   "coord": [
-    45.58425,
-    8.546
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWUpRNmZWREZQYWVQc1JQTzJJQUZhN0gxcWJ0Zzdtak1CWTZtcTQ1anFFS2FkN0ZNODJDYVNqMEtFRWozQmZXaFprZ29VdmczTnRBX3owMExldVdpSmY0RkN1S25wVF9GSUlvZ1FZbnNZMzV3ZFpGOHcwYXd0RnU4dVM1eGJGbHpVdnRfR1pjaGxDM00tTHphYzJSSm5fYkhxYjlLem94M1RoZW0xRnctQ1U5LXFtNnps?oc=5"
   },
   {
    "id": "pl-13538",
@@ -2814,23 +1640,6 @@
    "online": false
   },
   {
-   "id": "gn-U1d0a2QxRT9vYz01",
-   "fonte": "Giornali · Autonomie Locali Italiane",
-   "titolo": "Comuni montani declassificati: continua la mobilitazione. Mercoledì 18 novembre manifestazione nazionale a Roma",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-18",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-16T14:51:57.000Z",
-   "luogo": "Roma",
-   "citta": "Roma",
-   "regione": "Lazio",
-   "coord": [
-    41.89332,
-    12.48293
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMXRNQTZBamNYQVprUlpWLVdnSDBNdGpVNU80VHd1UkRqWWxpejB1cThvRV9fQVMxZ1JnRHpGakIxdDdNaDRDeFFoYUJuZXdza0ZUME1LbmtVc0tiM093X19NYmg4RFFBVDJOekhyT2hIOVRrU1A1M0NXQzFPcjFHY1dmVUk5TVJTZzQ2STF4Y1hBUEM5bExfZkxqOWFiSEJHa2tCcnJpYTFTQ0pueVp2VHVKTjJGY05GU2RKc2FjZGRrNVptcGlja2RmcUUzNU5GSUp3U0RMZGJjSWtkd1E?oc=5"
-  },
-  {
    "id": "pl-13524",
    "fonte": "PeaceLink",
    "titolo": "Mao & Alessandro Bianchi in “Songs in the backyard” @ NH Collection Piazza Carlina (Torino) - Mercoledì 18 novembre 2026 ore 19:30",
@@ -2845,348 +1654,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13524",
    "online": false
-  },
-  {
-   "id": "aip-1744259",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Arezzo: Moni Ovadia al Cas Tortaia",
-   "tipo": "",
-   "inizio": "2026-11-19T18:00",
-   "luogo": "Arezzo",
-   "citta": "Arezzo",
-   "regione": "Toscana",
-   "coord": [
-    43.51714,
-    11.76393
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1744259/-/arezzo-moni-ovadia-al-cas-tortaia"
-  },
-  {
-   "id": "aip-1746493",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Reggello (FI): proiezione di \"The Sea\"",
-   "tipo": "",
-   "inizio": "2026-11-19T21:00",
-   "luogo": "Reggello (FI)",
-   "citta": "Reggello (FI)",
-   "regione": "Toscana",
-   "coord": [
-    43.68309,
-    11.5369
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746493/-/reggello-fi-proiezione-di-the-sea"
-  },
-  {
-   "id": "gn-SFJGYmcb2M9NQ",
-   "fonte": "Giornali · CGIL",
-   "titolo": "Sciopero generale 20 novembre – Manifestazione a Torino",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-20",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-16T22:53:55.000Z",
-   "luogo": "Torino",
-   "citta": "Torino",
-   "regione": "Piemonte",
-   "coord": [
-    45.06776,
-    7.68249
-   ],
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORGNWYy1oRnNjeWxUakFBQVhzRnJIRXJUdVByb19nQU9CRGkteUlFdDhGTS1zSXoxekVZcE01a29mRVlmYk5uVDdsdEk4NThNb09wSWt4c2xlZlRUVXhnck9OYVZTVkhrXzZGazFiOENOdTdhbWZNSEp6bkY4bDA3aDd0OWEwQ3ZzeFctWkdta2FxS2xad25EeWotaHU5cTJfRHRFbg?oc=5"
-  },
-  {
-   "id": "gn-a3BDYWcb2M9NQ",
-   "fonte": "Giornali · CGIL",
-   "titolo": "Sciopero generale 20 novembre – Manifestazione a Milano",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-20",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-16T22:11:36.000Z",
-   "luogo": "Milano",
-   "citta": "Milano",
-   "regione": "Lombardia",
-   "coord": [
-    45.46419,
-    9.18963
-   ],
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUk5BYjF2UmpidExqXzAtek14NGItX2MtTlEwUWluWHl3YXlUMXJBdUw1bFUzQl9URll0MzJsRzRrVWNSdjZadUxOZWV1RXZRM1luQ0hsUmFsNGt6VWpHWHY5RVE2QlBvemRNc0NxODBDOTlzeUlSVEw4UzNRNHJha0JtOXNsLUJLcnZKcjZma3EtMTBISktoQkZGTVJaRVptbkpCag?oc=5"
-  },
-  {
-   "id": "gn-bEUyTjJOQj9vYz01",
-   "fonte": "Giornali · CGIL",
-   "titolo": "Sciopero generale 20 novembre – Manifestazione a Perugia",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-20",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-16T22:11:36.000Z",
-   "luogo": "Perugia",
-   "citta": "Perugia",
-   "regione": "Umbria",
-   "coord": [
-    43.10703,
-    12.403
-   ],
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaDh1TzdxMGl4eEJaa3V1YXNydDFvX0J1LXRBdGQ0QkJSeHVJbUI1MmVVT3VxR3FLc2FyVWVQMWM1VWVYZk84OFpQWEowSldNVzhCZlFJa1R4R3k1OFpfcEV6VHgzc2t1WEFlaWN3cGFrMlVtVGxYSlVpNVRwNFREQVFhUzQ2MFhYRk5GWEMxRFF4cE96dTRQV0pqOUFxTFdXTlE2N2NB?oc=5"
-  },
-  {
-   "id": "gn-Y25Bd1VRP29jPTU",
-   "fonte": "Giornali · CGIL",
-   "titolo": "Sciopero generale 20 novembre – Manifestazione a Cagliari",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-20",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-16T22:11:36.000Z",
-   "luogo": "Cagliari",
-   "citta": "Cagliari",
-   "regione": "Sardegna",
-   "coord": [
-    39.2172,
-    9.11331
-   ],
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDJsSHZfWFllRllDMnJsb1E4aldkRjBOVkdFUGJNSnNZbllDTWI3cHRlQmtBV3hGN09lRUV4SXJQQ1lUSDNrRWp0eEItSk9LZnJSQ3MzQUpHeUVxNUMzT1BsUktBUmxxUHpsMDlyY3R1Q1dLN1hNUElRYkFENnpEMWtyanNmcGFILThTNnYzbnFCZksyUmdzNklhdm9qTTcxQWRqcnAwUQ?oc=5"
-  },
-  {
-   "id": "gn-MjVSVWs1Qj9vYz01",
-   "fonte": "Giornali · CGIL",
-   "titolo": "Sciopero generale 20 novembre – Manifestazione a Palermo",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-20",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-16T22:11:36.000Z",
-   "luogo": "Palermo",
-   "citta": "Palermo",
-   "regione": "Sicilia",
-   "coord": [
-    38.11123,
-    13.35244
-   ],
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQUdPNnNNSjdRNW1BTkN0Yk5DMUxrSXcxajFPSnRtNzhHVGl4aHpXWWotRG43cjBtc0x3eWJZRDRKSVQ3OGI2U2I1UjlxZFBiLXZHT19TN2Nha0ZYd0tWZmpXd01Jb1VRZmN4cTBTMHJJaGF3aDBnTU44a2x0dmRSUHpob2tCSHJfd3BUamVYVzFhWFpGTmxFSk0tQVYxS2gzT25RUk5B?oc=5"
-  },
-  {
-   "id": "gn-a1ZCYm5KUj9vYz01",
-   "fonte": "Giornali · CGIL",
-   "titolo": "Sciopero generale 20 novembre – Manifestazione a Treviso",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-20",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-16T22:05:41.000Z",
-   "luogo": "Treviso",
-   "citta": "Treviso",
-   "regione": "Veneto",
-   "coord": [
-    45.80669,
-    12.20632
-   ],
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMnRYTlo4eHpyb0ZTZ240SVJFMjJKY1k0Y2R0c0RNVWdFWVI5MmZuUDAzclR1QXRPV3U5cDhkSy1oUl9EQ0stVVZVUHFYeHI0RUlSWVBjNElEWE80TTJwV3JSb2RlNjBwelh6b3g2VVVYdTVxb1lBemF4aTEwLVZ5MlpRYndIN1hfbXU4eHQzTHlBM1liS19DV3BlWV9qQVJ0ZkVBbnJR?oc=5"
-  },
-  {
-   "id": "gn-eGFIVTIb2M9NQ",
-   "fonte": "Giornali · Verona Oggi",
-   "titolo": "Sciopero generale e studenti in piazza a Verona: il corteo venerdì 20 novembre",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-20",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-16T15:52:28.000Z",
-   "luogo": "Verona",
-   "citta": "Verona",
-   "regione": "Veneto",
-   "coord": [
-    45.4425,
-    10.98574
-   ],
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU1Zsd0VIejkySEk5YXhnWGtaSUg3TkxXRXVfWE5nUnRCWDJWS1hKTllGVDlWM2FBZVJPRG1Ba1NFSllycE9pYkJBNU9heEJzTll0cTdYS1VheUUxLVB4Q0JxWEMxeG1aeVAwRmo1R3g1dTFjM0YtbGNPQjU2aGIwcUZtWDlZMVRzSEZnSTl4cnB0X081QXl0NXVVYkIxaHU2?oc=5"
-  },
-  {
-   "id": "gn-M1YyTlhRP29jPTU",
-   "fonte": "Giornali · Cosenza Post",
-   "titolo": "Sciopero generale del 20 novembre 2026, Cobas Lavoro e sindacati di base scendono in piazza a Cosenza contro carovita e riarmo: corteo in Piazza Loreto",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-20",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-16T14:02:03.000Z",
-   "luogo": "Cosenza",
-   "citta": "Cosenza",
-   "regione": "Calabria",
-   "coord": [
-    39.59669,
-    16.33306
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbllObU5KN3VQVldKSHRMVkNoOTl6eFFFZ3Q5VjQxczUxRlJJVFg2QWNhMXVNUWFtenp4VVMzQXAyN1lUX2FiS19CWU9tVXJBTHVuTjhTRlJFTVZQLUM4czk5eFJQbGc4MlplNTU4cTlrRTNaSzM1OWRWMU15SG1iNVV4MlZSM3ZsUkg5NlF1bmZCYjlDSnd1YWE2NUZOTkRpNTgzaUV6SzdXQ0dUNkk0aGVEY1lPOS0yNGh3LUI5WnV6cGJ1R2VxNkN6dFNUY21URk1qWTlxZTlxckZzOFhwYURINkQzd0hSYkhWSi1SYW14ZDE2ZEs0clZkTTUweTM2elRDQ3V2NXQ?oc=5",
-   "altriArticoli": 1
-  },
-  {
-   "id": "gn-RnJaVXRCP29jPTU",
-   "fonte": "Giornali · Ascuolaoggi",
-   "titolo": "Sciopero generale CGIL del 20 novembre 2026, mobilitazione in 100 piazze in tutta Italia: Landini conclude la manifestazione di Roma",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-20",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-16T09:31:50.000Z",
-   "luogo": "Roma",
-   "citta": "Roma",
-   "regione": "Lazio",
-   "coord": [
-    41.89332,
-    12.48293
-   ],
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeHJvRExiN0dIY0FCZ0tmMWdtYlBEN2ZpcWktXzFxci1GeThrR0ZFdmktaWxSM0Zsazc3cVVsVU9YS2lmekVLdnd6d1RtR2hnSkJ2dFN2cEJiZ0VWenp4Y1dsaTk5anp6QVNkM0xwSFN3R0thQVVETTlJR1ktU3VOdlV4TzQ4cXBGUkFla0QtZGNkQ0dNaWktSy02aEtBbHd6YmxCSVBtNXJxcHZtTUVIb3R4cVJ6QUMyVjdKblVxVXhaSDFrZUtB?oc=5"
-  },
-  {
-   "id": "gn-VVZKUjJJP29jPTU",
-   "fonte": "Giornali · Lecco Notizie",
-   "titolo": "Sciopero generale CGIL il 20 novembre, a Lecco manifestazione alle Meridiane",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-20",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-14T11:56:38.000Z",
-   "luogo": "Lecco",
-   "citta": "Lecco",
-   "regione": "Lombardia",
-   "coord": [
-    45.90055,
-    9.41202
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNzE3TnZsVUJvNWdjYkw5V05OM3ExWElZY1QxeFRiOTR1QWlFMW5xUncyMkMweVJsczc1Q255NUNFUGhqUUxuODZpTnVNM0J4aDk3R01QbWlOaDRRVmdfS1hWcl85cWU3MnJuTHRtYk5faWR0N191QU1GS1NYWTBaWWJheU94dWJIaVdqR0w4enlaUFoybW11cndnVHpZcnFfYkJGcDJ5SHN1UjdkWXBKZ3B0cGNwbzhvdFIyMUVJR2I?oc=5"
-  },
-  {
-   "id": "gn-MXBSWHcb2M9NQ",
-   "fonte": "Giornali · Provincia di Pavia",
-   "titolo": "Chiusura presidio Centro Impiego di Varzi venerdì 20 novembre 2026",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-20",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-13T12:46:46.000Z",
-   "luogo": "Pavia",
-   "citta": "Pavia",
-   "regione": "Lombardia",
-   "coord": [
-    45.03685,
-    9.13783
-   ],
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVTZtMDlEbWV1RVJhY0RaR1RwTDhybnl2NS01RUVYLXJtMmVTNEVNb2szQTRMSk9VeHRhME5BbVYzMVlLbGVzX1lTMnBNbWYzR2FkVFYtYk9ZV3VUOFY1eENEakNBVXhmdkk1RExiTjcyeVh4M3g2SWRSNkZUUV9DaXNERk1FR1J2QUVyeWx0MWZrNDJ2M0hFWlJQZnMyamNuc1pRXw?oc=5"
-  },
-  {
-   "id": "gn-R0ZaWTFrP29jPTU",
-   "fonte": "Giornali · Primocanale",
-   "titolo": "\"Il futuro è adesso\", venerdì 20 novembre sciopero generale Cgil e manifestazione a Genova",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-20",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-13T09:28:21.000Z",
-   "luogo": "Genova",
-   "citta": "Genova",
-   "regione": "Liguria",
-   "coord": [
-    44.40726,
-    8.93386
-   ],
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcHVYTE4weG1LbTV3SDZWaldXTGFFYnRDUXlpeXFwWXd5LWFMYTRXTHVrS2ozLW1XbWMyM3pSajVMaFdtQTZtRUZmMkhLVkNqWThoWHRzREEwZGZ0dTYtYjdRT0FmS0l2cmFMX2hPZTdpVnRNVTdIRU9zYlVYVU5xZGgwQzhTMTF4bXQ5dkQ4dEthN1NXa3fSAZsBQVVfeXFMTTJPeWN6YzRfRGp5MTRROHUwSVYxVlQ1ZFFPX3ktQTllSVBydktqQmZuQ002SnZTVU1qSXFTc2MzT09wYThpUEs5NDZTZmtsZ21pVUVsT3g0eTFVRzUxR2Myc3BEOGxOWGN1MjNkdFZVWlhxN09JaF9JUkhUS1BBZlJiODBLRWxvWXpZYjVhRVd3TEk1UDc4NGFZY1k?oc=5"
-  },
-  {
-   "id": "aip-1746374",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Arezzo: corteo Sciopero Generale",
-   "tipo": "",
-   "inizio": "2026-11-20T08:30",
-   "luogo": "Arezzo",
-   "citta": "Arezzo",
-   "regione": "Toscana",
-   "coord": [
-    43.51714,
-    11.76393
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746374/-/arezzo-corteo-sciopero-generale"
-  },
-  {
-   "id": "aip-1746373",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Livorno: corteo Sciopero Generale",
-   "tipo": "",
-   "inizio": "2026-11-20T09:00",
-   "luogo": "Livorno",
-   "citta": "Livorno",
-   "regione": "Toscana",
-   "coord": [
-    42.79024,
-    10.34022
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746373/-/livorno-corteo-sciopero-generale"
-  },
-  {
-   "id": "aip-1746215",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: corteo Sciopero Generale",
-   "tipo": "",
-   "inizio": "2026-11-20T09:30",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746215/-/firenze-corteo-sciopero-generale"
-  },
-  {
-   "id": "aip-1746435",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: corteo Sciopero Studentesco Nazionale contro guerra e carovita",
-   "tipo": "",
-   "inizio": "2026-11-20T09:30",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746435/-/firenze-corteo-sciopero-studentesco-nazionale-contro-guerra-e-carovita"
-  },
-  {
-   "id": "aip-1746372",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Pisa: corteo Sciopero Generale",
-   "tipo": "",
-   "inizio": "2026-11-20T09:30",
-   "luogo": "Pisa",
-   "citta": "Pisa",
-   "regione": "Toscana",
-   "coord": [
-    43.47147,
-    10.67979
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746372/-/pisa-corteo-sciopero-generale"
-  },
-  {
-   "id": "aip-1746371",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Siena: corteo Sciopero Generale",
-   "tipo": "",
-   "inizio": "2026-11-20T09:30",
-   "luogo": "Siena",
-   "citta": "Siena",
-   "regione": "Toscana",
-   "coord": [
-    43.16721,
-    11.46756
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746371/-/siena-corteo-sciopero-generale"
-  },
-  {
-   "id": "gn-U1hOVVVBP29jPTU",
-   "fonte": "Giornali · Quotidiano Piemontese",
-   "titolo": "Cuneo, corteo studentesco il 20 novembre: partenza da piazza Torino alle 9.30",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-20T09:30",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-16T17:20:49.000Z",
-   "luogo": "Cuneo",
-   "citta": "Cuneo",
-   "regione": "Piemonte",
-   "coord": [
-    44.45807,
-    7.55814
-   ],
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0VvSm56NEJOc0NSOFJkUGZhUHBJUTUtTTdpNlo0X1F1d3dqanExczVyczVQX09MU0dvai1ockE4YlJGalp3eVdyaHplcmxiWVJjZG5rVHduZDRmaDBtVlBoSVJpTkpaMlB5WmJzeVhrMHd3Tk5rMWFLTFV5UEFEcEJqdlhsWHFMSXNUUA?oc=5"
   },
   {
    "id": "pl-13546",
@@ -3237,21 +1704,6 @@
    "link": "https://www.invictapalestina.org/archives/55281"
   },
   {
-   "id": "aip-1746558",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: Iniziativa sulla sionistizzazione della società e degli Stati",
-   "tipo": "",
-   "inizio": "2026-11-21T10:00",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746558/-/firenze-iniziativa-sulla-sionistizzazione-della-societa-e-degli-stati"
-  },
-  {
    "id": "pl-13541",
    "fonte": "PeaceLink",
    "titolo": "Il Mondo Salvato dai Ragazzini?",
@@ -3284,21 +1736,6 @@
    "online": false
   },
   {
-   "id": "aip-1745850",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Prato: Danza e musica alla scoperta della cultura palestinese e libanese",
-   "tipo": "",
-   "inizio": "2026-11-21T18:00",
-   "luogo": "Prato",
-   "citta": "Prato",
-   "regione": "Toscana",
-   "coord": [
-    43.93572,
-    11.09415
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1745850/-/prato-danza-e-musica-alla-scoperta-della-cultura-palestinese-e-libanese"
-  },
-  {
    "id": "inv-roma2211",
    "fonte": "Invictapalestina",
    "titolo": "Roma: iniziativa per la Palestina",
@@ -3313,21 +1750,6 @@
     12.48293
    ],
    "link": "https://www.invictapalestina.org/archives/55281"
-  },
-  {
-   "id": "aip-1745849",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Galluzzo (FI): Pranzo gazawi in famiglia",
-   "tipo": "",
-   "inizio": "2026-11-22T13:00",
-   "luogo": "Galluzzo (FI)",
-   "citta": "Galluzzo (FI)",
-   "regione": "Toscana",
-   "coord": [
-    43.7361,
-    11.22528
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1745849/-/galluzzo-fi-pranzo-gazawi-in-famiglia"
   },
   {
    "id": "pl-13537",
@@ -3346,21 +1768,6 @@
    "online": false
   },
   {
-   "id": "aip-1746557",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Piombino (LI): presentazione del libro \"La logistica dlel armi\"",
-   "tipo": "",
-   "inizio": "2026-11-25T16:30",
-   "luogo": "Piombino (LI)",
-   "citta": "Piombino (LI)",
-   "regione": "Toscana",
-   "coord": [
-    42.92317,
-    10.52682
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746557/-/piombino-li-presentazione-del-libro-la-logistica-dlel-armi"
-  },
-  {
    "id": "inv-venezia2611",
    "fonte": "Invictapalestina",
    "titolo": "Venezia: iniziativa per la Palestina",
@@ -3375,38 +1782,6 @@
     12.33459
    ],
    "link": "https://www.invictapalestina.org/archives/55281"
-  },
-  {
-   "id": "gn-VVVWZzNOZz9vYz01",
-   "fonte": "Giornali · WWF Italia",
-   "titolo": "L’Italia ripudia la Pdl Caccia: il 26 novembre a Roma il presidio nazionale delle associazioni",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-26",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-13T15:47:48.000Z",
-   "luogo": "Roma",
-   "citta": "Roma",
-   "regione": "Lazio",
-   "coord": [
-    41.89332,
-    12.48293
-   ],
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmVDbkNtUEVlWDFKQlNKSDMzMlhWVzdReVNhazVJMGV3Z0pyVnZOQ1ZZVUk4djJIVGpQazE1dEtpd0ZnTFEzS0tWVlJLMWxteWJZcUhuaHdWU29OTUMzdk9RUDF6dUk0RTZPTEsyM25HUnNrRWtkZWZXRVBiTzNUb0NTSVNZaUFPMHVrbjl3aUJDMHBsN19uTUtfR0NIM3B4VHBoaFNiQzRJR3JXcDlKYnB5UEVXcUtUUVg3Ng?oc=5"
-  },
-  {
-   "id": "aip-1745483",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Livorno: \"da Gaza a Livorno...\" - cena di solidarietà con la Palestina",
-   "tipo": "",
-   "inizio": "2026-11-26T19:30",
-   "luogo": "Livorno",
-   "citta": "Livorno",
-   "regione": "Toscana",
-   "coord": [
-    42.79024,
-    10.34022
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1745483/-/livorno-da-gaza-a-livorno-cena-di-solidarieta-con-la-palestina"
   },
   {
    "id": "pl-13544",
@@ -3457,23 +1832,6 @@
    "link": "https://www.invictapalestina.org/archives/55281"
   },
   {
-   "id": "gn-YWQyOTBZdz9vYz01",
-   "fonte": "Giornali · TRM network",
-   "titolo": "Manovra, la Cisl Basilicata si mobilita: manifestazione il 28 novembre a Gioia Tauro",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-28",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-15T11:37:50.000Z",
-   "luogo": "Basilicata, Italia",
-   "citta": "",
-   "regione": "Basilicata",
-   "coord": [
-    40.50057,
-    16.08195
-   ],
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91QkJ6XzNpWVB1MlM2VzhxaEVRY3NEempjNGtDQ2RUZUNId2xTT3QxcklwRU4wVGhYNy1mWDV6cGFSajFlSmxQN0N4elVtRHZOZ2hxZk01SHZIekw2OFBkaEVDWjRkVExBZ1Jad290Y9IBb0FVX3lxTE91QkJ6XzNpWVB1MlM2VzhxaEVRY3NEempjNGtDQ2RUZUNId2xTT3QxcklwRU4wVGhYNy1mWDV6cGFSajFlSmxQN0N4elVtRHZOZ2hxZk01SHZIekw2OFBkaEVDWjRkVExBZ1Jad290Yw?oc=5"
-  },
-  {
    "id": "pl-13453",
    "fonte": "PeaceLink",
    "titolo": "Narrazioni di pace con Vittorio Agnoletto",
@@ -3504,53 +1862,6 @@
     13.15263
    ],
    "link": "https://www.invictapalestina.org/archives/55281"
-  },
-  {
-   "id": "aip-1741799",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Soci (AR): proiezione di \"The Bibi Files\" - rassegna \"Sguardi sulla Palestina\"",
-   "tipo": "",
-   "inizio": "2026-12-03T21:15",
-   "luogo": "Soci (AR)",
-   "citta": "Soci (AR)",
-   "regione": "Toscana",
-   "coord": [
-    43.7372,
-    11.81335
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1741799/-/soci-ar-proiezione-di-the-bibi-files-rassegna-sguardi-sulla-palestina"
-  },
-  {
-   "id": "gn-VmlOVFEb2M9NQ",
-   "fonte": "Giornali · fnovi",
-   "titolo": "FNOVI aderisce alla manifestazione nazionale del 5 dicembre a Roma in difesa del Servizio Sanitario Nazionale",
-   "tipo": "Dai giornali",
-   "inizio": "2026-12-05",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-12T16:24:58.000Z",
-   "luogo": "Roma",
-   "citta": "Roma",
-   "regione": "Lazio",
-   "coord": [
-    41.89332,
-    12.48293
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1Hb19xN1dTdEw5WkJrN3h6d1p2NF9maDFRZjNPNTFaVjNsUlV1ZHpXeTVRSno1MkljN2xGejViNTQ?oc=5"
-  },
-  {
-   "id": "aip-1746562",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Serpiolle (FI): Cena solidale per il progetto \"Fili di Pace\" in Palestina",
-   "tipo": "",
-   "inizio": "2026-12-06T20:00",
-   "luogo": "Serpiolle (FI)",
-   "citta": "Serpiolle (FI)",
-   "regione": "Toscana",
-   "coord": [
-    43.82211,
-    11.25498
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746562/-/serpiolle-fi-cena-solidale-per-il-progetto-fili-di-pace-in-palestina"
   }
  ],
  "geo": {
