@@ -1,11 +1,23 @@
 {
- "aggiornato": "2026-11-17T23:04:46.622Z",
+ "aggiornato": "2026-11-17T23:58:50.122Z",
  "notizie": [
+  {
+   "titolo": "Germania e Regno unito apri pista. Attivisti arrestati per «free Palestine»",
+   "link": "https://ilmanifesto.it/germania-e-regno-unito-apri-pista-attivisti-arrestati-per-free-palestine",
+   "fonte": "il manifesto",
+   "data": "2026-11-17T23:03:37.000Z"
+  },
   {
    "titolo": "Mamdani scioglie il corpo di polizia che ha represso i campus pro-Palestina",
    "link": "https://ilmanifesto.it/mamdani-scioglie-il-corpo-di-polizia-che-ha-represso-i-campus-pro-palestina",
    "fonte": "il manifesto",
    "data": "2026-11-17T23:02:52.000Z"
+  },
+  {
+   "titolo": "Palestinian Sound Archive, memoria del suono che riemerge dall’oblio",
+   "link": "https://ilmanifesto.it/palestinian-sound-archive-memoria-del-suono-che-riemerge-dalloblio",
+   "fonte": "il manifesto",
+   "data": "2026-11-17T23:02:43.000Z"
   },
   {
    "titolo": "Il Regno Unito ha imposto sanzioni a otto aziende israeliane coinvolte nella costruzione di insediamenti nelle colonie in Cisgiordania",
@@ -862,16 +874,16 @@
    "data": "2026-11-17T16:10:28.000Z"
   },
   {
-   "titolo": "Depuratore del Garda a Lonato, il Presidio 9 agosto: «Progetto da rifare»",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2xEZ0h2TTMyQkJxNEJwbEFDZW91U3pMSTRmX1VfX2dYMDcwMDZRbHhYZWdhTkpDZTdLNEpHYnhXRTVDbFVaUFVHVzJkUTNxOGNvcGp2RndzZEZrbTZFTkI3RXl2M0ZnYUJJV19lZE9NOGxwVXBfZnJxMl9LOWhheXlzdEhnWlZDRjA2OGpwRmpIOXJxZkFNWS0wWW96S1RUT1E?oc=5",
-   "fonte": "Giornale di Brescia",
-   "data": "2026-11-17T15:58:08.000Z"
-  },
-  {
    "titolo": "Bolzano: venerdì 20 novembre nuovo corteo studentesco",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ3N4czV0RDVoNmlMb3NxU1lGRXJSdWtZam5hVFppYmpPRG84RDdJWV83cTZBNFkzenRPOWNhMGw4MkRtdmthZU1pQ1poYjdreTl6cFE3cWJSZlBxUmZFLWxFWFVnampvSGx3UE1wellzUTg4RS0yWmF1czJQaC1yLWFhTQ?oc=5",
    "fonte": "https://www.tv33.it/",
    "data": "2026-11-17T15:56:50.000Z"
+  },
+  {
+   "titolo": "Depuratore del Garda a Lonato, il Presidio 9 agosto: «Progetto da rifare»",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2xEZ0h2TTMyQkJxNEJwbEFDZW91U3pMSTRmX1VfX2dYMDcwMDZRbHhYZWdhTkpDZTdLNEpHYnhXRTVDbFVaUFVHVzJkUTNxOGNvcGp2RndzZEZrbTZFTkI3RXl2M0ZnYUJJV19lZE9NOGxwVXBfZnJxMl9LOWhheXlzdEhnWlZDRjA2OGpwRmpIOXJxZkFNWS0wWW96S1RUT1E?oc=5",
+   "fonte": "Giornale di Brescia",
+   "data": "2026-11-17T15:54:10.000Z"
   },
   {
    "titolo": "Pulizie e conta dei danni a Palazzo Nuovo dopo l'occupazione, le lezioni restano online fino al 21 novembre: \"Interventi che non consentono un'immediata ripresa\"",
@@ -974,6 +986,12 @@
    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQYXN0ZUhWcU9XNkZEbnI2bFBCd1dncWxkajVCU2N5MVIwZ1Zab05RUTF2SHRHVFY1TURyRlBidl9CNVB4VWVib29Xc0VjNlNIQ1N3V2x1U1ZiR3JkNXBOOVhETDBjSnFWLTBPWk9rRmRYSGN3QngzMU9uZl9meTE4Ml82N3NJQUlPN1pUYU1YOE1mZ0JoVmtVZUl1d2hOQ293YWVfd0pyOS1HbTRXck14c1hFX25sSmRDSUxiVlVEMlNKdWNYOUthTmppTmJaV2pjRm5YZ3ZnX2FtUzVoUGJGdkg5eDdKZ1c1dWFTYld2aGdYbGYydGZmQ0xwMDdIMkY2NFBjaVFYTXM4eV9mNjZjV2930gGEAkFVX3lxTFAteTA3ajJKdFVtNV9uRUJ3YS1PR0pTUDBQYkZqd1JEY0pPNS1BYzJ2NllzblVJQUNlTTdsZ1hYLWJMNUxvUUNFSWZqWlAzbTZqWDJYUVBjU3hWR055dzdQd1p3YjVMRFQzU2ptSnluQU4xYTIwSzFfVGxneU9XZklLUEVJa0FFZXJVVExvem5Jbmcyd2dUM2dWMFo3d1d3WWRMaFk1eU8zY2habEpuX3BESWx1Vlhick4zQTNSdS0wM0dQQ2d2MTFHWG9jLUlwOEJZZkJ3dWlGTVZhVkNBaXZYRkVEc0dhQV9nV1FlTjV2a3hPbkV0c2RyZnF6eEhKUnUyN1RN?oc=5",
    "fonte": "La voce di Asti",
    "data": "2026-11-17T14:32:32.000Z"
+  },
+  {
+   "titolo": "\"Forza Motrice\" verso la liquidazione e stipendi arretrati: domani sciopero e presidio",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRHViZUdobGFXM0I1OXJaZlM2clVReDFJSkp3aHVWMXh1bXBHT1pEdWxsR0JZZ1BmdU9rbzdkN2V4THgwZHRtY1pKcno4M1ZUZGEzSFlxcVctTjN4TXRlZXA5TWdWMloydW11NjBKcFh1V0kxVW1zNDU0Mm82TVk4X09IX19UOV92ZTBnTzF2MXVsVkUyYjRlbGY0OTl5Ul9YS2w5b3NCY3poOEFoMURQYU93WkQ4Z1NITTBmZmQzZG5Kdw?oc=5",
+   "fonte": "- genovaquotidiana.com",
+   "data": "2026-11-17T14:30:13.000Z"
   },
   {
    "titolo": "Sanità, medici e infermieri in piazza contro la manovra: sciopero il 20 novembre e manifestazione il 5 dicembre",
@@ -1190,12 +1208,6 @@
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWpyTzA1U1UtdEZNS3JKc1htS1I3ZmlwMGUtdmt4RmxkRVEzb2RBWmJVdnF6d2dvazhlLUpZSEFPUjRpcUk4NWxjZkFNdG5rYjZrMm1Rc19Pdk1RX3pOdllTY2dLcmRzbjB5MGFYSG1qWF9nZVE3S3hKdFZFQmsxTGh3eFNLb3BpUnVleDE2bHV0VWNITFZrcFZyT0FQeTBWT2xJQ2JCLVFqRWhJRG1oeWxxVkNIdnFvV1Jvd05JSHhWY2dWUGtR?oc=5",
    "fonte": "Comune di Ragusa",
    "data": "2026-11-17T09:18:32.000Z"
-  },
-  {
-   "titolo": "Avviso pubblico per l’assegnazione dei posteggi destinati alla manifestazione “Mercatini di Natale 2026” nel territorio della Municipalità 4",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOelFYNUV4WDRKN21SR2hvR0NRT3FrVTVnR1kzTmlNNTBWdkk1X254bGJBVzAySmt0UDV0VENXZGZNMHZfRFQ0MmY4TllkX2xndWlLc3NXcmRZMmlDV2l1MFJqbW8wck9HVlV0cGhmY2M4SnVYRWNmdWRldFRCS0tGaEhia3ZNdjk4bjZ6N3FJeEo5bnRDU09Mc3RNeVh5eHkyVW1YQXN3QXlwa2M0anhVWVQ4dDNwVXVGeVlWOUVmQnRLV3BmMEhGTkc4cVNwZDJTSjBkdXB0UzJKNmNpSTNuc3JBa2RqaWhaRklCVFgwcHZOX0RjREN2TWlwV3hvTXVWcEFPRw?oc=5",
-   "fonte": "Comune di Napoli",
-   "data": "2026-11-17T09:09:01.000Z"
   }
  ],
  "eventi": [
@@ -1492,7 +1504,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNzh3b2FXclA4Y1ZKSTlRbFd1T0Z1bGZ1ZHlYdUpScTNyQ0MxMGVqZ2FFbll6bHFXb3dxZUlmNVVkaHZLbGI0elptTFNGNVpKYmYxRnROOE42UjZLMjRRUG0zdUJnSmFobmVnUW9NZlV1NTcwdlZXTUNmOFlNQ25NX0RyS2hiOEkzeDMtdkxlaDE3YWw4NHBaQzVkbDJGU3NGbHpLb1RiX21XR0hIcFlmR2Q4Z2ZiekFDb0czR053UVZOdF8tS2I0bG9Fc0hIN0NIOXJ3RDk2c3c2S3l6TTE4N3JB?oc=5",
-   "altriArticoli": 59
+   "altriArticoli": 60
   },
   {
    "id": "pl-13496",
@@ -1705,7 +1717,7 @@
     11.25564
    ],
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc1pwY01zcTYtc2NfNXIwMFB2ZFVveVhCTldsR19GVlNyMHIwdGoySzA4YWxOTnZpeDNiSFhWODY2d01zbUtUdWNkNzFIWFZzLXVVSVR2WjIycXZnRWwzbUhZSmNwYllwX0xQRFRDamFfTkdrTWpmOGh1OWhLREtGYWY2S0drS0lOVDZKeEdVQTQ2akFN?oc=5",
-   "altriArticoli": 6
+   "altriArticoli": 5
   },
   {
    "id": "gn-bWhyTkEb2M9NQ",
@@ -1776,7 +1788,7 @@
     12.48293
    ],
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBySjhaMmZ0bzVKWS1FNnhmUDNvTnFnM3RVaHNHVEJVSUd1clVtYl9meHVxQTRtTG15dU1IeTJ3THdBb1RSX0swX29KQWtoem9vbFJFSklCbGFsWnBXR1I1T0oyeDB4UUswWEJVOWgzM0hWNXR4TTZHUjAyd0QxMUU?oc=5",
-   "altriArticoli": 6
+   "altriArticoli": 5
   },
   {
    "id": "aip-1746213",
@@ -2054,6 +2066,24 @@
    "altriArticoli": 1
   },
   {
+   "id": "gn-Rmd3Wncb2M9NQ",
+   "fonte": "Giornali · Il Secolo XIX",
+   "titolo": "Savona, presidio davanti all'ospedale San Paolo: raccolta firme in difesa della sanità pubblica",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-13",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-13T11:45:00.000Z",
+   "luogo": "Savona",
+   "citta": "Savona",
+   "regione": "Liguria",
+   "coord": [
+    44.23342,
+    8.25257
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZGVkSVJ3Q3ZHZ29WZFhqSkpUZnRKenhad09ibUtETm05ODBlc2V0eFFRazlCcjdaQUZ5UkV3cS1ZRkszZkhHVk5SN2k5ZEExRURjZmdMaF9tMExjcEdDcEhqZF96NzFKaFp3dmJNcXV0SHdlYjIwdXo3cmJrU3pzOVV6dmtDaFVqSHFBc1RGVGVOeGNXY1RBcVZPUjRWdG1JdEJ0MWo2cFhwTlRPWWtUbF85YW1yb1lOalY4LWVDUzhpNmpMckppRDRQYmlzeWxVMzJ5a182bFgwZw?oc=5",
+   "altriArticoli": 1
+  },
+  {
    "id": "gn-WlhUMmcb2M9NQ",
    "fonte": "Giornali · MonzaToday",
    "titolo": "A Monza la grande manifestazione per dire basta ai morti sulle strade",
@@ -2069,41 +2099,6 @@
     9.27491
    ],
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRENzVWp5cFUtWkwwRWFvWjBURk45bEtuTDllaUpLQWIyNHdfWWlybVU1anRFQ3Z4ek1yZXM5NW1JTkJPZGNRVjBEQ2ZOcW9NVm4yVE9ReFBuTllWdFNOaVhsRzlrdU1kOTZ6ZVdraGJudWYwbHBwNnp5dk5XT0hKR0xJeDk4dEd4dzVqWEZXT2g?oc=5"
-  },
-  {
-   "id": "gn-VXpkSFNGRT9vYz01",
-   "fonte": "Giornali · PadovaOggi",
-   "titolo": "«Gaza annega» e Padova scende in piazza: il presidio in piazza Antenore",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-13",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-13T07:54:53.000Z",
-   "luogo": "Padova",
-   "citta": "Padova",
-   "regione": "Veneto",
-   "coord": [
-    45.39141,
-    11.80585
-   ],
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5zTFc0aEM2TlVwOFB0VmJ5NnRyNzhIdi04WWpFUkEwWndmVndCbF9KVWhDLUV5ZE1CUzNhMTNIWXZSUVVEZ2ZJc2k5V2tVTmlzc0t1UkJGQV8zYmNkZ0MwMWhGM1J5MGZaZFNHaUVHOXlpaDBHWExBSk00NjB4Tkc2RktrQVZZZDdOTEZHcm1tUzdHSFE?oc=5",
-   "altriArticoli": 3
-  },
-  {
-   "id": "gn-V1JvTVcxcj9vYz01",
-   "fonte": "Giornali · La Stampa",
-   "titolo": "Savona, presidio contro il Poa davanti all’ospedale San Paolo",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-13",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-13T04:00:00.000Z",
-   "luogo": "Savona",
-   "citta": "Savona",
-   "regione": "Liguria",
-   "coord": [
-    44.23342,
-    8.25257
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSzVNY1JlZ3EwZ0dUUWFXSTJRQUhvSklLWVFlMVpVY1QwRlp0WDY3NXRVbXl1b2k2LU5mY0FaMGF4MjJNaVRxeEgyYmgxUnFWVWgydWJUQnB1UE9sVEs4d3luYVAwUmwtc3dlb21xVEF2T2k5WXpFM3JBQVBWMUl0eWVDNmhYeFZPSUxJcXltNlowM2VudUN2MFJ2U2ZsWU05ZDBzZ0xrSEZRTjVDbUVvNmFQSWRoMW1r?oc=5"
   },
   {
    "id": "aip-1746217",
@@ -2183,6 +2178,24 @@
    "online": false
   },
   {
+   "id": "gn-ODJXRkUb2M9NQ",
+   "fonte": "Giornali · Padova24Ore",
+   "titolo": "Padova, presidio per il liceo classico europeo all’Arcella: chiesto un incontro al ministero",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-14",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-14T21:48:07.000Z",
+   "luogo": "Padova",
+   "citta": "Padova",
+   "regione": "Veneto",
+   "coord": [
+    45.39141,
+    11.80585
+   ],
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vRXUwZGUwQ1ItcDVZYlNIU1MyQjNPa3d5NGZXNlQ3V285ZHZWSHhwUndCZ2NTV2ZtM1psUnBDLWRaOVc0OUhBX3V2QzBYX29OeVhRQ0ViZm5oRWsxMGdGN3BfR2JhaU5VYmVySnRFbTFpVE82WFE?oc=5",
+   "altriArticoli": 2
+  },
+  {
    "id": "gn-WGgzT0ZFP29jPTU",
    "fonte": "Giornali · Sky TG24",
    "titolo": "Cortei a Milano, manifestazione pacifica contro il carovi",
@@ -2198,7 +2211,7 @@
     9.18963
    ],
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVFpcF9ubnotUnZTelNuU2o5VnYzVTBicmVEYURpYUV0bW5QSzBTSU90eUJvVldld0g3UFJGdTBRZlV3Vm1BZ1hDZGEzZVViM0U4cGV0RjBsczdEYjBJWFlHR1lRSndScVRuZ0lORDJJdlZ3OXlncnlmdkxiOUx1VEdGV0x5RldQakI3eDVneW5FeGozNG5JazZKNS1ITWdtZjd5NThhcXE1SXh3OFE?oc=5",
-   "altriArticoli": 7
+   "altriArticoli": 8
   },
   {
    "id": "gn-bERaMDgb2M9NQ",
