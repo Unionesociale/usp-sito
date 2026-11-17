@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-17T19:16:06.789Z",
+ "aggiornato": "2026-11-17T20:18:21.041Z",
  "notizie": [
   {
    "titolo": "Il Regno Unito ha imposto sanzioni a otto aziende israeliane coinvolte nella costruzione di insediamenti nelle colonie in Cisgiordania",
@@ -712,10 +712,34 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "Corteo per i morti di transfobia: appuntamento venerdì in piazza Unità",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdUhXV3FvdjdOWnB5b3FsdExIMWIxSXdOR1FGS3RVdVpjNmdhTWMwenlfZUlSTHBoMkE4aGxfVTRiTHpxbWQtY24zMWpqbF9hSVhhMGlNcUhnU3N6N3I0M3o0dW1MNG9ISHhoMU55YWsyQmNRcFhtOXEybjJqcnZyVkNYdDdUWUpfNEhzWnFJSzY2Z20zNG5iWGVZZVQ1UGRsM3pqeWhtTW5ydVk4eE9fVDI5bEFFS2JXU1FHX0xKUHMyQkUtSmpKSGVRMFhRekk?oc=5",
+   "fonte": "Il meridiano",
+   "data": "2026-11-17T19:39:20.000Z"
+  },
+  {
+   "titolo": "Depuratore, Presidio: \"Troppe criticità\"",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHcwbG84TGxMbTI3ZFRVRk5fNkZNMVk2SXNUYk42cTVRWnhlbm1Nd1pmdWxkSnYtNnQ5dm93VXg1Qnc5eFVtQ2wtTV9Gd2tqOUEtRnhrMVZBOWxOaGFyWlY5Qzl2Y0RGeGVXOFVMYmVhcDlFNWZjY0twUGd6clFIRjM3bVRsRXhIY2E3R29vaw?oc=5",
+   "fonte": "Giornale di Brescia",
+   "data": "2026-11-17T19:18:01.000Z"
+  },
+  {
    "titolo": "Apofruit, nelle linee di sviluppo più occupazione e innovazione",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaWxpc2VsaVV1bVNCMVJBVTBqYWE0SFpfYTN6dzE0ZHYxT1dFOEtkUUpBNU12TEN2NFYwWFFHSl83c1M4UEJVVEVVd1FXd2Z5Z05VcWJjVTNQWkdmUWhpaGp0MktCUEVBVDJITHBuMHN1dG1zbzhmcm5mdnF1LUtYTHZIa1Ffa0g4LU5OMWhodXRUQ2tvTnYyZDdhdTdLbVM2Yng4RnVVVUp1OG5wQkw2QVQyc01BdFdvcW1KWg?oc=5",
    "fonte": "ItalyPost",
    "data": "2026-11-17T19:00:03.000Z"
+  },
+  {
+   "titolo": "Torino, occupazione violenta di una scuola: ferite due donne",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWk94LWYxRkltdzBFSHM2OGhUM2FBZmZKVUJTenJSSFJHalVRb1hGYm9SZEVac2hVaDRQM1BiNEZjZHVzSWFvYko5elFxcklnTFF3VXdQNGF3T0VVQWtIYV9udlBMVkF4NVB3akxVQTFIUGtyZmktV0JtUDQtNXdnTlhMYk1fWlRDZHpyanl5aDZMMHNkYjFncndOc21NckwtS0FBeVlVYjNnenpRLTdQaUVaVQ?oc=5",
+   "fonte": "Tgcom24",
+   "data": "2026-11-17T18:43:00.000Z"
+  },
+  {
+   "titolo": "Sciopero generale Cgil del 20 novembre: chi si ferma e chi no, fasce garantite e cortei in tutta Italia",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUFROeHFGRndieXNiUzhwNzd0cDNIcWFYLUp1U1UzVkVPbWo4RWhXaGRCUl9nNzdlQmhHNmpDU1E0ODhfUXhWSl9Rd3dYc1c1NW1LRnFWeE1hT2tiU3lEX29NcllaU2Y4Q1pFV1NlbzY4cUk0Xzl4YTA4a3diY0dDdkNQZWpRa09HczhfX2V0bGxBSGtzUWJxMUI5NW9nWHRWaXVCWTM0SjdKalJRWEp4aHFCbE5QQldkQXEzTlJlOFE3N2R4OV9CanN4Q180bjJ6?oc=5",
+   "fonte": "Il Sole 24 ORE",
+   "data": "2026-11-17T18:35:32.000Z"
   },
   {
    "titolo": "Francia, migliaia in piazza per i salari: corteo a Parigi",
@@ -1166,30 +1190,6 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3FKQUJWRmdIRGZtMDBjcnZma3RhUi1Nb1AyLVJJSEpaQjNvd2NWMk0tY1YxQTlrM0xyN2htZXFrMEV3Ml9SUEdjX3Mtb3ZFM2RnYTBDOGhrdWZFSmdpc0FOZ2RxMnlFQ1JQaUxLMXNBWWxDallWdUg0bmhNOXdQd3luaDI3V05TOTRjMVI4TEdVX0MzR0lNVEozRWltVEZHT2JYWXFFUUNGR1ZHTG9zR1p3?oc=5",
    "fonte": "Cuneocronaca.it",
    "data": "2026-11-17T07:30:33.000Z"
-  },
-  {
-   "titolo": "Novara torna in piazza per lo sciopero generale: attese oltre 2mila persone al corteo della Cgil",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmp2Ymx5dkpieHREcFBGenNrblVieDRySzJUQnR5ZkxpbVZpTzJaUUp0aXhmMlhPeERYS2lEbzBBWEhGbVNveWIwUC15QnNycGxEdU5DaWlZMnFHMnJlUkc3cU5kb0RxOC1NSFdIRURtZlhkckZnT0JTN1QwbTBod1puZGdrZks3c3pBdjZn?oc=5",
-   "fonte": "NovaraToday",
-   "data": "2026-11-17T07:28:48.000Z"
-  },
-  {
-   "titolo": "Banche, Colombani su Avvenire: “Protocollo per l’occupazione per gestire gli effetti dell’IA e del risiko”",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY1ZYRkR4MnBUajdfb1pEU3VGRzVVQ0o0UVRRV0U2Njk2V2JJR3ZncHFlV1FmOVBicF82NFkxc0NBY2l2SWhyNUU2R0FneUR0ZmZCQ2hjQ0d2cEsycVJhQm5sSlp4MWtmdkc3d1dXX3Q2SWUwR2dUV3U0RmZsN3FRcGc1X0FKMnNJX1dLN1ptc182ZDFid05RNlRvS04xYU1lZGJkUmQxMG9uajJpWVhERlB5cG9YMnlHdWNlWEI4VXJaY3BjNXJEcm5QZzdEbXc?oc=5",
-   "fonte": "First Cisl",
-   "data": "2026-11-17T07:06:55.000Z"
-  },
-  {
-   "titolo": "Sciopero generale del 20 novembre: manifestazione a Roma",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSEJyS3lwRnZhWmpZMVp3bXE5UFY3SXpJRGJlSkJ1cUdfTHBLbU02QkF2eVNNX2M0cFRJYnZxN2RGYzczVVg4anFTQl9vcFNZcDFoOExaaGtSQ3JVb1B4cmJlajFmeXhUZ19NSEg1c1pLMnpCTmt5dDByLXRMY05kdEZ4ekV4V2FnSWp4cmcwS2RMYmc?oc=5",
-   "fonte": "LiguriaDay",
-   "data": "2026-11-17T07:01:16.000Z"
-  },
-  {
-   "titolo": "Sciopero generale Cgil, venerdì corteo a Firenze da piazza Indipendenza",
-   "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPSHhxSDVlenlub1Zrc0lUTGgwNEJLek5uMktuY0JhZjhDV3RoSFlsa1Z0dDhzN082THJicGw3VFhZMXZEdzIyOGowQzJXYzJlM0JibTFnWmc2ZlJWUEpjQktUb0MwTEpjdklVYjJxU1RQWEZjam0wcE9kMGN2Y2gxUFBvODZSVVJXNHFVbnJrNnFjaVkyTkFielY4N3YyUWFMQ1VmRFF1QVNrOHk5bU5tblBhQkxWNWN0cHZRQUVvVnhZRXM1RDhFT01SaDBmZG5oVVVSRE1fVHpVdU5IZ1hrV19Sd1dyMzV3cTJTN0pIZ1NrOGFFRG53T3pOSTV4U0dUWHlzWDVaVDhXWUt5MlpvTlFCOXB1R3hBNGV3bW9LUlZwSjN4ZmZPTGFYNFFiZ2g1TVJyX1RGM2F6ZURQVWc?oc=5",
-   "fonte": "Firenze e dintorni",
-   "data": "2026-11-17T06:21:00.000Z"
   }
  ],
  "eventi": [
@@ -1209,7 +1209,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU3R0clFmMHVsYTRaU1NjcTJyeXJaTzdPTFN2X0VhRW14UU9WX2dEUkpyRWd3aTJWUjNMWUhGM0QyMU54TUJyOHVQU1FWT1JZOUxRZVBmRkdBSFRZZXFLYmxpTDU0RndWSE9kTWwySDc2QnBiQjZFb3FiQ1VVZ25ESnlxN1lqOTliT1JZanhweFpEYkc2bU8yWXFRRVBsSXAwcl9ReVZEcTMycHlBY0s3UzI5b1B4Ykl2RkJlRmpmRGhLdGdDWm10czhPMlp5bXVqSGZsSDNRY3AyS3VPNDN0MQ?oc=5",
-   "altriArticoli": 63
+   "altriArticoli": 62
   },
   {
    "id": "gn-UWFWbEdVUT9vYz01",
@@ -1995,6 +1995,23 @@
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746212/-/firenze-nessuna-impunita-hind-rajab-foundation-e-bds-incontro"
   },
   {
+   "id": "gn-R1Z1TFhjP29jPTU",
+   "fonte": "Giornali · PugliaLive",
+   "titolo": "Inaugurata a Bari “la Rossani. – BiblioTeca del Mediterraneo”, nuovo presidio pubblico di cultura, conoscenza e socialità della Regione Puglia",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-13",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-13T18:03:47.000Z",
+   "luogo": "Bari",
+   "citta": "Bari",
+   "regione": "Puglia",
+   "coord": [
+    41.12578,
+    16.86203
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQmxsM3dGV3U2R0RhR3RCdTVTNHhobGtOa0JRa2J5TUZXNy02N3FQTS1xM1dYTTJQNmJTV0NGb2pRbFdOa1ZtWXRKSzQ2cEMwelVPZXdrMWJIdnJ2dTdLcHBwbGJyWkJiTFU3S3JtSFl4WV9keDZFX1NSd2RQUjBDZmNBRGhEUEV3UGVONC1LRnkxMUZXWVN4TUhmdmJVV2ZqVTNSUW5zQllGSXhvQXMydzlPYzVtWFdyQ0xTaGNxRkV4czZNX2Rtb1g1OVJWQUdCZnVwbDBmRDVzalh0M1V4MUZibU52NzlndkdHb0tGb19ZWGVuLXc?oc=5"
+  },
+  {
    "id": "gn-TTViSGMb2M9NQ",
    "fonte": "Giornali · RaiNews",
    "titolo": "Venezia, salta la \"Prima\": il presidio dei lavoratori davanti al Teatro La fenice",
@@ -2174,7 +2191,7 @@
     9.18963
    ],
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVFpcF9ubnotUnZTelNuU2o5VnYzVTBicmVEYURpYUV0bW5QSzBTSU90eUJvVldld0g3UFJGdTBRZlV3Vm1BZ1hDZGEzZVViM0U4cGV0RjBsczdEYjBJWFlHR1lRSndScVRuZ0lORDJJdlZ3OXlncnlmdkxiOUx1VEdGV0x5RldQakI3eDVneW5FeGozNG5JazZKNS1ITWdtZjd5NThhcXE1SXh3OFE?oc=5",
-   "altriArticoli": 7
+   "altriArticoli": 8
   },
   {
    "id": "gn-eVZ6QlVXUT9vYz01",
@@ -2245,7 +2262,7 @@
     10.42587
    ],
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdm9xSnR1THVEd1J3VHIwLW1TTEJIanNpOUJWY0VvZ181UkhDYzNIb2pEMnpaSUgyc3Y3UkxSMmJUTXdxZG5jTjJtVTZTMmRMd1NZbEM0SG1PZk5kRUFlQlVEb0h5dTRYNkJGX2h3TUFUamctV2FFZnpTUzBRTU5ITzhBUnlYQ3RGWWZnYlBVTl9vYlNHbFNYVlFjcHhLaEtBbXZZUENjZ053ZkxiMFFSZjQ4RDZjbDVSOWQ1dzgyd0xibFBVUVhqc01kdTZHNXFBX1UteGQ4SzBJXzA1b2xBdEctVQ?oc=5",
-   "altriArticoli": 3
+   "altriArticoli": 4
   },
   {
    "id": "gn-VnpsVU5XYz9vYz01",
@@ -2281,23 +2298,6 @@
     10.42587
    ],
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUxkcms2YVFtQWVKQUxMU3hlTDMtRkxoZ25zbFZub1hNMThXTE1jQkNNS2RpLVVQS2M4YzRheS13WFNyb0NQSnl6aFd1SEVob2NvTnl5d3dRdjBDQi01WFd3UHAwdHowbEtQTmx1NWFibm9ZUXNjTkdHMUJTTjQ0cVRxX0U5RDdJV3NCdjBvR3BVaWNMLXZVeFQzNzVaWVlTaUN2TQ?oc=5"
-  },
-  {
-   "id": "gn-WTA1RmR3P29jPTU",
-   "fonte": "Giornali · ANSA",
-   "titolo": "A Roma domani il corteo 'Climate Parade', domenica la corsa 'Corri Libera'",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-14",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-13T22:14:00.000Z",
-   "luogo": "Roma",
-   "citta": "Roma",
-   "regione": "Lazio",
-   "coord": [
-    41.89332,
-    12.48293
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbDBFS2JjaXJnenNiczVFZmZVZFZBN1diV1FfalpxY05Tc3R4SzFtNjZFV1FMRThPLUhWU1lsVm5yLU5UV3daNlNiZjZfT3k2ZWZTTjNkZmVpZUVUTWJibS1ISzJkbjAtY2FsUkhIeTZULXNlZHVOM043eFZjOWExLUswa1VBdDMwVHB0ZWpGb0ZBelNqUVRBR2RtbkVLbm5FZFFQZFJNWElZbUxNVVVsdjBHMWMtaC16ZDd1UHVKZXc4TDhjbmIwWWZXZWZBdnVYVkdtSVp1M3I1TVBHb3E5TkxCVHpLSXA3b0VVddIB8gFBVV95cUxQVDhqY2ZyUVZTZGhQbk1SS2o4OTRSX2JSYzc3Y2tDOW91eTVscFFPV2FVU1VjbXhNcWE5b3JFbkxiNmk5a2d5OXF1ODRkTVVRY0dzUm1ZTzVEbkFXLU53TEUwZUhPbnpVckhOek5ZdEJTMm52WTNGU042UzdaekFlQzc4RTFnMmowYUlYTzNxOGxBMWdPd0xhOUNYdkh1eVAzSjlJbVFVWnpFVjNVX3pocnp1bTF3THM0QVgtbllRX3VUMUVLZ0lOSTNZYXVtM0FCb2h0QTdWRmxDbE1samYtOGxub2o1ZjZwMGlpa1loY05Fdw?oc=5"
   },
   {
    "id": "gn-Mkl3ZGpSMz9vYz01",
@@ -2443,8 +2443,7 @@
     37.50236,
     15.08737
    ],
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOdXBianpkcUVCaVBheFZhd1EwREl0NWtGcUt0ZHJLZUF2SkFfVjh3Y244Wk9tYmVzREY3UnBQTVZMVFlnZkdDMVVEa29lWEF5cEFEWHVoRmtTQWpHSHhPYnQ4V2VTeFUwRW95LWU0T3R3akduY2NmcG5ud0g5QmtPY0tGZ29TclNmc29VMXZGY1RzZ1YxRHBhOUNWMnpvVzZEUXZHU2RMeXZVNEFHeXQzZFE3LUlJbUpMQ3poLTByLWRpS3FQWXpRZVNsWE9VSUktWTEyNjI5SHVGaHRucHhrZExQV0dmWUVUS3RmdXJ6SjJiZXNmSzZqV1ZzTEx4a0NSRnFIOA?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOdXBianpkcUVCaVBheFZhd1EwREl0NWtGcUt0ZHJLZUF2SkFfVjh3Y244Wk9tYmVzREY3UnBQTVZMVFlnZkdDMVVEa29lWEF5cEFEWHVoRmtTQWpHSHhPYnQ4V2VTeFUwRW95LWU0T3R3akduY2NmcG5ud0g5QmtPY0tGZ29TclNmc29VMXZGY1RzZ1YxRHBhOUNWMnpvVzZEUXZHU2RMeXZVNEFHeXQzZFE3LUlJbUpMQ3poLTByLWRpS3FQWXpRZVNsWE9VSUktWTEyNjI5SHVGaHRucHhrZExQV0dmWUVUS3RmdXJ6SjJiZXNmSzZqV1ZzTEx4a0NSRnFIOA?oc=5"
   },
   {
    "id": "gn-M3BsUzNNP29jPTU",
@@ -2785,6 +2784,23 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYTJMc092WTktWmUzRnRHLU1YZjhZSGt0Zk9qZ2Fybldib0dERll1YUl6UjlPUW1nWXJQcDlZUHk0ZXZXSUJXbWFqdVlxa3lmd0E0dXg1c3htSHBybDFsaGdhTG9KaWFCdlJJbzZONWMya2ozUk1neGdXVUdQOFhhUzIzSld5MWFiN1ZBbHFrVThPMm5FNmtxVmdHb0V2U0Rmd1Z0X0F1bWtXb0Q2?oc=5"
   },
   {
+   "id": "gn-d1FuTm1TUT9vYz01",
+   "fonte": "Giornali · Radio Onda d`Urto",
+   "titolo": "Lunedì 16 novembre sciopero cooperative sociali. A Brescia presidio operatori dell’integrazione davanti alla sede della Regione",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-16",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-13T10:59:00.000Z",
+   "luogo": "Brescia",
+   "citta": "Brescia",
+   "regione": "Lombardia",
+   "coord": [
+    45.77958,
+    10.42587
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRkp4WktjbUhDMVpLdkl5Z21rNnEwVnhVWDdQQ1d4Q3pwdmpKMVl6cmlMdFNxNlphdHJ1WWQ2aTRwWWZCZVJ4U1R6TEtTOWFPZFcxMmZ2Qnd0UlRyN3pyenlMYkRkTGI5cVc1T3JMMlo5MU1yYTh6Rng1WFZyTk9hcUZacGxDMm53UjV6bkFCT3lCT1dQaGkwcGRqWnJORnhWQWQxSVFXX0Y5eEV2ZnhUcFpJVHE4MlRDM3dDNzNZSTEtaHBLN2NJa2cwblFocWRYbzRQQUxBSzVnSkJMQk9iSFNiVXRHNV9JZjNscjdtbTFCZ3ZFTHAwQnNmSQ?oc=5"
+  },
+  {
    "id": "aip-1746563",
    "fonte": "Amicizia Italo-Palestinese",
    "titolo": "Sesto Fiorentino (FI): proiezione evento di \"Naza\"",
@@ -2834,24 +2850,6 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-Vk5VZUEb2M9NQ",
-   "fonte": "Giornali · Il Gazzettino",
-   "titolo": "Protesta al liceo Munari di Vittorio Veneto e occupazione con una quindicina di studenti: intervengono i carabinieri, tutti identificati",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-17",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-17T16:10:28.000Z",
-   "luogo": "Veneto, Italia",
-   "citta": "",
-   "regione": "Veneto",
-   "coord": [
-    45.64767,
-    11.86653
-   ],
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQnBMMk9Lc1pzR0pmMUJQZXZvZDNQeG54MWlKMXVxYlFKWG5Wdy1PZVRnNHFCU1BJWjdwOFZfXzVBR1EzV2tvN2Zydld3SVlwaUp1bjJuNTZxU2lCUlhJWHZpa21VZ3hoVXNGbEs0NE1TeXhxQXUzSnpxMU9kcll0RW0taEVxV285WTlfdVRLS21vZElxNDNvYjU1bXR2THJIRDlWS01aV1B0MHh4N2pJWHRGeW5vQdIBsAFBVV95cUxPa2Y2ekpfWnpYREd1SmZ1dVpUX1VSZm8zU0lsNU1DWjB4aTBnb1c5MlAwSy1yZXRZVGYtR1Y4LVJQUUg4TjVhclNrbmlPc3I4NF95c0tocmRlUk1QWDJhNjdqSzdkS3N3dXRDTlhtUlJUQm5iOXV5aTR0cmxuc3lwMkRhTW9NcVNROUtiZ3BvdUxHMmVIaUNkeExUWFFUdmlXemlZcm05LUpBMjJ4RVNUeA?oc=5",
-   "altriArticoli": 1
-  },
-  {
    "id": "gn-UVZoUmFsRT9vYz01",
    "fonte": "Giornali · Viterbo News",
    "titolo": "Viterbo, l’Osservatorio Sanità Tuscia in presidio alla Asl contro la violenza sistemica",
@@ -2869,21 +2867,21 @@
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNFZrWU1YZjVvdmFHNURNNlZUZEJuOEdOV3hUQWsyRjNOSHVJTlI2Z01KNWJYbXMtTnJKTk8xenVsaWVQTHRhbDFDTmRDZnlDLTBaUjJyYmtfWHZCV3ZzaGFCM19WTmlZaVdsaEV6MklMSG5CU09sY1hDcWpSODdaYlJCaFA1WHZhS0lpalhjNThfN3BYMFVST0N4eUR1WFNPUktnd0lzdDNvMEg2akVndXl0UVo2c1k2aDJNV0hxUjItN1ZxT1JQaXNBT2xmeUZqOFV1d243Z2h1QVhRalE?oc=5"
   },
   {
-   "id": "gn-VzQyWncb2M9NQ",
-   "fonte": "Giornali · RietiLife",
-   "titolo": "RIETILIFE TV - Sciopero generale, Rieti in piazza: corteo tra le ex fabbriche e protesta degli studenti contro il riarmo",
+   "id": "gn-UzFwemJnP29jPTU",
+   "fonte": "Giornali · Gente Veneta",
+   "titolo": "Lavoro in Veneto, l’occupazione cresce ma rallenta",
    "tipo": "Dai giornali",
    "inizio": "2026-11-17",
    "dataIncerta": true,
-   "pubblicato": "2026-11-17T15:35:21.000Z",
-   "luogo": "Rieti",
-   "citta": "Rieti",
-   "regione": "Lazio",
+   "pubblicato": "2026-11-17T11:42:08.000Z",
+   "luogo": "Veneto, Italia",
+   "citta": "",
+   "regione": "Veneto",
    "coord": [
-    42.41474,
-    12.88589
+    45.64767,
+    11.86653
    ],
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxON1AtWDNabS0xVzQ4cmlNeHVSZ2JtUDRTNUtUNndTWldYQWYwZF9VTlNJR0FZbEVacUlPamxaZFFsYTZGUXlpbl9EdlZhNllLRzdmdnV2eXd0M2V5b1N2UVFMSzFmZDJJVUJ6bnRwVGRNXzRnTlV0Vl94VEhTVW5TdUFNdnZublYyNGF1cEM3MS1DWDhXSEt4RTJXS2F1dW8xM0tDZWNYTDQ4RGVzN3hXcHQxQTNOSHR6RXRmNG4xNHdJdFFkTktza2YxZDZiOGdiRmxnOE1qYk1wSGVWRTltTW42Zw?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcnVnNEhEU281aWtXVGtnYXdRRUx3TEVTMVFoRkwzSnZ1YXlPaHFXdkJNWkE4aEd5UVRnYlU2RERqekY5MzFRdkc1RmpmSTJaWUFuQVBhVXRvRXQxM1hTV3lfSFFWdWY3V0VQenJ0aGM1TURoX2ZGLWNaSkxtdFNOUHNiYnBJd25ZS1pzbg?oc=5"
   },
   {
    "id": "gn-VGQ0Y3cb2M9NQ",
@@ -3033,21 +3031,6 @@
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746493/-/reggello-fi-proiezione-di-the-sea"
   },
   {
-   "id": "aip-1746215",
-   "fonte": "Amicizia Italo-Palestinese",
-   "titolo": "Firenze: corteo Sciopero Generale",
-   "tipo": "",
-   "inizio": "2026-11-20",
-   "luogo": "Firenze",
-   "citta": "Firenze",
-   "regione": "Toscana",
-   "coord": [
-    43.7698,
-    11.25564
-   ],
-   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746215/-/firenze-corteo-sciopero-generale"
-  },
-  {
    "id": "gn-VFJwYWcb2M9NQ",
    "fonte": "Giornali · La Stampa",
    "titolo": "Il Piemonte si organizza per lo sciopero generale del 20 novembre: i cortei in tutta la regione",
@@ -3183,6 +3166,23 @@
     14.73075
    ],
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWpyTzA1U1UtdEZNS3JKc1htS1I3ZmlwMGUtdmt4RmxkRVEzb2RBWmJVdnF6d2dvazhlLUpZSEFPUjRpcUk4NWxjZkFNdG5rYjZrMm1Rc19Pdk1RX3pOdllTY2dLcmRzbjB5MGFYSG1qWF9nZVE3S3hKdFZFQmsxTGh3eFNLb3BpUnVleDE2bHV0VWNITFZrcFZyT0FQeTBWT2xJQ2JCLVFqRWhJRG1oeWxxVkNIdnFvV1Jvd05JSHhWY2dWUGtR?oc=5"
+  },
+  {
+   "id": "gn-QlFWamcb2M9NQ",
+   "fonte": "Giornali · NoiTV",
+   "titolo": "La Cgil prepara lo sciopero del 20 novembre: corteo nel centro di Lucca",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-20",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-16T15:07:56.000Z",
+   "luogo": "Lucca",
+   "citta": "Lucca",
+   "regione": "Toscana",
+   "coord": [
+    44.01776,
+    10.45443
+   ],
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEhFQnFIMXcwSEpkT0hkYmFaM2RCS29SVmNPS3Y4TF9OU2JUdVpKMkZubTM1d3NkRHVRLVFWYzItUHpiRGFGSDQtTTJNOGpuMEdmblpMdXdwMTVMVzJuLWN4UE4tTEtIUllCc1g5dkRmcGRjVDFxb2kzdjZDZDhSRmpIOVUzX1plZlZjbVZ1MzJxbU5LY3YzT3FtbzMxUUdOTHlhNFRMYTBQVjg?oc=5"
   },
   {
    "id": "gn-RE1FbG4b2M9NQ",
@@ -3334,6 +3334,21 @@
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746373/-/livorno-corteo-sciopero-generale"
   },
   {
+   "id": "aip-1746215",
+   "fonte": "Amicizia Italo-Palestinese",
+   "titolo": "Firenze: corteo Sciopero Generale",
+   "tipo": "",
+   "inizio": "2026-11-20T09:30",
+   "luogo": "Firenze",
+   "citta": "Firenze",
+   "regione": "Toscana",
+   "coord": [
+    43.7698,
+    11.25564
+   ],
+   "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746215/-/firenze-corteo-sciopero-generale"
+  },
+  {
    "id": "aip-1746435",
    "fonte": "Amicizia Italo-Palestinese",
    "titolo": "Firenze: corteo Sciopero Studentesco Nazionale contro guerra e carovita",
@@ -3429,23 +3444,6 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13546",
    "online": false
-  },
-  {
-   "id": "gn-YlRFM1RHOD9vYz01",
-   "fonte": "Giornali · Lo Strillone",
-   "titolo": "Napoli, sciopero del 20 novembre: corteo in centro e stop ai treni dalle 21",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-20T21:00",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-17T16:43:37.000Z",
-   "luogo": "Napoli",
-   "citta": "Napoli",
-   "regione": "Campania",
-   "coord": [
-    40.83588,
-    14.24877
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaVRTUkVZQUtUZlZ6eHo2VG01UWF4cmVnX2txRUhrMGVJXzNucWk1dC1UTFhuYzJtemo4X2lLMlItVmRRQm9WWWhuWS1BLTdTRGgwTWsybWJ0T0pQdGM2RF80bG5oeDltMDhNd3hLRU01MVo0RVAzOWRjdWhZTWZObHQyWEl0dmZQcjNqTk5pdDRnT1NzdklYV3ZSdFhGbE5UZzBJVjdMaFlFbGlDa0pJcVViZUJUNEJnNWZ6aDN4bTE3TG8?oc=5"
   },
   {
    "id": "pl-13515",
