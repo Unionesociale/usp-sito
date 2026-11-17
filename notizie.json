@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-17T15:04:03.989Z",
+ "aggiornato": "2026-11-17T16:07:49.571Z",
  "notizie": [
   {
    "titolo": "Il Regno Unito ha imposto sanzioni a otto aziende israeliane coinvolte nella costruzione di insediamenti nelle colonie in Cisgiordania",
@@ -712,16 +712,76 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "Bolzano: venerdì 20 novembre nuovo corteo studentesco",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ3N4czV0RDVoNmlMb3NxU1lGRXJSdWtZam5hVFppYmpPRG84RDdJWV83cTZBNFkzenRPOWNhMGw4MkRtdmthZU1pQ1poYjdreTl6cFE3cWJSZlBxUmZFLWxFWFVnampvSGx3UE1wellzUTg4RS0yWmF1czJQaC1yLWFhTQ?oc=5",
+   "fonte": "https://www.tv33.it/",
+   "data": "2026-11-17T15:56:50.000Z"
+  },
+  {
+   "titolo": "Pulizie e conta dei danni a Palazzo Nuovo dopo l'occupazione, le lezioni restano online fino al 21 novembre: \"Interventi che non consentono un'immediata ripresa\"",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNU0FkejRhTTd2LWJVVDl2WnZ2UHV4Y3pCZTdEdnRNemlfV0NsNVdIY0xvUmt6eFlSelBlTTViUTBaeHN1NWowUENCSXJBZXZ0OXRTRWFMYjdtd1VXM1pBb19GMGRPekxWQVJVMWdjUUZpcFJ5eV9nZEFQUkRDeXBEbTA1MGU4b0JLVWNtV05NWDBzMm1mSXhKeEpWMUk3dGFweEZTdEV6VU1aS2xXcXZSQkh0VXZtUEhwSlprOVBFOHFwSG42WHlxak9JWkg3NUhyNW43LUJ4c2c2dnBwX3pxQllZZTVKdVhpRzNBRkRfYXgyVlRnclE?oc=5",
+   "fonte": "TorinoToday",
+   "data": "2026-11-17T15:51:06.000Z"
+  },
+  {
+   "titolo": "Centinaia di pensionati in piazza a Genova per la manifestazione di Spi Cgil",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSjdTTVlEZGF3ZFBkaWotTXNWQTBZRG9HclVBbHdoczl2LXg1ZURKaXpMendRa1VuSXRMLVRVY0RySUtZMU9nWlF5MVgya3FxRHk4NTd0bGJYS20zbHVicjlmRGR1ajFfSktSelFhTXJBSmpQS2x5UzZmRXhjVy1sQWJybk9WYWxCVk5FcUpLM0k1UUVpQjd6YzdqMVNBb3kydk1kYWVpTTZyQVlsTFE?oc=5",
+   "fonte": "Radio Aldebaran",
+   "data": "2026-11-17T15:50:54.000Z"
+  },
+  {
+   "titolo": "Sciopero generale il 20 novembre: scuole e trasporti a rischio, un corteo in Sardegna",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYl9uRklUczVSaXF5dGNTSUhXWUFYYkg5QmZPb1lnQ3NxV0NYaWxoLW5iYmdGXy14ckw4V040ZFBUbnhKRWtnR3ktTi13Tm41VDJfbE1IaWMyV05NdFR6S2RpeF9IWDl1ZGNCcHZJMHlRdEJwTUlDOTF2MWNuNnJnUkpOd0ZMRTFTRnhHMWFPb2YwX2NMOFFvVDZvVktMc2JQOGxQRmJnbVhIUFZBRjFQdHpxN3VJUlN0WjBIVmV2Nlo5VHhEV3BoNXZRQl80MDZXMjdjWUNzdmdjVWJZcHJHUG9HLVQ?oc=5",
+   "fonte": "La Nuova Sardegna",
+   "data": "2026-11-17T15:45:00.000Z"
+  },
+  {
+   "titolo": "Viterbo, l’Osservatorio Sanità Tuscia in presidio alla Asl contro la violenza sistemica",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNFZrWU1YZjVvdmFHNURNNlZUZEJuOEdOV3hUQWsyRjNOSHVJTlI2Z01KNWJYbXMtTnJKTk8xenVsaWVQTHRhbDFDTmRDZnlDLTBaUjJyYmtfWHZCV3ZzaGFCM19WTmlZaVdsaEV6MklMSG5CU09sY1hDcWpSODdaYlJCaFA1WHZhS0lpalhjNThfN3BYMFVST0N4eUR1WFNPUktnd0lzdDNvMEg2akVndXl0UVo2c1k2aDJNV0hxUjItN1ZxT1JQaXNBT2xmeUZqOFV1d243Z2h1QVhRalE?oc=5",
+   "fonte": "Viterbo News",
+   "data": "2026-11-17T15:44:00.000Z"
+  },
+  {
+   "titolo": "Sciopero del 20 novembre: la manifestazione a Latina",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORnFOV2dLc1BXZlNNSUNpNGVDLVdKNGJYZTBOdndyMWo0YTdFWWhKb3FwOEVVdlllNWs4ZU1qVWktWG9UeER2ajktWUZST1BPWWhjbDBMRUlNWVdidWhNZ0dfblBlb2xCRmFDZGFvenhNZmNOYTZtM25hVm5HckduZQ?oc=5",
+   "fonte": "Radio Studio 93",
+   "data": "2026-11-17T15:37:00.000Z"
+  },
+  {
+   "titolo": "Sciopero generale del 20 novembre: corteo in centro da via 24 Maggio a piazza Cavalli",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNHM1aE8wQjdhSGdwbXhEeXcyWGpydjBmdy1Fb2QyVzhQbTl6dTdvQlJsOXg1M2hHdFRPcE56WGJoQkEtVllSV08tV3ZHWVVPbzRmZ3NDcEpJV0lMNGpxWVRFVHVMVEtyOFhGcmRpQVlUYVVMNnRRQUN5VHNPZHNPME5WMjR5RUgtdlBKcmtxVlpIZDg?oc=5",
+   "fonte": "IlPiacenza",
+   "data": "2026-11-17T15:32:38.000Z"
+  },
+  {
+   "titolo": "Mercoledì 18 novembre 2026: chiusura temporanea programmata Presidio Salute Mentale via Boemondo, 21",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTmZIVUxqRUROcFFjM0xlOFBHV3I4eEZlNVFWdmRnbXU5cEJ0eFFEOUUzTVRGa2o2MjY4VnZiSzltdkUyczJvbW9uZmhYQVdpdk5FTllsN2hWYXB0OWIxNWJpZlc2cGdOQng3Ni01Mzl1Rk1IY3JMYWg3TVFEam1pb3Q3aFJQWXRIeGRPcGYzM3NPVlRhblhfaE1zUmVHdw?oc=5",
+   "fonte": "ASL Roma 1",
+   "data": "2026-11-17T15:22:32.000Z"
+  },
+  {
+   "titolo": "Coop134: Presidio lavoratori davanti alla prefettura durante il tavolo di crisi",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObXA3U0EyRVB4c20zMDZvX0tqVjBYejZGWC16MExRbEJ1SDhTQkhkWkdCY0g1THNTTjNJdnFPcHh2d0dfYzZLTDRhVmRWM2g3ZHVTbHN6MTFYRmE4NVY4Nnc1eHdSOWY0ZldIOVdvZXBjdTRVSWZpV3pMMkxYbWxqYlJBZnFEMktKVXRZdGl4UjYzYWtvV3BQaDNQN3NYN0h0ek82RV9ucFcwUlNOaVZQY1FLSVhQZw?oc=5",
+   "fonte": "Newsrimini",
+   "data": "2026-11-17T15:11:00.000Z"
+  },
+  {
+   "titolo": "Il fagiolo gigante d’Aspromonte è presidio Slow food",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ0tobnNiRTRoX3RsSTV0Wl82bHNWemRxeXFRR0xSd1ZJazkzSnVVenEyMFdlZ0ZuRE9ZLUhrVE9IeGtDM2xuNDdtSkYxclhacklPWGlieW1oSTFBOVJZUzY3bHMxRkFxeEl0bC05WFRqSEZmd3pnZnFka21EaXBNcldDZGxHYkxzX29V?oc=5",
+   "fonte": "Askanews",
+   "data": "2026-11-17T15:09:26.000Z"
+  },
+  {
+   "titolo": "Sciopero generale Cgil del 20 novembre, a Ravenna una manifestazione provinciale che dalla Darsena raggiungerà piazza del Popolo",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQdF9yZHVHYm5uRFp4X1doOTkzYmQtUHJGQVNaMHhTVFlrbjU1azZXY2dfSFZkdUNLcjBneWR2THBBMUxodXowR3Z3RVVkRFZGUjRISUpLRnF2c1FtQVBzejBaVTh0Z1JVbldzbEZ4czNrd2hsX2Q3Rnl1aTdDVGNMNjkzaWFqZUFvcUxwZ1RkdkJlaERta2xla0pYQmo2SHdmRFlObmZQY3VkQnNRNGRoWEFuWHRES3BWNWNxcTlZWC1TRS1yZ1NLSUdIS1FQejdlV2NMX20wcjRXa2Q4Xy1kblhHVkQ4Vks4bC15eVJtRmRFQlNESjl6dGZVLTRSRy1RQTZhZHhXVW9kRW5zMUE?oc=5",
+   "fonte": "Settesere",
+   "data": "2026-11-17T15:04:53.000Z"
+  },
+  {
    "titolo": "Allarme sanità ad Asti, lo Spi Cgil in presidio davanti all'ospedale: \"Una persona su dieci rinuncia alle cure\"",
    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQYXN0ZUhWcU9XNkZEbnI2bFBCd1dncWxkajVCU2N5MVIwZ1Zab05RUTF2SHRHVFY1TURyRlBidl9CNVB4VWVib29Xc0VjNlNIQ1N3V2x1U1ZiR3JkNXBOOVhETDBjSnFWLTBPWk9rRmRYSGN3QngzMU9uZl9meTE4Ml82N3NJQUlPN1pUYU1YOE1mZ0JoVmtVZUl1d2hOQ293YWVfd0pyOS1HbTRXck14c1hFX25sSmRDSUxiVlVEMlNKdWNYOUthTmppTmJaV2pjRm5YZ3ZnX2FtUzVoUGJGdkg5eDdKZ1c1dWFTYld2aGdYbGYydGZmQ0xwMDdIMkY2NFBjaVFYTXM4eV9mNjZjV2930gGEAkFVX3lxTFAteTA3ajJKdFVtNV9uRUJ3YS1PR0pTUDBQYkZqd1JEY0pPNS1BYzJ2NllzblVJQUNlTTdsZ1hYLWJMNUxvUUNFSWZqWlAzbTZqWDJYUVBjU3hWR055dzdQd1p3YjVMRFQzU2ptSnluQU4xYTIwSzFfVGxneU9XZklLUEVJa0FFZXJVVExvem5Jbmcyd2dUM2dWMFo3d1d3WWRMaFk1eU8zY2habEpuX3BESWx1Vlhick4zQTNSdS0wM0dQQ2d2MTFHWG9jLUlwOEJZZkJ3dWlGTVZhVkNBaXZYRkVEc0dhQV9nV1FlTjV2a3hPbkV0c2RyZnF6eEhKUnUyN1RN?oc=5",
    "fonte": "La voce di Asti",
    "data": "2026-11-17T14:32:32.000Z"
-  },
-  {
-   "titolo": "Crema, la Biblioteca Clara Gallini diventa presidio ufficiale Nati per Leggere",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc3FHbEk4U0VhQi1XaGM1RUIzMTRpVnhJZkNmRmxBOUpUdmJDdmtFQ0xTVDlyWDdGYVlKeFRHMXRBbllTYkxDdkRxZ0plRXlLNzF6aHB6TG5uR2pkY2o3dnFzZlBrRGVzRjRBczUzSnNCd0xnNV9DQWJJUUtmSGFGdXBfdEtjQ0JaeFhJbEQxYjVsMm50ZTM0VW1QSkNnSEZoUk1MbTVIS285dWRJbXctN0VDR0w?oc=5",
-   "fonte": "Cremaoggi",
-   "data": "2026-11-17T14:27:31.000Z"
   },
   {
    "titolo": "Sciopero generale CGIL il 20 novembre: a Modena corteo da piazzale 1° maggio, comizi finali in piazza Sant’Agostino",
@@ -758,6 +818,12 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBONG5KeTMyVHpMcTNlby0tTHA4OTNBcTV5blFCemN2MUhybUNaVVZVOGQ0YjdSa0VZcGhTSnZhSTNQc29kRkU3cVFoNlNwaXVyUnk2U1hMUkNOUTEzYlJ6dHhVVG8zQ216UklkQWg0eUNTckJCdHZIMTlwaEdwQQ?oc=5",
    "fonte": "RomaToday",
    "data": "2026-11-17T13:38:00.000Z"
+  },
+  {
+   "titolo": "Sei in cerca di occupazione? Ecco le opportunità della settimana",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb3FUenMyaE1QM2l2NHdqWVFoLWhBSnFweHZfd1VvUlJTZzFWc0FYRkhVOTRVNUdxdWZrYmFRYnR6c3Z2ci16S2h6S1NFRUNwTk9YTDhjWWh1MDNsczduX1ByRDdsWXEzdmZfd2lHSTFzUVpBb09TQnI1YmVNZms1YmhWUmx2R0J0Njh0Z2tEOWxfbjJlemdUWmNSV2xxSzlyTzhpRXloSlhsZEhGWXVXQmdpa1luVGFS?oc=5",
+   "fonte": "La Provincia di Cremona",
+   "data": "2026-11-17T13:24:05.000Z"
   },
   {
    "titolo": "In Calabria i fagioli pappaluni d’Aspromonte diventano Presidio Slow Food",
@@ -812,6 +878,18 @@
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONzhkaFRKM2h6S3NBbFI1Y0x0UVNwOFZRM28wdFAyTGFiWjRIWGY2VFBDM09pR1h6d2pyMEZXeGdkSzJmOFEzeVJzd0k1c1BRVXhFc18zN3F2RmZTejJ1dVFSQWZLc2ZvQ2NXNHBwbFRocWNGNFlMTHpyZU1MQ0Y1RkFwWXhxaEg4R3pYQWhXbnViaXAtVDZyR3VFaEh4REZ4Q3pyeFVLRFpFSXJLRXBZWUE4WmliRU9SOThULTBvWVQtTHduWnpXbk1tQy0xbjhGUnVFeW9WaDhITGRKemlpOS1qOWZSZHcycHpKNg?oc=5",
    "fonte": "Cronache di Gusto",
    "data": "2026-11-17T11:39:55.000Z"
+  },
+  {
+   "titolo": "SCIOPERO GENERALE CGIL IL 20 NOVEMBRE: IL FUTURO E’ ADESSO. A MODENA CORTEO DA PIAZZALE 1° MAGGIO, COMIZI FINALI IN PIAZZA SANT’AGOSTINO",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcThUbGxtdnZWZVF6SUt5c09pTDhlcVNIdlZHYThjUE45TzN1S0k5aGM1ekltNEdmS0diczNjMTVxZW9OUlZyc0JHbmhESDk3VUkzTjZvR00tS2RGVlRuajhfaW9LV2N0dE03SXByelpzTUFwandnWVp1c2VlTGVNMktCRVFPVTFsVXFXMTdoa1F6NTdoWkxXejFyd1lGemVuamhObzZ0Q0NuMjZVenNDRlVFT0Q4a2VaQVJYT0JGOTB2cERUeHkyYzlBdWxwSjNJY29Ha1RHTDZ0UTFiOFdzTHR3LXI5MHpwckZOVHFB?oc=5",
+   "fonte": "CGIL Modena",
+   "data": "2026-11-17T11:34:32.000Z"
+  },
+  {
+   "titolo": "Kemet, presidio dei lavoratori contro la chiusura. Lepore: “Non va toccata”. De Pascale: “Per farcela serve unione”",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYmpEVGxPWktaTjNGMXprejBkUlk1ZjdyV2o0bFJFNkZPRTJaV2UzczhwZjBncnBQcTBaNkR6all1eU1QSkQwZnZHd1Zadmo1RW9TQ3NlV3JVbF9PanNqV1ppME1oVVdvNHF2bmhsSXM2ZTNJNmhFNTRBZVhKai1WZElZSUtFSTA?oc=5",
+   "fonte": "Il Resto del Carlino",
+   "data": "2026-11-17T11:02:28.000Z"
   },
   {
    "titolo": "Dati sul mercato del lavoro britannico novembre 2026: occupazione, retribuzioni e posti vacanti - Notizie e Statistiche",
@@ -871,7 +949,7 @@
    "titolo": "Di Silverio: \"Manifestazione una presa di coscienza di cittadini e operatori sanitari\" - Adnkronos",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00MHgxVzhXWmk5TjNFbk40RVZFWjVBUVBSYU1MUHFSbDRpVDlRZFdfTW5uMS10RFdYbUM2dWpjQ1pEYjBCOTlzenBVbTdIS0s1VWtsRWdR?oc=5",
    "fonte": ".:Anaao - Assomed:.",
-   "data": "2026-11-17T09:19:10.000Z"
+   "data": "2026-11-17T09:28:57.000Z"
   },
   {
    "titolo": "Provvedimenti viabilistici in occasione della manifestazione corteo CGIL per il 20 novembre",
@@ -982,6 +1060,12 @@
    "data": "2026-11-17T06:07:38.000Z"
   },
   {
+   "titolo": "Crema, la Biblioteca Clara Gallini diventa presidio ufficiale Nati per Leggere",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc3FHbEk4U0VhQi1XaGM1RUIzMTRpVnhJZkNmRmxBOUpUdmJDdmtFQ0xTVDlyWDdGYVlKeFRHMXRBbllTYkxDdkRxZ0plRXlLNzF6aHB6TG5uR2pkY2o3dnFzZlBrRGVzRjRBczUzSnNCd0xnNV9DQWJJUUtmSGFGdXBfdEtjQ0JaeFhJbEQxYjVsMm50ZTM0VW1QSkNnSEZoUk1MbTVIS285dWRJbXctN0VDR0w?oc=5",
+   "fonte": "Cremaoggi",
+   "data": "2026-11-17T06:00:00.000Z"
+  },
+  {
    "titolo": "Confronto in Regione sulla Kemet. Presidio di lavoratori e sindacati: \"Nessun accordo senza garanzie\"",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeVUtUUk1Z0ZpeTZTemg5RnZYU25xVlBGTW1kQUR0Zzc1eW8xaUVtUmQ4cHBIVEJqRHJRZ0ZQZUZ4Vm9kUHdCc0dQekFKLS0zS01aeFVJazB5dWh4Ymd6TFkzdkZJVExFd1g0LXQ0d01zTUxUQk92bm5oZkp5cHIwcnNUTkNid1BKRkZrM3hSTFZSMzlL?oc=5",
    "fonte": "Il Resto del Carlino",
@@ -994,7 +1078,7 @@
    "data": "2026-11-17T05:15:54.000Z"
   },
   {
-   "titolo": "Manifestazione di interesse per la collaborazione con realtà associative civiche nell'ambito delle attività di MakeIt Modena",
+   "titolo": "Manifestazione di interesse per la collaborazione con realtà associative civiche nell'ambito delle attività di MakeIt Modena - Palestra digitale del Comune di Modena",
    "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQbkVGZVBoT1N1QmZFZ1NBdXZRQjhYWGxfVmkxTTlvWVdsQzBhM1ZxS3VOYlJJc3dTWDNFQXRSZHhkRGx0R1g1X1ZzM1lvbzVsYVR3RVlwWklxbUFlZkNMeWE3ZnBld0ZKNExYb2hOQ0hYMWtBRGFPSnVaWFpDTXBhV0ZNbGllSk1ZdHg1MHJER2ozUmZWUFFDU3B2Q0RzQXhoSHJBLUF3LWFWYlg5VGpYT08zQmdXaC1FeGhlRFlPVG1aVDRoako5OVVUWlFkMC1tVENRZ3Ezc0lQVnByNnFWSThaRjVOVnBWMDhKcXdXdzVibU9uM0dybExVaUx0aUplbEp0Qm52Mk1ubENsMHIwREF1SnVaVWRjRDdIN3ZBTms5dWIzLWNVT0ZibzFReThXNDI1MQ?oc=5",
    "fonte": "Comune di Modena",
    "data": "2026-11-17T05:11:00.000Z"
@@ -1040,6 +1124,12 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMWZIMlMtWTRiQWdhMW5VNmpVV0FRWkpsYjVzdVNHRGRKX0ZCSFA2czNsYTZWeEJ3T0dKTHVIUlpPVGFNUVBScDh5S2FVTkxTS2VRYjJIUm8zb21hY3BmVEZiSDg3V0Q3NVhlSVlOdFRSaHFURDVHeVNhWUo2QTFWWDAxckM3Zw?oc=5",
    "fonte": "Il Giorno",
    "data": "2026-11-17T00:10:00.000Z"
+  },
+  {
+   "titolo": "Manifestazione di interesse elenco professionisti per incarichi di supporto all'Ufficio Paesaggio",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbzRNS05yTGpYOHU2MldQQVVyRnVzWGk3VVVraE9VNkpyQk5Td1RuS3YyOTYxZDNjMzltMDJ1aGlIM0JVVk8xVlQ5c1lZSmN6ZVM2aEFmVkRRVHlpeV9CTWZyOVlCUzNoeWdsSDdKbDd0U0I5a1Nja2lfUTMxaFlPVWdYZkVoZUVrZ00xWWczN1FBZThqTUE3Qk02ZzhDNFh0bWR1bFZodHZPeVVBaXgtTEJ3cnl0YkdsYm9sdWZ4dVRmUk9qc2RZODB6ZW9xT1Vzc1V6d0R2MHNkVTNfM1E?oc=5",
+   "fonte": "Città di Monopoli",
+   "data": "2026-11-16T23:00:00.000Z"
   },
   {
    "titolo": "Sciopero delle cooperative sociali, USB in presidio in piazza Duomo a Crema",
@@ -1100,96 +1190,6 @@
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTmJqZUJHUWZJLVRfLXVYZ2tURjFqM2JvSERxV3FxMENRNVFwNTBZWEppUDlZYnFraE0tX3E2N0pSZElxcFpmZHVYLTBhZDU5azJyYzg3ZTR0eV9SaGZiQ1pqSG5hanFXazRwSWNRTGtQZl9qTHQ4V0pjai1kOWxhYndfTGNZSl9fbWFPTA?oc=5",
    "fonte": "il manifesto",
    "data": "2026-11-16T18:22:22.000Z"
-  },
-  {
-   "titolo": "Aggressione durante l’occupazione di una scuola Zangrillo | Una spinta a un docente è uno schiaffo all’educazione",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQ0gzOFRCR1ZxYm5GNFdkZ0VGWDlsNmk4UHdjM2ZKb2NlMDBvX29WS0ZGb290T20xeW1lVjdPZjA5VVc3VlVWeDdrQm85aGRNUk5vMmc0UG1WemQ0cC1lR2l0LVJJMDBQV0tTMTRHdjlycS14bk55eTVteTNJejF0bDlvLXNKT3JnT0Job2hrVktpU3J1VjlxU1hmSWJ4NTRxTWFpYXJCekpubHhXVDRTOVFySTV5MTV2a1U0OWpqbnRJeWlXN3NySkdOWW5UZnpPbUI5Q2M2UlppMnFDTm1DUmQ5VzlvZG8?oc=5",
-   "fonte": "Zazoom Social News",
-   "data": "2026-11-16T17:48:30.000Z"
-  },
-  {
-   "titolo": "Ex Ilva, Aigi e indotto annunciano: \"Manifestazione davanti alla Prefettura\"",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLUF4MU5XYWVVS1ZvMzJDSGsxbWk3Q0pqa3FfOWI0cDU2WGFJREFvNV9mS0xjaTJmRHZ5dnE4S201QjkyLWhBWFZOdkNoYzR0WGFQNE9lVGV0QnpvLWtjUmVoUlU3akJyTjVBQWlzUGd1RU9rR3JjUVZpSWl2VmNxSVdGQV9KOTcxNVdBSDVOd3BSMGxiMGlGcVJ4cHNaSmhGNjlMb3p3UHRZNFFUSS0wazE5aV84Qld0Nk55N2xOdEFTbmMwcnRWRHhubklVVXN6bWZraw?oc=5",
-   "fonte": "CosmoPolis",
-   "data": "2026-11-16T17:32:44.000Z"
-  },
-  {
-   "titolo": "Torino, occupazione al Santorre di Santarosa: tre persone al pronto soccorso, presentata denuncia",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcS1YbEpGWG5LX3ZuQ1lJa2hnRDBFSTF1WW9YVlJPQzdlSjBBSmNHNm56azVmblM5MWZndVg0ZDhVeHQxSnhrdWZuclBJQWhiZklpYmJjTUZzV05VVnFTMGJTQ2lVbS1lVWdNSUFwTjhSTDVyM3ZHangyYkx1NE9EOVVPOHZYVk9UUUpfNWluNDlXcFdkbDNmU2lzQ0NWQQ?oc=5",
-   "fonte": "Torino Top News",
-   "data": "2026-11-16T17:30:14.000Z"
-  },
-  {
-   "titolo": "Cuneo, corteo studentesco il 20 novembre: partenza da piazza Torino alle 9.30",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0VvSm56NEJOc0NSOFJkUGZhUHBJUTUtTTdpNlo0X1F1d3dqanExczVyczVQX09MU0dvai1ockE4YlJGalp3eVdyaHplcmxiWVJjZG5rVHduZDRmaDBtVlBoSVJpTkpaMlB5WmJzeVhrMHd3Tk5rMWFLTFV5UEFEcEJqdlhsWHFMSXNUUA?oc=5",
-   "fonte": "Quotidiano Piemontese",
-   "data": "2026-11-16T17:20:49.000Z"
-  },
-  {
-   "titolo": "Raffineria Api, Carnevali 'sviluppo di pari passo con occupazione, ambiente e salute'",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNHhvZk9PSUExMUVXazl0LWxOLVZXNVRocTJhUFNubEJtREtrbHpMVXVIS3NhRmpmZkd0cWVTV2lKcFVrNG1FVVdYemxzZVRYeUMwU1dvTmJVazZkNVJneE8waFd2Y09ZSFlwaEczSHFiVU5mMzkxemxUblZJX253OGhGTHpiZ0JtMnVNaVlUZXFhVU54aFNFRWRaSXg5VU95RDhuVzV5Ql9lZkF2QWcyUXU3b3lZR0YzZUFXSGYtdGJuS3U4eEVNcjVlYXVyY0E5a2w3dG03V1B5WDdBZEdZcGg5bFktcjVnR0daZ0RNZTJ1NDBzOG9uMkxIX1ItUdIBgwJBVV95cUxPS28xUUlJZ0FjRnREVVRRVFRiQ05yU0o1T25ZNE1vWGxPVVhFdEFBc2pFbjBFU19OcmhUc216QzdmRVZlY2dBZC1LS1RKTWg5WVBwRmR6ZzJ4X1MwUWF0bUVJWldJdXk3bUVUVGU4RkY3ZFgyaGswR290OGM3QlJhUFBCSWQ5Ql9pbFBhVUY3eUwxQ3lpNUtfdFJYZ0o3ckFTTWpMVGhHeEhGTWV2UXhFbTl2X190M1lQRnRweVdkM29HdnlJYWNKZFNJNWpBSVRoWTF6alR4emJPbmFUekM1amVWSzZ0NWdtczhlcy1nMnlEaUxSVnJzZHVsVmlINkpNQUdn?oc=5",
-   "fonte": "ANSA",
-   "data": "2026-11-16T17:17:00.000Z"
-  },
-  {
-   "titolo": "Dall’albero del pane al Presidio Slow Food: i castagneti dell’Alto Garda tra memoria e futuro",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdS1JNGpqTTdZNDRyLUt5ZzBySGN6ZUpaQjdIZkZONzNiSGljM2hwZnZXRzJFajhpZ0Y3eFRRdlNPSnJUNEQ4azk0YVBhT2dTZXJlUWlLU0dsS2p1R2wyV0pxQ2xpam5jZHU5d2VZT2Zwdnl1dFpOa3Z2NllZZ1VaVkNrZjJtaWRVeHRZVngyVzEwNU85VUJwR2lzNzBEOHI1VHNVYTNxc01QRlF5U1N0SA?oc=5",
-   "fonte": "La Busa",
-   "data": "2026-11-16T16:57:28.000Z"
-  },
-  {
-   "titolo": "Aggressione durante l’occupazione di una scuola, Zangrillo: “Una spinta a un docente è uno schiaffo all’educazione”",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUThWNWJTQWs0MnZReHN6WXdJZ2xVS3hhSnZhZUlmZWs2QjZmQmw5V2dFdTZCdzctMmpyN3FEXzRQRXZuYldyOGJCWHNGaEc5SHBFZXJGOGdoS0NhNzA1eEYyMW8xWHBIemtETkFWUXZiQjRFd2NMVUZkdk9NNTdvUTdXM2RJNHl0R0cyVy05TTZzT1Z4YXBtOW1uY2RmUWpxeThFLVZ0V05YMTZrdG1lcEs2OTNGWjIyblFaT1JIeG1BVV9KMEI4a1dyd3FmWmt2SEJDUEt3MGQ?oc=5",
-   "fonte": "Orizzonte Scuola Notizie",
-   "data": "2026-11-16T16:53:51.000Z"
-  },
-  {
-   "titolo": "Sciopero Cgil, l'invito all'adesione e alla manifestazione a Cuneo",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGFpYkpKTlVzS2tYVlppaWZuZkpSb3JiUTljVlRlaDhGbkxFVjRCai1aVWlSM1c3YXM5MHpsRHJHRFgtZ25NZl9NOVRBYUlrV29FUXE1SGlLZlpIaUxMOHBxQlc1dFp3RG1nbkxUak4zczRjdkVwejZNb0JpMjhKSXZWMDJFMEdJSUpCeS1oT0Ribzl4YWVEWQ?oc=5",
-   "fonte": "La Guida",
-   "data": "2026-11-16T16:51:00.000Z"
-  },
-  {
-   "titolo": "Crisi industriali: a Prato tiene l’occupazione ma crolla il valore aggiunto, l’allarme sul ‘lavoro povero’ nella prima tappa della Commissione istituzionale",
-   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQeFdzeHZuU1A1dEdUaEVodU1WX09QNUIzS010Z0VmZUctMzNGQXRVX0IyQ25oTGVHMEZOQmw4UzBReC1fc1B2Z2pabmhBVlRIZXZNd1N1MXNqSEhmT3YwWVFQXzlQTGhuU28yS3pfUW5tZDZYeE8xQmtCNzhWaG1JSjVVanhGZU5yeG9uRmFUQVRNMWRvQm9tTGRteEVnZTN2b0dlQVZSSGw1RmFhdnNHVG9YWW9vbFhHT3JFVXFrUkw3ZTJBUTd2OU85V1lPa2R1TmNIOUhXMFAycV8yQVFVNW5GT0FvOHJQMW9CaUp5ZzJzWkdUYUFUUEpIbEg3OTRxMUZIOVNtVjUtcHlaQkhrZ0hNT2RQWGxNT09vTg?oc=5",
-   "fonte": "In Consiglio",
-   "data": "2026-11-16T16:49:47.000Z"
-  },
-  {
-   "titolo": "Credito: oltre 50 mila assunzioni in 14 anni grazie al Fondo per l’Occupazione (Foc)",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBibXhMVXVVMWhuOC1mVjh2c1VadGtZc3NZU256eWxralF4a0oyTlE5N0lsUDRwSmM0OFFVWGNwWm8yakJubWEyaVBFZTI3X0lwQ2ZsYmpQeXRWOU5qWmtDa3gzMWhnck5Dck1IZlpSczhqdWlxNjVF?oc=5",
-   "fonte": "UILCA",
-   "data": "2026-11-16T16:36:46.000Z"
-  },
-  {
-   "titolo": "Antagonisti liberano l’occupazione dell’università di Torino: inizia la conta dei danni tra insulti alle divise e simboli anarchici",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbDBnSnY2ajNxTVRjZ0RyZ1g0dnJBSmlDRzlUelZqTzk3TjRxVzU2bEV4aHJYdENhYjBaeS1BX21ZRGpXallRN0FRalNGaDd5WHF4b1h5SWlRTFk1NW1xZ1I0OXIwTHJ0Q3NKdDFGQlF2SHBFSndxa25DNllqRWhOMUcwdHQ0WWtiUjhqWF94VWZWbTBYMHNnQ3RGNmp5REVldVVkQWE5aHBHVFZ0MDZ3Z1RYZXFwaHViQXB0ekRoenlsaFNZamRPMjd4T1VHWG84TlhVM1gwVlkwZWI2UXhtdTBtbVBmRzdaVmQ3RkNUX3BMZm1nMjhfMkFsdkF1S1E?oc=5",
-   "fonte": "il Giornale",
-   "data": "2026-11-16T16:36:46.000Z"
-  },
-  {
-   "titolo": "Sciopero generale e studenti in piazza a Verona: il corteo venerdì 20 novembre",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU1Zsd0VIejkySEk5YXhnWGtaSUg3TkxXRXVfWE5nUnRCWDJWS1hKTllGVDlWM2FBZVJPRG1Ba1NFSllycE9pYkJBNU9heEJzTll0cTdYS1VheUUxLVB4Q0JxWEMxeG1aeVAwRmo1R3g1dTFjM0YtbGNPQjU2aGIwcUZtWDlZMVRzSEZnSTl4cnB0X081QXl0NXVVYkIxaHU2?oc=5",
-   "fonte": "Verona Oggi",
-   "data": "2026-11-16T15:52:28.000Z"
-  },
-  {
-   "titolo": "Occupazione Vasari, la replica degli studenti: \"Ammettiamo l'errore, ma i fondi raccolti servono per sistemare la scuola\"",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTGM4azNORkh5dFprb0R5X3dqREtONjBxUFIwRkRhTl8tMC1aLTFtU2RRZHc0Sjd4SFVwVENPZlEtSE1sVVJ1RExaT0NBc21GeklwaXFHWEZPN2dUREQyT1BEWVBNT0xvclBYckd0ZmMzUUlIVFVIV2p2dENMTnc2R0piaUVBU2Q5cm4zUWdhbXlGVGRjOVdxQWItMThJN3pIakpSRWlnOVN5ZUNid0lLa2l4NVdqUWVHTWZvelVHR2w5MDZFMWtQYXBFSWFjOVdWa0pnNFJocw?oc=5",
-   "fonte": "Valdarno Oggi",
-   "data": "2026-11-16T15:51:36.000Z"
-  },
-  {
-   "titolo": "“La violenza non squalifica un corteo”. Barbero al Campus Einaudi tra più di mille studenti",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNzNoLTlodlFncExDRkQzNmoyS0NIcFpVeHZnQlg3dGZfQWZkRHliVzBxSmF1ZVlXN1gwbHhFUVNCalAyenJnd0kxdlZDVGs4RkViNHdtYjlCSFZsVGJXNHJZeDRIaWR4OEI5LWh0cmJIVnNjcXQ5SERnZjM1aG9JSGhnNUZPQUpnVFdMSHhGTGJISXBDTmJUZzhzOF9temlsS1VUcnIxSWR1WVFpNXlabk9ET3BLZWFUTHpCZ1NYd29NTzlDYVZpcVhCbW5JWHR2Z0lVMVBCMUVXalp6UWlfT1BmQWR0Zw?oc=5",
-   "fonte": "La Stampa",
-   "data": "2026-11-16T15:37:00.000Z"
-  },
-  {
-   "titolo": "Its Academy Puglia: Formazione, Innovazione, Occupazione",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSXR0TGZCRDQwVDRTTmE4MHJvS0c1c2xsS21QQnlRS0JsM3lnamlJR3NXN1NIV1BOZkhwcEJKUERSR3FiN21YRGdtYjJnWlZfUExtZGZCNFNtcnlTV19teFZRbmFnNkRRRkxXREZYakxoaHc0dFNqSGRyS291TS0wb1BER2J3S0k?oc=5",
-   "fonte": "LecceOggi",
-   "data": "2026-11-16T15:28:08.000Z"
   }
  ],
  "eventi": [
@@ -1209,7 +1209,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU3R0clFmMHVsYTRaU1NjcTJyeXJaTzdPTFN2X0VhRW14UU9WX2dEUkpyRWd3aTJWUjNMWUhGM0QyMU54TUJyOHVQU1FWT1JZOUxRZVBmRkdBSFRZZXFLYmxpTDU0RndWSE9kTWwySDc2QnBiQjZFb3FiQ1VVZ25ESnlxN1lqOTliT1JZanhweFpEYkc2bU8yWXFRRVBsSXAwcl9ReVZEcTMycHlBY0s3UzI5b1B4Ykl2RkJlRmpmRGhLdGdDWm10czhPMlp5bXVqSGZsSDNRY3AyS3VPNDN0MQ?oc=5",
-   "altriArticoli": 64
+   "altriArticoli": 63
   },
   {
    "id": "gn-UWFWbEdVUT9vYz01",
@@ -1404,8 +1404,7 @@
     40.86067,
     14.84398
    ],
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRFpfdVUzcDNENkdpMTRxb2gwdmNIM0VuSjR6RjMzeURsTFY0NGhmQzJTOWdjbnVxXzJ1UlJKNjQ3ZjY2X2tpdGxFeFdZdnhhdzhkSk85Qkw1M19ENVJhdjNsYUVBTVBJZm5uenVyNm5KYl96LVlnNlMyTDN5U1Z2SDJ4MXdiamlub3pJekNXVEdQNFVwOVVHNjV4cG5qZFZXUDBBNkM5Wlc2YkRiNkJWWmNqcVItVDhTQXItb01FWEpwNlcxbFl5andOS25sM3RROVZLc0NRVkFTLU5qTF9HQTJhcGFWLUlE?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRFpfdVUzcDNENkdpMTRxb2gwdmNIM0VuSjR6RjMzeURsTFY0NGhmQzJTOWdjbnVxXzJ1UlJKNjQ3ZjY2X2tpdGxFeFdZdnhhdzhkSk85Qkw1M19ENVJhdjNsYUVBTVBJZm5uenVyNm5KYl96LVlnNlMyTDN5U1Z2SDJ4MXdiamlub3pJekNXVEdQNFVwOVVHNjV4cG5qZFZXUDBBNkM5Wlc2YkRiNkJWWmNqcVItVDhTQXItb01FWEpwNlcxbFl5andOS25sM3RROVZLc0NRVkFTLU5qTF9HQTJhcGFWLUlE?oc=5"
   },
   {
    "id": "gn-a05GVVEb2M9NQ",
@@ -1735,7 +1734,7 @@
     11.25564
    ],
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc1pwY01zcTYtc2NfNXIwMFB2ZFVveVhCTldsR19GVlNyMHIwdGoySzA4YWxOTnZpeDNiSFhWODY2d01zbUtUdWNkNzFIWFZzLXVVSVR2WjIycXZnRWwzbUhZSmNwYllwX0xQRFRDamFfTkdrTWpmOGh1OWhLREtGYWY2S0drS0lOVDZKeEdVQTQ2akFN?oc=5",
-   "altriArticoli": 7
+   "altriArticoli": 6
   },
   {
    "id": "gn-MmQxWjNjP29jPTU",
@@ -2067,13 +2066,13 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-MnRRYmxKUj9vYz01",
-   "fonte": "Giornali · Eco di Savona",
-   "titolo": "Comitato San Paolo Presidio davanti all’ Ospedale",
+   "id": "gn-Rmd3Wncb2M9NQ",
+   "fonte": "Giornali · Il Secolo XIX",
+   "titolo": "Savona, presidio davanti all'ospedale San Paolo: raccolta firme in difesa della sanità pubblica",
    "tipo": "Dai giornali",
    "inizio": "2026-11-13",
    "dataIncerta": true,
-   "pubblicato": "2026-11-13T14:40:52.000Z",
+   "pubblicato": "2026-11-13T11:45:00.000Z",
    "luogo": "Savona",
    "citta": "Savona",
    "regione": "Liguria",
@@ -2081,8 +2080,7 @@
     44.23342,
     8.25257
    ],
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd3JRMk9BbTZZd25MeGg2OE12R3k5QUpMdVhNRDVvanhJanBxbDJyaWJocTB3NzVTNnJkbTk0OWlzU0Rva0dadmtldzRvZUNpVGdVeldyZ3lsY05ZRUxIb2dfUl9hcTQ0Z3ZJUHpocS10bmxUZnNTT1RlZEZtT2tQblJR?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZGVkSVJ3Q3ZHZ29WZFhqSkpUZnRKenhad09ibUtETm05ODBlc2V0eFFRazlCcjdaQUZ5UkV3cS1ZRkszZkhHVk5SN2k5ZEExRURjZmdMaF9tMExjcEdDcEhqZF96NzFKaFp3dmJNcXV0SHdlYjIwdXo3cmJrU3pzOVV6dmtDaFVqSHFBc1RGVGVOeGNXY1RBcVZPUjRWdG1JdEJ0MWo2cFhwTlRPWWtUbF85YW1yb1lOalY4LWVDUzhpNmpMckppRDRQYmlzeWxVMzJ5a182bFgwZw?oc=5"
   },
   {
    "id": "gn-d1ZHSkob2M9NQ",
@@ -2481,7 +2479,8 @@
     45.22086,
     10.03704
    ],
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYzdGSm5za0Ywa0VFQnk4eXcwR1BCSUVQX0RpWXpZaEpDaHJQb1AtWXNVVVZyYnRXeWF1Y3NqOHRpcjRhaGx5TWRVbWdYQzVWVHVQMzFWVmhVUzNQRU1INV84WDFiaXBEMWI5d0czTkVCc0xuRDFFQnFBRklENlZucTlzeVpZNFVLMDlpdWh0NG5xLTFrVTdidXNlODVkOHVJa05CdUdGZGtfUXd5YzdYeGt3Y3plS3M?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYzdGSm5za0Ywa0VFQnk4eXcwR1BCSUVQX0RpWXpZaEpDaHJQb1AtWXNVVVZyYnRXeWF1Y3NqOHRpcjRhaGx5TWRVbWdYQzVWVHVQMzFWVmhVUzNQRU1INV84WDFiaXBEMWI5d0czTkVCc0xuRDFFQnFBRklENlZucTlzeVpZNFVLMDlpdWh0NG5xLTFrVTdidXNlODVkOHVJa05CdUdGZGtfUXd5YzdYeGt3Y3plS3M?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "gn-RU5DT1ZaRT9vYz01",
@@ -2632,6 +2631,24 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYS1MTF9ETmVWTllyM1J1bksyZkRjWk5Bb042UnNjck13M2RUREZTZkZRWlhoOGxTdDFjV2Q2TjlpQWFOUWJmd3RoZ3JNY1BDQXBZTHVzZW9tWmlZS3JyNzctOWQwWVBfLXFkUUgxX1ljYkQ5a2k2eWhlMS1KZ3BDLVUyX2VtdnN2ckNlNWsyMVBuMklBVVJ3MmszWjRXX0wtUFB2bVpKcWxfM18wX2lMc0Item5IdUVadnpIQVV5RElVLXdzOHc?oc=5"
   },
   {
+   "id": "gn-WFZEbFNidz9vYz01",
+   "fonte": "Giornali · GenovaToday",
+   "titolo": "Cosa succede a Genova nella settimana dello sciopero generale: dai cortei in centro allo stop di treni e bus",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-16",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-16T13:56:04.000Z",
+   "luogo": "Genova",
+   "citta": "Genova",
+   "regione": "Liguria",
+   "coord": [
+    44.40726,
+    8.93386
+   ],
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd0lEcjM1NENyQnVvbnVuRkU3cnBtQzU5OWZsNHVRM25ENUZ0MHRNMndyV0Y4c2J3bDduT0llMHJaQzlmbVlKV0dETVJSMTVLNWN2dlhaUVAtaHpqaVh3YXc1bVFmWXVldVdxdlF3N3ZkNDFSWXNfeElyTkJjQk1uQy1SeFZCRHFLa1JXVDlSbw?oc=5",
+   "altriArticoli": 1
+  },
+  {
    "id": "gn-bU5CTW5rP29jPTU",
    "fonte": "Giornali · eTv Marche",
    "titolo": "Podere Tufi, da bene confiscato a presidio di solidarietà: COOSS inaugura gli spazi ampliati",
@@ -2718,23 +2735,6 @@
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSFpCNXNOY1lORV80eURvMm1mTnR2MWo2ZHBUS0NXakRISVh6OWNTVzl0XzAxdV9ZUWRwZkpmY01VakFwRWxMLS1GdlRsbFJfRVBPbTBHbV9JelhyREtKN05zMDFBejc2WlNpd29iTWhfSEQxSHdhZmE1LWJkRzlnbHVXeFRrcU5pUmFLdFpCdkR6eXJJUVR0bjY5Q3VyYXVsLVFESkhmWXBFUEFZdDFwYUVWd0ZIT1E1eEpTVFoydkRFYzNfQk1jNkpFbktUY0QyRC1fTU5HZ01OUDJQWVV4dngtOEVyV2dFX0dHejJiXy14Zw?oc=5"
   },
   {
-   "id": "gn-WFZEbFNidz9vYz01",
-   "fonte": "Giornali · GenovaToday",
-   "titolo": "Cosa succede a Genova nella settimana dello sciopero generale: dai cortei in centro allo stop di treni e bus",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-16",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-16T09:05:25.000Z",
-   "luogo": "Genova",
-   "citta": "Genova",
-   "regione": "Liguria",
-   "coord": [
-    44.40726,
-    8.93386
-   ],
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd0lEcjM1NENyQnVvbnVuRkU3cnBtQzU5OWZsNHVRM25ENUZ0MHRNMndyV0Y4c2J3bDduT0llMHJaQzlmbVlKV0dETVJSMTVLNWN2dlhaUVAtaHpqaVh3YXc1bVFmWXVldVdxdlF3N3ZkNDFSWXNfeElyTkJjQk1uQy1SeFZCRHFLa1JXVDlSbw?oc=5"
-  },
-  {
    "id": "gn-ZG5OU1VRP29jPTU",
    "fonte": "Giornali · ANMIL",
    "titolo": "Casale Monferrato, la manifestazione ANMIL per le vittime dell’amianto: dalla memoria un impegno concreto per la prevenzione",
@@ -2769,23 +2769,6 @@
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNb25DNnA3eGhuNFlXeXdwclZPSW5sdjFYNm81WWRSc1RTdmFtNmszRE5GTlZOV2V6UHA3RmI5ZGF3eS1WVzhSTEpNQUVkdWhrVlNJdmNXamtySGkxR05GZ0FjcU14aHV1bGd2ajI2WENtY1NtUVRvRFlsT1Z2NlBpNklrQWFoYy1oQld2WVZGS3lJMWVhZ1h3MmthdVNrTUVzZWE2QUZJUzliZTlKcVN3bHIwWi01VEdoaWc3dUZBZTZ4WE9jN3dCTmRnUkdjNHJ1bW4tWVZpX2tSU3h5SmYxQ0tDNjRyWTg?oc=5"
   },
   {
-   "id": "gn-eFZYSTBPQT9vYz01",
-   "fonte": "Giornali · Radio Onda d`Urto",
-   "titolo": "Lunedì 16 novembre sciopero cooperative sociali. A Brescia presidio operatori dell’integrazione davanti alla sede della Regione",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-16",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-16T04:59:00.000Z",
-   "luogo": "Brescia",
-   "citta": "Brescia",
-   "regione": "Lombardia",
-   "coord": [
-    45.77958,
-    10.42587
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSkdKaHdEdGtORXN4UXhXX0dFYzRSWngzajR1ZmozcENLc0VBRFRIWnpIVVpVWWV6NGFjV042VnRBZ2JONGdiRzlna1F6N0FwVlgxY1NWOFc1TkFFVVVZVkRkLXJFanlTYktpNEl3VjNJZEJUT0pHVV9RZmhfc2JqNm9Jb0tKOVhoV2lOSXJZc3ZVcTRfM0VSUHhGZHM4Nm5zay1NemhoeElCQ3JUVWM5OU5NcE1CNVI0MmRtZlJ1aTV6eFhDN1plbGp3dmpGX0tSMlc4VWl5Zk0yNjI1cktCOFVmbUlTWS1iU1hpNWJaZnV6OTYwVElxVXI0OA?oc=5"
-  },
-  {
    "id": "gn-dFhiMFEyP29jPTU",
    "fonte": "Giornali · Irpiniaoggi.it",
    "titolo": "Il 16 novembre USB in presidio:\" Servono investimenti per Air Campania\"",
@@ -2801,6 +2784,23 @@
     14.84398
    ],
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYTJMc092WTktWmUzRnRHLU1YZjhZSGt0Zk9qZ2Fybldib0dERll1YUl6UjlPUW1nWXJQcDlZUHk0ZXZXSUJXbWFqdVlxa3lmd0E0dXg1c3htSHBybDFsaGdhTG9KaWFCdlJJbzZONWMya2ozUk1neGdXVUdQOFhhUzIzSld5MWFiN1ZBbHFrVThPMm5FNmtxVmdHb0V2U0Rmd1Z0X0F1bWtXb0Q2?oc=5"
+  },
+  {
+   "id": "gn-d1FuTm1TUT9vYz01",
+   "fonte": "Giornali · Radio Onda d`Urto",
+   "titolo": "Lunedì 16 novembre sciopero cooperative sociali. A Brescia presidio operatori dell’integrazione davanti alla sede della Regione",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-16",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-13T10:59:00.000Z",
+   "luogo": "Brescia",
+   "citta": "Brescia",
+   "regione": "Lombardia",
+   "coord": [
+    45.77958,
+    10.42587
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRkp4WktjbUhDMVpLdkl5Z21rNnEwVnhVWDdQQ1d4Q3pwdmpKMVl6cmlMdFNxNlphdHJ1WWQ2aTRwWWZCZVJ4U1R6TEtTOWFPZFcxMmZ2Qnd0UlRyN3pyenlMYkRkTGI5cVc1T3JMMlo5MU1yYTh6Rng1WFZyTk9hcUZacGxDMm53UjV6bkFCT3lCT1dQaGkwcGRqWnJORnhWQWQxSVFXX0Y5eEV2ZnhUcFpJVHE4MlRDM3dDNzNZSTEtaHBLN2NJa2cwblFocWRYbzRQQUxBSzVnSkJMQk9iSFNiVXRHNV9JZjNscjdtbTFCZ3ZFTHAwQnNmSQ?oc=5"
   },
   {
    "id": "aip-1746563",
@@ -2832,6 +2832,23 @@
    ],
    "link": "https://www.peacelink.it/calendario/event.php?id=13525",
    "online": false
+  },
+  {
+   "id": "gn-UVZoUmFsRT9vYz01",
+   "fonte": "Giornali · Viterbo News",
+   "titolo": "Viterbo, l’Osservatorio Sanità Tuscia in presidio alla Asl contro la violenza sistemica",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-17",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-17T15:44:00.000Z",
+   "luogo": "Viterbo",
+   "citta": "Viterbo",
+   "regione": "Lazio",
+   "coord": [
+    42.49295,
+    11.94881
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNFZrWU1YZjVvdmFHNURNNlZUZEJuOEdOV3hUQWsyRjNOSHVJTlI2Z01KNWJYbXMtTnJKTk8xenVsaWVQTHRhbDFDTmRDZnlDLTBaUjJyYmtfWHZCV3ZzaGFCM19WTmlZaVdsaEV6MklMSG5CU09sY1hDcWpSODdaYlJCaFA1WHZhS0lpalhjNThfN3BYMFVST0N4eUR1WFNPUktnd0lzdDNvMEg2akVndXl0UVo2c1k2aDJNV0hxUjItN1ZxT1JQaXNBT2xmeUZqOFV1d243Z2h1QVhRalE?oc=5"
   },
   {
    "id": "gn-ekJSV1Eb2M9NQ",
@@ -2901,13 +2918,13 @@
    "online": false
   },
   {
-   "id": "gn-U1d0a2QxRT9vYz01",
-   "fonte": "Giornali · Autonomie Locali Italiane",
-   "titolo": "Comuni montani declassificati: continua la mobilitazione. Mercoledì 18 novembre manifestazione nazionale a Roma",
+   "id": "gn-VW1WSGR3P29jPTU",
+   "fonte": "Giornali · ASL Roma 1",
+   "titolo": "Mercoledì 18 novembre 2026: chiusura temporanea programmata Presidio Salute Mentale via Boemondo, 21",
    "tipo": "Dai giornali",
    "inizio": "2026-11-18",
    "dataIncerta": false,
-   "pubblicato": "2026-11-16T14:51:57.000Z",
+   "pubblicato": "2026-11-17T15:22:32.000Z",
    "luogo": "Roma",
    "citta": "Roma",
    "regione": "Lazio",
@@ -2915,7 +2932,8 @@
     41.89332,
     12.48293
    ],
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMXRNQTZBamNYQVprUlpWLVdnSDBNdGpVNU80VHd1UkRqWWxpejB1cThvRV9fQVMxZ1JnRHpGakIxdDdNaDRDeFFoYUJuZXdza0ZUME1LbmtVc0tiM093X19NYmg4RFFBVDJOekhyT2hIOVRrU1A1M0NXQzFPcjFHY1dmVUk5TVJTZzQ2STF4Y1hBUEM5bExfZkxqOWFiSEJHa2tCcnJpYTFTQ0pueVp2VHVKTjJGY05GU2RKc2FjZGRrNVptcGlja2RmcUUzNU5GSUp3U0RMZGJjSWtkd1E?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTmZIVUxqRUROcFFjM0xlOFBHV3I4eEZlNVFWdmRnbXU5cEJ0eFFEOUUzTVRGa2o2MjY4VnZiSzltdkUyczJvbW9uZmhYQVdpdk5FTllsN2hWYXB0OWIxNWJpZlc2cGdOQng3Ni01Mzl1Rk1IY3JMYWg3TVFEam1pb3Q3aFJQWXRIeGRPcGYzM3NPVlRhblhfaE1zUmVHdw?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "pl-13547",
@@ -2980,21 +2998,72 @@
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746493/-/reggello-fi-proiezione-di-the-sea"
   },
   {
-   "id": "gn-RU5xT0Eb2M9NQ",
-   "fonte": "Giornali · Modena 2000",
-   "titolo": "Sciopero generale CGIL il 20 novembre: a Modena corteo da piazzale 1° maggio, comizi finali in piazza Sant’Agostino",
+   "id": "gn-TFdGaFRRP29jPTU",
+   "fonte": "Giornali · https://www.tv33.it/",
+   "titolo": "Bolzano: venerdì 20 novembre nuovo corteo studentesco",
    "tipo": "Dai giornali",
    "inizio": "2026-11-20",
    "dataIncerta": false,
-   "pubblicato": "2026-11-17T14:19:55.000Z",
-   "luogo": "Modena",
-   "citta": "Modena",
+   "pubblicato": "2026-11-17T15:56:50.000Z",
+   "luogo": "Bolzano",
+   "citta": "Bolzano",
+   "regione": "Trentino-Alto Adige",
+   "coord": [
+    46.65593,
+    11.23018
+   ],
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ3N4czV0RDVoNmlMb3NxU1lGRXJSdWtZam5hVFppYmpPRG84RDdJWV83cTZBNFkzenRPOWNhMGw4MkRtdmthZU1pQ1poYjdreTl6cFE3cWJSZlBxUmZFLWxFWFVnampvSGx3UE1wellzUTg4RS0yWmF1czJQaC1yLWFhTQ?oc=5"
+  },
+  {
+   "id": "gn-RzlITFZRP29jPTU",
+   "fonte": "Giornali · La Nuova Sardegna",
+   "titolo": "Sciopero generale il 20 novembre: scuole e trasporti a rischio, un corteo in Sardegna",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-20",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-17T15:45:00.000Z",
+   "luogo": "Sardegna, Italia",
+   "citta": "",
+   "regione": "Sardegna",
+   "coord": [
+    40.09128,
+    9.03058
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYl9uRklUczVSaXF5dGNTSUhXWUFYYkg5QmZPb1lnQ3NxV0NYaWxoLW5iYmdGXy14ckw4V040ZFBUbnhKRWtnR3ktTi13Tm41VDJfbE1IaWMyV05NdFR6S2RpeF9IWDl1ZGNCcHZJMHlRdEJwTUlDOTF2MWNuNnJnUkpOd0ZMRTFTRnhHMWFPb2YwX2NMOFFvVDZvVktMc2JQOGxQRmJnbVhIUFZBRjFQdHpxN3VJUlN0WjBIVmV2Nlo5VHhEV3BoNXZRQl80MDZXMjdjWUNzdmdjVWJZcHJHUG9HLVQ?oc=5"
+  },
+  {
+   "id": "gn-a2R1WlEb2M9NQ",
+   "fonte": "Giornali · Radio Studio 93",
+   "titolo": "Sciopero del 20 novembre: la manifestazione a Latina",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-20",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-17T15:37:00.000Z",
+   "luogo": "Latina",
+   "citta": "Latina",
+   "regione": "Lazio",
+   "coord": [
+    41.45953,
+    13.01259
+   ],
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORnFOV2dLc1BXZlNNSUNpNGVDLVdKNGJYZTBOdndyMWo0YTdFWWhKb3FwOEVVdlllNWs4ZU1qVWktWG9UeER2ajktWUZST1BPWWhjbDBMRUlNWVdidWhNZ0dfblBlb2xCRmFDZGFvenhNZmNOYTZtM25hVm5HckduZQ?oc=5"
+  },
+  {
+   "id": "gn-NXpNVUUb2M9NQ",
+   "fonte": "Giornali · Settesere",
+   "titolo": "Sciopero generale Cgil del 20 novembre, a Ravenna una manifestazione provinciale che dalla Darsena raggiungerà piazza del Popolo",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-20",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-17T15:04:53.000Z",
+   "luogo": "Ravenna",
+   "citta": "Ravenna",
    "regione": "Emilia-Romagna",
    "coord": [
-    44.53847,
-    10.93596
+    44.36406,
+    12.05901
    ],
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1hlVGJlN2hKT05wQVh4N1VaNThWX3NIZk1jY0JLZk9FN1p1aExyUHlLVjFUX2E5cnJJUmRNZjFJNk5GdGNqcUtrQ0s3YWNCT2w2dUh4ZzZnU0NIOWFmMThodUJJVDhHUGZDRFNjNmVKUFdHN0IzcXFlQ3QyVWZWNnZfQ1JXLVVHSDRjNk01aWo5bmlxd2YzYVdaYlU0TW85VkJxdWk0cUZOa2NuekNsZW5XOG01dHZtRVozMUxGNkhsT3BZUEFDbElFNkVVejhORGxYMUo3cE40aVZXUkR5aENqOA?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQdF9yZHVHYm5uRFp4X1doOTkzYmQtUHJGQVNaMHhTVFlrbjU1azZXY2dfSFZkdUNLcjBneWR2THBBMUxodXowR3Z3RVVkRFZGUjRISUpLRnF2c1FtQVBzejBaVTh0Z1JVbldzbEZ4czNrd2hsX2Q3Rnl1aTdDVGNMNjkzaWFqZUFvcUxwZ1RkdkJlaERta2xla0pYQmo2SHdmRFlObmZQY3VkQnNRNGRoWEFuWHRES3BWNWNxcTlZWC1TRS1yZ1NLSUdIS1FQejdlV2NMX20wcjRXa2Q4Xy1kblhHVkQ4Vks4bC15eVJtRmRFQlNESjl6dGZVLTRSRy1RQTZhZHhXVW9kRW5zMUE?oc=5"
   },
   {
    "id": "gn-VFRjd1Jsbz9vYz01",
@@ -3015,6 +3084,23 @@
    "altriArticoli": 1
   },
   {
+   "id": "gn-a1pPVkhGQj9vYz01",
+   "fonte": "Giornali · CGIL Modena",
+   "titolo": "SCIOPERO GENERALE CGIL IL 20 NOVEMBRE: IL FUTURO E’ ADESSO. A MODENA CORTEO DA PIAZZALE 1° MAGGIO, COMIZI FINALI IN PIAZZA SANT’AGOSTINO",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-20",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-17T11:34:32.000Z",
+   "luogo": "Modena",
+   "citta": "Modena",
+   "regione": "Emilia-Romagna",
+   "coord": [
+    44.53847,
+    10.93596
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcThUbGxtdnZWZVF6SUt5c09pTDhlcVNIdlZHYThjUE45TzN1S0k5aGM1ekltNEdmS0diczNjMTVxZW9OUlZyc0JHbmhESDk3VUkzTjZvR00tS2RGVlRuajhfaW9LV2N0dE03SXByelpzTUFwandnWVp1c2VlTGVNMktCRVFPVTFsVXFXMTdoa1F6NTdoWkxXejFyd1lGemVuamhObzZ0Q0NuMjZVenNDRlVFT0Q4a2VaQVJYT0JGOTB2cERUeHkyYzlBdWxwSjNJY29Ha1RHTDZ0UTFiOFdzTHR3LXI5MHpwckZOVHFB?oc=5"
+  },
+  {
    "id": "gn-ZFdVR3RSP29jPTU",
    "fonte": "Giornali · Comune di Ragusa",
    "titolo": "Provvedimenti viabilistici in occasione della manifestazione corteo CGIL per il 20 novembre",
@@ -3030,24 +3116,6 @@
     14.73075
    ],
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWpyTzA1U1UtdEZNS3JKc1htS1I3ZmlwMGUtdmt4RmxkRVEzb2RBWmJVdnF6d2dvazhlLUpZSEFPUjRpcUk4NWxjZkFNdG5rYjZrMm1Rc19Pdk1RX3pOdllTY2dLcmRzbjB5MGFYSG1qWF9nZVE3S3hKdFZFQmsxTGh3eFNLb3BpUnVleDE2bHV0VWNITFZrcFZyT0FQeTBWT2xJQ2JCLVFqRWhJRG1oeWxxVkNIdnFvV1Jvd05JSHhWY2dWUGtR?oc=5"
-  },
-  {
-   "id": "gn-M1YyTlhRP29jPTU",
-   "fonte": "Giornali · Cosenza Post",
-   "titolo": "Sciopero generale del 20 novembre 2026, Cobas Lavoro e sindacati di base scendono in piazza a Cosenza contro carovita e riarmo: corteo in Piazza Loreto",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-20",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-16T14:02:03.000Z",
-   "luogo": "Cosenza",
-   "citta": "Cosenza",
-   "regione": "Calabria",
-   "coord": [
-    39.59669,
-    16.33306
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbllObU5KN3VQVldKSHRMVkNoOTl6eFFFZ3Q5VjQxczUxRlJJVFg2QWNhMXVNUWFtenp4VVMzQXAyN1lUX2FiS19CWU9tVXJBTHVuTjhTRlJFTVZQLUM4czk5eFJQbGc4MlplNTU4cTlrRTNaSzM1OWRWMU15SG1iNVV4MlZSM3ZsUkg5NlF1bmZCYjlDSnd1YWE2NUZOTkRpNTgzaUV6SzdXQ0dUNkk0aGVEY1lPOS0yNGh3LUI5WnV6cGJ1R2VxNkN6dFNUY21URk1qWTlxZTlxckZzOFhwYURINkQzd0hSYkhWSi1SYW14ZDE2ZEs0clZkTTUweTM2elRDQ3V2NXQ?oc=5",
-   "altriArticoli": 1
   },
   {
    "id": "gn-amhJWmxKMz9vYz01",
