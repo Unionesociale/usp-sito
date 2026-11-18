@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-18T15:09:31.005Z",
+ "aggiornato": "2026-11-18T16:13:57.749Z",
  "notizie": [
   {
    "titolo": "Idf lancia attacco nel centro di Gaza, avviso di sfollare",
@@ -748,16 +748,82 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "LATINA: Manifestazione studentesca",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yNEdXc2l3Y2hSSVBRd0lOb3dad045d2pFd1JFZzJpeWhDTEdzaUF4bVhKY25iYU5RYTBVeFZXdmYzZWxIcUF2c3Nzenlkd1EwakZkenZzR0NXZU1HUnl2dmt5bERfeU1xblk3UVhfcS04b1dOSHpn?oc=5",
+   "fonte": "Teleuniverso",
+   "data": "2026-11-18T16:08:00.000Z"
+  },
+  {
+   "titolo": "“Continuiamo con l’occupazione ma siamo pronti a dialogare”",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTE43MGh5TVBNMXhVQURuMjVEZmVHOFQ5Q0I5MUdXTlhQQ2xWM2xfd0V5c3ZxTmNiWk9PamI5a1VsY1o0VDNtbEVLSV9VZC15aDQ5UVNRdmV2MDhYOF95aDVNSFBsWkZHTzZPRzY0Uk5tM0czSFFqejMtcURiT2ZDVkVVU0lLd2JKQXVnelcxWVBXand3QkpqQQ?oc=5",
+   "fonte": "NoiTV",
+   "data": "2026-11-18T16:06:47.000Z"
+  },
+  {
+   "titolo": "Sciopero generale del 20 novembre, la Cgil Molise porta la manifestazione in piazza a Isernia (VIDEO)",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWE9MOFBOQm1hRndYZnUwcnNLamlVTTV0TW14TmMxeGlYbDZ3d3hYb084Q0N3Vk5QdVpzNGl6TzBOWGtGMFphSFgyTHctMkVoV2lXX1FVa2ZDNHlIbGFRMlZldmlmMWM5OEVFdllEWjNXemIxZDBKdlhETkZ5WWs0OUZMRWRua2E5YnhIYkdzZ18tbGtqRUJGRmRqano1NHBDRXoyUkxOYkFRcVBjc0VjdlFOMmxWcnMwRHd3TG1LVnA3dnhSanRtWFBQb3U?oc=5",
+   "fonte": "isNews - Molise",
+   "data": "2026-11-18T16:05:40.000Z"
+  },
+  {
+   "titolo": "Ortofrutta a 0,99: la \"manifestazione contro il carovita\"",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYnFUN1VmV0JWdkJKdXZ6amxMZzdYUWNUWjAxYjVuc3MxUE1EQ3RjQWdzY2NVWi0teXhncDVLN05VRHVWUHVGT0Y4eW8xTG5LaTBSSlJ0bDU2TlZ1eWdpZGVhODRwUGdyeE92VnhqUFJWTmdkTnJEMndjUnd5UXBYTkF4TkZET180?oc=5",
+   "fonte": "Myfruit",
+   "data": "2026-11-18T15:58:56.000Z"
+  },
+  {
+   "titolo": "Sciopero 20 novembre a Roma, venerdì a rischio tensioni: le tappe delle manifestazioni studentesche",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaVZ5ZzJJVGFUa0JUOGZRTDVQcUN1ampyUHJ6UWU5S09VWGdUdm0wQTlsRXl3Q0ZNWWQ1dFROTDVkWVE4Ym1PcTFCandrbHhDUE1qaVpVcS1DOFg1T3dwMzhZTGVIaXJ0SG9qbTJEcUxkZTgtak9kUFNoUl9lZV8zbTFn?oc=5",
+   "fonte": "RomaToday",
+   "data": "2026-11-18T15:49:48.000Z"
+  },
+  {
+   "titolo": "Occupato il Polo Carmignani, lanciata manifestazione per lo sciopero generale del 20 novembre",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdEhyZXl3TWZSeFUxMXdtQ3R1RERrOG5hNVd3dGxKeHFwWm00c1N1NDVOQm42RVhYNnVaUVFxZkZ3VEZQLTJYYnk1UGo0d2J4Z2ZxQXNtVFV6dkJKcUg2MUltUUMyV09oMjgxV3F3YVZqamVuaWNaaHZXOGk0Y1hzcTFqM2ZWdU1VdkJEQU9TWUpDajczeUdPREIzRVNtakFCZ29FcWN3?oc=5",
+   "fonte": "PisaToday",
+   "data": "2026-11-18T15:46:34.000Z"
+  },
+  {
+   "titolo": "Sciopero generale del 20 novembre, corteo a Pescara da Porta Nuova a piazza Italia: la Cgil scende in piazza per salari e diritti [VIDEO]",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSzc0bDlBS3Y0V1U0VElTc2ZsV3R5ZHNBR1NsT3YwRlNYZTM1UVlSempjWjZWNGRQQzRWWXd1MmpOWEhrLUJXX3lhTHdtZ3dRaGhfSWt1eDVBN1hYNzB5TGtWOXZiUVBnTUNCUUhNcXpBNTlnbHhPMlVweDNybzJ0SmhJRERudzBMRjdsMDVNQ2Z5SFVwOTRRV3gwMmlhZw?oc=5",
+   "fonte": "IlPescara",
+   "data": "2026-11-18T15:42:43.000Z"
+  },
+  {
+   "titolo": "STUDENTI: OSA IN PIAZZA CONTRO LE DENUNCE PER LA MANIFESTAZIONE CONTRO FORZA NUOVA",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTGYwV0V5dU9ramZNZU1HVkRSZkJMRlVFYlJOVkFFX3NuTzBFN1VjZXNBN1RkUGJueXhZUy0ycllGY3dIYWRvZmZjX2NMaTliOWxvOHRXak96LVd4c3YwUzVlWUV0NGVBX29GRWxnbm1sMkRvODVCaGNOV216M3IyM1pBMXVrZ0pDdkhEYkxTMzF4QTF3SWlBN3ZmMW4xWXY0dGVmMGtUaWZaM1ZMMlY4eHhRTGxLOUVXNFF6SFFwYlZ5ZUNiRHlLN1BjX2FDeDNmVlNHam00cGJ0LUtiNFBwekJR?oc=5",
+   "fonte": "Basilicata Digital Channel",
+   "data": "2026-11-18T15:27:23.000Z"
+  },
+  {
+   "titolo": "Mps, Giani: “Da Intesa Sanpaolo garanzie su occupazione e legame con il territorio”",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMzRZT0ltaXdGTzgxOUlxd1RfZWE1ckg3NFdSV0xXWUxmRl9qRlY2NHdpYm9CTjZaSll4QXBrZUxuQnJINUNSNUJfSXk0aUJHRlU2X0RhWEtkTDdfV090WDZZWGw3ZzkxU2NUTks4VjA2Mnl6bEZoZVdybDFYRE1IbmZvblBMUXBWNFZ6NFIxdldwcFhBMXg3QTduSmItMVhKSEVhcjJwSDFlVVNZ0gGyAUFVX3lxTE1pajJDYjZFNVZCNUxEdW9VYm5hWHY5ZzRRT0dlSzdfMDQwWjJVM3U0ZEEzTFhrcm84MlpvLUFZMDJnQXZCb1E0NDZYaTRxSl9Fc0d4S3pTdDZOLXlnd0dkQkpFd01VTU1XNV9WZ1VKQnVCN3I1aTVHdk5JM056MFhELVdiTzdoU3lpWnp6ZmlfUGdkeGhZYWpMNk4zNi1Qbzl2emFZd2tFZF9uLUNCMmh3OHc?oc=5",
+   "fonte": "Radio Siena Tv",
+   "data": "2026-11-18T15:14:39.000Z"
+  },
+  {
    "titolo": "Cgil sciopero generale di venerdì, annunciate 5 manifestazione in Abruzzo e nel Molise",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0xncVdzeUVTSjd2X085dndrTnItb05fRTBneDVXRTZJeTljN1ZaLVE4ZlZnSVZ6SFMydDdJNWo5RkdldnpOUVhNMHNIakM4YU5vYUFhSEJ2eEs1dkJ3NXhiSks5VW5BcE41SVZHX1l5Nl9Tc1AwcjFXdFRySUZjNVFpQ2E3ZFo2bmFMSUtqX2hNeE9NWmpQb2RmRlNleVJKcXZqX2xTTC03NklOS3lLZmI5bWotaTVHcXM1X1prVVI?oc=5",
    "fonte": "Corriere Peligno",
    "data": "2026-11-18T14:56:42.000Z"
   },
   {
+   "titolo": "Sciopero generale indetto dalla CGIL. Manifestazione tra Arco e piazza Cavour",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVA1dTZsckNMQ1I1ZURSRTZHYnMzMHhjNTNZVTVIR096V09lTEdNcG4wYlBLNEtXTHFiUjAzZEtXcHFtMUFKaGJvQlZNSXN0SFZEUHZHYlIta2ppZV8yV29Cc3ZzV0hZRnV0OHdkYUFuOGFPZGlUbDZVY1U5cDhnMVIwcWk4bTFTazlFUUd2VENMLW5GeXJRdTBlMV9xT0xTXzFZQk9GOHltTzRWX0R2ZEtoRQ?oc=5",
+   "fonte": "Newsrimini",
+   "data": "2026-11-18T14:55:00.000Z"
+  },
+  {
    "titolo": "Scendi in piazza? Eccoti la spaccata! Succede a Gavinana dopo la manifestazione. Si attende la solidarietà delle Istituzioni",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbmp0eUlfT1lDNmxtaXpuSzM2QlpPS0FfeWNjcGZjM1I5ZU1UNGdYTHF2VllkRnZEdmROVnpvMGZKc3paYnZ5R0hLbC1CdDlnbzluTnlzLXFTSVZycnNmaFlmT0pORUpkMGU3ZU9SdlBpNGpWY0kwWW45ZjEtOWVSSkhuQVdGSEpYUTNJZmdjREV0SnNPRzB6SW9xcnFwcndCQVpmMXNRZXBrcEg1ZXFCZzVSM3NqdmU1ZExnN1RBTGltdDFzUS1faGJ3ZkN3Tk1vM3VvcDJZWEs5ME1peXB3RUVDY2JfNHc?oc=5",
    "fonte": "La Firenze che Vorrei",
    "data": "2026-11-18T14:54:30.000Z"
+  },
+  {
+   "titolo": "Varese: Pensionati CGIL in presidio: “Così ci impoverite”",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWRoM3ZjVnZWRW1mZTRuUVJuSGxrQWdnTEZvZklUd3I0VEZ3NmpSWDFQMTc1Ykl0MTJjREptZ3dmVTFFa1pIUmZGLUdhQ2dPcjljWGxpSGxJOTRTbFRSZkhhbHJoSDV2MEQxMTRXaUFmdk5Rd0E2cGRrc3VvN3FXbkNtSWFCZy1VTHd2MFhmTUlCWk5wOHJTdWF3?oc=5",
+   "fonte": "Rete55",
+   "data": "2026-11-18T14:47:06.000Z"
   },
   {
    "titolo": "Sciopero generale, a Palermo corteo da piazza Marina fino al Massimo: dalla scuola ai medici, ecco chi si ferma",
@@ -770,12 +836,6 @@
    "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQVlhEVmlpUnB6cVhCcEVDU20wWjRhZzRIM3NsMWpEUFcwS0dVeThIdEtTb19SbVJTWk5Xc2lScFlTYWVIaXdSU3BjeVllWWpNQjFEcWRhN0hheE81dXdGbW1RMDc4OTBtN3BlZTZBOXI0bXNoZnNscVVCV3doNDU4X1ZEVGNOdTFwbFdhWXN0QUZ6TGZUWDJ5MHRXSHB4VjR4dzdiZmMwMTlFMXJSUE4zeVB5bUtVSkJYWHU0blBneXNhUk4wdWR6ajZPdTFWcGh4RGcxZHJqMk9DTVNublBTT1o5c2NaMTZUTmVxdnhfSW9DVDR0Z29JOTBoRUpReHpDeVRrU21UWHN3aEJKZUxTMGZOaTRZbVd1OGxUamNWNW1WbDhFQkV3eUVhU2M5VVVodnBvSzVyZVpsWTJiX1A0eTFqbTFBbDZlQjQ5TkdfQQ?oc=5",
    "fonte": "Firenze e dintorni",
    "data": "2026-11-18T14:42:00.000Z"
-  },
-  {
-   "titolo": "Occupato il Polo Carmignani, lanciata manifestazione per lo sciopero generale del 20 novembre",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdEhyZXl3TWZSeFUxMXdtQ3R1RERrOG5hNVd3dGxKeHFwWm00c1N1NDVOQm42RVhYNnVaUVFxZkZ3VEZQLTJYYnk1UGo0d2J4Z2ZxQXNtVFV6dkJKcUg2MUltUUMyV09oMjgxV3F3YVZqamVuaWNaaHZXOGk0Y1hzcTFqM2ZWdU1VdkJEQU9TWUpDajczeUdPREIzRVNtakFCZ29FcWN3?oc=5",
-   "fonte": "PisaToday",
-   "data": "2026-11-18T14:41:57.000Z"
   },
   {
    "titolo": "Ex Ilva, sospeso il presidio dell'Indotto dopo l'incontro con il prefetto",
@@ -794,6 +854,12 @@
    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNVDhMOTNDT3RZQm5zbEdyeFY4Y0dPZ1lSZUNuWFAyUk10QWJIR3BNbV9JMnpSc0ZfVHpxM1hTV2FzN1NiaC11Yy15RTBtTlpDVmdRZ3FESmV0Nk5xNFFuZjMyR3lBMU1vWjB4a1EwXzlqRmJWUFlBVTFfUHNyS2kyNWY5WEVOVU04NmtuV0VzNEpPandxY3o0alNOdVJrTmZCbGFDUGVqc0VNVEJqYnhPUXE3c2d5RjhtTEdnZFZMOER0SDl3c1E0aFFFMWVpVmtwSnJPT09MLUd5N1ctc2o4Y01lZVRNbEd4RFZaUUljaWVUVlg4Zm96cnlaUTk3eWZLNVlnZ3RWWGRHbm9fODIw0gGUAkFVX3lxTE5EYmROLVlmeGhTWDM5c1pOVEJRcjRtMVZ5S2M0VFp0Z3pfTmNyQU1qM1BEbktvLXgyOVdPb3g0R0FjZHhmeTYyX2dfckVnRDllejhZeDAybXJnSGFoWTh4Tkg1YmlveTZsV1JpbVBFSW14bDFBZGQ0d0Jwa2g2QmhRWHlDNzNDVmIzYjF2WDJ3TjBsUWVCSV9VMkRBRm1TZ1llUGo0UEREODVmSjF4VU1rWDJEcmlkZVp0dDdGd1V4MDdtRWNRRng5cFVqUTRMajNHYkFBNXcyVFFYdnJ3QzlETWVLSEpIOUdVbUtuT0VVc0lJeGhxZno0LVJBZXc3MGk3RmRzcUVOMktiMUZSQ0szemQ0Yg?oc=5",
    "fonte": "Corriere Torino",
    "data": "2026-11-18T14:17:47.000Z"
+  },
+  {
+   "titolo": "BOLZANO, TORNANO IN PIAZZA GLI STUDENTI CON UN CORTEO PER LE VIE DELLA CITTA",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWmU2T2xzZ0g3MUZ0dmtFaGNSa1pDWWcxLThoSlktaEdkMFZvYm1LREh2VkhaMnNUbHlKbzR6a1dRSGhIX3cxcENWZDZ5UElqM3VUd2xKcmFiT1ZYeHJXYm02Nk1sQW5SZGhvNEhFV0xWMHJnbVR4NE1wcTlGZnNiSmJQdkNSNGFLQW1hSHJhMUs0dHFwZHhJbTRFR3A?oc=5",
+   "fonte": "Radio NBC Rete Regione",
+   "data": "2026-11-18T14:14:50.000Z"
   },
   {
    "titolo": "Sciopero generale, la Cgil chiama la Sardegna in piazza: corteo a Cagliari contro la manovra",
@@ -818,6 +884,12 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXd6amI0V1NNMVBsZk9sbFRtV05mUVBpN1ppM3lITExFUWJUV2VkS284b2FtTlFILTB1OXIwMjBMRUEzMkUwT1dpSHNOcTlIQXJoU1BySVhsejFWU2lmLXdxNkxkOUVPMXFkNHdCdWJkRlF3blB2UzU5NTJiN1FGZ1kxU2VGQXRqZ2s1N3FaWXMyblNoT25uUWE1ZVhlUTZBaTRPd2hydnlIWnNoVXlTVTYwYlY?oc=5",
    "fonte": "LeccoFM",
    "data": "2026-11-18T13:07:37.000Z"
+  },
+  {
+   "titolo": "Sciopero generale del 20 novembre, la CGIL scende in piazza con gli studenti: corteo e mobilitazione nel Fermano",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTTdxcjJuRkFXcGlKc3pxS3plZERIdjJ2ekpfNU0wSGJERWQ5VDhuNmJNM0FLbFY0bC1GWWttbEo3WTBTSTlfcXlKVzBpdjA1TFFqOXV0S1BaY2dXam9BWWYxdlYwa1E1ZlVRSmN0TnhuQUZmZlNremNURG91VTd5S2JtcXFFZENvYTRMdGhYY3pwcGY3cHY0OF9yV0pKWjlxaDJMUEY2b2xvQ01JVnVYVkJNaVFzRzkxcTg3a1dDQjk2RFl6SWx2WEQ4SkFLcFlidG80aGhVcw?oc=5",
+   "fonte": "www.manewsfermano.it",
+   "data": "2026-11-18T12:50:03.000Z"
   },
   {
    "titolo": "Palazzo Nuovo, dopo l’occupazione UniTo mantiene le lezioni online fino al 21 novembre a causa dei danni",
@@ -886,12 +958,6 @@
    "data": "2026-11-18T11:59:16.000Z"
   },
   {
-   "titolo": "Sciopero 20 novembre a Roma, venerdì a rischio tensioni: le tappe delle manifestazioni studentesche",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaVZ5ZzJJVGFUa0JUOGZRTDVQcUN1ampyUHJ6UWU5S09VWGdUdm0wQTlsRXl3Q0ZNWWQ1dFROTDVkWVE4Ym1PcTFCandrbHhDUE1qaVpVcS1DOFg1T3dwMzhZTGVIaXJ0SG9qbTJEcUxkZTgtak9kUFNoUl9lZV8zbTFn?oc=5",
-   "fonte": "RomaToday",
-   "data": "2026-11-18T11:49:32.000Z"
-  },
-  {
    "titolo": "Sciopero generale di 24 ore, la Cgil chiama allo stop totale: il corteo partirà dall'arco di Augusto",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTVlYdEZYRXUxRkFWOTZ5UmVWTVdfalRQcHNRa0dqZFNxc2JDT3lDcUhCSHZVUml2cC1TdW5WSUNKdmw5VHBkYl90R00wUm55V3M4MWtGVHR3Sk9GaENIa2xDMHI1cVNUNjFVRW90WDR5XzFYUHV4YkhUNXBVUUt3R2NGN0czZGEz?oc=5",
    "fonte": "RiminiToday",
@@ -908,6 +974,18 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcnVUbGs4ZzZ2aXFsNmcwdWpmVTJJMnhRSV9CbjUtNFpGQldkM01mVV9MNjU5NzNKZXVpTTdkWGlsV0tXSkF6eG1ZUy14WW16akhoLXV3a1d0VXFBYWVzclgwZ25kRnJQTG5rUU5jc3ZsVTBhUGhpTkNlWW5BWjRWZ3FVTmtNNVdjX0R0MlBwREtXVkVxeE04N1dtWW5PRUtQajRndGpZQjd2OWdadGk1alFndE9pNWZwWWlSODR3OWFVa3RHTGZnS0I5eHVDSXZ4RkE?oc=5",
    "fonte": "Sortir à Paris",
    "data": "2026-11-18T11:31:20.000Z"
+  },
+  {
+   "titolo": "Ex Ilva: presidio imprese dell'indotto a Taranto 'Stipendi dei lavoratori a rischio'",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVXYtM1c3cVcxSVhLU3R0QVpYdUVCbEN5R0hoWmZGeDBDSU11VlF5Y1U5cGdXSE5ZXzlkVWlONWUxM05HdHFXMGJPWW93R1J2YzZMT2lGSENjamdHcnYwNW0zbTVJUG9ac3RTMEFNRXVwVkJmekNOUVFkek5JaXdOR004bHJqYVM0RVpDc0g2anhhM1dVUXNXdGEtWHBRTWJPcjgtOGNfMTFCdEFpdVp1bktvR2RVRnFUa1ZHejFqaEMzeEJKZUNiNWJpNzFQakRFOUE4enJfNUdKbWRsVGV0MVRjWlRlLTF6NE5OdG8wVmZEQVU4NEZtdGxoNEXSAYICQVVfeXFMUHk0RElsTmRteC1Ca1QydlVfZmZTSHg4N1h4RTc4ZnN2LUUyUUJNNjZlaU5uem0yd3BVS2NKdkpVWDF2QWNNYXo3cWZuWTlZZ3V3SS13RXo3YTN5UHV0MVNYazBpemFIaUJRQ0h1aXFZdFU5d25kcGtySms4eWxkQ0l1WFJQTmw5OVh5ZnBTZFNaSC14ajROYjZ5a2k3VGlqVjNqelpOZEJRakRQdUg4YkxKQkNHajVJUlcxMlZ2U244Y0RsN2hyejhjY1M4UVNPT2ViMlZkWGpST3NkeGRMZDVJbWpPTGFjN2hxaU5ka0dlanltUVFIVGpLaHpLa1VqNzdn?oc=5",
+   "fonte": "ANSA",
+   "data": "2026-11-18T11:27:00.000Z"
+  },
+  {
+   "titolo": "L'appello di Sergio Muniz per la biotech Holostem: \"Mio figlio merita speranza\". Sabato un presidio",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNTFNhUkhLY3ZkU2ZkNWhDUVhIU1NEZW9MMVF5OU5XLWxZOTE3ekM0MVZHUzJ2aG52b2NKWFdocDlud0poZWJiUkNOc2VWWFVDZDZnMll2ZlJpTzZRbmdNcEwydW1ucS1kQ2NGWWJWNmJsY2dQaGRhWmJqOWZMQmdpWWpkWGRlbXo2Y21OOHZha01HNU5oRzFrWk43TjhPSGhxek5JUVo1NXpsVjJXZ1lrYld4WlBUSmlmQ1I0Ql9LRlFwVEJUUlpocC0yMG5VV2dhbTdIa3J4RjBCVWdSeVVPRWI3TkZ1NTAybm9FV2QzWVJ3MzdjSWdFaUFEbV82TElPelV0anRB0gGLAkFVX3lxTE5YSmJEV0d5eEl0WU9hT3VGaTd6S3lNdnQxM0tMd2JOUWlFYW16eTVQa3FqTklQbk9SWWlKWS02ZlFxZmNVbUpBOWNYZzc2VU1SSXl3UU1rT2VqUnNJeGhtVU5sTHViQVotRlVkM1BMdUZ5aE5VZkhiN290RWJLSk43ZlUxd0o0X0VtMjhzZGhFaDNQRER5YVdJYll3MkhpcXd0ZmZaSnBHR3ZGdzI2eDc2Si02cVgyMmtaYXo3dEZjdThnUnl5ZzJHOUdKZ09fNGdUWExUbkNwd0RvN05rTjJUYWdlN2pZanNtUWZKcEtzTXdGZjduODI0WVo5aWJXdDdlOUJlU2Y0Y2k4TQ?oc=5",
+   "fonte": "RaiNews",
+   "data": "2026-11-18T11:25:00.000Z"
   },
   {
    "titolo": "Novara torna in piazza per lo sciopero generale: attese oltre 2mila persone al corteo della Cgil",
@@ -979,13 +1057,7 @@
    "titolo": "Novara, presidio dello Spi Cgil davanti all’ospedale Maggiore su costi e attese nella sanità",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWUxWcHJLWEpydTZOLTFhOGZlcXdMSUhBWGczSkFpdF9tcEl0QUFNeUpQWjZ3cndvQkVwU3ZyM3VvVG43M2M1cXNEOU5CaXY2aDR6a1M4MkpLcGZmZUdVSDc1UXhoVWFDLTB0ZmhZQmx3a1hXcTVsdklLWGZEQllRS0F0eUJ2QQ?oc=5",
    "fonte": "Quotidiano Piemontese",
-   "data": "2026-11-18T09:48:08.000Z"
-  },
-  {
-   "titolo": "Sciopero generale del 20 novembre, la CGIL scende in piazza con gli studenti: corteo e mobilitazione nel Fermano",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTTdxcjJuRkFXcGlKc3pxS3plZERIdjJ2ekpfNU0wSGJERWQ5VDhuNmJNM0FLbFY0bC1GWWttbEo3WTBTSTlfcXlKVzBpdjA1TFFqOXV0S1BaY2dXam9BWWYxdlYwa1E1ZlVRSmN0TnhuQUZmZlNremNURG91VTd5S2JtcXFFZENvYTRMdGhYY3pwcGY3cHY0OF9yV0pKWjlxaDJMUEY2b2xvQ01JVnVYVkJNaVFzRzkxcTg3a1dDQjk2RFl6SWx2WEQ4SkFLcFlidG80aGhVcw?oc=5",
-   "fonte": "www.manewsfermano.it",
-   "data": "2026-11-18T09:38:21.000Z"
+   "data": "2026-11-18T09:47:53.000Z"
   },
   {
    "titolo": "Danni a Palazzo Nuovo per l’occupazione, il complesso resta chiuso: lezioni online fino a sabato 21",
@@ -1012,7 +1084,7 @@
    "data": "2026-11-18T09:18:04.000Z"
   },
   {
-   "titolo": "“Enough is enough”: il 24 novembre Strasburgo manifestazione dei sindacati europei dell’industria",
+   "titolo": "“Enough is enough”: il 24 novembre a Strasburgo la manifestazione dei sindacati europei dell’industria",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb2RWRnN2OUd0S19vOUE3NkZHVk14aGF0dnhEendlanFwMkFoX0xOU1RrUVk0Nm1TQkk2Wkh5amdqM1dtNWx6cUdub1QydFNFN0tad2lmdEhzTk4tbDRVQ1IxME9hX2taUEJWMklSTDRTUDU4U1R6RExienZqYmlHenhCQUd1MGE2OE9DTDFDbnM3QlZzMXN4OXA4MUxhbDZicnVvSm9MRFFSNC1oYzJWNENCcEtqWlNkOHpTYmZhRnRhUzdzeXc?oc=5",
    "fonte": "Il Diario del Lavoro",
    "data": "2026-11-18T09:16:27.000Z"
@@ -1021,13 +1093,7 @@
    "titolo": "Palestina: il cappio bancario come arma dell’occupazione",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQektaZVpIVVJ4NjVzei1KZ1VRa2MzdGMwbWhLUExXeTA0dXBaOFJtOUJoQ1hjVHpGRTNId1MzODdRaWV0cHJacnRjdXNtSkEyTF85dUtLS3FIc3hnOVcwTE4tbmdYRkhaVmVzUldOTml5QksyeGdJVWxlWE5vT091TktEYzR4VklaSlE?oc=5",
    "fonte": "Sbilanciamoci!",
-   "data": "2026-11-18T09:11:15.000Z"
-  },
-  {
-   "titolo": "BOLZANO, TORNANO IN PIAZZA GLI STUDENTI CON UN CORTEO PER LE VIE DELLA CITTA",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWmU2T2xzZ0g3MUZ0dmtFaGNSa1pDWWcxLThoSlktaEdkMFZvYm1LREh2VkhaMnNUbHlKbzR6a1dRSGhIX3cxcENWZDZ5UElqM3VUd2xKcmFiT1ZYeHJXYm02Nk1sQW5SZGhvNEhFV0xWMHJnbVR4NE1wcTlGZnNiSmJQdkNSNGFLQW1hSHJhMUs0dHFwZHhJbTRFR3A?oc=5",
-   "fonte": "Radio NBC Rete Regione",
-   "data": "2026-11-18T09:08:56.000Z"
+   "data": "2026-11-18T09:13:28.000Z"
   },
   {
    "titolo": "Sciopero generale, venerdì il corteo della Cgil ad Aosta",
@@ -1160,72 +1226,6 @@
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNODhiQjFMOVBQTndHS2d6RGx3eXhZUmNGNGpGZUNrZW9WM2R0NnFsQTctMHdsMlIyc2oya0V3dFozZkV0bTZ6T0dVdWlXLWsyNnV4QWNjOVZpWEViUmcwOW1EVTVEZGJMajgwY2lVOV9ZRmZUTlBOckRUNHdYY1BxdEpQdTJNQjBHWDdQc0hjdnExeFI4Q2hVSTJ5RDUzbzJHWHdLZnJGY01mZnJxS0MySWoxUExYR1RwdlY4OEM5dnRWVmlOV000c0dhU1d1REJ5MkRfcDZPczQ0NW9BbUZzT2pDTHZvdndqOC1SdW9R?oc=5",
    "fonte": "Comune di Verona",
    "data": "2026-11-17T23:00:00.000Z"
-  },
-  {
-   "titolo": "Manifestazione contro il ddl caccia sabato in piazza Unità",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM1ZNb2VQYkRhalZMRDExaEYxMFlFaF95R1IyVkVvQ2htNGtpS2I1R0VsRHpZZ0FNMG1WdmRoRmlhMVplVU1CTmQxbUlib0xsanNqMmMwQ1VxSGRfVDJ6MVFXWmREVk52c21qa0toUkJONGFhSFdoN3A5eTh1Z2VFQ0V4SWxOMGY0cC1meWE5UENmZ003N0NMMVVlYW03d01nTUxjOURWYVpxLUc3ZEtfR3hyT2ZQNHpTcGRIRTFialQ?oc=5",
-   "fonte": "Il meridiano",
-   "data": "2026-11-17T21:48:21.000Z"
-  },
-  {
-   "titolo": "Piemonte, economia in crescita ma occupazione in calo: il segnale d’allarme di Bankitalia",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ1VPczQ3YVN5cURwUXpxdWhVR1VjNEQ1UTBVX0V3TWNHT2hpNmkwOTgyM01WWGlTZlRlRTlPZTM0UVdjYTNwNURUNUJwLVFBanVCNm92XzR6aFIzSFI0cXh2YTBRMFBIOExqZ3IxLWY1WUdQdHRIOXRqMnNDWWRPT3M4eGtmaFd1Rk13Mm1n?oc=5",
-   "fonte": "Torino Top News",
-   "data": "2026-11-17T21:30:00.000Z"
-  },
-  {
-   "titolo": "Università di Torino, i writer cadono durante l’occupazione e la prof esulta: “La mano de Dios”",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUmU3OFVHT2NOVnpjTWZRLWhXaWRleGVMWjI5OHh5bmRUREptalBGYWZkTzZTOUw3SVZ6T1l3V1U3eW5VMzhxMEhWaUt2QkNJa0FkSTlkMkE4cEZVRmtacHdhdkl3U0VTZE5RcmlCQW9RWlhwM2huakVqSExDSG5aV1FLUGp1OXE3OXpHTjNJZlhoZ1pWYTRyVHpfYUluY3BFM0E3NW02dUpJYmswM3lyeGZ1VjM0cm9WVHMwZlNmOWdLWktpUDlKLVRtZXFXX1hP?oc=5",
-   "fonte": "Libero Quotidiano",
-   "data": "2026-11-17T20:45:06.000Z"
-  },
-  {
-   "titolo": "Il presidente Usa accolto dalle proteste, migliaia in corteo",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOb09HbHF3RjR5NFU3SjNRc0xzWlZmR3hlNGtTaHRmNHh5YXRDTENGRC1wamo2R1k1Wjg4NXAyVGk5UG9GTzh6eFRrNGJ5dkUyeWxULUhFSTB3RnZfb3lDYmVmVmlzd0JvUXo2bjBxenJFdTNoY29WT29Va0ljV3pLbmkyMHZmaW92WUdQbEtJajBkS3V4cGkxVGFoTkUtMmlYNmwwcVNTV2daVFVjbE9xVEszZUY1SmVvdVFpRnAwV2ZFSm5kZW9qN3pVbVBJUGVSd0hzM0RraWlDSEZheUhUOWNwSk1yZ9IB6wFBVV95cUxOY0pPc3piWjFkcUcyRzIyX0FxandJdjI0LWhMSnJlQU9oTzJUVG5oU0tHRDBET2hyT09lWFZocTNRaXRnWmNVUE8zUHZXdjRFSnl1cGhWSk16LUxwZGRTVTE2SmJWaHp6S1J3MmJsZ25oU1dkRWdnOTVtOEVzWk1DZXRiZnpqbmlmVmFZT1hQZTlmakVra0p6Wk9kdTBvSXA3RDUwVEtiX2VYSGZFc28xeUkwMWYxWl8zQWNmOS1yVzdDbFJxSml2WWV6QzFMb1ktcGpzUG9ESTNOY3AtLUtQT1JWaUNpREludXNB?oc=5",
-   "fonte": "ANSA",
-   "data": "2026-11-17T20:41:58.000Z"
-  },
-  {
-   "titolo": "Apofruit, otto stabilimenti in Emilia-Romagna e nuove prospettive per l’occupazione",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15X01Ea25FTWQ3Zjg1ckwxWWs1UndheWVBeklfNnI3RjZlVGFXRGFUeTVUVmhER1hmeG1weW1LQmFqRG1Ya3hzMzU4S01ocXZPN3BmVWR2QmgzMUhNeUxmb3VrLXVlREVyT3JEX1RFLS1KMUNrZWx1OA?oc=5",
-   "fonte": "Il Piccolo Faenza",
-   "data": "2026-11-17T20:10:01.000Z"
-  },
-  {
-   "titolo": "Corteo per i morti di transfobia: appuntamento venerdì in piazza Unità",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdUhXV3FvdjdOWnB5b3FsdExIMWIxSXdOR1FGS3RVdVpjNmdhTWMwenlfZUlSTHBoMkE4aGxfVTRiTHpxbWQtY24zMWpqbF9hSVhhMGlNcUhnU3N6N3I0M3o0dW1MNG9ISHhoMU55YWsyQmNRcFhtOXEybjJqcnZyVkNYdDdUWUpfNEhzWnFJSzY2Z20zNG5iWGVZZVQ1UGRsM3pqeWhtTW5ydVk4eE9fVDI5bEFFS2JXU1FHX0xKUHMyQkUtSmpKSGVRMFhRekk?oc=5",
-   "fonte": "Il meridiano",
-   "data": "2026-11-17T19:39:20.000Z"
-  },
-  {
-   "titolo": "Tgcom24: Torino, occupazione violenta di una scuola: ferite due donne Video",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaldfa094a0xPM2VsRDB2TEFPOEpLb0ZBaFMxUTNUM3JzS3o1RjdfZTBJMi15b21OeW8tTHhEbFB2bzZ4cWNqM1ZRcTl4MFVSNWxKUjJLbE9YMi1DQ0JTLXlSZ0VERU9QMEEzODJnTXZtVW4yXy1FaVdZeDRWNVk5bHZRT0wwYmhDdlFRbE9CUnBnQ1VZOFZsVm5UUUFINjZrN1d2Sm1nZHR1TnhFY1ZlQzU5S18xdFhkWXctb2QzSUdDMEE1?oc=5",
-   "fonte": "Mediaset Infinity",
-   "data": "2026-11-17T19:18:51.000Z"
-  },
-  {
-   "titolo": "Depuratore, Presidio: \"Troppe criticità\"",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHcwbG84TGxMbTI3ZFRVRk5fNkZNMVk2SXNUYk42cTVRWnhlbm1Nd1pmdWxkSnYtNnQ5dm93VXg1Qnc5eFVtQ2wtTV9Gd2tqOUEtRnhrMVZBOWxOaGFyWlY5Qzl2Y0RGeGVXOFVMYmVhcDlFNWZjY0twUGd6clFIRjM3bVRsRXhIY2E3R29vaw?oc=5",
-   "fonte": "Giornale di Brescia",
-   "data": "2026-11-17T19:18:01.000Z"
-  },
-  {
-   "titolo": "Occupazione abusiva dei parcheggi, nuovi controlli: rimossi ciclomotori abbandonati",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ3dJOFh5WmJOY2I0NjdaYnN4bkFwLW1iQ0xUel9UdWs3RExKY3J6bHlmWWpfR3NWLVVYTi1fdjBsemZpT3hLVDFWX3Q1Z29LeklxSzN6VjJUTTBxWlYyYUVJWmoyQlU1N3Z4bU5vSTVUM3R1OGNpRlpMNlNLcWRNMkNnUmFuUXQ1WlUxRHVkZHg5YVlnM3lPYzNWOWh5eUkxS2tIT0t4WXJmNUdHODA2YU54SlNhbjA?oc=5",
-   "fonte": "ChioggiaTV",
-   "data": "2026-11-17T19:11:00.000Z"
-  },
-  {
-   "titolo": "Apofruit, nelle linee di sviluppo più occupazione e innovazione",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaWxpc2VsaVV1bVNCMVJBVTBqYWE0SFpfYTN6dzE0ZHYxT1dFOEtkUUpBNU12TEN2NFYwWFFHSl83c1M4UEJVVEVVd1FXd2Z5Z05VcWJjVTNQWkdmUWhpaGp0MktCUEVBVDJITHBuMHN1dG1zbzhmcm5mdnF1LUtYTHZIa1Ffa0g4LU5OMWhodXRUQ2tvTnYyZDdhdTdLbVM2Yng4RnVVVUp1OG5wQkw2QVQyc01BdFdvcW1KWg?oc=5",
-   "fonte": "ItalyPost",
-   "data": "2026-11-17T19:00:03.000Z"
-  },
-  {
-   "titolo": "Torino, occupazione violenta di una scuola: ferite due donne",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWk94LWYxRkltdzBFSHM2OGhUM2FBZmZKVUJTenJSSFJHalVRb1hGYm9SZEVac2hVaDRQM1BiNEZjZHVzSWFvYko5elFxcklnTFF3VXdQNGF3T0VVQWtIYV9udlBMVkF4NVB3akxVQTFIUGtyZmktV0JtUDQtNXdnTlhMYk1fWlRDZHpyanl5aDZMMHNkYjFncndOc21NckwtS0FBeVlVYjNnenpRLTdQaUVaVQ?oc=5",
-   "fonte": "Tgcom24",
-   "data": "2026-11-17T18:43:00.000Z"
   }
  ],
  "eventi": [
@@ -1523,7 +1523,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNzh3b2FXclA4Y1ZKSTlRbFd1T0Z1bGZ1ZHlYdUpScTNyQ0MxMGVqZ2FFbll6bHFXb3dxZUlmNVVkaHZLbGI0elptTFNGNVpKYmYxRnROOE42UjZLMjRRUG0zdUJnSmFobmVnUW9NZlV1NTcwdlZXTUNmOFlNQ25NX0RyS2hiOEkzeDMtdkxlaDE3YWw4NHBaQzVkbDJGU3NGbHpLb1RiX21XR0hIcFlmR2Q4Z2ZiekFDb0czR053UVZOdF8tS2I0bG9Fc0hIN0NIOXJ3RDk2c3c2S3l6TTE4N3JB?oc=5",
-   "altriArticoli": 50
+   "altriArticoli": 45
   },
   {
    "id": "pl-13496",
@@ -1555,23 +1555,6 @@
     11.25564
    ],
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1745578/-/firenze-proiezione-di-for-life-nellambito-del-festival-dei-popoli"
-  },
-  {
-   "id": "gn-Tk1HbDMb2M9NQ",
-   "fonte": "Giornali · ANSA",
-   "titolo": "Domani a Torino un nuovo corteo contro carovita e riarmo",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-07",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-06T08:00:00.000Z",
-   "luogo": "Torino",
-   "citta": "Torino",
-   "regione": "Piemonte",
-   "coord": [
-    45.06776,
-    7.68249
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVFZCMUV4a0x0YWpwRzlMRHNHWHZsVDBLMGQ2UnB3UU5QTDZBemtiTWJ5MDBvRjRXaXFvZ011OGp3NXhPUE92TGlfaUZCR1dhVWdtZlZ6eHJRUGRlME5valJiUnZHY0RKLWl3ZF80S1dqSEtCdXBRNWNyM2puM05CeUJLZk85UkJHM3hCY2tQbHl5aDRsa252SnhVZmF4UWpCbFladjN3b2hDNEMxbGJIYXhRZERwQml6NXBhbkpleFBXdmpUOW9mbVNGYTI4REo2X09IZG0yX1pHV0RudEd0SlFmNDjSAeoBQVVfeXFMUDZuTTVBVGVCdVlPdS1NcG1kdDM3Vl9ULVgtWm1lWHdlT09ncnZzZy1ZVTRuT0MyNjlBb2d5N0picm05OE50dnMzRm5PWkJtanRLS2dsQ2pTc3VOTEcwejFmOEluOUxHZXdvb1ZFWDlETTc4ckZ4LTk1aFZ2Y09kd0NpcDNRYnVvbzZOUzQ5RFo1bWdyTzVLVHE5emdkT3hxUDJXZzc0eUZSOVZWLXpvTUFQYnpmUkpjRl92dHAxbXh0RVFIQS1OUUM3VFJLYmxNWHpzTmtLQl9MaGo4aGRkWE94WjZINWxNMGl3?oc=5"
   },
   {
    "id": "pl-13497",
@@ -1736,7 +1719,7 @@
     8.546
    ],
    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPSEFudDFnbmR2bG9IbW1mcV8tOFBadXJyMmtfVVBFRGRIRkNidV9wMmlOMjhxZG9XUHdCcVlLcGlubjJSdEtsS1VlX25lVGlXU0ljWHQ0NHpyM0FqRlRGSmJaR1pvRU5CM3VpM3RQQjRhaTJHdmY1ZGRJTUl1dWdPenkxLUU5ekxkQ2FXVm4yVU52eUp1UHA4a2tOUnhJRTRhWjJkeHd0MWpUdzcyaVRwREtGeU5uOXJWQ0hpblRYbnh0Sk1RVEkzM05VMThaenpPc0Myd3JpOTBLMWRpWHhhS0dIX3BjcGM5d0RLaUQybFBseTRRbXdkM0JmTEZVdnJVX1NtWDgxMUhFVzlFMmhrNA?oc=5",
-   "altriArticoli": 3
+   "altriArticoli": 2
   },
   {
    "id": "gn-ZloxRm1VUT9vYz01",
@@ -1771,7 +1754,7 @@
     12.48293
    ],
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBySjhaMmZ0bzVKWS1FNnhmUDNvTnFnM3RVaHNHVEJVSUd1clVtYl9meHVxQTRtTG15dU1IeTJ3THdBb1RSX0swX29KQWtoem9vbFJFSklCbGFsWnBXR1I1T0oyeDB4UUswWEJVOWgzM0hWNXR4TTZHUjAyd0QxMUU?oc=5",
-   "altriArticoli": 8
+   "altriArticoli": 7
   },
   {
    "id": "aip-1746213",
@@ -1787,6 +1770,24 @@
     11.16653
    ],
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746213/-/roccastrada-gr-mostra-internazionale-benvenuti-nella-cameretta-di-farah-nellambito-di-eirenefest"
+  },
+  {
+   "id": "gn-MU55TFZFP29jPTU",
+   "fonte": "Giornali · Comune di Bergamo",
+   "titolo": "Occupazione suolo pubblico per operazioni di trasporto, scarico e montaggio di gru edile in via Sant’Alessandro 4: modificata la viabilità",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-11",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-11T11:31:43.000Z",
+   "luogo": "Bergamo",
+   "citta": "Bergamo",
+   "regione": "Lombardia",
+   "coord": [
+    45.75666,
+    9.75422
+   ],
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPQUdZOERGNG5HVVR4ZWxvWTYxb0hZUEpIQ05OZUdMYlY0Z0c2WkxGV2t3YW91Y1UzZFJPdktCZnZvQTlIZzB4RGJmaElLa1J6UVhRanZJVUxLaTZlbFdrOVRGU3JSS3RvakZOMml4dUxxQ3k0cmlLTzJzN0lVMXBfblVzSmNGdEFMOTlPalo3b0U5WDdGa1Nsck15TmZGRVNUbkdWbVVMTWpWb0ktWHNMbWpldnZTOUczQ3JSckcwVUNJV0VUSnJhUzh1VU9HNmp3Ti0wTWR4QUktTWwwQmVMcDFHWldYR0laeW91QlRhRW1hT0pFSVpjaHdzekhTRUFEYlVwSEZMaXAxNUExXy1MSWkwX3djd1NyLVE?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "gn-YVdkYVVRP29jPTU",
@@ -1902,7 +1903,8 @@
     40.50057,
     16.08195
    ],
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTHpQRENhMXh6d1Y2OC1tMTFLM3Z0NWx1al9KMldOa0FIQmh2RWF2UHRackVDdWV0YzI5R2lqaW15SlQ0a0FDbVBZNW5jTHQ4OVpFRnF0Ul8zcmlrcFlCTlZfek41a1pibTV4Sll2TkxDckhnb2hvTzZjdExxR0haOG15Q0Z5Szl4bWY2RXV4ZDVDSzY3VTZsOFNJeEFQWnkxZ2prTVVlVzk3S1c1M2JQdG1rNG1ObWRjaUU4QTBBTXh3ekk3REpxb2N4M0k0eGJVMVNCZldKTDQweWZ1Qk1OblZFOFRiWWdWcmxfT2VVajE2NTg4TVVTWQ?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTHpQRENhMXh6d1Y2OC1tMTFLM3Z0NWx1al9KMldOa0FIQmh2RWF2UHRackVDdWV0YzI5R2lqaW15SlQ0a0FDbVBZNW5jTHQ4OVpFRnF0Ul8zcmlrcFlCTlZfek41a1pibTV4Sll2TkxDckhnb2hvTzZjdExxR0haOG15Q0Z5Szl4bWY2RXV4ZDVDSzY3VTZsOFNJeEFQWnkxZ2prTVVlVzk3S1c1M2JQdG1rNG1ObWRjaUU4QTBBTXh3ekk3REpxb2N4M0k0eGJVMVNCZldKTDQweWZ1Qk1OblZFOFRiWWdWcmxfT2VVajE2NTg4TVVTWQ?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "pl-13531",
@@ -2125,7 +2127,7 @@
     11.25564
    ],
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcE4wRDRUWVRjaWNnb1BUTHZuZ2RSNGp2aUs2NU1XSzJOc2FPdkFVUUpKc3J6WGItZXJDbEJVWV8xZ2pZMXM4R3d4dzRSVFU2ZTl6YlRORERHTXV1aTU0X21nQkdXRDlJWV9DYnRvTDRZLXJjZk1xQzM0OENuWE41NmhqZDBoSFBLamdrcHE2b3psa3NkaHFHN18wRjd1TzlmdWk5V0VqNlkwSVY4OVg5Rm8tcXg2cjdxNVlIVVYzeXd0c2hOVGh1a3pzUTJFZGJfbGpyVzBUWQ?oc=5",
-   "altriArticoli": 3
+   "altriArticoli": 2
   },
   {
    "id": "gn-cWRIZDJWZz9vYz01",
@@ -2143,7 +2145,7 @@
     9.18963
    ],
    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTk1PZlBtR0tMSmNZTkw5NDBPWjVhdUY2NDVST0tEejJONTA2bmd3dTNWcWxfRzRrV2xVWnlRU01DanV3TEU5Q2RrbFVpbTFtVmIyelh3aHlzYXJIWDhHNzBxdTNaWFlJNmhYUk1JamJxZnNLamVZZ2VNWXpsWGhJdXcxS3JLQ05XeHFvbVhYOGdxcUhTTlZuVk1lQWEwRUFwVEtLLVR1M0JBODBVQ2FZaFVQZEliV1dDRXNOeHNqcEM2dXpjTUlERF9DUGgzN2EwNm9hY3ZXTmVoZDlVeEZNem56cng0OW12QW50QW9HVmZXMk52SUhRaVRNTzRYWjBqdHd2Vg?oc=5",
-   "altriArticoli": 7
+   "altriArticoli": 6
   },
   {
    "id": "gn-bERaMDgb2M9NQ",
@@ -2347,24 +2349,6 @@
    "online": false
   },
   {
-   "id": "gn-UlQyRkIb2M9NQ",
-   "fonte": "Giornali · Telenord",
-   "titolo": "Genova, folla alla manifestazione per la sicurezza stradale: tutti per terra a De Ferrari e 'ciclabile umana' in via Venti",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-15",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-15T16:53:11.000Z",
-   "luogo": "Genova",
-   "citta": "Genova",
-   "regione": "Liguria",
-   "coord": [
-    44.40726,
-    8.93386
-   ],
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWW9MSFZubFRrR2MxT3JvakN4VGFEWWNpTjU1ZGZHTE5LTXA5S2lXZzJ5TzlHVDg2UUlWSnJZLUZuODlLdHZhOEJ1NERTYVMydWwtVzdGclRNd1l4b2FKTUZhTkNiaTNVWm1OcHYtQ1lkWWZsbDZHRFJ1U0sxMGZjVmJud0hmZWI4amxRT2FB?oc=5",
-   "altriArticoli": 3
-  },
-  {
    "id": "gn-M3BsUzNNP29jPTU",
    "fonte": "Giornali · La Provincia di Cremona",
    "titolo": "Polizia: ottobre di presidio in strada, sulle ferrovie e nel web",
@@ -2398,7 +2382,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdFlsRkNoTU9UWWJ5WVlreFFnanZURjZfZkZ1QUc3QzZEZHd4S1lqMUx4QUR5WDZGanVxcy1mNElWUlNSWkx3dHpjRkQ4TGVpcVZZQ2U5a1pTVUI4ZjN1dVppLXNvcDMtdXBnVWk4TVRCSGhSeVUyS200UVhNaDktc3lsMi1JRG5RTmVncmFIanRlMEZOQjBrdjJmUUtIU3NRUHkwS3RDbGJpRWdNZ2l4R3pRSTVmZXFrOUVNM2JRWXR1VFdoX2xlMmdwWDEyTzBIZHpyaTN0ZHZxN09LM1MwSHhOYnRCRWctQTVHVlJTNUxLeWd1Mmtv?oc=5",
-   "altriArticoli": 1
+   "altriArticoli": 2
   },
   {
    "id": "aip-1746494",
@@ -2511,7 +2495,8 @@
     40.54882,
     17.08058
    ],
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRXZwU0ZpMVcxVldHSjBhZE9MbE5yLU5lZ1F4Q3pZTXFqbl94VTRDaWhQRE1lYmRGMDZNZ0FrZmJkX3d0QjhQOTBkWGNUOGlmNWpxQUVUVEVCRE5McEIyLWE1ZW1sby1yWXZkTnJXbGRlZHp5N25SdmRvckxzSlBrTUljc1JmYVNwQWtGZy0xSWlfblNKaEZTQ2xsTDdXcGZaQmVVYktZWll6X2dEWnBxYndtZksyVHNPTWNRTXhNNUs2Z2VxSnc?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRXZwU0ZpMVcxVldHSjBhZE9MbE5yLU5lZ1F4Q3pZTXFqbl94VTRDaWhQRE1lYmRGMDZNZ0FrZmJkX3d0QjhQOTBkWGNUOGlmNWpxQUVUVEVCRE5McEIyLWE1ZW1sby1yWXZkTnJXbGRlZHp5N25SdmRvckxzSlBrTUljc1JmYVNwQWtGZy0xSWlfblNKaEZTQ2xsTDdXcGZaQmVVYktZWll6X2dEWnBxYndtZksyVHNPTWNRTXhNNUs2Z2VxSnc?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "gn-NFlXVkVXUT9vYz01",
@@ -2565,21 +2550,22 @@
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQzl6WEZLMjNUT3lwbGlmRy1pTk1pM1FpblNpeWNXQWp1VEVZMzYzYmRlWVQ2WERWNF9qWTUwMFlxb1U0aHgtMmpvVEV4d2I3bmh1OUxud2RPNHh1dlRBWjJNeXgzVGRtU1hKMjd4akFZeTFFLWM3c0ZUbGRyTkxPRS1sQkoxZGh6ay0wZ3gyWlh4ZS1FZThCd0dCUklZT0hER0lhd0wtSVcwUUtSQkxFTTBrMl81b1RsOUtGVFJ1OEJLYWdWZXFmR2xSdi0tY0ZCZjFzWnR3NENXNjFwaWUxTFVLcGhqZDVFUWc?oc=5"
   },
   {
-   "id": "gn-elZpZGcb2M9NQ",
-   "fonte": "Giornali · PerugiaToday",
-   "titolo": "Perugia, licei occupati. Ingressi \"barricati\", Digos e striscioni. Barcaioli promuove: \"Bene protesta pacifica\"",
+   "id": "gn-UzFzWHcb2M9NQ",
+   "fonte": "Giornali · Radio Aldebaran",
+   "titolo": "Venerdì lo sciopero generale della Cgil, manifestazione anche a Genova",
    "tipo": "Dai giornali",
    "inizio": "2026-11-16",
    "dataIncerta": true,
-   "pubblicato": "2026-11-16T13:23:12.000Z",
-   "luogo": "Perugia",
-   "citta": "Perugia",
-   "regione": "Umbria",
+   "pubblicato": "2026-11-16T16:20:22.000Z",
+   "luogo": "Genova",
+   "citta": "Genova",
+   "regione": "Liguria",
    "coord": [
-    43.10703,
-    12.403
+    44.40726,
+    8.93386
    ],
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeG5MSml4RUlmM01YZlQzd1lUTmFnVFlpbjB2WElWNkItMDhNSGViZ3hmeVk0NmJORGZuWk5uV09BbkxTWm5RTXdzYWFrWHFsZTVZV3lnUW56clA2OFVpUDV4NTNEd1lWQkdfbjRYQlNGczVIa0VSUnRGem9NQzVidg?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOVF1MUdCOHZBTzRuUW5BSEpFbFB4TTZJM0Q5dWlKbTZsZXFqRDRWRktaOHd2SmVCUmMzNkd0NzBxQzFscWpSb1JvOG0yN1RPN0lvaERoQWViMTJWdnpSb3UzMDlGd1p4RjIzLTRGYktVNUdrZ3lscFJMbmdvLUF6VHFqRFA1YVNpWFgxSlB1UnhDRWhpaTB1SDczOTRWYlQxWS1sXw?oc=5",
+   "altriArticoli": 2
   },
   {
    "id": "gn-TE9WcGhTZz9vYz01",
@@ -2597,24 +2583,7 @@
     8.20269
    ],
    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPbEhPODdVYWxGVkNRY2hZME9ub1Jub1Rab1FnVjRiTXNxZlQ2UGdDalBqV2h1aFkyalBhRW83dGQ4VXJObkgtTkNZNUVoUE9IbFJGZU1HZjZXc1VqQkJORmU4RjlOamE0RkdzU3ZkQVNTaXFzcTFGcWpUZl9qbVhqUUdsMHhHTHFDOGhkcEloQTE0RDk5S0p1QncyeGdtT1JsTkVVRG4zUW9ZTzRCaEV4NkxrMGdtVGxwUFo4RFk0bVAyMDhRdEN6N1FqTVB1U3MxV25lSHI0VTFvdk50c2RQZVBUeVlnVXdVSUs3SFlqSXFPblROME1XNnRpeVM0LUI3UUxIX2tMRzhlQmhnUWfSAYACQVVfeXFMTWdIUTJUdkxlWERhNTN6c0J6WXoyeGNseFBMQTFiVEZKVkRlYnE4LWlPWmhVU09UZTNFTkhDa0VVQmFVdDFYcUJWSWdHMnk4ZHhLclZkTXJoVjBWc3VMVVROeDA3VC1YS0hNLVNBYTdXb3k2eVhkUDMybmR5QWFHZ3dLQ2FlbklJVFRIUFVNczdGaDNnSGRBWlZMZkQxTGZvVUxCaGs5MjVWdWxBMS1uTDFHXzJVNEc2NS04YmJybVFKWTYtNDR3WnNIQXdmNlRsOUYyeDNSTkdoMHIzVXNLVm53YWhZVEZDZlF0dTBvRC1Nb2ZGV0FvdEcxeFFLOVphSg?oc=5",
-   "altriArticoli": 1
-  },
-  {
-   "id": "gn-eVgwWlBRUT9vYz01",
-   "fonte": "Giornali · Tribuna di Treviso",
-   "titolo": "Sirti, sciopero al 90 per cento a Mareno di Piave: in cinquanta al presidio davanti allo stabilimento",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-16",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-16T12:20:27.000Z",
-   "luogo": "Treviso",
-   "citta": "Treviso",
-   "regione": "Veneto",
-   "coord": [
-    45.80669,
-    12.20632
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeFZfNGdaVG1Yd0ZPblBFMlhCdFFaQkkwTVlmRUdSNG5VODRFT0xjSkx0NWk0TVUzTjRqZDNJRThkZFJEV20tUjd2Q1B5MVNPdXE3MEUzbm1OcWdqRlBLWEIzNmJ3dnZHN0h5b085RjdySjNVSFE5cFRLVnpOMjI0RkwwRHlOVkpzeUo5WnFlMHI5MVNMOHZtajNYdmctVlVBV2VONjMyX0ZPQQ?oc=5"
+   "altriArticoli": 2
   },
   {
    "id": "gn-aVh5MTRadz9vYz01",
@@ -2699,24 +2668,6 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15X01Ea25FTWQ3Zjg1ckwxWWs1UndheWVBeklfNnI3RjZlVGFXRGFUeTVUVmhER1hmeG1weW1LQmFqRG1Ya3hzMzU4S01ocXZPN3BmVWR2QmgzMUhNeUxmb3VrLXVlREVyT3JEX1RFLS1KMUNrZWx1OA?oc=5"
   },
   {
-   "id": "gn-SFpHUncb2M9NQ",
-   "fonte": "Giornali · Radio Gold News",
-   "titolo": "Venerdì sciopero della Cgil: ad Alessandria il corteo con lavoratori, pensionati e studenti fino al ponte Meier",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-17",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-17T16:38:00.000Z",
-   "luogo": "Alessandria",
-   "citta": "Alessandria",
-   "regione": "Piemonte",
-   "coord": [
-    44.83495,
-    8.74503
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQjhSTTdzTzhfSTJ1OFZtdFR5UEhUY2NyTVpaY0EtNDZmRDJkcUtaYm5xY2hqWkN1WF9BakQwQUVTbU5nOE1EYjZOZDBBRWdGZzZNUldheDk5Y1JRYWhlRzdoazJlQS1HVU1fc0JGUWllaW03STdZcHNZQUhuSWdLd3kwMld6QWdFbnVCdURiVU4zV2dyNVFIa3IwOXNyU2hrOExmWlAtcjd0MW1yUGVXNDlLTks4azFLTi1CelNQNWxFLWoyTHZGRw?oc=5",
-   "altriArticoli": 1
-  },
-  {
    "id": "gn-Vk5VZUEb2M9NQ",
    "fonte": "Giornali · Il Gazzettino",
    "titolo": "Protesta al liceo Munari di Vittorio Veneto e occupazione con una quindicina di studenti: intervengono i carabinieri, tutti identificati",
@@ -2735,23 +2686,6 @@
    "altriArticoli": 1
   },
   {
-   "id": "gn-UVZoUmFsRT9vYz01",
-   "fonte": "Giornali · Viterbo News",
-   "titolo": "Viterbo, l’Osservatorio Sanità Tuscia in presidio alla Asl contro la violenza sistemica",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-17",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-17T15:44:00.000Z",
-   "luogo": "Viterbo",
-   "citta": "Viterbo",
-   "regione": "Lazio",
-   "coord": [
-    42.49295,
-    11.94881
-   ],
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNFZrWU1YZjVvdmFHNURNNlZUZEJuOEdOV3hUQWsyRjNOSHVJTlI2Z01KNWJYbXMtTnJKTk8xenVsaWVQTHRhbDFDTmRDZnlDLTBaUjJyYmtfWHZCV3ZzaGFCM19WTmlZaVdsaEV6MklMSG5CU09sY1hDcWpSODdaYlJCaFA1WHZhS0lpalhjNThfN3BYMFVST0N4eUR1WFNPUktnd0lzdDNvMEg2akVndXl0UVo2c1k2aDJNV0hxUjItN1ZxT1JQaXNBT2xmeUZqOFV1d243Z2h1QVhRalE?oc=5"
-  },
-  {
    "id": "gn-elJYTnYb2M9NQ",
    "fonte": "Giornali · Siena Free",
    "titolo": "Aperta la manifestazione di interesse per il progetto “Sentieri di cura” per i grandi anziani",
@@ -2766,7 +2700,8 @@
     43.16721,
     11.46756
    ],
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkxIcDgtOUIyWXFRQWZFRUZNQjBYZWJQSmlGZ0tuNlpwOEZkbEtyc1E0bjRRMUhqM0pjb19QZXhhQm9Bdml0a0pUQUJXbG50bk5Mb3loUVpBTzc5cFdDTHJpX2tDR0p5Uk5GRHZaeF94bXF6NWY3eTdHVXlvdG0xSnBQdV9RaU1raTlNNkphcmE2YlRkaUxhRW81b3NLWXVrcHZYaTYwd3YzMEZGeU5PZHlvSlkwOWYzRXNv?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkxIcDgtOUIyWXFRQWZFRUZNQjBYZWJQSmlGZ0tuNlpwOEZkbEtyc1E0bjRRMUhqM0pjb19QZXhhQm9Bdml0a0pUQUJXbG50bk5Mb3loUVpBTzc5cFdDTHJpX2tDR0p5Uk5GRHZaeF94bXF6NWY3eTdHVXlvdG0xSnBQdV9RaU1raTlNNkphcmE2YlRkaUxhRW81b3NLWXVrcHZYaTYwd3YzMEZGeU5PZHlvSlkwOWYzRXNv?oc=5",
+   "altriArticoli": 1
   },
   {
    "id": "gn-MXFMV1phP29jPTU",
@@ -2853,6 +2788,23 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0xncVdzeUVTSjd2X085dndrTnItb05fRTBneDVXRTZJeTljN1ZaLVE4ZlZnSVZ6SFMydDdJNWo5RkdldnpOUVhNMHNIakM4YU5vYUFhSEJ2eEs1dkJ3NXhiSks5VW5BcE41SVZHX1l5Nl9Tc1AwcjFXdFRySUZjNVFpQ2E3ZFo2bmFMSUtqX2hNeE9NWmpQb2RmRlNleVJKcXZqX2xTTC03NklOS3lLZmI5bWotaTVHcXM1X1prVVI?oc=5"
   },
   {
+   "id": "gn-SlRkV0YzP29jPTU",
+   "fonte": "Giornali · Rete55",
+   "titolo": "Varese: Pensionati CGIL in presidio: “Così ci impoverite”",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-18",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-18T14:47:06.000Z",
+   "luogo": "Varese",
+   "citta": "Varese",
+   "regione": "Lombardia",
+   "coord": [
+    45.83991,
+    8.75418
+   ],
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWRoM3ZjVnZWRW1mZTRuUVJuSGxrQWdnTEZvZklUd3I0VEZ3NmpSWDFQMTc1Ykl0MTJjREptZ3dmVTFFa1pIUmZGLUdhQ2dPcjljWGxpSGxJOTRTbFRSZkhhbHJoSDV2MEQxMTRXaUFmdk5Rd0E2cGRrc3VvN3FXbkNtSWFCZy1VTHd2MFhmTUlCWk5wOHJTdWF3?oc=5"
+  },
+  {
    "id": "gn-amgxUVEb2M9NQ",
    "fonte": "Giornali · Toscana Notizie",
    "titolo": "Mps, incontro Istituzioni-Intesa Sanpaolo: “Confronto positivo e costruttivo. Confermati gli impegni su marchio, direzione generale, occupazione e credito”",
@@ -2868,40 +2820,6 @@
     11.13892
    ],
    "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPZkg0bk1hbW1aSmxERUQyYl9xM1ZlMmtkbDV4Qm9WRU9qd0wxVUdaaG5sUHRGbFBhbmU1TUt6MXJmd3dxUEdLN3JLX2RXd2NvMG8tcHRLdjFHX2diVlB4d1pkZzNuUlZlUGRveE4tQTlCYWd1eVhubU5XOGktNURpLUhVTWJMQ1NEN3BvMkQwczE1X1kzbE9wYUFiblQydzg5cV9WQnZRVVVycno1bnBwZ0pYWE5mbERSTlYySTFjRjJNNjgwNEN6bEIwaks1SVlqMV9PWGJnMHFJLUNLSGYySnhNUmhXdzdQT2J5Y1V1R25ZZzdJLV9JSmRiRjd6WHRkb0pSTTVEVW5hRUkxdmhYUFhkeXY1MzB3X00yN3g3aUE4SzlUMmd4Mjh1QQ?oc=5"
-  },
-  {
-   "id": "gn-VWRVdHUb2M9NQ",
-   "fonte": "Giornali · La Provincia di Biella",
-   "titolo": "Sciopero: a Biella venerdì corteo di studenti e lavoratori",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-18",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-18T12:25:38.000Z",
-   "luogo": "Biella",
-   "citta": "Biella",
-   "regione": "Piemonte",
-   "coord": [
-    45.56695,
-    8.08691
-   ],
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQmFMcmhuNWxxSFN5ZzhpbkdadmJDejc4QU5IUjFRUkplMG1BWDFwMlByeEtJVWhhZE9BaWFnNGhTS3BQLTRueEV5dnZVS25GZTlMb2dkVEpUMG81QnlxTU1mVVdNNUFXQ3haUTRRTk8zMDk0cXo4V1BiZVE1RnNJcXNKUExNRGZVbmtfRS1lMGVKZTFRS0xGbUtUeTZUdUtu?oc=5"
-  },
-  {
-   "id": "gn-ZHFVVFEb2M9NQ",
-   "fonte": "Giornali · BergamoNews",
-   "titolo": "Sciopero generale, venerdì dalle 9.30 manifestazione a Bergamo",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-18",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-18T10:58:00.000Z",
-   "luogo": "Bergamo",
-   "citta": "Bergamo",
-   "regione": "Lombardia",
-   "coord": [
-    45.75666,
-    9.75422
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3pxU2dDVzZxNk11WnBUWWtWd0p6MmNPa2ZpRHNaZVg3d3VwNUgtZkM1WnQ1cTRFWGh5RmwzcTBlT2F5eDNKMkJtRmg0NndDYXd2ZVAzMmVKek9IdTBIZG5SRVcwelVZeThTWXpHYkRCTk1kRXUwR3lTUURWbGxWNTVrZmw5LUdTQ2NCVnNxSzJabFVub3NqQ0NzMHFXV3R3MjB2Sk9DZ0dqUTQ?oc=5"
   },
   {
    "id": "gn-UnZYMmwzP29jPTU",
@@ -3051,22 +2969,38 @@
    "link": "https://www.amiciziaitalo-palestinese.org/calendario-attivita/dettaglievento/1746493/-/reggello-fi-proiezione-di-the-sea"
   },
   {
-   "id": "gn-bVEwWWcb2M9NQ",
-   "fonte": "Giornali · Corriere Torino",
-   "titolo": "Sciopero generale Cgil 20 novembre, trasporti a rischio a Torino e in Piemonte. Il corteo, le adesioni e le informazioni",
+   "id": "gn-V0ZCUWIzVT9vYz01",
+   "fonte": "Giornali · isNews - Molise",
+   "titolo": "Sciopero generale del 20 novembre, la Cgil Molise porta la manifestazione in piazza a Isernia (VIDEO)",
    "tipo": "Dai giornali",
    "inizio": "2026-11-20",
    "dataIncerta": false,
-   "pubblicato": "2026-11-18T14:17:47.000Z",
-   "luogo": "Torino",
-   "citta": "Torino",
-   "regione": "Piemonte",
+   "pubblicato": "2026-11-18T16:05:40.000Z",
+   "luogo": "Isernia",
+   "citta": "Isernia",
+   "regione": "Molise",
    "coord": [
-    45.06776,
-    7.68249
+    41.64951,
+    14.20806
    ],
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNVDhMOTNDT3RZQm5zbEdyeFY4Y0dPZ1lSZUNuWFAyUk10QWJIR3BNbV9JMnpSc0ZfVHpxM1hTV2FzN1NiaC11Yy15RTBtTlpDVmdRZ3FESmV0Nk5xNFFuZjMyR3lBMU1vWjB4a1EwXzlqRmJWUFlBVTFfUHNyS2kyNWY5WEVOVU04NmtuV0VzNEpPandxY3o0alNOdVJrTmZCbGFDUGVqc0VNVEJqYnhPUXE3c2d5RjhtTEdnZFZMOER0SDl3c1E0aFFFMWVpVmtwSnJPT09MLUd5N1ctc2o4Y01lZVRNbEd4RFZaUUljaWVUVlg4Zm96cnlaUTk3eWZLNVlnZ3RWWGRHbm9fODIw0gGUAkFVX3lxTE5EYmROLVlmeGhTWDM5c1pOVEJRcjRtMVZ5S2M0VFp0Z3pfTmNyQU1qM1BEbktvLXgyOVdPb3g0R0FjZHhmeTYyX2dfckVnRDllejhZeDAybXJnSGFoWTh4Tkg1YmlveTZsV1JpbVBFSW14bDFBZGQ0d0Jwa2g2QmhRWHlDNzNDVmIzYjF2WDJ3TjBsUWVCSV9VMkRBRm1TZ1llUGo0UEREODVmSjF4VU1rWDJEcmlkZVp0dDdGd1V4MDdtRWNRRng5cFVqUTRMajNHYkFBNXcyVFFYdnJ3QzlETWVLSEpIOUdVbUtuT0VVc0lJeGhxZno0LVJBZXc3MGk3RmRzcUVOMktiMUZSQ0szemQ0Yg?oc=5",
-   "altriArticoli": 3
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWE9MOFBOQm1hRndYZnUwcnNLamlVTTV0TW14TmMxeGlYbDZ3d3hYb084Q0N3Vk5QdVpzNGl6TzBOWGtGMFphSFgyTHctMkVoV2lXX1FVa2ZDNHlIbGFRMlZldmlmMWM5OEVFdllEWjNXemIxZDBKdlhETkZ5WWs0OUZMRWRua2E5YnhIYkdzZ18tbGtqRUJGRmRqano1NHBDRXoyUkxOYkFRcVBjc0VjdlFOMmxWcnMwRHd3TG1LVnA3dnhSanRtWFBQb3U?oc=5"
+  },
+  {
+   "id": "gn-TW1saFp3P29jPTU",
+   "fonte": "Giornali · IlPescara",
+   "titolo": "Sciopero generale del 20 novembre, corteo a Pescara da Porta Nuova a piazza Italia: la Cgil scende in piazza per salari e diritti [VIDEO]",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-20",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-18T15:42:43.000Z",
+   "luogo": "Pescara",
+   "citta": "Pescara",
+   "regione": "Abruzzo",
+   "coord": [
+    42.30976,
+    13.958
+   ],
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSzc0bDlBS3Y0V1U0VElTc2ZsV3R5ZHNBR1NsT3YwRlNYZTM1UVlSempjWjZWNGRQQzRWWXd1MmpOWEhrLUJXX3lhTHdtZ3dRaGhfSWt1eDVBN1hYNzB5TGtWOXZiUVBnTUNCUUhNcXpBNTlnbHhPMlVweDNybzJ0SmhJRERudzBMRjdsMDVNQ2Z5SFVwOTRRV3gwMmlhZw?oc=5"
   },
   {
    "id": "gn-U1hwTlNRP29jPTU",
@@ -3118,6 +3052,24 @@
     15.08737
    ],
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GYk9qVXBXWE10SkJjRlNBVkl4V1dXZVQ5RmEzUUdVSS1LSlF4bzFTUU5aRy1HQ1RmcjBLeVFCaGs2TnJWSkw3R0FNT0RqT0doaTZTdlk4Y2JFM3RPWUg2dHAwSUJwM2I4VFlwTDBGOUtka2hwM1hPbQ?oc=5"
+  },
+  {
+   "id": "gn-MVpXTm4b2M9NQ",
+   "fonte": "Giornali · Quotidiano Piemontese",
+   "titolo": "Sciopero Cgil del 20 novembre: sei cortei in Piemonte, a Torino servizi comunali non garantiti",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-20",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-18T06:26:34.000Z",
+   "luogo": "Torino",
+   "citta": "Torino",
+   "regione": "Piemonte",
+   "coord": [
+    45.06776,
+    7.68249
+   ],
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXpwMEFNeHJwd01aM19HQmE1VVRCU3d6UE1xOWZZSTFFdHdDcjVLVzIyODR3ZjFLOVNKSWJtQ05qcVd2U3d6WFZfRW5oeWRrWXJmQlc5U0Q2bzdOdEhTcXc3YlBtNWItMG9seGRWNV9zemhCblE3YklDSzRDNmhsZmRfNk9GZmZjeXd1ZWNn?oc=5",
+   "altriArticoli": 2
   },
   {
    "id": "gn-Wk9ZMnRoP29jPTU",
@@ -3361,7 +3313,7 @@
    "tipo": "Dai giornali",
    "inizio": "2026-11-20T09:00",
    "dataIncerta": false,
-   "pubblicato": "2026-11-18T11:49:32.000Z",
+   "pubblicato": "2026-11-18T15:49:48.000Z",
    "luogo": "Roma",
    "citta": "Roma",
    "regione": "Lazio",
@@ -3370,7 +3322,7 @@
     12.48293
    ],
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaVZ5ZzJJVGFUa0JUOGZRTDVQcUN1ampyUHJ6UWU5S09VWGdUdm0wQTlsRXl3Q0ZNWWQ1dFROTDVkWVE4Ym1PcTFCandrbHhDUE1qaVpVcS1DOFg1T3dwMzhZTGVIaXJ0SG9qbTJEcUxkZTgtak9kUFNoUl9lZV8zbTFn?oc=5",
-   "altriArticoli": 5
+   "altriArticoli": 4
   },
   {
    "id": "aip-1746215",
@@ -3448,24 +3400,6 @@
     9.75422
    ],
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNFFzNWdHOFczU0E2SlE3eFBkYkdmVDNPMTJrTTVzNmFVSHJSSXM5Vlo2aVFiVW1Ec2JCTW1PcU9pS1dNQi1LQjE1M3l6QUUwc1ZaaDNmZlA5aFh1a0Q5dk8tRW1nTUlpUHY0QmRRYmQ0Q3dHTUlXdGh3XzdfcXNKOEltU1hXOWJQdGRnOU9PUmhZX2RqSUxMNzZuMjRrWmp0TTZMenJIS3FWOG8xMDR0MXpTN054R1BvVWNSX3FXZmJra3lkNmlhb1JjVnlkNVE4NTNkTkZldzkyQXpJ?oc=5",
-   "altriArticoli": 1
-  },
-  {
-   "id": "gn-VUROdlYydz9vYz01",
-   "fonte": "Giornali · Gazzetta d'Alba",
-   "titolo": "Sciopero generale Cgil del 20 novembre, a Cuneo il corteo per lavoro, diritti e contro la guerra",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-20T09:30",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-17T10:20:23.000Z",
-   "luogo": "Cuneo",
-   "citta": "Cuneo",
-   "regione": "Piemonte",
-   "coord": [
-    44.45807,
-    7.55814
-   ],
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM3g2M2NVZms1aFA3V0RaTUNfaGhoTmRxRlZWVUhZdzY1WHJQUG5ONGRmMnNTMzFUZ1FHTkJXcHN5aVNsb19YcU52Y0xabWdGNGdfMFExSUw4UnJEdHRIRzFELTZOX0V5aEtqblhWZzJraGpHMWppOXFQOTYxekpTWGdTT1ZmcUxELVVCT0RTTzJNbGlUaERmVzY2U3ktNmFuQ3pISmNHcGU1Q3hYMTVHaWFHWl8yTkw5eFNjRU1CREx0emp0TTVFUDNvV2w?oc=5",
    "altriArticoli": 1
   },
   {
