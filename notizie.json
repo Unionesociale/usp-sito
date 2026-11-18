@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-18T05:14:25.045Z",
+ "aggiornato": "2026-11-18T06:19:18.163Z",
  "notizie": [
   {
    "titolo": "Germania e Regno unito apri pista. Attivisti arrestati per «free Palestine»",
@@ -730,6 +730,18 @@
  ],
  "mobilitazioni": [
   {
+   "titolo": "Venerdì c’è lo sciopero generale. Il corteo e le richieste sindacali",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRTVxajNOREMza2xSbngzbmxqZ005VXdUNkUxYVpDV3kxUmdDWU1nX0dsTm85WktfNGg1NlQ2QWV5OGowQXVTbDVPdnUtTUZ5VTNYZEtKNVJwSG5rTnN0aUU0dGEyUVR3dzZYbjdmQXpqOWJ5RFhDZHpGM0J4NG44cjF2bUlGb3c?oc=5",
+   "fonte": "La Nazione",
+   "data": "2026-11-18T05:50:18.000Z"
+  },
+  {
+   "titolo": "Sciopero 20 novembre, gli orari dei trasporti e la mappa dei cortei città per città",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZXlZUUI1bnNwTXV2R29ZcFgtUnBlZUdjemdTU0JNVmJqRXBwZF94ZnVEcGd1aFhwRmxyT3ZsX0hwQ3pDcmxzLTNSdDNHdkZZOTNkRzBMeXNYUFlDMlJzaVpVSzdUV2JyMHJ6U0xXb2tWSDRjZXpiSzd6V1R0ZUxyWWQ4cS1icklQT3JlVDhVQTJCTEpMQkRZcWszVQ?oc=5",
+   "fonte": "Sky TG24",
+   "data": "2026-11-18T05:08:31.000Z"
+  },
+  {
    "titolo": "Oss interinali in piazza: presidio sotto il Consiglio regionale per la stabilizzazione",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZENtR0syczJYNzV6VXo5VUVhbkI0aTlKVGxIVUdGNmdPOWlWbWd0S01fQlgtWDN0bm9IakVsVEpjeTA1cTVDSm9zVmVIMFRXUXJCRjRsdGhDdm8zajhsbTJkWmYwdWNCcDBZQk42aVQ3WTRWd25wclVxb1IyM2swVzY1SGxSQVRWc3VSOEdlY01tMDE0U1RTMmRSLVRuLXlJQndrcA?oc=5",
    "fonte": "CagliariToday",
@@ -1196,18 +1208,6 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQjNaMGFhTkxHbU40WG1Od1pGb2dTTTh2Z2hmN0lVRlhWQXgtRVMzRE1pQWhZcXd1S1FnRk9GMUhVRTMtRE5DTHQ4bDVhVC1QeWNFQ3JKWlJYdGlkZERRUTRwUDdqV3dwM1FRdXEzdjlYLXE4T2NCZmRWcVNvM05TVnhhLWNoWkZzeWR4VWJDOTBQVzdaYUVWd09LdkwxS2ZwdWlpUkFTZXVzZTdEUDNESHVUYkZUWXdXZ3dIbUFKMURLVFBqUU1rUDZRNA?oc=5",
    "fonte": "Valdarno Oggi",
    "data": "2026-11-17T10:14:26.000Z"
-  },
-  {
-   "titolo": "Occupazione e retribuzioni da lavoro dipendente nel Regno Unito: dati di novembre 2026 - Notizie e Statistiche",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTcwdzhzaTJRZnNlRUo5R2xvd1hMUkdPVkVLMFRiWmZrVGF4eEdGWXBLbFM0WVJsdzBQU2U1RFhLdklqWHlNVzN1UHNXRWRTSkE3dWJIejMwWkI3cF9iTDFteDEyTm41dzdoaHRaRUJEbjVaTV9wUWpZdU1iZGVoZkNmUmlLZ2czbm43Mjk2bkRaallKbFMwUnh4Y1k?oc=5",
-   "fonte": "IndexBox",
-   "data": "2026-11-17T10:11:12.000Z"
-  },
-  {
-   "titolo": "Figline Incisa, gli studenti annunciano la fine dell'occupazione al Vasari: \"Da stasera sgomberiamo\"",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2E2WDN3eG9VSWNDR3BoV1ZZMWR1REU5R3JoSXFSc2U0YlFmT2VSUGhzc3dHMTVobEM2N1plQ0E3MEl1VmxIWWdma3FoSmFlODRLd25FTzhqdTlRMVVnTE15d3lBazY1RGxWRnpVWVlfMl8zdHl2NU50VlRzMExSX3NtZGlUYjNVUUN5bDRhcmhzSjdtZUVneHd5cElkNWtGaEM2dFN1dS1YaWpKdXkw?oc=5",
-   "fonte": "Valdarno Oggi",
-   "data": "2026-11-17T10:06:28.000Z"
   }
  ],
  "eventi": [
@@ -1504,7 +1504,7 @@
     7.68249
    ],
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNzh3b2FXclA4Y1ZKSTlRbFd1T0Z1bGZ1ZHlYdUpScTNyQ0MxMGVqZ2FFbll6bHFXb3dxZUlmNVVkaHZLbGI0elptTFNGNVpKYmYxRnROOE42UjZLMjRRUG0zdUJnSmFobmVnUW9NZlV1NTcwdlZXTUNmOFlNQ25NX0RyS2hiOEkzeDMtdkxlaDE3YWw4NHBaQzVkbDJGU3NGbHpLb1RiX21XR0hIcFlmR2Q4Z2ZiekFDb0czR053UVZOdF8tS2I0bG9Fc0hIN0NIOXJ3RDk2c3c2S3l6TTE4N3JB?oc=5",
-   "altriArticoli": 59
+   "altriArticoli": 52
   },
   {
    "id": "pl-13496",
@@ -1788,7 +1788,7 @@
     12.48293
    ],
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBySjhaMmZ0bzVKWS1FNnhmUDNvTnFnM3RVaHNHVEJVSUd1clVtYl9meHVxQTRtTG15dU1IeTJ3THdBb1RSX0swX29KQWtoem9vbFJFSklCbGFsWnBXR1I1T0oyeDB4UUswWEJVOWgzM0hWNXR4TTZHUjAyd0QxMUU?oc=5",
-   "altriArticoli": 5
+   "altriArticoli": 6
   },
   {
    "id": "aip-1746213",
@@ -1838,7 +1838,7 @@
     10.93596
    ],
    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQTkVvaXlZWTBBRFN4YUUtemxIeHBZSU9fNlNZU2JNZDFTUFlPRllLUDROZXpEMF9FQk9aa3ZLcHJwZ3k2Z1BHYTNZWVVVNnRFUnd2RUIxQzNqNEdjWXZUVHVVZXJoUm5abHdOM2xzUlJiVU12aVdtamtSZzJYQTlmcUVjOF9UQmdONmh5WklRVm5oVDhVZW9NSF9Ca09ZNUF2N3ZOblB2QlNlTVJibjM5OGtNd3RGemxRd19OVk03dHNLWUQ5MXpLRlNGWk91S0RUT1hkN3BsQlZSaVN2UTZQWl84LWdYbXQxM2lOQUJqRzVweUpNNDRiS3pGTnB0MVl2aWdXRERwcVJvM2tfT0g0ZEdhX3ozeHFManFsZFp1T3JMdw?oc=5",
-   "altriArticoli": 4
+   "altriArticoli": 3
   },
   {
    "id": "aip-1746216",
@@ -2211,24 +2211,6 @@
     9.18963
    ],
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVFpcF9ubnotUnZTelNuU2o5VnYzVTBicmVEYURpYUV0bW5QSzBTSU90eUJvVldld0g3UFJGdTBRZlV3Vm1BZ1hDZGEzZVViM0U4cGV0RjBsczdEYjBJWFlHR1lRSndScVRuZ0lORDJJdlZ3OXlncnlmdkxiOUx1VEdGV0x5RldQakI3eDVneW5FeGozNG5JazZKNS1ITWdtZjd5NThhcXE1SXh3OFE?oc=5",
-   "altriArticoli": 7
-  },
-  {
-   "id": "gn-TGVXdHob2M9NQ",
-   "fonte": "Giornali · Corriere Brescia",
-   "titolo": "Le voci nel corteo, per la generazione Z «una birra con gli amici non sempre è scontata»",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-14",
-   "dataIncerta": true,
-   "pubblicato": "2026-11-14T18:14:31.000Z",
-   "luogo": "Brescia",
-   "citta": "Brescia",
-   "regione": "Lombardia",
-   "coord": [
-    45.77958,
-    10.42587
-   ],
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPM2FCcWthdlQ4MExiZ28wTHBFNVUwZDZpRWdpc1FYMHZnZEhNMnUyWV9CZElXd1VNcWlvS3U1T0ptTDlHQS0zUlJPajQ5NGNLZEhwaktqLWRuR0htdmI4ZmNTU0J3MGU4My0zRXVad0RwMFp0YmpyODRSU3FBXzhNSjdRczRYMUE0cjdnb0JWaVRIMUdVOF9KZVdUTWpZTnhIOGJBTGpySmNhVXZNd3BuSTA5VkVhV1IyWUY5VzBDa1hzUC0zSUxXV2g5VVljQ0pZaGNJOHVEakVtNTExM1JsWlBtMjB1c1k1ZHNPVkdfYklQbEt0WkpobWtmdERYSlJQcWhDOUhNY0d6a0o0UlI3S2cxdFpCZ9IBmwJBVV95cUxOTmZpeUpjNVpVb3Z4M3A4R0p3RVpXdlN1MHRONVdIY0d2QnVpTlJwWnhVY2lCV2NxeE81Xy05b1hMQ1ZKYjRyTFE3T2hOYUoxUGszbHd2VElJQUxGSnFsQm1aTDJNbklUWndSWVQzYzhMQ3NsRjJtM2JueEdUN00tMklpM0lyYlZOaGJPZDNYTVQyN1Z5Y3c2b0hVTGduSXhoclgwU0dBUnFncV96aU1LODlRb1hsUWh4Z2FFWmhEUkY2b1ktOFhjb19lU3VsZ3NnRHkxN0h2MVNmNWpZLTN3VzlYMWJ2Y1p6NXhaNmV2dkNBQU93NnZrNkpBbUFDc0dEM09abEtqODJ3QktPNUg0NU5VMU9tRnlLeWtz?oc=5",
    "altriArticoli": 5
   },
   {
@@ -2264,7 +2246,25 @@
     11.34263
    ],
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRzZGOEV5MkFDczA3bE1mdk9tbEd5dFR0ZlFfTWw0REJCSWdKaklpdk9yODdFbnRnMzB3c1VtaFN2dEtuNDhtbEZUOWNBcXZVLUlKZGEya3YxaU5aT29IV2llYzMzNDZmcjNJZGVHRWFlVjh5MGRZSnJCWkFkcjdUMmJJQUwxSXhma3VTRGE3MkY4S29SSG9wNHhvSF9uek1UVE42OWFRWFNKcDJ5UUhBUXpwZGMxcmNlNTdUQWdOcmJNQQ?oc=5",
-   "altriArticoli": 5
+   "altriArticoli": 6
+  },
+  {
+   "id": "gn-RWN0VlEb2M9NQ",
+   "fonte": "Giornali · Bresciaoggi",
+   "titolo": "Brescia scende in piazza contro il caro-vita: ma sono solo 300 le persone in corteo",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-14",
+   "dataIncerta": true,
+   "pubblicato": "2026-11-14T15:24:58.000Z",
+   "luogo": "Brescia",
+   "citta": "Brescia",
+   "regione": "Lombardia",
+   "coord": [
+    45.77958,
+    10.42587
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdm9xSnR1THVEd1J3VHIwLW1TTEJIanNpOUJWY0VvZ181UkhDYzNIb2pEMnpaSUgyc3Y3UkxSMmJUTXdxZG5jTjJtVTZTMmRMd1NZbEM0SG1PZk5kRUFlQlVEb0h5dTRYNkJGX2h3TUFUamctV2FFZnpTUzBRTU5ITzhBUnlYQ3RGWWZnYlBVTl9vYlNHbFNYVlFjcHhLaEtBbXZZUENjZ053ZkxiMFFSZjQ4RDZjbDVSOWQ1dzgyd0xibFBVUVhqc01kdTZHNXFBX1UteGQ4SzBJXzA1b2xBdEctVQ?oc=5",
+   "altriArticoli": 4
   },
   {
    "id": "gn-VnpsVU5XYz9vYz01",
@@ -2300,6 +2300,23 @@
     10.42587
    ],
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUxkcms2YVFtQWVKQUxMU3hlTDMtRkxoZ25zbFZub1hNMThXTE1jQkNNS2RpLVVQS2M4YzRheS13WFNyb0NQSnl6aFd1SEVob2NvTnl5d3dRdjBDQi01WFd3UHAwdHowbEtQTmx1NWFibm9ZUXNjTkdHMUJTTjQ0cVRxX0U5RDdJV3NCdjBvR3BVaWNMLXZVeFQzNzVaWVlTaUN2TQ?oc=5"
+  },
+  {
+   "id": "gn-WTA1RmR3P29jPTU",
+   "fonte": "Giornali · ANSA",
+   "titolo": "A Roma domani il corteo 'Climate Parade', domenica la corsa 'Corri Libera'",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-14",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-13T22:14:00.000Z",
+   "luogo": "Roma",
+   "citta": "Roma",
+   "regione": "Lazio",
+   "coord": [
+    41.89332,
+    12.48293
+   ],
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbDBFS2JjaXJnenNiczVFZmZVZFZBN1diV1FfalpxY05Tc3R4SzFtNjZFV1FMRThPLUhWU1lsVm5yLU5UV3daNlNiZjZfT3k2ZWZTTjNkZmVpZUVUTWJibS1ISzJkbjAtY2FsUkhIeTZULXNlZHVOM043eFZjOWExLUswa1VBdDMwVHB0ZWpGb0ZBelNqUVRBR2RtbkVLbm5FZFFQZFJNWElZbUxNVVVsdjBHMWMtaC16ZDd1UHVKZXc4TDhjbmIwWWZXZWZBdnVYVkdtSVp1M3I1TVBHb3E5TkxCVHpLSXA3b0VVddIB8gFBVV95cUxQVDhqY2ZyUVZTZGhQbk1SS2o4OTRSX2JSYzc3Y2tDOW91eTVscFFPV2FVU1VjbXhNcWE5b3JFbkxiNmk5a2d5OXF1ODRkTVVRY0dzUm1ZTzVEbkFXLU53TEUwZUhPbnpVckhOek5ZdEJTMm52WTNGU042UzdaekFlQzc4RTFnMmowYUlYTzNxOGxBMWdPd0xhOUNYdkh1eVAzSjlJbVFVWnpFVjNVX3pocnp1bTF3THM0QVgtbllRX3VUMUVLZ0lOSTNZYXVtM0FCb2h0QTdWRmxDbE1samYtOGxub2o1ZjZwMGlpa1loY05Fdw?oc=5"
   },
   {
    "id": "gn-Mkl3ZGpSMz9vYz01",
@@ -2466,6 +2483,23 @@
    "altriArticoli": 1
   },
   {
+   "id": "gn-WHBzV0VwMz9vYz01",
+   "fonte": "Giornali · Vivere Roma",
+   "titolo": "Strade chiuse Roma 14 e 15 novembre, corteo e Corri Libera",
+   "tipo": "Dai giornali",
+   "inizio": "2026-11-15",
+   "dataIncerta": false,
+   "pubblicato": "2026-11-13T08:04:00.000Z",
+   "luogo": "Roma",
+   "citta": "Roma",
+   "regione": "Lazio",
+   "coord": [
+    41.89332,
+    12.48293
+   ],
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLUZtVnBRZFR1YmY4UVNISlM0V2J0dWhTVEJZTGwtQU01WXBQcS1KcFc2aC01ZklRbnRpcHhLMS1qdmZOWElnS3JFb3NUQkF5VmViakd6dC1SWmxldDN4ZDRSbkN3WThvOHVxTzZ1cUk0RjRybXkyMi02WVY1QlhSaE43R0FrSTlHSUFFYlVKLVQxXzNXck56OHc4dnFLWGxRdXpsWEp3?oc=5"
+  },
+  {
    "id": "gn-c1pFWm5Zdz9vYz01",
    "fonte": "Giornali · Eco dalle Città",
    "titolo": "Torino, il 15 novembre presidio a Porta Nuova per ricordare le vittime della strada",
@@ -2480,8 +2514,7 @@
     45.06776,
     7.68249
    ],
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRW5Hc2VhOU5SQUFsdVkyTHFCa2NSSlV6VnZhbEg5aG5QNm9Na2hYWWtJWmJzWWxmMXItMGtGaHplX0lSeTNVQi1Mei1GczNLWHZZS2ZaTVdRRjdaQjA1cUtwQS02bEVxSzh2OW1tLXFDY1pkbDRqWWR4bDdSblFXOUdPMmU2QWNuR1NsZEZnYw?oc=5",
-   "altriArticoli": 1
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRW5Hc2VhOU5SQUFsdVkyTHFCa2NSSlV6VnZhbEg5aG5QNm9Na2hYWWtJWmJzWWxmMXItMGtGaHplX0lSeTNVQi1Mei1GczNLWHZZS2ZaTVdRRjdaQjA1cUtwQS02bEVxSzh2OW1tLXFDY1pkbDRqWWR4bDdSblFXOUdPMmU2QWNuR1NsZEZnYw?oc=5"
   },
   {
    "id": "aip-1746494",
@@ -3117,23 +3150,6 @@
     14.73075
    ],
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWpyTzA1U1UtdEZNS3JKc1htS1I3ZmlwMGUtdmt4RmxkRVEzb2RBWmJVdnF6d2dvazhlLUpZSEFPUjRpcUk4NWxjZkFNdG5rYjZrMm1Rc19Pdk1RX3pOdllTY2dLcmRzbjB5MGFYSG1qWF9nZVE3S3hKdFZFQmsxTGh3eFNLb3BpUnVleDE2bHV0VWNITFZrcFZyT0FQeTBWT2xJQ2JCLVFqRWhJRG1oeWxxVkNIdnFvV1Jvd05JSHhWY2dWUGtR?oc=5"
-  },
-  {
-   "id": "gn-QlFWamcb2M9NQ",
-   "fonte": "Giornali · NoiTV",
-   "titolo": "La Cgil prepara lo sciopero del 20 novembre: corteo nel centro di Lucca",
-   "tipo": "Dai giornali",
-   "inizio": "2026-11-20",
-   "dataIncerta": false,
-   "pubblicato": "2026-11-16T15:07:56.000Z",
-   "luogo": "Lucca",
-   "citta": "Lucca",
-   "regione": "Toscana",
-   "coord": [
-    44.01776,
-    10.45443
-   ],
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEhFQnFIMXcwSEpkT0hkYmFaM2RCS29SVmNPS3Y4TF9OU2JUdVpKMkZubTM1d3NkRHVRLVFWYzItUHpiRGFGSDQtTTJNOGpuMEdmblpMdXdwMTVMVzJuLWN4UE4tTEtIUllCc1g5dkRmcGRjVDFxb2kzdjZDZDhSRmpIOVUzX1plZlZjbVZ1MzJxbU5LY3YzT3FtbzMxUUdOTHlhNFRMYTBQVjg?oc=5"
   },
   {
    "id": "gn-M1YyTlhRP29jPTU",
